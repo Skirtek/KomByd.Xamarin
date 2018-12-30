@@ -11,6 +11,8 @@
         <Color x:Key="MenuMapsColorTheme">#32AB87</Color>
         <Color x:Key="MenuOptionsColorTheme">#9C5FDD</Color>
         <Color x:Key="WhiteColor">#ffffff</Color>
+        <Color x:Key="StopName">#525070</Color>
+        <Color x:Key="LinesList">#757575</Color>
 
         <!--  Styles  -->
         <Style TargetType="NavigationPage">

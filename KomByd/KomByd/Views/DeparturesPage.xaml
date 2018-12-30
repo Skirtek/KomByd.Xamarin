@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:behaviors="clr-namespace:Prism.Behaviors;assembly=Prism.Forms"
+             x:Class="KomByd.Views.DeparturesPage"
+             Title="{Binding DeparturesStopName}">
+    <NavigationPage.HasBackButton>False</NavigationPage.HasBackButton>
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="{StaticResource WhiteColor}">
+            <ListView BackgroundColor="Transparent"
+                      CachingStrategy="RecycleElement"
+                      SelectionMode="None"
+                      HasUnevenRows="True"
+                      HorizontalOptions="FillAndExpand" 
+                      VerticalOptions="FillAndExpand"
+                      ItemsSource="{Binding DeparturesDetails}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout>
+                                <Grid Margin="5,5,0,0">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="*"/>
+                                        <ColumnDefinition Width="1.5*"/>
+                                        <ColumnDefinition Width="7.5*"/>
+                                    </Grid.ColumnDefinitions>
+                                    <Image Aspect="AspectFill" Source="vehicletype_bus_icon.png" Grid.Column="0"/>
+                                    <Label Text="{Binding LineNumber}" Grid.Column="1" TextColor="{StaticResource StopName}" FontSize="20" FontAttributes="Bold"/>
+                                    <Label Text="{Binding Direction}" Grid.Column="2" HorizontalTextAlignment="Start" TextColor="{StaticResource StopName}" FontSize="20" FontAttributes="Bold" />
+                                </Grid>
+                                <Label Margin="0,0,5,5" HorizontalOptions="End" Text="{Binding Time, StringFormat='Odjazd: {0}'}" TextColor="{StaticResource LinesList}" FontSize="16" FontAttributes="Bold" />
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+                <!--<ListView.Behaviors>
+                    <behaviors:EventToCommandBehavior 
+                        Command="{Binding GoToDeparturesCommand}"
+                        EventName="ItemTapped"
+                        EventArgsParameterPath="Item" />
+                </ListView.Behaviors>-->
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

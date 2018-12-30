@@ -86,5 +86,32 @@ namespace KomByd.Resources {
                 return ResourceManager.GetString("Common_OK", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Brak odjazdów z wybranego przystanku.
+        /// </summary>
+        internal static string Error_NoDepartures {
+            get {
+                return ResourceManager.GetString("Error_NoDepartures", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Wystąpił nieznany błąd.
+        /// </summary>
+        internal static string Error_Unknown {
+            get {
+                return ResourceManager.GetString("Error_Unknown", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to http://kombyd.azurewebsites.net/get.php?stop={0}.
+        /// </summary>
+        internal static string Url_GetDepartures {
+            get {
+                return ResourceManager.GetString("Url_GetDepartures", resourceCulture);
+            }
+        }
     }
 }

@@ -18,7 +18,7 @@ namespace KomByd.ViewModels
             GetBusyDependedCommand(async () =>
         {
             IsBusy = true;
-            await NavigationService.NavigateAsync($"/{NavSettings.NavigationBase}/{NavSettings.MainMenu}/{NavSettings.StopsListPage}");
+            await NavigationService.NavigateAsync(NavSettings.StopsListPage);
             IsBusy = false;
         });
     }

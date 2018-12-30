@@ -1,6 +1,13 @@
-﻿using KomByd.Navigation;
+﻿using KomByd.Api;
+using KomByd.Api.Interfaces;
+using KomByd.Interfaces;
+using KomByd.Navigation;
+using KomByd.Services;
+using KomByd.Utils;
+using KomByd.Utils.Interfaces;
 using KomByd.ViewModels;
 using KomByd.Views;
+using Plugin.Connectivity;
 using Prism;
 using Prism.Ioc;
 using Prism.Unity;
@@ -24,6 +31,8 @@ namespace KomByd
         protected override void RegisterTypes(IContainerRegistry containerRegistry)
         {
             RegisterPagesWithViewModels(containerRegistry);
+            RegisterServicesAndUtils(containerRegistry);
+            RegisterAddOns(containerRegistry);
         }
 
         private void RegisterPagesWithViewModels(IContainerRegistry containerRegistry)
@@ -33,6 +42,20 @@ namespace KomByd
             containerRegistry.RegisterForNavigation<MenuPage, MenuPageViewModel>(NavSettings.MenuPage);
             containerRegistry.RegisterForNavigation<FavouritesPage, FavouritesPageViewModel>(NavSettings.FavouritesPage);
             containerRegistry.RegisterForNavigation<StopsListPage, StopsListPageViewModel>(NavSettings.StopsListPage);
+            containerRegistry.RegisterForNavigation<ChooseStopPage, ChooseStopPageViewModel>(NavSettings.ChooseStopPage);
+            containerRegistry.RegisterForNavigation<DeparturesPage, DeparturesPageViewModel>(NavSettings.DeparturesPage);
+        }
+
+        private void RegisterAddOns(IContainerRegistry containerRegistry)
+        {
+            containerRegistry.RegisterInstance(CrossConnectivity.Current);
+        }
+
+        private static void RegisterServicesAndUtils(IContainerRegistry containerRegistry)
+        {
+            containerRegistry.Register<IGetDeparture, GetDeparture>();
+            containerRegistry.Register<IGetData, GetData>();
+            containerRegistry.Register<IMaps, Maps>();
         }
 
         protected override void OnStart()

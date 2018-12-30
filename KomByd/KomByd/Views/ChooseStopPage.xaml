@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:behaviors="clr-namespace:Prism.Behaviors;assembly=Prism.Forms"
+             x:Class="KomByd.Views.ChooseStopPage"
+             Title="{Binding ChosenStopName}">
+    <NavigationPage.HasBackButton>False</NavigationPage.HasBackButton>
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Icon="favstar_empty.png" Order="Primary"/>
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="{StaticResource WhiteColor}">
+            <ListView BackgroundColor="Transparent"
+                      CachingStrategy="RecycleElement"
+                      SelectionMode="None"
+                      HasUnevenRows="True"
+                      HorizontalOptions="FillAndExpand" 
+                      VerticalOptions="FillAndExpand"
+                      ItemsSource="{Binding StopDetails}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout>
+                                <Label Text="{Binding StopName}" TextColor="{StaticResource StopName}" FontSize="20" Margin="5,5,5,0" FontAttributes="Bold"/>
+                                <Label Text="{Binding Buses}" TextColor="{StaticResource LinesList}" FontSize="14" Margin="5" FontAttributes="Bold" />
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+                <ListView.Behaviors>
+                    <behaviors:EventToCommandBehavior 
+                        Command="{Binding GoToDeparturesCommand}"
+                        EventName="ItemTapped"
+                        EventArgsParameterPath="Item" />
+                </ListView.Behaviors>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
