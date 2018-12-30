@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            xmlns:views="clr-namespace:KomByd.Views;assembly=KomByd"
+            xmlns:resources="clr-namespace:KomByd.Resources;assembly=KomByd"
+            x:Class="KomByd.Views.MainMenu"
+            x:Name="MainMenuPageName"
+            Title="{resources:Translate Common_AppName}"
+            BarBackgroundColor="{StaticResource MainColorTheme}">
+    <TabbedPage.ToolbarItems>
+        <ToolbarItem Order="Secondary" Priority="0" Text="Sprawdź aktualizacje" />
+        <ToolbarItem Order="Secondary" Priority="1" Text="Bilet okresowy" />
+        <ToolbarItem Order="Secondary" Priority="2" Text="Prześlij uwagę" />
+        <ToolbarItem Order="Secondary" Priority="3" Text="Pomoc" />
+        <ToolbarItem Order="Secondary" Priority="4" Text="O aplikacji" Command="{Binding BindingContext.AboutApp, Source={x:Reference MainMenuPageName}}" />
+    </TabbedPage.ToolbarItems>
+    <TabbedPage.Children>
+        <views:MenuPage Icon="bus_icon.png" />
+        <views:FavouritesPage Icon="heart_icon.png"/>
+    </TabbedPage.Children>
+</TabbedPage>
