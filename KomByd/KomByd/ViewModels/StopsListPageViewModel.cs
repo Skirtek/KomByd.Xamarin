@@ -1,7 +1,10 @@
 ﻿using System.Collections.Generic;
 using System.Collections.ObjectModel;
+using System.Linq;
 using KomByd.Models;
 using KomByd.Navigation;
+using KomByd.Repository.Abstract;
+using KomByd.Repository.Models;
 using Prism.AppModel;
 using Prism.Commands;
 using Prism.Navigation;
@@ -11,16 +14,20 @@ namespace KomByd.ViewModels
 {
     public class StopsListPageViewModel : BaseViewModel, IPageLifecycleAware
     {
+        private readonly IStopsRepository _stopsRepository;
+
         public StopsListPageViewModel(
             INavigationService navigationService,
-            IPageDialogService pageDialogService)
+            IPageDialogService pageDialogService,
+            IStopsRepository stopsRepository)
             : base(navigationService, pageDialogService)
         {
+            _stopsRepository = stopsRepository;
         }
 
-        private ObservableCollection<Stop> _stopsList;
+        private ObservableCollection<StopRepo> _stopsList;
 
-        public ObservableCollection<Stop> StopsList
+        public ObservableCollection<StopRepo> StopsList
         {
             get => _stopsList;
             set => SetProperty(ref _stopsList, value);
@@ -28,18 +35,14 @@ namespace KomByd.ViewModels
 
         public DelegateCommand<object> GoToStopCommand => GetBusyDependedCommand<object>(async selectedStop =>
         {
-            var navParams = new NavigationParameters { { NavParams.ChosenStop, (Stop)selectedStop } };
+            var navParams = new NavigationParameters { { NavParams.ChosenStop, (StopRepo)selectedStop } };
             await NavigationService.NavigateAsync(NavSettings.ChooseStopPage, navParams);
         });
 
-        public void OnAppearing()
+        public async void OnAppearing()
         {
-            StopsList = new ObservableCollection<Stop>();
-            StopsList.Add(new Stop { StopName = "Twardzickiego / Kleina", StopNumbers = new List<string> { "8036", "8037" } });
-            for (int i = 0; i < 20; i++)
-            {
-                StopsList.Add(new Stop { StopName = $"Przystanek {i}" });
-            }
+            var result = await _stopsRepository.GetStopsAsync();
+            StopsList = new ObservableCollection<StopRepo>(result);
         }
 
         public void OnDisappearing()

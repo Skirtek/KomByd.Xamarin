@@ -1,6 +1,10 @@
-﻿using System.Collections.ObjectModel;
+﻿using System;
+using System.Collections.ObjectModel;
+using System.Linq;
 using KomByd.Models;
 using KomByd.Navigation;
+using KomByd.Repository.Abstract;
+using KomByd.Repository.Models;
 using Prism.Commands;
 using Prism.Navigation;
 using Prism.Services;
@@ -9,12 +13,15 @@ namespace KomByd.ViewModels
 {
     public class ChooseStopPageViewModel : BaseViewModel, INavigatedAware
     {
+        private readonly IStopsRepository _stopsRepository;
 
         public ChooseStopPageViewModel(
             INavigationService navigationService,
-            IPageDialogService pageDialogService)
+            IPageDialogService pageDialogService,
+            IStopsRepository stopsRepository)
             : base(navigationService, pageDialogService)
         {
+            _stopsRepository = stopsRepository;
         }
 
         private string _chosenStopName;
@@ -49,7 +56,7 @@ namespace KomByd.ViewModels
                 return;
             }
 
-            bool getStop = parameters.TryGetValue(NavParams.ChosenStop, out Stop chosenStop);
+            bool getStop = parameters.TryGetValue(NavParams.ChosenStop, out StopRepo chosenStop);
             if (!getStop)
             {
                 await ShowAlert("Ups!", "Coś poszło nie tak");
@@ -58,22 +65,20 @@ namespace KomByd.ViewModels
             }
 
             ChosenStopName = chosenStop.StopName;
+            StopDetails = new ObservableCollection<StopDetails>();
 
-            StopDetails = new ObservableCollection<StopDetails>
+            var vehiclesLists = chosenStop.VehiclesList.Split('#');
+            var stopNumbers = chosenStop.StopNumbers.Split(' ');
+
+            foreach (var stop in stopNumbers.Zip(vehiclesLists, Tuple.Create))
             {
-                new StopDetails
+                StopDetails.Add(new StopDetails
                 {
-                    StopName = chosenStop.StopName,
-                    StopNumber = "8036",
-                    Buses = "69 -> Tatrzańskie 83 -> Tatrzańskie 89 -> Tatrzańskie 32N -> Tatrzańskie"
-                },
-                new StopDetails
-                {
-                    StopName = chosenStop.StopName,
-                    StopNumber = "8037",
-                    Buses = "69 -> Błonie 83 -> Czyżkówko 89 -> Błonie 32N -> Dworzec Błonie"
-                }
-            };
+                    StopName = ChosenStopName,
+                    StopNumber = stop.Item1,
+                    VehiclesList = stop.Item2
+                });
+            }
         }
     }
 }

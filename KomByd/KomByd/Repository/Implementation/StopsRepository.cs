@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Threading.Tasks;
 using KomByd.Repository.Abstract;
 using KomByd.Repository.Models;
@@ -27,6 +28,57 @@ namespace KomByd.Repository.Implementation
             catch (Exception)
             {
                 return null;
+            }
+        }
+
+        public async Task<int> Create(StopRepo entity)
+        {
+            _databaseContext.Add(entity);
+            await _databaseContext.SaveChangesAsync();
+            return entity.Id;
+        }
+
+        public async Task<int> GetLastId()
+        {
+            var result = await _databaseContext.StopList.LastAsync();
+            return result.Id;
+        }
+
+        public async Task<bool> Update(StopRepo entity)
+        {
+            try
+            {
+                _databaseContext.Update(entity);
+                await _databaseContext.SaveChangesAsync();
+                return true;
+            }
+            catch (Exception)
+            {
+                return false;
+            }
+        }
+
+        public IEnumerable<StopRepo> GetAllByCondition(Func<StopRepo, bool> predicate)
+        {
+            return _databaseContext.StopList.Where(predicate).ToList();
+        }
+
+        public async Task<StopRepo> GetByName(string name)
+        {
+            return await _databaseContext.StopList.FirstOrDefaultAsync(x => x.StopName == name);
+        }
+
+        public async Task<bool> Delete(StopRepo entity)
+        {
+            try
+            {
+                _databaseContext.StopList.Remove(entity);
+                await _databaseContext.SaveChangesAsync();
+                return true;
+            }
+            catch (Exception)
+            {
+                return false;
             }
         }
     }

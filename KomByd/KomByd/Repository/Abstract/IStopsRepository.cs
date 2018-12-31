@@ -4,7 +4,7 @@ using KomByd.Repository.Models;
 
 namespace KomByd.Repository.Abstract
 {
-    public interface IStopsRepository
+    public interface IStopsRepository : IRepository<StopRepo>
     {
         Task<IEnumerable<StopRepo>> GetStopsAsync();
     }

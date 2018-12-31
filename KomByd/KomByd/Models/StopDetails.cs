@@ -6,6 +6,6 @@
 
         public string StopNumber { get; set; }
 
-        public string Buses { get; set; }
+        public string VehiclesList { get; set; }
     }
 }

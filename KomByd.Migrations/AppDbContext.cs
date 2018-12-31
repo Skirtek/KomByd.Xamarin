@@ -1,9 +1,9 @@
-﻿using KomByd.Repository.Models;
+﻿using KomByd.Migrations.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace KomByd.Repository
+namespace KomByd.Migrations
 {
-    public sealed class AppDbContext : DbContext
+    public class AppDbContext : DbContext
     {
         private string _databasePath;
 
@@ -12,7 +12,6 @@ namespace KomByd.Repository
         public AppDbContext(string databasePath)
         {
             _databasePath = databasePath;
-            Database.Migrate();
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

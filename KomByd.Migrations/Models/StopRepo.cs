@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 
-namespace KomByd.Repository.Models
+namespace KomByd.Migrations.Models
 {
     [Table("Stops")]
     public class StopRepo
