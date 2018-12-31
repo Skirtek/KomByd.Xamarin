@@ -1,12 +1,19 @@
-﻿using KomByd.Api;
+﻿using System.IO;
+using System.Linq;
+using KomByd.Api;
 using KomByd.Api.Interfaces;
 using KomByd.Interfaces;
 using KomByd.Navigation;
+using KomByd.Repository;
+using KomByd.Repository.Abstract;
+using KomByd.Repository.Implementation;
+using KomByd.Repository.Models;
 using KomByd.Services;
 using KomByd.Utils;
 using KomByd.Utils.Interfaces;
 using KomByd.ViewModels;
 using KomByd.Views;
+using Microsoft.EntityFrameworkCore;
 using Plugin.Connectivity;
 using Prism;
 using Prism.Ioc;
@@ -25,6 +32,13 @@ namespace KomByd
         protected override async void OnInitialized()
         {
             InitializeComponent();
+            string dbPath = DependencyService.Get<IFileHelper>().GetLocalFilePath(AppSettings.DbFileName);
+            using (var db = new AppDbContext(dbPath))
+            {
+                db.Database.EnsureCreated();
+                db.Database.Migrate();
+            }
+
             await NavigationService.NavigateAsync($"/{NavSettings.NavigationBase}/{NavSettings.MainMenu}?selectedTab=MenuPage");
         }
 
@@ -56,6 +70,8 @@ namespace KomByd
             containerRegistry.Register<IGetDeparture, GetDeparture>();
             containerRegistry.Register<IGetData, GetData>();
             containerRegistry.Register<IMaps, Maps>();
+            containerRegistry.Register<IStopsRepository, StopsRepository>();
+            //containerRegistry.Register<IFileHelper>();
         }
 
         protected override void OnStart()

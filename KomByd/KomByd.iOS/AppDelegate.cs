@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 
 using Foundation;
+using KomByd.iOS.Dependencies;
+using KomByd.Repository.Abstract;
 using Prism;
 using Prism.Ioc;
 using UIKit;
@@ -22,6 +24,9 @@ namespace KomByd.iOS
         //
         // You have 17 seconds to return from this method, or iOS will terminate your application.
         //
+
+        private static readonly FileHelper FileHelperImplementation = new FileHelper();
+
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
             Xamarin.Forms.Forms.Init();
@@ -30,13 +35,13 @@ namespace KomByd.iOS
 
             return base.FinishedLaunching(app, options);
         }
-    }
 
-    public class IOSInitialzier : IPlatformInitializer
-    {
-        public void RegisterTypes(IContainerRegistry containerRegistry)
+        public class IOSInitialzier : IPlatformInitializer
         {
-
+            public void RegisterTypes(IContainerRegistry containerRegistry)
+            {
+                containerRegistry.RegisterInstance<IFileHelper>(FileHelperImplementation);
+            }
         }
     }
 }

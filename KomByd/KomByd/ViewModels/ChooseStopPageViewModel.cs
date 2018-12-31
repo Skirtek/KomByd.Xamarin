@@ -9,6 +9,7 @@ namespace KomByd.ViewModels
 {
     public class ChooseStopPageViewModel : BaseViewModel, INavigatedAware
     {
+
         public ChooseStopPageViewModel(
             INavigationService navigationService,
             IPageDialogService pageDialogService)
@@ -73,7 +74,6 @@ namespace KomByd.ViewModels
                     Buses = "69 -> Błonie 83 -> Czyżkówko 89 -> Błonie 32N -> Dworzec Błonie"
                 }
             };
-
         }
     }
 }
