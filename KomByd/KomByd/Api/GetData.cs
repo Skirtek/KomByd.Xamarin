@@ -16,7 +16,7 @@ namespace KomByd.Api
                     return await client.GetStringAsync(url);
                 }
             }
-            catch (Exception)
+            catch (Exception ex)
             {
                 return string.Empty;
             }

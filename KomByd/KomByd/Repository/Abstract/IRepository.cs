@@ -17,5 +17,7 @@ namespace KomByd.Repository.Abstract
         Task<T> GetByName(string name);
 
         Task<bool> Delete(T entity);
+
+        Task<bool> DeleteAll();
     }
 }

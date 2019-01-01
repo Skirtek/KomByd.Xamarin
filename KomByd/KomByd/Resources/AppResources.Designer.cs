@@ -106,7 +106,7 @@ namespace KomByd.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to http://kombyd.azurewebsites.net/get.php?stop={0}.
+        ///   Looks up a localized string similar to http://kombyd.azurewebsites.net/Resources_Xamarin/get.php?stop={0}.
         /// </summary>
         internal static string Url_GetDepartures {
             get {

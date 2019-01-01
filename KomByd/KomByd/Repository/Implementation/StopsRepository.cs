@@ -40,8 +40,14 @@ namespace KomByd.Repository.Implementation
 
         public async Task<int> GetLastId()
         {
+            if (!_databaseContext.StopList.Any())
+            {
+                return 0;
+            }
+
             var result = await _databaseContext.StopList.LastAsync();
             return result.Id;
+
         }
 
         public async Task<bool> Update(StopRepo entity)
@@ -73,6 +79,23 @@ namespace KomByd.Repository.Implementation
             try
             {
                 _databaseContext.StopList.Remove(entity);
+                await _databaseContext.SaveChangesAsync();
+                return true;
+            }
+            catch (Exception)
+            {
+                return false;
+            }
+        }
+
+        public async Task<bool> DeleteAll()
+        {
+            try
+            {
+                foreach (var entity in _databaseContext.StopList)
+                {
+                    _databaseContext.StopList.Remove(entity);
+                }
                 await _databaseContext.SaveChangesAsync();
                 return true;
             }

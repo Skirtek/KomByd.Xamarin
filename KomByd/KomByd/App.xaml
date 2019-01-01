@@ -2,6 +2,7 @@
 <prism:PrismApplication xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:prism="clr-namespace:Prism.Unity;assembly=Prism.Unity.Forms"
+             xmlns:converters="clr-namespace:KomByd.Views.Converters;assembly=KomByd"
              x:Class="KomByd.App">
     <Application.Resources>
         <!--  Colors  -->
@@ -18,5 +19,8 @@
         <Style TargetType="NavigationPage">
             <Setter Property="BarBackgroundColor" Value="{StaticResource MainColorTheme}"/>
         </Style>
+
+        <!--  Converters  -->
+        <converters:VehicleTypeToPictureConverter x:Key="VehicleTypeToPictureConverter" />
     </Application.Resources>
 </prism:PrismApplication>

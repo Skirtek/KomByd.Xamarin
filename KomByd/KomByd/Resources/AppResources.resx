@@ -133,6 +133,6 @@
     <value>Wystąpił nieznany błąd</value>
   </data>
   <data name="Url_GetDepartures" xml:space="preserve">
-    <value>http://kombyd.azurewebsites.net/get.php?stop={0}</value>
+    <value>http://kombyd.azurewebsites.net/Resources_Xamarin/get.php?stop={0}</value>
   </data>
 </root>

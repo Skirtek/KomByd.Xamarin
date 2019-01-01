@@ -24,7 +24,7 @@
                                         <ColumnDefinition Width="1.5*"/>
                                         <ColumnDefinition Width="7.5*"/>
                                     </Grid.ColumnDefinitions>
-                                    <Image Aspect="AspectFill" Source="vehicletype_bus_icon.png" Grid.Column="0"/>
+                                    <Image Aspect="AspectFill" Source="{Binding VehicleType, Converter={StaticResource VehicleTypeToPictureConverter}}" Grid.Column="0"/>
                                     <Label Text="{Binding LineNumber}" Grid.Column="1" TextColor="{StaticResource StopName}" FontSize="20" FontAttributes="Bold"/>
                                     <Label Text="{Binding Direction}" Grid.Column="2" HorizontalTextAlignment="Start" TextColor="{StaticResource StopName}" FontSize="20" FontAttributes="Bold" />
                                 </Grid>

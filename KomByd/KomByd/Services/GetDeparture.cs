@@ -43,7 +43,7 @@ namespace KomByd.Services
                 {
                     var departureItem = departure.ToObject<DepartureDetails>();
                     departureItem.LineNumber = departureItem.LineNumber.Trim();
-                    departureItem.Direction = _maps.MapUnicodeCharsToPolishChars(departureItem.Direction).Trim();
+                    departureItem.Direction = _maps.MapUnicodeCharsToPolishChars(departureItem.Direction).Trim().Replace("-","/");
                     departureItem.Time = departureItem.Time.Trim().Replace(">>","teraz");
                     departureItem.VehicleType = DetermineVehicleType(departureItem.LineNumber);
 

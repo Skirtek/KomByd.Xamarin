@@ -39,7 +39,7 @@ namespace KomByd
                 db.Database.Migrate();
             }
 
-            await NavigationService.NavigateAsync($"/{NavSettings.NavigationBase}/{NavSettings.MainMenu}?selectedTab=MenuPage");
+            await NavigationService.NavigateAsync(NavSettings.CheckUpdatesPage);
         }
 
         protected override void RegisterTypes(IContainerRegistry containerRegistry)
@@ -52,6 +52,7 @@ namespace KomByd
         private void RegisterPagesWithViewModels(IContainerRegistry containerRegistry)
         {
             containerRegistry.RegisterForNavigation<NavigationPage>();
+            containerRegistry.RegisterForNavigation<CheckUpdatesPage, CheckUpdatesPageViewModel>(NavSettings.CheckUpdatesPage);
             containerRegistry.RegisterForNavigation<MainMenu, MainMenuViewModel>();
             containerRegistry.RegisterForNavigation<MenuPage, MenuPageViewModel>(NavSettings.MenuPage);
             containerRegistry.RegisterForNavigation<FavouritesPage, FavouritesPageViewModel>(NavSettings.FavouritesPage);
@@ -71,7 +72,7 @@ namespace KomByd
             containerRegistry.Register<IGetData, GetData>();
             containerRegistry.Register<IMaps, Maps>();
             containerRegistry.Register<IStopsRepository, StopsRepository>();
-            //containerRegistry.Register<IFileHelper>();
+            containerRegistry.Register<IPrepareStopsList, PrepareStopsList>();
         }
 
         protected override void OnStart()
