@@ -14,8 +14,6 @@
                       CachingStrategy="RecycleElement"
                       SelectionMode="None"
                       HasUnevenRows="True"
-                      HorizontalOptions="FillAndExpand" 
-                      VerticalOptions="FillAndExpand"
                       ItemsSource="{Binding StopDetails}">
                 <ListView.ItemTemplate>
                     <DataTemplate>

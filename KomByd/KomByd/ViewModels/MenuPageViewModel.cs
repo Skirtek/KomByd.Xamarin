@@ -21,5 +21,13 @@ namespace KomByd.ViewModels
             await NavigationService.NavigateAsync(NavSettings.StopsListPage);
             IsBusy = false;
         });
+
+        public DelegateCommand GoToSettingsCommand =>
+            GetBusyDependedCommand(async () =>
+            {
+                IsBusy = true;
+                await NavigationService.NavigateAsync(NavSettings.SettingsPage);
+                IsBusy = false;
+            });
     }
 }

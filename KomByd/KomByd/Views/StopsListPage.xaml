@@ -6,15 +6,46 @@
              Title="Wybierz przystanek"
              x:Name="StopsListPageName">
     <ContentPage.Content>
-        <StackLayout BackgroundColor="{StaticResource WhiteColor}">
-            <SearchBar Placeholder="Wyszukaj przystanek"/>
-            <ListView BackgroundColor="Transparent"
-                              CachingStrategy="RecycleElement"
-                              SelectionMode="None"
-                              HasUnevenRows="True"
-                              HorizontalOptions="FillAndExpand" 
-                              VerticalOptions="FillAndExpand"
-                              ItemsSource="{Binding StopsList}">
+        <Grid BackgroundColor="{StaticResource WhiteColor}">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <SearchBar Grid.Row="0" Placeholder="Wyszukaj przystanek">
+                <SearchBar.Behaviors>
+                    <behaviors:EventToCommandBehavior
+                        EventName="TextChanged"
+                        EventArgsParameterPath="NewTextValue"
+                        Command="{Binding FilterListView}"/>
+                </SearchBar.Behaviors>
+            </SearchBar>
+            <StackLayout
+                Grid.Row="1"
+                HorizontalOptions="CenterAndExpand"
+                VerticalOptions="CenterAndExpand"                
+                IsVisible="{Binding NoStopsVisibility}">
+                <Image
+                    Source="emptysearch_icon.png"
+                    Aspect="AspectFit"/>
+                <Label HorizontalTextAlignment="Center" Text="Nie znaleziono żadnych przystanków"/>
+            </StackLayout>
+
+            <ListView
+                BackgroundColor="Transparent"
+                CachingStrategy="RecycleElement"
+                SelectionMode="None"
+                HasUnevenRows="True"
+                IsVisible="{Binding NoStopsVisibility, Converter={StaticResource InverseBoolConverter}}"
+                IsGroupingEnabled="true"
+                Grid.Row="1"
+                ItemsSource="{Binding StopsList}">
+                <ListView.GroupHeaderTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Label Text="{Binding GroupName}" FontSize="16" FontAttributes="Bold" Margin="5" TextColor="{StaticResource HeaderColor}"/>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.GroupHeaderTemplate>
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <ViewCell>
@@ -31,6 +62,6 @@
                         EventArgsParameterPath="Item" />
                 </ListView.Behaviors>
             </ListView>
-        </StackLayout>
+        </Grid>
     </ContentPage.Content>
 </ContentPage>

@@ -24,9 +24,7 @@
             <StackLayout
                 BackgroundColor="{StaticResource MenuLinesColorTheme}"
                 Grid.Column="0"
-                Grid.Row="0"
-                VerticalOptions="FillAndExpand" 
-                HorizontalOptions="FillAndExpand">
+                Grid.Row="0">
                 <Grid VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
                     <Grid.RowDefinitions>
                         <RowDefinition Height="Auto"/>
@@ -39,9 +37,7 @@
             <StackLayout
                 BackgroundColor="{StaticResource MenuStopsColorTheme}"
                 Grid.Column="1"
-                Grid.Row="0"
-                VerticalOptions="FillAndExpand"
-                HorizontalOptions="FillAndExpand">
+                Grid.Row="0">
                 <Grid VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
                     <Grid.RowDefinitions>
                         <RowDefinition Height="Auto"/>
@@ -57,9 +53,7 @@
             <StackLayout
                 BackgroundColor="{StaticResource MenuMapsColorTheme}"
                 Grid.Column="0"
-                Grid.Row="1"
-                VerticalOptions="FillAndExpand"
-                HorizontalOptions="FillAndExpand">
+                Grid.Row="1">
                 <Grid VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
                     <Grid.RowDefinitions>
                         <RowDefinition Height="Auto"/>
@@ -73,9 +67,7 @@
             <StackLayout
                 BackgroundColor="{StaticResource MenuOptionsColorTheme}"
                 Grid.Column="1"
-                Grid.Row="1"
-                VerticalOptions="FillAndExpand"
-                HorizontalOptions="FillAndExpand">
+                Grid.Row="1">
                 <Grid VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
                     <Grid.RowDefinitions>
                         <RowDefinition Height="Auto"/>
@@ -87,6 +79,9 @@
                         Style="{StaticResource OptionLabelStyle}"
                         Grid.Row="1"/>
                 </Grid>
+                <StackLayout.GestureRecognizers>
+                    <TapGestureRecognizer Command="{Binding GoToSettingsCommand}"/>
+                </StackLayout.GestureRecognizers>
             </StackLayout>
         </Grid>
     </ContentPage.Content>

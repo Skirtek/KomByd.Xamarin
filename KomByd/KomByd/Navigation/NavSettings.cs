@@ -10,5 +10,6 @@
         public const string ChooseStopPage = nameof(ChooseStopPage);
         public const string DeparturesPage = nameof(DeparturesPage);
         public const string CheckUpdatesPage = nameof(CheckUpdatesPage);
+        public const string SettingsPage = nameof(SettingsPage);
     }
 }

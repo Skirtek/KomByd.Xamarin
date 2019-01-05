@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using KomByd.Repository.Abstract;
 using KomByd.Repository.Models;
+using KomByd.Settings;
 using Microsoft.EntityFrameworkCore;
 
 namespace KomByd.Repository.Implementation

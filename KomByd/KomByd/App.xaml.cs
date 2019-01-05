@@ -1,14 +1,13 @@
-﻿using System.IO;
-using System.Linq;
-using KomByd.Api;
+﻿using KomByd.Api;
 using KomByd.Api.Interfaces;
 using KomByd.Interfaces;
 using KomByd.Navigation;
 using KomByd.Repository;
 using KomByd.Repository.Abstract;
 using KomByd.Repository.Implementation;
-using KomByd.Repository.Models;
 using KomByd.Services;
+using KomByd.Settings;
+using KomByd.Settings.Interfaces;
 using KomByd.Utils;
 using KomByd.Utils.Interfaces;
 using KomByd.ViewModels;
@@ -59,11 +58,13 @@ namespace KomByd
             containerRegistry.RegisterForNavigation<StopsListPage, StopsListPageViewModel>(NavSettings.StopsListPage);
             containerRegistry.RegisterForNavigation<ChooseStopPage, ChooseStopPageViewModel>(NavSettings.ChooseStopPage);
             containerRegistry.RegisterForNavigation<DeparturesPage, DeparturesPageViewModel>(NavSettings.DeparturesPage);
+            containerRegistry.RegisterForNavigation<SettingsPage, SettingsPageViewModel>(NavSettings.SettingsPage);
         }
 
         private void RegisterAddOns(IContainerRegistry containerRegistry)
         {
             containerRegistry.RegisterInstance(CrossConnectivity.Current);
+            containerRegistry.RegisterInstance(UserSettings.Instance);
         }
 
         private static void RegisterServicesAndUtils(IContainerRegistry containerRegistry)
@@ -73,6 +74,7 @@ namespace KomByd
             containerRegistry.Register<IMaps, Maps>();
             containerRegistry.Register<IStopsRepository, StopsRepository>();
             containerRegistry.Register<IPrepareStopsList, PrepareStopsList>();
+            containerRegistry.Register<IGetDatabaseVersion, GetDatabaseVersion>();
         }
 
         protected override void OnStart()

@@ -14,6 +14,7 @@
         <Color x:Key="WhiteColor">#ffffff</Color>
         <Color x:Key="StopName">#525070</Color>
         <Color x:Key="LinesList">#757575</Color>
+        <Color x:Key="HeaderColor">#91001A</Color>
 
         <!--  Styles  -->
         <Style TargetType="NavigationPage">
@@ -22,5 +23,6 @@
 
         <!--  Converters  -->
         <converters:VehicleTypeToPictureConverter x:Key="VehicleTypeToPictureConverter" />
+        <converters:InverseBoolConverter x:Key="InverseBoolConverter"/>
     </Application.Resources>
 </prism:PrismApplication>

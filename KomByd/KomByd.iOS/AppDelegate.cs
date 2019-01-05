@@ -30,6 +30,7 @@ namespace KomByd.iOS
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
             Xamarin.Forms.Forms.Init();
+            AiForms.Renderers.iOS.SettingsViewInit.Init();
             App komByd = new App(new IOSInitialzier());
             LoadApplication(komByd);
 
