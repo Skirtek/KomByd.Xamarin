@@ -7,5 +7,7 @@ namespace KomByd.Repository.Abstract
     public interface IStopsRepository : IRepository<StopRepo>
     {
         Task<IEnumerable<StopRepo>> GetStopsAsync();
+
+        Task<StopRepo> GetByName(string name);
     }
 }

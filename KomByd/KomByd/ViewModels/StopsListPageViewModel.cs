@@ -91,6 +91,7 @@ namespace KomByd.ViewModels
 
         public async void OnAppearing()
         {
+            IsBusy = true;
             var result = await _stopsRepository.GetStopsAsync();
             var stopRepos = result.ToList();
 
@@ -99,6 +100,8 @@ namespace KomByd.ViewModels
             AllStops = new StopsListSource(stopRepos) { GroupName = "Wszystkie przystanki" };
 
             StopsList = new ObservableCollection<StopsListSource> { RecentlyUsedStops, AllStops };
+
+            IsBusy = false;
         }
 
         public void OnDisappearing()

@@ -8,6 +8,7 @@ namespace KomByd.Repository
         private string _databasePath;
 
         public DbSet<StopRepo> StopList { get; set; }
+        public DbSet<Line> LinesList { get; set; }
 
         public AppDbContext(string databasePath)
         {

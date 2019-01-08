@@ -33,6 +33,9 @@
                     <Image Aspect="AspectFit" Source="tram_icon.png" Grid.Row="0"/>
                     <Label Text="Linie" Grid.Row="1" Style="{StaticResource OptionLabelStyle}"/>
                 </Grid>
+                <StackLayout.GestureRecognizers>
+                    <TapGestureRecognizer Command="{Binding GoToLinesListCommand}"/>
+                </StackLayout.GestureRecognizers>
             </StackLayout>
             <StackLayout
                 BackgroundColor="{StaticResource MenuStopsColorTheme}"

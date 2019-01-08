@@ -21,5 +21,11 @@ namespace KomByd.Settings
             get => _settings.GetValueOrDefault(nameof(CurrentDatabaseVersion), "1");
             set => _settings.AddOrUpdateValue(nameof(CurrentDatabaseVersion), value);
         }
+
+        public string Language
+        {
+            get => _settings.GetValueOrDefault(nameof(Language), "polski");
+            set => _settings.AddOrUpdateValue(nameof(Language), value);
+        }
     }
 }

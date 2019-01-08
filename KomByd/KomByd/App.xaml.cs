@@ -7,7 +7,6 @@ using KomByd.Repository.Abstract;
 using KomByd.Repository.Implementation;
 using KomByd.Services;
 using KomByd.Settings;
-using KomByd.Settings.Interfaces;
 using KomByd.Utils;
 using KomByd.Utils.Interfaces;
 using KomByd.ViewModels;
@@ -53,12 +52,15 @@ namespace KomByd
             containerRegistry.RegisterForNavigation<NavigationPage>();
             containerRegistry.RegisterForNavigation<CheckUpdatesPage, CheckUpdatesPageViewModel>(NavSettings.CheckUpdatesPage);
             containerRegistry.RegisterForNavigation<MainMenu, MainMenuViewModel>();
+            containerRegistry.RegisterForNavigation<LinesTabbedMainPage>();
             containerRegistry.RegisterForNavigation<MenuPage, MenuPageViewModel>(NavSettings.MenuPage);
             containerRegistry.RegisterForNavigation<FavouritesPage, FavouritesPageViewModel>(NavSettings.FavouritesPage);
             containerRegistry.RegisterForNavigation<StopsListPage, StopsListPageViewModel>(NavSettings.StopsListPage);
             containerRegistry.RegisterForNavigation<ChooseStopPage, ChooseStopPageViewModel>(NavSettings.ChooseStopPage);
             containerRegistry.RegisterForNavigation<DeparturesPage, DeparturesPageViewModel>(NavSettings.DeparturesPage);
             containerRegistry.RegisterForNavigation<SettingsPage, SettingsPageViewModel>(NavSettings.SettingsPage);
+            containerRegistry.RegisterForNavigation<BusesListPage, BusesListPageViewModel>(NavSettings.BusesListPage);
+            containerRegistry.RegisterForNavigation<TramsListPage, TramsListPageViewModel>(NavSettings.TramsListPage);
         }
 
         private void RegisterAddOns(IContainerRegistry containerRegistry)
@@ -73,8 +75,10 @@ namespace KomByd
             containerRegistry.Register<IGetData, GetData>();
             containerRegistry.Register<IMaps, Maps>();
             containerRegistry.Register<IStopsRepository, StopsRepository>();
+            containerRegistry.Register<ILinesRepository, LinesRepository>();
             containerRegistry.Register<IPrepareStopsList, PrepareStopsList>();
             containerRegistry.Register<IGetDatabaseVersion, GetDatabaseVersion>();
+            containerRegistry.Register<IPrepareLinesList, PrepareLinesList>();
         }
 
         protected override void OnStart()

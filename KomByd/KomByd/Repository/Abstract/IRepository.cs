@@ -14,8 +14,6 @@ namespace KomByd.Repository.Abstract
 
         IEnumerable<T> GetAllByCondition(Func<T, bool> predicate);
 
-        Task<T> GetByName(string name);
-
         Task<bool> Delete(T entity);
 
         Task<bool> DeleteAll();

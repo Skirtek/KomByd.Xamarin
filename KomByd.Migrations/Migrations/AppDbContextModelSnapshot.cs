@@ -15,6 +15,22 @@ namespace KomByd.Migrations.Migrations
             modelBuilder
                 .HasAnnotation("ProductVersion", "2.1.1-rtm-30846");
 
+            modelBuilder.Entity("KomByd.Migrations.Models.Line", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd();
+
+                    b.Property<string>("DirectionsList");
+
+                    b.Property<string>("LineNumber");
+
+                    b.Property<string>("Type");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Lines");
+                });
+
             modelBuilder.Entity("KomByd.Migrations.Models.StopRepo", b =>
                 {
                     b.Property<int>("Id")

@@ -11,5 +11,8 @@
         public const string DeparturesPage = nameof(DeparturesPage);
         public const string CheckUpdatesPage = nameof(CheckUpdatesPage);
         public const string SettingsPage = nameof(SettingsPage);
+        public const string BusesListPage = nameof(BusesListPage);
+        public const string TramsListPage = nameof(TramsListPage);
+        public const string LinesTabbedMainPage = nameof(LinesTabbedMainPage);
     }
 }

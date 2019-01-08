@@ -15,11 +15,13 @@ namespace KomByd.ViewModels
         private readonly IPrepareStopsList _prepareStopsList;
         private readonly IGetDatabaseVersion _getDatabaseVersion;
         private readonly IUserSettings _userSettings;
+        private readonly IPrepareLinesList _prepareLinesList;
 
         public CheckUpdatesPageViewModel(
             INavigationService navigationService,
             IPageDialogService pageDialogService,
             IPrepareStopsList prepareStopsList,
+            IPrepareLinesList prepareLinesList,
             IGetDatabaseVersion getDatabaseVersion,
             IUserSettings userSettings,
             IConnectivity connectivity)
@@ -29,6 +31,7 @@ namespace KomByd.ViewModels
             _prepareStopsList = prepareStopsList;
             _getDatabaseVersion = getDatabaseVersion;
             _userSettings = userSettings;
+            _prepareLinesList = prepareLinesList;
         }
 
         public async void OnAppearing()
@@ -59,9 +62,11 @@ namespace KomByd.ViewModels
                     return;
                 }
 
+                //await _prepareLinesList.AddLinesToDatabase();
+
                 _userSettings.CurrentDatabaseVersion = version;
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 await ShowAlert("Ups!", "Nie udało się sprawdzić aktualizacji");
             }

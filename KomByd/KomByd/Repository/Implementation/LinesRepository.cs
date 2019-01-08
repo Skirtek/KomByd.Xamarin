@@ -9,30 +9,19 @@ using Microsoft.EntityFrameworkCore;
 
 namespace KomByd.Repository.Implementation
 {
-    public class StopsRepository : IStopsRepository
+    public class LinesRepository : ILinesRepository
     {
+
         private readonly IFileHelper _fileHelper;
         private readonly AppDbContext _databaseContext;
 
-        public StopsRepository(IFileHelper fileHelper)
+        public LinesRepository(IFileHelper fileHelper)
         {
             _fileHelper = fileHelper;
             _databaseContext = new AppDbContext(_fileHelper.GetLocalFilePath(AppSettings.DbFileName));
         }
 
-        public async Task<IEnumerable<StopRepo>> GetStopsAsync()
-        {
-            try
-            {
-                return await _databaseContext.StopList.ToListAsync();
-            }
-            catch (Exception)
-            {
-                return null;
-            }
-        }
-
-        public async Task<int> Create(StopRepo entity)
+        public async Task<int> Create(Line entity)
         {
             _databaseContext.Add(entity);
             await _databaseContext.SaveChangesAsync();
@@ -41,16 +30,16 @@ namespace KomByd.Repository.Implementation
 
         public async Task<int> GetLastId()
         {
-            if (!_databaseContext.StopList.Any())
+            if (!_databaseContext.LinesList.Any())
             {
                 return 0;
             }
 
-            var result = await _databaseContext.StopList.LastAsync();
+            var result = await _databaseContext.LinesList.LastAsync();
             return result.Id;
         }
 
-        public async Task<bool> Update(StopRepo entity)
+        public async Task<bool> Update(Line entity)
         {
             try
             {
@@ -64,21 +53,21 @@ namespace KomByd.Repository.Implementation
             }
         }
 
-        public IEnumerable<StopRepo> GetAllByCondition(Func<StopRepo, bool> predicate)
+        public IEnumerable<Line> GetAllByCondition(Func<Line, bool> predicate)
         {
-            return _databaseContext.StopList.Where(predicate).ToList();
+            return _databaseContext.LinesList.Where(predicate).ToList();
         }
 
-        public async Task<StopRepo> GetByName(string name)
+        public async Task<Line> GetByLineNumber(string number)
         {
-            return await _databaseContext.StopList.FirstOrDefaultAsync(x => x.StopName == name);
+            return await _databaseContext.LinesList.FirstOrDefaultAsync(x => x.LineNumber == number);
         }
 
-        public async Task<bool> Delete(StopRepo entity)
+        public async Task<bool> Delete(Line entity)
         {
             try
             {
-                _databaseContext.StopList.Remove(entity);
+                _databaseContext.LinesList.Remove(entity);
                 await _databaseContext.SaveChangesAsync();
                 return true;
             }
@@ -92,9 +81,9 @@ namespace KomByd.Repository.Implementation
         {
             try
             {
-                foreach (var entity in _databaseContext.StopList)
+                foreach (var entity in _databaseContext.LinesList)
                 {
-                    _databaseContext.StopList.Remove(entity);
+                    _databaseContext.LinesList.Remove(entity);
                 }
                 await _databaseContext.SaveChangesAsync();
                 return true;
@@ -102,6 +91,18 @@ namespace KomByd.Repository.Implementation
             catch (Exception)
             {
                 return false;
+            }
+        }
+
+        public async Task<IEnumerable<Line>> GetLinesAsync()
+        {
+            try
+            {
+                return await _databaseContext.LinesList.ToListAsync();
+            }
+            catch (Exception)
+            {
+                return null;
             }
         }
     }

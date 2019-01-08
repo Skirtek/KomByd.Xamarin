@@ -52,47 +52,48 @@ namespace KomByd.ViewModels
 
         public async void OnNavigatedTo(INavigationParameters parameters)
         {
-            if (!_connectivity.IsConnected)
-            {
-                await ShowAlert("Brak połączenia z Internetem", "Aby sprawdzić odjazdy konieczne jest połączenie z Internetem.");
-                await NavigationService.GoBackAsync();
-                return;
-            }
-
-            bool getStop = parameters.TryGetValue(NavParams.DepartureStop, out StopDetails departureStop);
-            if (!getStop)
-            {
-                await ShowAlert("Ups!", "Coś poszło nie tak");
-                await NavigationService.GoBackAsync();
-                return;
-            }
-
-            PassedStop = departureStop;
-            DeparturesStopName = departureStop.StopName;
-
-            GetDepartures();
-        }
-
-        private async void GetDepartures()
-        {
             try
             {
-                var result = await _getDeparture.GetDeparturesForStopNumber(PassedStop.StopNumber);
+                if (!_connectivity.IsConnected)
+                {
+                    await ShowAlert("Brak połączenia z Internetem",
+                        "Aby sprawdzić odjazdy konieczne jest połączenie z Internetem.");
+                    await NavigationService.GoBackAsync();
+                    return;
+                }
 
-                if (!result.IsSuccess)
+                bool getStop = parameters.TryGetValue(NavParams.DepartureStop, out StopDetails departureStop);
+                if (!getStop)
                 {
                     await ShowAlert("Ups!", "Coś poszło nie tak");
                     await NavigationService.GoBackAsync();
                     return;
                 }
 
-                DeparturesDetails = new ObservableCollection<DepartureDetails>(result.DepartureList);
+                PassedStop = departureStop;
+                DeparturesStopName = departureStop.StopName;
+
+                GetDepartures();
             }
             catch (Exception)
             {
                 await ShowAlert("Ups!", "Coś poszło nie tak");
                 await NavigationService.GoBackAsync();
             }
+        }
+
+        private async void GetDepartures()
+        {
+            var result = await _getDeparture.GetDeparturesForStopNumber(PassedStop.StopNumber);
+
+            if (!result.IsSuccess)
+            {
+                await ShowAlert("Ups!", "Coś poszło nie tak");
+                await NavigationService.GoBackAsync();
+                return;
+            }
+
+            DeparturesDetails = new ObservableCollection<DepartureDetails>(result.DepartureList);
         }
     }
 }

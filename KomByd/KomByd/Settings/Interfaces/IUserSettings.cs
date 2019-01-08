@@ -3,5 +3,7 @@
     public interface IUserSettings
     {
         string CurrentDatabaseVersion { get; set; }
+
+        string Language { get; set; }
     }
 }

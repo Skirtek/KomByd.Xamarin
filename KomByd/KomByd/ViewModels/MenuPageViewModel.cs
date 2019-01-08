@@ -22,6 +22,14 @@ namespace KomByd.ViewModels
             IsBusy = false;
         });
 
+        public DelegateCommand GoToLinesListCommand =>
+            GetBusyDependedCommand(async () =>
+            {
+                IsBusy = true;
+                await NavigationService.NavigateAsync($"{NavSettings.LinesTabbedMainPage}?selectedTab={NavSettings.TramsListPage}");
+                IsBusy = false;
+            });
+
         public DelegateCommand GoToSettingsCommand =>
             GetBusyDependedCommand(async () =>
             {

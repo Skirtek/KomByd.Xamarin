@@ -15,6 +15,7 @@ namespace KomByd.Services
         private readonly IGetData _getData;
         private readonly IMaps _maps;
         private readonly IStopsRepository _stopsRepository;
+
         private int LastId { get; set; }
 
         public PrepareStopsList(IGetData getData, IStopsRepository stopsRepository, IMaps maps)
