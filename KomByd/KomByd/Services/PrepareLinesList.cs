@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
 using KomByd.Api.Interfaces;
 using KomByd.Interfaces;
 using KomByd.Repository.Abstract;
@@ -28,7 +25,7 @@ namespace KomByd.Services
         public async Task<bool> AddLinesToDatabase()
         {
             LastId = await _linesRepository.GetLastId();
-            await _linesRepository.Create(new Line {Id = LastId + 1, LineNumber = (LastId + 1).ToString()});
+            await _linesRepository.Create(new Line {Id = LastId + 1, LineNumber = (LastId + 1).ToString(), Type = "T"});
             return true;
         }
     }

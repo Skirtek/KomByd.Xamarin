@@ -49,7 +49,7 @@ namespace KomByd.ViewModels
                 var databaseCheck = await _getDatabaseVersion.GetVersionFromJson();
 
                 string version = databaseCheck.Version;
-
+                await _prepareLinesList.AddLinesToDatabase();
                 if (version.Equals(_userSettings.CurrentDatabaseVersion))
                 {
                     return;
@@ -61,8 +61,6 @@ namespace KomByd.ViewModels
                     await ShowAlert("Ups!", "Coś poszło nie tak");
                     return;
                 }
-
-                //await _prepareLinesList.AddLinesToDatabase();
 
                 _userSettings.CurrentDatabaseVersion = version;
             }

@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="KomByd.Views.TramsListPage">
+             xmlns:controls="clr-namespace:KomByd.Views.Controls;assembly=KomByd"
+             x:Class="KomByd.Views.TramsListPage"
+             x:Name="TramListPageName">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+        <StackLayout BackgroundColor="{StaticResource WhiteColor}">
+            <controls:LinesGridControl ItemsSource="{Binding BindingContext.TramsList, Source={x:Reference TramListPageName}}" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
