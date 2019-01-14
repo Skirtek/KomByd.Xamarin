@@ -49,23 +49,30 @@ namespace KomByd.ViewModels
                 var databaseCheck = await _getDatabaseVersion.GetVersionFromJson();
 
                 string version = databaseCheck.Version;
-                await _prepareLinesList.AddLinesToDatabase();
+                bool didInsertLines = await _prepareLinesList.AddLinesToDatabase();
+                if (!didInsertLines)
+                {
+                    await ShowAlert("Ups!", "Coś poszło nie tak");
+                    return;
+                }
                 if (version.Equals(_userSettings.CurrentDatabaseVersion))
                 {
                     return;
                 }
 
-                bool didInsert = await _prepareStopsList.AddStopsToDatabase();
-                if (!didInsert)
+                bool didInsertStops = await _prepareStopsList.AddStopsToDatabase();
+                if (!didInsertStops)
                 {
                     await ShowAlert("Ups!", "Coś poszło nie tak");
                     return;
                 }
 
+
                 _userSettings.CurrentDatabaseVersion = version;
             }
-            catch (Exception)
+            catch (Exception exception)
             {
+                var x = exception.Message;
                 await ShowAlert("Ups!", "Nie udało się sprawdzić aktualizacji");
             }
             finally

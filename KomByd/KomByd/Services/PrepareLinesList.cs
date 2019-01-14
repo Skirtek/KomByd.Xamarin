@@ -3,7 +3,9 @@ using KomByd.Api.Interfaces;
 using KomByd.Interfaces;
 using KomByd.Repository.Abstract;
 using KomByd.Repository.Models;
+using KomByd.Settings;
 using KomByd.Utils.Interfaces;
+using Newtonsoft.Json.Linq;
 
 namespace KomByd.Services
 {
@@ -24,8 +26,33 @@ namespace KomByd.Services
 
         public async Task<bool> AddLinesToDatabase()
         {
+            string response = await _getData.GetJsonString(AppSettings.LinesListJson);
+            if (string.IsNullOrEmpty(response))
+            {
+                return false;
+            }
+
+            JArray linesArray = JArray.Parse(response);
+
             LastId = await _linesRepository.GetLastId();
-            await _linesRepository.Create(new Line {Id = LastId + 1, LineNumber = (LastId + 1).ToString(), Type = "T"});
+
+            if (LastId != 0)
+            {
+                await _linesRepository.DeleteAll();
+            }
+
+            foreach (var lines in linesArray)
+            {
+                await _linesRepository.Create(new Line
+                {
+                    Id = LastId + 1,
+                    Type = lines.Value<string>("typ"),
+                    LineNumber = lines.Value<string>("numerlinii"),
+                    DirectionsList = string.Empty
+                    //DirectionsList = lines.Value<string>("kierunki")
+                });
+                LastId++;
+            }
             return true;
         }
     }

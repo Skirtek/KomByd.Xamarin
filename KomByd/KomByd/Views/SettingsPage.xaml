@@ -6,12 +6,12 @@
     <ContentPage.Content>
         <renderers:SettingsView HasUnevenRows="True" SeparatorColor="Transparent" HeaderTextColor="{StaticResource HeaderColor}" HeaderFontSize="20">
             <renderers:Section Title="Ustawienia ogólne">
-                <renderers:PickerCell Title="Wybierz język aplikacji"
+                <!--<renderers:PickerCell Title="Wybierz język aplikacji"
                                       Description="{Binding Language}"
                                       ItemsSource="{Binding LanguageList}"
                                       MaxSelectedNumber="1" 
                                       KeepSelectedUntilBack="true"
-                                      PageTitle="Wybierz język" />
+                                      PageTitle="Wybierz język" />-->
             </renderers:Section>
             <renderers:Section Title="Zarządzanie danymi i aktualizacjami">
                 <renderers:LabelCell Title="Wersja bazy danych" Description="{Binding DatabaseVersion}"/>

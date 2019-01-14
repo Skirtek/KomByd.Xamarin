@@ -6,7 +6,10 @@
              x:Name="TramListPageName">
     <ContentPage.Content>
         <StackLayout BackgroundColor="{StaticResource WhiteColor}">
-            <controls:LinesGridControl ItemsSource="{Binding BindingContext.TramsList, Source={x:Reference TramListPageName}}" />
+            <controls:LinesGridControl
+                Padding="16"
+                ItemsSource="{Binding BindingContext.TramsList, Source={x:Reference TramListPageName}}"
+                Command="{Binding BindingContext.GoToLineDetailsCommand, Source={x:Reference TramListPageName}}"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

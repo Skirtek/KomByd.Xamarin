@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Windows.Input;
 using KomByd.Repository.Models;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
@@ -12,11 +13,14 @@ namespace KomByd.Views.Controls
     {
         private bool WasGridPopulated { get; set; }
 
+        public static readonly BindableProperty CommandProperty =
+            BindableProperty.Create(nameof(Command), typeof(ICommand), typeof(LinesGridControl));
+
         public static readonly BindableProperty ItemsSourceProperty =
             BindableProperty.Create(nameof(ItemsSource),
                 typeof(IEnumerable<Line>),
                 typeof(LinesGridControl),
-                defaultValue: null,
+                defaultValue: new List<Line>(),
                 propertyChanged: (bindable, oldVal, newVal) =>
                 {
                     LinesGridControl self = bindable as LinesGridControl;
@@ -24,7 +28,7 @@ namespace KomByd.Views.Controls
                     {
                         return;
                     }
-                    self.GenerateLinesGrid((IEnumerable<Line>)newVal);
+                     self.GenerateLinesGrid((IEnumerable<Line>)newVal);
                     self.WasGridPopulated = true;
                 });
 
@@ -32,6 +36,12 @@ namespace KomByd.Views.Controls
         {
             get => (IEnumerable<Line>)GetValue(ItemsSourceProperty);
             set => SetValue(ItemsSourceProperty, value);
+        }
+
+        public ICommand Command
+        {
+            get => (ICommand)GetValue(CommandProperty);
+            set => SetValue(CommandProperty, value);
         }
 
         public LinesGridControl() => InitializeComponent();           
@@ -52,12 +62,19 @@ namespace KomByd.Views.Controls
             var columnIndex = 0;
             foreach (var line in lines)
             {
-
+                LinesGrid.Children.Add(PrepareLabel(line.LineNumber), columnIndex, rowIndex);
+                columnIndex++;
+                if (columnIndex == 4)
+                {
+                    columnIndex = 0;
+                    rowIndex++;
+                }
             }
         }
 
         private Label PrepareLabel(string text)
-            => new Label
+        {
+            var label = new Label
             {
                 VerticalOptions = LayoutOptions.Center,
                 HorizontalOptions = LayoutOptions.Center,
@@ -66,5 +83,15 @@ namespace KomByd.Views.Controls
                 FontAttributes = FontAttributes.Bold,
                 Text = text
             };
+
+            TapGestureRecognizer tap = new TapGestureRecognizer();
+            tap.Tapped += (sender, e) =>
+            {
+                Command?.Execute(((Label)sender).Text);
+            };
+            label.GestureRecognizers.Add(tap);
+
+            return label;
+        }
     }
 }

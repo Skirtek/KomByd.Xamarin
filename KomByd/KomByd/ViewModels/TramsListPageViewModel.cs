@@ -2,6 +2,7 @@
 using KomByd.Repository.Abstract;
 using KomByd.Repository.Models;
 using Prism.AppModel;
+using Prism.Commands;
 using Prism.Navigation;
 using Prism.Services;
 
@@ -33,6 +34,11 @@ namespace KomByd.ViewModels
             TramsList = new ObservableCollection<Line>(_linesRepository.GetAllByCondition(x => x.Type == "T"));
         }
 
+        public DelegateCommand<object> GoToLineDetailsCommand => GetBusyDependedCommand<object>(
+            async lineNumber =>
+        {
+            //var x = lineNumber;
+        });
         public void OnDisappearing()
         {
         }
