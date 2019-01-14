@@ -1,7 +1,9 @@
 ﻿using System.Collections.ObjectModel;
+using KomByd.Navigation;
 using KomByd.Repository.Abstract;
 using KomByd.Repository.Models;
 using Prism.AppModel;
+using Prism.Commands;
 using Prism.Navigation;
 using Prism.Services;
 
@@ -33,6 +35,14 @@ namespace KomByd.ViewModels
         {
             BusesList = new ObservableCollection<Line>(_linesRepository.GetAllByCondition(x => x.Type == "Z"));
         }
+
+        public DelegateCommand<object> GoToLineDetailsCommand
+            => GetBusyDependedCommand<object>(
+                async lineNumber =>
+                {
+                    var navParams = new NavigationParameters { { NavParams.LineNumber, lineNumber.ToString() } };
+                    await NavigationService.NavigateAsync(NavSettings.LineDetailsPage, navParams);
+                });
 
         public void OnDisappearing()
         {

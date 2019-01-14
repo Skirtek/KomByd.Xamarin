@@ -61,6 +61,7 @@ namespace KomByd
             containerRegistry.RegisterForNavigation<SettingsPage, SettingsPageViewModel>(NavSettings.SettingsPage);
             containerRegistry.RegisterForNavigation<BusesListPage, BusesListPageViewModel>(NavSettings.BusesListPage);
             containerRegistry.RegisterForNavigation<TramsListPage, TramsListPageViewModel>(NavSettings.TramsListPage);
+            containerRegistry.RegisterForNavigation<LineDetailsPage, LineDetailsPageViewModel>(NavSettings.LineDetailsPage);
         }
 
         private void RegisterAddOns(IContainerRegistry containerRegistry)

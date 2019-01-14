@@ -14,5 +14,6 @@
         public const string BusesListPage = nameof(BusesListPage);
         public const string TramsListPage = nameof(TramsListPage);
         public const string LinesTabbedMainPage = nameof(LinesTabbedMainPage);
+        public const string LineDetailsPage = nameof(LineDetailsPage);
     }
 }

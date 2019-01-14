@@ -8,7 +8,8 @@
         <StackLayout BackgroundColor="{StaticResource WhiteColor}">
             <controls:LinesGridControl
                 Padding="16"
-                ItemsSource="{Binding BindingContext.BusesList, Source={x:Reference BusesListPageName}}" />
+                ItemsSource="{Binding BindingContext.BusesList, Source={x:Reference BusesListPageName}}"
+                Command="{Binding BindingContext.GoToLineDetailsCommand, Source={x:Reference BusesListPageName}}"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
