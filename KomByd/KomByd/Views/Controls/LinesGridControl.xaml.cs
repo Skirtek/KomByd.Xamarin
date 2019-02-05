@@ -28,7 +28,7 @@ namespace KomByd.Views.Controls
                     {
                         return;
                     }
-                     self.GenerateLinesGrid((IEnumerable<Line>)newVal);
+                    self.GenerateLinesGrid((IEnumerable<Line>)newVal);
                     self.WasGridPopulated = true;
                 });
 
@@ -44,12 +44,12 @@ namespace KomByd.Views.Controls
             set => SetValue(CommandProperty, value);
         }
 
-        public LinesGridControl() => InitializeComponent();           
+        public LinesGridControl() => InitializeComponent();
 
         private void GenerateLinesGrid(IEnumerable<Line> linesList)
         {
             var lines = linesList.ToList();
-            for (int i = 0; i < Math.Ceiling((double)lines.Count/4); i++)
+            for (int i = 0; i < Math.Ceiling((double)lines.Count / 4); i++)
             {
                 LinesGrid.RowDefinitions.Add(new RowDefinition { Height = GridLength.Star });
             }
@@ -72,26 +72,18 @@ namespace KomByd.Views.Controls
             }
         }
 
-        private Label PrepareLabel(string text)
-        {
-            var label = new Label
+        private Button PrepareLabel(string text)
+            => new Button
             {
-                VerticalOptions = LayoutOptions.Center,
-                HorizontalOptions = LayoutOptions.Center,
+                VerticalOptions = LayoutOptions.CenterAndExpand,
+                HorizontalOptions = LayoutOptions.CenterAndExpand,
                 FontSize = 20,
                 TextColor = Color.FromHex("#37466F"),
                 FontAttributes = FontAttributes.Bold,
-                Text = text
+                Text = text,
+                Command = Command,
+                CommandParameter = text,
+                BackgroundColor = Color.Transparent
             };
-
-            TapGestureRecognizer tap = new TapGestureRecognizer();
-            tap.Tapped += (sender, e) =>
-            {
-                Command?.Execute(((Label)sender).Text);
-            };
-            label.GestureRecognizers.Add(tap);
-
-            return label;
-        }
     }
 }

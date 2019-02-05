@@ -1,13 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="KomByd.Views.LineDetailsPage"
-             Title="Wybierz przystanek">
+<ContentPage
+    x:Class="KomByd.Views.LineDetailsPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:controls="clr-namespace:KomByd.Views.Controls;assembly=KomByd"
+    x:Name="LineDetailsPageName"
+    Title="Wybierz przystanek">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-        </StackLayout>
+        <ScrollView BackgroundColor="{StaticResource WhiteColor}">
+            <StackLayout>
+                <controls:LineRouteControl GoToStopCommand="{Binding BindingContext.GoToStopCommand, Source={x:Reference LineDetailsPageName}}" ItemsSource="{Binding BindingContext.DirectionFirst, Source={x:Reference LineDetailsPageName}}" />
+                <controls:LineRouteControl ItemsSource="{Binding BindingContext.DirectionSecond, Source={x:Reference LineDetailsPageName}}" />
+            </StackLayout>
+        </ScrollView>
+
     </ContentPage.Content>
 </ContentPage>

@@ -48,8 +48,7 @@ namespace KomByd.Services
                     Id = LastId + 1,
                     Type = lines.Value<string>("typ"),
                     LineNumber = lines.Value<string>("numerlinii"),
-                    DirectionsList = string.Empty
-                    //DirectionsList = lines.Value<string>("kierunki")
+                    DirectionsList = _maps.MapUnicodeCharsToPolishChars(lines["kierunki"].ToString())
                 });
                 LastId++;
             }

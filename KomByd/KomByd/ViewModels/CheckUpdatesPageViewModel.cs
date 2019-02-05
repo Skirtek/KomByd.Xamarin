@@ -49,12 +49,7 @@ namespace KomByd.ViewModels
                 var databaseCheck = await _getDatabaseVersion.GetVersionFromJson();
 
                 string version = databaseCheck.Version;
-                bool didInsertLines = await _prepareLinesList.AddLinesToDatabase();
-                if (!didInsertLines)
-                {
-                    await ShowAlert("Ups!", "Coś poszło nie tak");
-                    return;
-                }
+
                 if (version.Equals(_userSettings.CurrentDatabaseVersion))
                 {
                     return;
@@ -67,12 +62,17 @@ namespace KomByd.ViewModels
                     return;
                 }
 
+                bool didInsertLines = await _prepareLinesList.AddLinesToDatabase();
+                if (!didInsertLines)
+                {
+                    await ShowAlert("Ups!", "Coś poszło nie tak");
+                    return;
+                }
 
                 _userSettings.CurrentDatabaseVersion = version;
             }
-            catch (Exception exception)
+            catch (Exception)
             {
-                var x = exception.Message;
                 await ShowAlert("Ups!", "Nie udało się sprawdzić aktualizacji");
             }
             finally
