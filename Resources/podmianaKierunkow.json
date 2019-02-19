@@ -1,0 +1,38 @@
+{"linie":[
+{   
+	"kierunek": "&#321;osko&#324; Zajezdnia", 
+	"podmiana": "&#321;osko&#324; / Zajezdnia"
+},
+{   
+	"kierunek": "Niepodleg&#322;o&#347;ci p&#281;tla", 
+	"podmiana": "Niepodleg&#322;o&#347;ci (p&#281;tla)"
+},
+{   
+	"kierunek": "Bielawy koniec", 
+	"podmiana": "Bielawy"
+},
+{   
+	"kierunek": "Niklowa - koniec", 
+	"podmiana": "Niklowa"
+},
+{   
+	"kierunek": "Port Lotniczy", 
+	"podmiana": "Port Lotniczy (Airport)"
+},
+{   
+	"kierunek": "Kozielec p&#281;tla", 
+	"podmiana": "Kozielec (p&#281;tla)"
+},
+{   
+	"kierunek": "Zamczysko - p&#281;tla", 
+	"podmiana": "Zamczysko (p&#281;tla)"
+},
+{   
+	"kierunek": "Wilcze - Gdy&#324;ska", 
+	"podmiana": "Wilcze"
+},
+{   
+	"kierunek": "Park Przemyslowy Biurowiec", 
+	"podmiana": "Park Przemys&#322;owy / Biurowiec"
+}
+]}

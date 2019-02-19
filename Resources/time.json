@@ -1,0 +1,1392 @@
+[
+{   
+	"il": "5", 
+	"numerlinii": "1", 
+	"kier1":[ { 
+		"wariant":"Las Gda&#324;ski", 
+		"przystanki":["Wilczak","Nakielska / S&#322;oneczna","Nakielska / Wrzesi&#324;ska","Nakielska / Stawowa","Nakielska / Wroc&#322;awska","Rondo Grunwaldzkie","Garbary","Focha / Opera","Plac Teatralny","Gda&#324;ska / Dworcowa","Plac Wolno&#347;ci","Gda&#324;ska / Cieszkowskiego","Gda&#324;ska / Chodkiewicza","Gda&#324;ska / Artyleryjska","Gda&#324;ska / Powst. Warszawy","Stadion Zawisza","Las Gda&#324;ski"], 
+		"czasy":[0,1,2,4,5,7,9,10,11,13,14,15,17,19,20,22,24] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Wilczak", 
+		"przystanki":["Las Gda&#324;ski","Stadion Zawisza","Gda&#324;ska / Powst. Warszawy","Gda&#324;ska / Artyleryjska","Gda&#324;ska / Chodkiewicza","Gda&#324;ska / Cieszkowskiego","Plac Wolno&#347;ci","Gda&#324;ska / Dworcowa","Focha / Opera","Garbary","Rondo Grunwaldzkie","Nakielska / Wroc&#322;awska","Nakielska / Stawowa","Nakielska / Wrzesi&#324;ska","Nakielska / S&#322;oneczna","Wilczak"], 
+		"czasy":[0,2,4,5,7,9,10,11,13,14,16,18,19,21,22,24] 
+	}],
+	"kier3": [{ 
+		"wariant":"Rycerska", 
+		"przystanki":["Las Gda&#324;ski","Stadion Zawisza","Gda&#324;ska / Powst. Warszawy","Gda&#324;ska / Artyleryjska","Gda&#324;ska / Chodkiewicza","Gda&#324;ska / Cieszkowskiego","Plac Wolno&#347;ci","Gda&#324;ska / Dworcowa","Focha / Opera","Garbary","Garbary","Dworcowa / Matejki","Dworzec G&#322;&oacute;wny","Rycerska"], 
+		"czasy":[0,2,4,5,7,9,10,11,13,14,16,17,19,21] 
+	}],
+	"kier4": [{ 
+		"wariant":"Plac Teatralny", 
+		"przystanki":["Wilczak","Nakielska / S&#322;oneczna","Nakielska / Wrzesi&#324;ska","Nakielska / Stawowa","Nakielska / Wroc&#322;awska","Rondo Grunwaldzkie","Garbary","Focha / Opera","Plac Teatralny"], 
+		"czasy":[0,1,2,4,5,7,9,10,11] 
+	}],
+	"kier5": [{ 
+		"wariant":"Gda&#324;ska / Dworcowa", 
+		"przystanki":["Las Gda&#324;ski","Stadion Zawisza","Gda&#324;ska / Powst. Warszawy","Gda&#324;ska / Artyleryjska","Gda&#324;ska / Chodkiewicza","Gda&#324;ska / Cieszkowskiego","Plac Wolno&#347;ci","Gda&#324;ska / Dworcowa"], 
+		"czasy":[0,2,4,5,7,9,10,11] 
+	}]
+},
+{   
+	"il": "3", 
+	"numerlinii": "2", 
+	"kier1":[ { 
+		"wariant":"Babia Wie&#347;", 
+		"przystanki":["Las Gda&#324;ski","Stadion Zawisza","Gda&#324;ska / Powst. Warszawy","Gda&#324;ska / Artyleryjska","Gda&#324;ska / Chodkiewicza","Gda&#324;ska / Cieszkowskiego","Plac Wolno&#347;ci","Gda&#324;ska / Dworcowa","Rondo Jagiellon&oacute;w","Dworzec Autobusowy","Jagiello&#324;ska / &#321;u&#380;ycka","Rondo Fordo&#324;skie","Rondo Toru&#324;skie","Toru&#324;ska / Hala","Toru&#324;ska / &#379;upy","Babia Wie&#347;"], 
+		"czasy":[0,2,4,5,7,9,10,11,13,15,17,18,20,22,24,26] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Las Gda&#324;ski", 
+		"przystanki":["Babia Wie&#347;","Toru&#324;ska / &#379;upy","Toru&#324;ska / Hala","Rondo Toru&#324;skie","Rondo Fordo&#324;skie","Jagiello&#324;ska / &#321;u&#380;ycka","Dworzec Autobusowy","Rondo Jagiellon&oacute;w","Gda&#324;ska / Dworcowa","Plac Wolno&#347;ci","Gda&#324;ska / Cieszkowskiego","Gda&#324;ska / Chodkiewicza","Gda&#324;ska / Artyleryjska","Gda&#324;ska / Powst. Warszawy","Stadion Zawisza","Las Gda&#324;ski"], 
+		"czasy":[0,1,3,5,7,8,10,12,14,15,16,17,19,20,22,24] 
+	}],
+	"kier3": [{ 
+		"wariant":"Rondo Fordo&#324;skie", 
+		"przystanki":["Las Gda&#324;ski","Stadion Zawisza","Gda&#324;ska / Powst. Warszawy","Gda&#324;ska / Artyleryjska","Gda&#324;ska / Chodkiewicza","Gda&#324;ska / Cieszkowskiego","Plac Wolno&#347;ci","Gda&#324;ska / Dworcowa","Rondo Jagiellon&oacute;w","Dworzec Autobusowy","Jagiello&#324;ska / &#321;u&#380;ycka","Rondo Fordo&#324;skie"], 
+		"czasy":[0,2,4,5,7,9,10,11,13,15,17,18] 
+	}]
+},
+{   
+	"il": "3", 
+	"numerlinii": "3", 
+	"kier1":[ { 
+		"wariant":"&#321;osko&#324;", 
+		"przystanki":["Wilczak","Nakielska / S&#322;oneczna","Nakielska / Wrzesi&#324;ska","Nakielska / Stawowa","Nakielska / Wroc&#322;awska","Rondo Grunwaldzkie","Garbary","Focha / Opera","Plac Teatralny","Rondo Jagiellon&oacute;w","Dworzec Autobusowy","Jagiello&#324;ska / &#321;u&#380;ycka","Rondo Fordo&#324;skie","Rondo Fordo&#324;skie","Fordo&#324;ska / Ba&#322;tycka","Most Kazimierza Wielkiego","Fordo&#324;ska / Fabryczna","Fordo&#324;ska / Wy&#347;cigowa","Dworzec Wsch&oacute;d","Akademicka / Rejewskiego","Akademicka / Romanowskiej","Przylesie","Akademicka / Kaliskiego (UTP)","Akademicka / Igrzyskowa","Andersa / Kleeberga","Bajka","Andersa / Wolna","Niepodleg&#322;o&#347;ci","Andersa / Gieryna","&#321;osko&#324;"], 
+		"czasy":[0,1,2,4,5,7,9,10,11,13,15,17,18,20,21,23,24,26,27,30,31,33,34,36,38,39,41,42,44,45] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Wilczak", 
+		"przystanki":["&#321;osko&#324;","Andersa / Gieryna","Niepodleg&#322;o&#347;ci","Andersa / Wolna","Bajka","Andersa / Kleeberga","Akademicka / Igrzyskowa","Akademicka / Kaliskiego (UTP)","Przylesie","Akademicka / Romanowskiej","Akademicka / Rejewskiego","Dworzec Wsch&oacute;d","Fordo&#324;ska / Wy&#347;cigowa","Fordo&#324;ska / Fabryczna","Most Kazimierza Wielkiego","Fordo&#324;ska / Ba&#322;tycka","Rondo Fordo&#324;skie","Rondo Fordo&#324;skie","Jagiello&#324;ska / &#321;u&#380;ycka","Dworzec Autobusowy","Rondo Jagiellon&oacute;w","Focha / Opera","Garbary","Rondo Grunwaldzkie","Nakielska / Wroc&#322;awska","Nakielska / Stawowa","Nakielska / Wrzesi&#324;ska","Nakielska / S&#322;oneczna","Wilczak"], 
+		"czasy":[0,1,3,4,6,7,9,10,11,12,14,17,18,20,22,23,24,26,27,29,31,33,34,36,38,39,41,42,44] 
+	}],
+	"kier3": [{ 
+		"wariant":"Rondo Fordo&#324;skie", 
+		"przystanki":["&#321;osko&#324;","Andersa / Gieryna","Niepodleg&#322;o&#347;ci","Andersa / Wolna","Bajka","Andersa / Kleeberga","Akademicka / Igrzyskowa","Akademicka / Kaliskiego (UTP)","Przylesie","Akademicka / Romanowskiej","Akademicka / Rejewskiego","Dworzec Wsch&oacute;d","Fordo&#324;ska / Wy&#347;cigowa","Fordo&#324;ska / Fabryczna","Most Kazimierza Wielkiego","Fordo&#324;ska / Ba&#322;tycka","Rondo Fordo&#324;skie"], 
+		"czasy":[0,1,3,4,6,7,9,10,11,12,14,17,18,20,22,23,24] 
+	}]
+},
+{   
+	"il": "3", 
+	"numerlinii": "4", 
+	"kier1":[ { 
+		"wariant":"Babia Wie&#347;", 
+		"przystanki":["Bielawy","Chodkiewicza / Lelewela","UKW","Chodkiewicza / Paderewskiego","Chodkiewicza / Gda&#324;ska","Gda&#324;ska / Cieszkowskiego","Plac Wolno&#347;ci","Gda&#324;ska / Dworcowa","Rondo Jagiellon&oacute;w","Dworzec Autobusowy","Jagiello&#324;ska / &#321;u&#380;ycka","Rondo Fordo&#324;skie","Rondo Toru&#324;skie","Toru&#324;ska / Hala","Toru&#324;ska / &#379;upy","Babia Wie&#347;"], 
+		"czasy":[0,1,2,4,6,8,9,10,12,14,16,17,19,21,23,25] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Bielawy", 
+		"przystanki":["Babia Wie&#347;","Toru&#324;ska / &#379;upy","Toru&#324;ska / Hala","Rondo Toru&#324;skie","Rondo Fordo&#324;skie","Jagiello&#324;ska / &#321;u&#380;ycka","Dworzec Autobusowy","Rondo Jagiellon&oacute;w","Gda&#324;ska / Dworcowa","Plac Wolno&#347;ci","Gda&#324;ska / Cieszkowskiego","Gda&#324;ska / Chodkiewicza","Chodkiewicza / Paderewskiego","UKW","Chodkiewicza / Lelewela","Bielawy"], 
+		"czasy":[0,1,3,5,7,8,10,12,14,15,16,17,19,20,22,23] 
+	}],
+	"kier3": [{ 
+		"wariant":"Rondo Fordo&#324;skie", 
+		"przystanki":["Bielawy","Chodkiewicza / Lelewela","UKW","Chodkiewicza / Paderewskiego","Chodkiewicza / Gda&#324;ska","Gda&#324;ska / Cieszkowskiego","Plac Wolno&#347;ci","Gda&#324;ska / Dworcowa","Rondo Jagiellon&oacute;w","Dworzec Autobusowy","Jagiello&#324;ska / &#321;u&#380;ycka","Rondo Fordo&#324;skie"], 
+		"czasy":[0,1,2,4,6,8,9,10,12,14,16,17] 
+	}]
+},
+{   
+	"il": "3", 
+	"numerlinii": "5", 
+	"kier1":[ { 
+		"wariant":"&#321;osko&#324;", 
+		"przystanki":["Rycerska","Dworzec G&#322;&oacute;wny","Dworcowa / Matejki","Garbary","Garbary","Focha / Opera","Plac Teatralny","Rondo Jagiellon&oacute;w","Dworzec Autobusowy","Jagiello&#324;ska / &#321;u&#380;ycka","Rondo Fordo&#324;skie","Rondo Fordo&#324;skie","Fordo&#324;ska / Ba&#322;tycka","Most Kazimierza Wielkiego","Fordo&#324;ska / Fabryczna","Fordo&#324;ska / Wy&#347;cigowa","Dworzec Wsch&oacute;d","Akademicka / Rejewskiego","Akademicka / Romanowskiej","Przylesie","Akademicka / Kaliskiego (UTP)","Akademicka / Igrzyskowa","Andersa / Kleeberga","Bajka","Andersa / Wolna","Niepodleg&#322;o&#347;ci","Andersa / Gieryna","&#321;osko&#324;"], 
+		"czasy":[0,2,4,5,7,8,9,11,13,15,16,18,19,21,22,24,25,28,29,31,32,34,36,37,39,40,42,43] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Rycerska", 
+		"przystanki":["&#321;osko&#324;","Andersa / Gieryna","Niepodleg&#322;o&#347;ci","Andersa / Wolna","Bajka","Andersa / Kleeberga","Akademicka / Igrzyskowa","Akademicka / Kaliskiego (UTP)","Przylesie","Akademicka / Romanowskiej","Akademicka / Rejewskiego","Dworzec Wsch&oacute;d","Fordo&#324;ska / Wy&#347;cigowa","Fordo&#324;ska / Fabryczna","Most Kazimierza Wielkiego","Fordo&#324;ska / Ba&#322;tycka","Rondo Fordo&#324;skie","Rondo Fordo&#324;skie","Jagiello&#324;ska / &#321;u&#380;ycka","Dworzec Autobusowy","Rondo Jagiellon&oacute;w","Focha / Opera","Garbary","Garbary","Dworcowa / Matejki","Dworzec G&#322;&oacute;wny","Rycerska"], 
+		"czasy":[0,1,3,4,6,7,9,10,11,12,14,17,18,20,22,23,24,26,27,29,31,33,34,36,37,39,41] 
+	}],
+	"kier3": [{ 
+		"wariant":"Rondo Fordo&#324;skie", 
+		"przystanki":["Rycerska","Dworzec G&#322;&oacute;wny","Dworcowa / Matejki","Garbary","Garbary","Focha / Opera","Plac Teatralny","Rondo Jagiellon&oacute;w","Dworzec Autobusowy","Jagiello&#324;ska / &#321;u&#380;ycka","Rondo Fordo&#324;skie"], 
+		"czasy":[0,2,4,5,7,8,9,11,13,15,16] 
+	}]
+},
+{   
+	"il": "4", 
+	"numerlinii": "6", 
+	"kier1":[ { 
+		"wariant":"Bielawy", 
+		"przystanki":["&#321;&#281;gnowo","Hutnicza / Nowotoru&#324;ska","Stomil","Toru&#324;ska / Stomil (brama)","Toru&#324;ska / Sporna","Toru&#324;ska / Kielecka","Toru&#324;ska / R&oacute;wna","Toru&#324;ska / Tor awaryjny","Toru&#324;ska / Zajezdnia Tramwajowa","Toru&#324;ska / Kazimierza Wielkiego","Toru&#324;ska / Filmowa","Toru&#324;ska / Per&#322;owa","Rondo Toru&#324;skie","Rondo Fordo&#324;skie","Jagiello&#324;ska / &#321;u&#380;ycka","Dworzec Autobusowy","Rondo Jagiellon&oacute;w","Gda&#324;ska / Dworcowa","Plac Wolno&#347;ci","Gda&#324;ska / Cieszkowskiego","Gda&#324;ska / Chodkiewicza","Chodkiewicza / Paderewskiego","UKW","Chodkiewicza / Lelewela","Bielawy"], 
+		"czasy":[0,2,5,7,8,9,10,11,12,14,15,17,20,23,24,26,28,30,31,32,34,36,37,39,40] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Toru&#324;ska / Zajezdnia Tramwajowa", 
+		"przystanki":["&#321;&#281;gnowo","Hutnicza / Nowotoru&#324;ska","Stomil","Toru&#324;ska / Stomil (brama)","Toru&#324;ska / Sporna","Toru&#324;ska / Kielecka","Toru&#324;ska / R&oacute;wna","Toru&#324;ska / Tor awaryjny","Toru&#324;ska / Zajezdnia Tramwajowa"], 
+		"czasy":[0,2,5,7,8,9,10,11,12] 
+	}],
+	"kier3": [{ 
+		"wariant":"&#321;&#281;gnowo", 
+		"przystanki":["Bielawy","Chodkiewicza / Lelewela","UKW","Chodkiewicza / Paderewskiego","Chodkiewicza / Gda&#324;ska","Gda&#324;ska / Cieszkowskiego","Plac Wolno&#347;ci","Gda&#324;ska / Dworcowa","Rondo Jagiellon&oacute;w","Dworzec Autobusowy","Jagiello&#324;ska / &#321;u&#380;ycka","Rondo Fordo&#324;skie","Rondo Toru&#324;skie","Toru&#324;ska / Per&#322;owa","Toru&#324;ska / Filmowa","Toru&#324;ska / Kazimierza Wielkiego","Toru&#324;ska / Zajezdnia Tramwajowa","Toru&#324;ska / Tor awaryjny","Toru&#324;ska / R&oacute;wna","Toru&#324;ska / Kielecka","Toru&#324;ska / Sporna","Toru&#324;ska / Stomil (brama)","Stomil","Hutnicza / Nowotoru&#324;ska","&#321;&#281;gnowo"], 
+		"czasy":[0,1,2,4,6,8,9,10,12,14,16,17,20,23,25,27,28,29,30,31,33,34,36,38,40] 
+	}],
+	"kier4": [{ 
+		"wariant":"Toru&#324;ska / Kazimierza Wielkiego", 
+		"przystanki":["Bielawy","Chodkiewicza / Lelewela","UKW","Chodkiewicza / Paderewskiego","Chodkiewicza / Gda&#324;ska","Gda&#324;ska / Cieszkowskiego","Plac Wolno&#347;ci","Gda&#324;ska / Dworcowa","Rondo Jagiellon&oacute;w","Dworzec Autobusowy","Jagiello&#324;ska / &#321;u&#380;ycka","Rondo Fordo&#324;skie","Rondo Toru&#324;skie","Toru&#324;ska / Per&#322;owa","Toru&#324;ska / Filmowa","Toru&#324;ska / Kazimierza Wielkiego"], 
+		"czasy":[0,1,2,4,6,8,9,10,12,14,16,17,20,23,25,27] 
+	}]
+},
+{   
+	"il": "4", 
+	"numerlinii": "7", 
+	"kier1":[ { 
+		"wariant":"Zajezdnia Tramwajowa", 
+		"przystanki":["Niepodleg&#322;o&#347;ci (p&#281;tla)","Niepodleg&#322;o&#347;ci","Andersa / Wolna","Bajka","Andersa / Kleeberga","Akademicka / Igrzyskowa","Akademicka / Kaliskiego (UTP)","Przylesie","Akademicka / Romanowskiej","Akademicka / Rejewskiego","Dworzec Wsch&oacute;d","Fordo&#324;ska / Wy&#347;cigowa","Fordo&#324;ska / Fabryczna","Most Kazimierza Wielkiego","Fordo&#324;ska / Ba&#322;tycka","Rondo Fordo&#324;skie","Rondo Toru&#324;skie","Toru&#324;ska / Per&#322;owa","Toru&#324;ska / Filmowa","Toru&#324;ska / Kazimierza Wielkiego.","Zajezdnia Tramwajowa"], 
+		"czasy":[0,2,3,5,6,8,9,10,11,13,16,17,19,21,22,23,26,29,31,33,35] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Niepodleg&#322;o&#347;ci (p&#281;tla)", 
+		"przystanki":["Zajezdnia Tramwajowa","Toru&#324;ska / Kazimierza Wielkiego","Toru&#324;ska / Filmowa","Toru&#324;ska / Per&#322;owa","Rondo Toru&#324;skie","Rondo Fordo&#324;skie","Fordo&#324;ska / Ba&#322;tycka","Most Kazimierza Wielkiego","Fordo&#324;ska / Fabryczna","Fordo&#324;ska / Wy&#347;cigowa","Dworzec Wsch&oacute;d","Akademicka / Rejewskiego","Akademicka / Romanowskiej","Przylesie","Akademicka / Kaliskiego (UTP)","Akademicka / Igrzyskowa","Andersa / Kleeberga","Bajka","Andersa / Wolna","Niepodleg&#322;o&#347;ci","Niepodleg&#322;o&#347;ci (p&#281;tla)"], 
+		"czasy":[0,2,3,5,8,11,12,14,15,17,18,21,22,24,25,27,29,30,32,33,34] 
+	}],
+	"kier3": [{ 
+		"wariant":"Zajezdnia Tramwajowa&Loskon", 
+		"przystanki":["&#321;osko&#324;","Andersa / Gieryna","Niepodleg&#322;o&#347;ci (p&#281;tla)","Niepodleg&#322;o&#347;ci","Andersa / Wolna","Bajka","Andersa / Kleeberga","Akademicka / Igrzyskowa","Akademicka / Kaliskiego (UTP)","Przylesie","Akademicka / Romanowskiej","Akademicka / Rejewskiego","Dworzec Wsch&oacute;d","Fordo&#324;ska / Wy&#347;cigowa","Fordo&#324;ska / Fabryczna","Most Kazimierza Wielkiego","Fordo&#324;ska / Ba&#322;tycka","Rondo Fordo&#324;skie","Rondo Toru&#324;skie","Toru&#324;ska / Per&#322;owa","Toru&#324;ska / Filmowa","Toru&#324;ska / Kazimierza Wielkiego","Zajezdnia Tramwajowa"], 
+		"czasy":[0,1,3,5,6,8,9,11,12,13,14,16,19,20,22,24,25,26,29,32,34,36,38] 
+	}],
+	"kier4": [{ 
+		"wariant":"&#321;osko&#324;", 
+		"przystanki":["Zajezdnia Tramwajowa","Toru&#324;ska / Kazimierza Wielkiego","Toru&#324;ska / Filmowa","Toru&#324;ska / Per&#322;owa","Rondo Toru&#324;skie","Rondo Fordo&#324;skie","Fordo&#324;ska / Ba&#322;tycka","Most Kazimierza Wielkiego","Fordo&#324;ska / Fabryczna","Fordo&#324;ska / Wy&#347;cigowa","Dworzec Wsch&oacute;d","Akademicka / Rejewskiego","Akademicka / Romanowskiej","Przylesie","Akademicka / Kaliskiego (UTP)","Akademicka / Igrzyskowa","Andersa / Kleeberga","Bajka","Andersa / Wolna","Niepodleg&#322;o&#347;ci","Niepodleg&#322;o&#347;ci (p&#281;tla)","Andersa / Gieryna","&#321;osko&#324;"], 
+		"czasy":[0,2,3,5,8,11,12,14,15,17,18,21,22,24,25,27,29,30,32,33,34,36,37] 
+	}]
+},
+{   
+	"il": "2", 
+	"numerlinii": "8", 
+	"kier1":[ { 
+		"wariant":"Rycerska", 
+		"przystanki":["Zajezdnia Tramwajowa","Toru&#324;ska / Kazimierza Wielkiego","Toru&#324;ska / Filmowa","Toru&#324;ska / Per&#322;owa","Rondo Toru&#324;skie","Rondo Fordo&#324;skie","Jagiello&#324;ska / &#321;u&#380;ycka","Dworzec Autobusowy","Rondo Jagiellon&oacute;w","Focha / Opera","Garbary","Garbary","Dworcowa / Matejki","Dworzec G&#322;&oacute;wny","Rycerska"], 
+		"czasy":[0,2,3,5,8,11,12,14,16,18,19,21,22,24,26] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Zajezdnia Tramwajowa", 
+		"przystanki":["Rycerska","Dworzec G&#322;&oacute;wny","Dworcowa / Matejki","Garbary","Garbary","Focha / Opera","Plac Teatralny","Rondo Jagiellon&oacute;w","Dworzec Autobusowy","Jagiello&#324;ska / &#321;u&#380;ycka","Rondo Fordo&#324;skie","Rondo Toru&#324;skie","Toru&#324;ska / Per&#322;owa","Toru&#324;ska / Filmowa","Toru&#324;ska / Kazimierza Wielkiego","Zajezdnia Tramwajowa"], 
+		"czasy":[0,2,4,5,7,8,9,11,13,15,16,19,22,24,26,28] 
+	}]
+},
+{   
+	"il": "5", 
+	"numerlinii": "10", 
+	"kier1":[ { 
+		"wariant":"Las Gda&#324;ski", 
+		"przystanki":["Niepodleg&#322;o&#347;ci (p&#281;tla)","Niepodleg&#322;o&#347;ci","Andersa / Wolna","Bajka","Andersa / Kleeberga","Akademicka / Igrzyskowa","Akademicka / Kaliskiego (UTP)","Przylesie","Akademicka / Romanowskiej","Akademicka / Rejewskiego","Dworzec Wsch&oacute;d","Fordo&#324;ska / Wy&#347;cigowa","Fordo&#324;ska / Fabryczna","Most Kazimierza Wielkiego","Fordo&#324;ska / Ba&#322;tycka","Rondo Fordo&#324;skie","Rondo Fordo&#324;skie","Jagiello&#324;ska / &#321;u&#380;ycka","Dworzec Autobusowy","Rondo Jagiellon&oacute;w","Gda&#324;ska / Dworcowa","Plac Wolno&#347;ci","Gda&#324;ska / Cieszkowskiego","Gda&#324;ska / Chodkiewicza","Gda&#324;ska / Artyleryjska","Gda&#324;ska / Powst. Warszawy","Stadion Zawisza","Las Gda&#324;ski"], 
+		"czasy":[0,2,3,5,6,8,9,10,11,13,16,17,19,21,22,23,25,26,28,30,32,33,34,35,37,38,40,42] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Niepodleg&#322;o&#347;ci (p&#281;tla)", 
+		"przystanki":["Las Gda&#324;ski","Stadion Zawisza","Gda&#324;ska / Powst. Warszawy","Gda&#324;ska / Artyleryjska","Gda&#324;ska / Chodkiewicza","Gda&#324;ska / Cieszkowskiego","Plac Wolno&#347;ci","Gda&#324;ska / Dworcowa","Rondo Jagiellon&oacute;w","Dworzec Autobusowy","Jagiello&#324;ska / &#321;u&#380;ycka","Rondo Fordo&#324;skie","Rondo Fordo&#324;skie","Fordo&#324;ska / Ba&#322;tycka","Most Kazimierza Wielkiego","Fordo&#324;ska / Fabryczna","Fordo&#324;ska / Wy&#347;cigowa","Dworzec Wsch&oacute;d","Akademicka / Rejewskiego","Akademicka / Romanowskiej","Przylesie","Akademicka / Kaliskiego (UTP)","Akademicka / Igrzyskowa","Andersa / Kleeberga","Bajka","Andersa / Wolna","Niepodleg&#322;o&#347;ci","Niepodleg&#322;o&#347;ci (p&#281;tla)"], 
+		"czasy":[0,2,4,5,7,9,10,11,13,15,17,18,20,21,23,24,26,27,30,31,33,34,36,38,39,41,42,43] 
+	}],
+	"kier3": [{ 
+		"wariant":"Rondo Fordo&#324;skie", 
+		"przystanki":["Las Gda&#324;ski","Stadion Zawisza","Gda&#324;ska / Powst. Warszawy","Gda&#324;ska / Artyleryjska","Gda&#324;ska / Chodkiewicza","Gda&#324;ska / Cieszkowskiego","Plac Wolno&#347;ci","Gda&#324;ska / Dworcowa","Rondo Jagiellon&oacute;w","Dworzec Autobusowy","Jagiello&#324;ska / &#321;u&#380;ycka","Rondo Fordo&#324;skie"], 
+		"czasy":[0,2,4,5,7,9,10,11,13,15,17,18] 
+	}],
+	"kier4": [{ 
+		"wariant":"&#321;osko&#324;", 
+		"przystanki":["Las Gda&#324;ski","Stadion Zawisza","Gda&#324;ska / Powst. Warszawy","Gda&#324;ska / Artyleryjska","Gda&#324;ska / Chodkiewicza","Gda&#324;ska / Cieszkowskiego","Plac Wolno&#347;ci","Gda&#324;ska / Dworcowa","Rondo Jagiellon&oacute;w","Dworzec Autobusowy","Jagiello&#324;ska / &#321;u&#380;ycka","Rondo Fordo&#324;skie","Rondo Fordo&#324;skie","Fordo&#324;ska / Ba&#322;tycka","Most Kazimierza Wielkiego","Fordo&#324;ska / Fabryczna","Fordo&#324;ska / Wy&#347;cigowa","Dworzec Wsch&oacute;d","Akademicka / Rejewskiego","Akademicka / Romanowskiej","Przylesie","Akademicka / Kaliskiego (UTP)","Akademicka / Igrzyskowa","Andersa / Kleeberga","Bajka","Andersa / Wolna","Niepodleg&#322;o&#347;ci","Niepodleg&#322;o&#347;ci (p&#281;tla)","Andersa / Gieryna","&#321;osko&#324;"], 
+		"czasy":[0,2,4,5,7,9,10,11,13,15,17,18,20,21,23,24,26,27,30,31,33,34,36,38,39,41,42,43,45,46] 
+	}],
+	"kier5": [{ 
+		"wariant":"Las Gda&#324;ski&Loskon", 
+		"przystanki":["&#321;osko&#324;","Andersa / Gieryna","Niepodleg&#322;o&#347;ci (p&#281;tla)","Niepodleg&#322;o&#347;ci","Andersa / Wolna","Bajka","Andersa / Kleeberga","Akademicka / Igrzyskowa","Akademicka / Kaliskiego (UTP)","Przylesie","Akademicka / Romanowskiej","Akademicka / Rejewskiego","Dworzec Wsch&oacute;d","Fordo&#324;ska / Wy&#347;cigowa","Fordo&#324;ska / Fabryczna","Most Kazimierza Wielkiego","Fordo&#324;ska / Ba&#322;tycka","Rondo Fordo&#324;skie","Rondo Fordo&#324;skie","Jagiello&#324;ska / &#321;u&#380;ycka","Dworzec Autobusowy","Rondo Jagiellon&oacute;w","Gda&#324;ska / Dworcowa","Plac Wolno&#347;ci","Gda&#324;ska / Cieszkowskiego","Gda&#324;ska / Chodkiewicza","Gda&#324;ska / Artyleryjska","Gda&#324;ska / Powst. Warszawy","Stadion Zawisza","Las Gda&#324;ski"], 
+		"czasy":[0,1,3,5,6,8,9,11,12,13,14,16,19,20,22,24,25,26,28,29,31,33,35,36,37,38,40,41,43,45] 
+	}]
+},
+{   
+	"il": "3", 
+	"numerlinii": "51", 
+	"kier1":[ { 
+		"wariant":"Czy&#380;k&oacute;wko", 
+		"przystanki":["Plac Ko&#347;cieleckich","Nowy Rynek","Plac Pozna&#324;ski","Rondo Grunwaldzkie","Grunwaldzka / Kana&#322;owa","Grunwaldzka / Czarna Droga","Grunwaldzka / Kraszewskiego","Rondo Maczka","Kraje&#324;ska / Koronowska","Wiejska / Kraje&#324;ska","Wiejska / Chojnicka","Deszczowa / Wiejska","Deszczowa / Wichrowa","Czy&#380;k&oacute;wko"], 
+		"czasy":[0,3,5,7,8,9,10,12,14,15,16,18,19,20] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Plac Ko&#347;cieleckich", 
+		"przystanki":["Czy&#380;k&oacute;wko","Deszczowa / Wichrowa","Wiejska / Deszczowa","Wiejska / Chojnicka","Kraje&#324;ska / Wiejska","Nad Torem / Orlicza","Rondo Maczka","Grunwaldzka / Kraszewskiego","Grunwaldzka / Czarna Droga","Grunwaldzka / Kana&#322;owa","Rondo Grunwaldzkie","Plac Pozna&#324;ski","Nowy Rynek","Zbo&#380;owy Rynek","Rondo Jagiellon&oacute;w","Plac Ko&#347;cieleckich"], 
+		"czasy":[0,1,2,3,4,6,7,9,10,11,14,16,18,19,22,23] 
+	}],
+	"kier3": [{ 
+		"wariant":"Zbo&#380;owy Rynek", 
+		"przystanki":["Czy&#380;k&oacute;wko","Deszczowa / Wichrowa","Wiejska / Deszczowa","Wiejska / Chojnicka","Kraje&#324;ska / Wiejska","Nad Torem / Orlicza","Rondo Maczka","Grunwaldzka / Kraszewskiego","Grunwaldzka / Czarna Droga","Grunwaldzka / Kana&#322;owa","Rondo Grunwaldzkie","Plac Pozna&#324;ski","Nowy Rynek","Zbo&#380;owy Rynek"], 
+		"czasy":[0,1,2,3,4,6,7,9,10,11,14,16,18,19] 
+	}]
+},
+{   
+	"il": "5", 
+	"numerlinii": "52", 
+	"kier1":[ { 
+		"wariant":"B&#322;onie", 
+		"przystanki":["Dworzec Le&#347;ne","Le&#347;ne","Su&#322;kowskiego / Czerkaska","Su&#322;kowskiego / Kamienna","UKW","Paderewskiego","3 Maja / Markwarta","Rondo Jagiellon&oacute;w","Zbo&#380;owy Rynek","Nowy Rynek","Plac Pozna&#324;ski","Szubi&#324;ska / Pi&#281;kna","Szubi&#324;ska / Gnie&#378;nie&#324;ska","Szubi&#324;ska / &#379;wirki i Wigury","B&#322;onie"], 
+		"czasy":[0,1,2,4,6,8,9,12,14,15,17,20,21,23,25] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Dworzec Le&#347;ne", 
+		"przystanki":["B&#322;onie","Szubi&#324;ska / &#379;wirki i Wigury","Szubi&#324;ska / Gnie&#378;nie&#324;ska","Szubi&#324;ska / Pi&#281;kna","Plac Pozna&#324;ski","Nowy Rynek","Zbo&#380;owy Rynek","Rondo Jagiellon&oacute;w","Markwarta / 3 Maja","Rondo Ossoli&#324;skich","Plac Weyssenhoffa","UKW","Su&#322;kowskiego / Kamienna","Su&#322;kowskiego / Czerkaska","Le&#347;ne","Dworzec Le&#347;ne"], 
+		"czasy":[0,2,4,6,8,10,11,13,15,17,18,21,23,24,25,26] 
+	}],
+	"kier3": [{ 
+		"wariant":"Podkowa", 
+		"przystanki":["B&#322;onie","Szubi&#324;ska / &#379;wirki i Wigury","Szubi&#324;ska / Gnie&#378;nie&#324;ska","Szubi&#324;ska / Pi&#281;kna","Plac Pozna&#324;ski","Nowy Rynek","Zbo&#380;owy Rynek","Rondo Jagiellon&oacute;w","Markwarta / 3 Maja","Rondo Ossoli&#324;skich","Plac Weyssenhoffa","UKW","Su&#322;kowskiego / Kamienna","Su&#322;kowskiego / Czerkaska","Le&#347;ne","Modrzewiowa / Gda&#324;ska","Las Gda&#324;ski","My&#347;l&#281;cinek","Zamczysko / Gda&#324;ska","Armii Krajowej / Zamczysko","Je&#378;dziecka / Gda&#324;ska","Je&#378;dziecka / Ogr&oacute;d Botaniczny","Je&#378;dziecka / Hipiczna","Je&#378;dziecka / D&#380;okejowa","Podkowa"], 
+		"czasy":[0,2,4,6,8,10,11,13,15,17,18,21,23,24,26,27,29,32,35,36,39,40,41,43,44] 
+	}],
+	"kier4": [{ 
+		"wariant":"B&#322;onie&Podkowa", 
+		"przystanki":["Podkowa","Je&#378;dziecka / D&#380;okejowa","Je&#378;dziecka / Hipiczna","Je&#378;dziecka / Ogr&oacute;d Botaniczny","Armii Krajowej / Je&#378;dziecka","Zamczysko / Armii Krajowej","Zamczysko / Gda&#324;ska","My&#347;l&#281;cinek","Las Gda&#324;ski","Modrzewiowa / Gda&#324;ska","Le&#347;ne","Su&#322;kowskiego / Czerkaska","Su&#322;kowskiego / Kamienna","UKW","Paderewskiego","3 Maja / Markwarta","Rondo Jagiellon&oacute;w","Zbo&#380;owy Rynek","Nowy Rynek","Plac Pozna&#324;ski","Szubi&#324;ska / Pi&#281;kna","Szubi&#324;ska / Gnie&#378;nie&#324;ska","Szubi&#324;ska / &#379;wirki i Wigury","B&#322;onie"], 
+		"czasy":[0,1,3,4,6,9,10,13,16,18,20,21,23,25,27,28,31,33,34,36,39,40,42,44] 
+	}],
+	"kier5": [{ 
+		"wariant":"Rondo Jagiellon&oacute;w", 
+		"przystanki":["Dworzec Le&#347;ne","Le&#347;ne","Su&#322;kowskiego / Czerkaska","Su&#322;kowskiego / Kamienna","UKW","Paderewskiego","3 Maja / Markwarta","Rondo Jagiellon&oacute;w"], 
+		"czasy":[0,1,2,4,6,8,9,12] 
+	}]
+},
+{   
+	"il": "2", 
+	"numerlinii": "53", 
+	"kier1":[ { 
+		"wariant":"Dworzec B&#322;onie", 
+		"przystanki":["&#321;ukasiewicza","Wojska Polskiego / Prezydenta Lecha Kaczy&#324;skiego","Wojska Polskiego / Szarych Szereg&oacute;w","Wy&#380;yny","Wojska Polskiego / K&#322;adka","Wojska Polskiego / Ujejskiego","Wzg&oacute;rze Wolno&#347;ci","Rondo Kujawskie","Solskiego / Ugory","Solskiego / Bielicka","Solskiego / Kossaka","Szubi&#324;ska / Pi&#281;kna","Szubi&#324;ska / Gnie&#378;nie&#324;ska","Szubi&#324;ska / &#379;wirki i Wigury","Schulza / Szubi&#324;ska","Schulza / Stawowa","Dworzec B&#322;onie"], 
+		"czasy":[0,1,2,4,6,8,10,12,14,15,17,19,20,22,24,25,26] 
+	}], 
+	"kier2": [{ 
+		"wariant":"&#321;ukasiewicza", 
+		"przystanki":["Dworzec B&#322;onie","Schulza / Stawowa","Schulza / Szubi&#324;ska","Szubi&#324;ska / &#379;wirki i Wigury","Szubi&#324;ska / Gnie&#378;nie&#324;ska","Pi&#281;kna / Szubi&#324;ska","Solskiego / Kossaka","Solskiego / Bielicka","Solskiego / Ugory","Rondo Kujawskie","Wzg&oacute;rze Wolno&#347;ci","Wojska Polskiego / Ujejskiego","Wojska Polskiego / K&#322;adka","Wy&#380;yny","Wojska Polskiego / Szarych Szereg&oacute;w","Wojska Polskiego / Prezydenta Lecha Kaczy&#324;skiego","Baczy&#324;skiego / Wojska Polskiego","Baczy&#324;skiego / Sandomierska","&#321;ukasiewicza"], 
+		"czasy":[0,1,2,4,6,8,10,11,13,15,17,19,20,22,24,25,26,27,28] 
+	}]
+},
+{   
+	"il": "6", 
+	"numerlinii": "54", 
+	"kier1":[ { 
+		"wariant":"B&#322;onie", 
+		"przystanki":["Piaski","Smukalska / B&#322;&#261;dzimska","Saper&oacute;w / K&#261;pielisko","Saper&oacute;w / Komandos&oacute;w","Saper&oacute;w / Czo&#322;gist&oacute;w","Saper&oacute;w / Zak&#261;tek","Saper&oacute;w / Ludwikowo","&#379;eglarska / Ludwikowo","Dworzec G&#322;&oacute;wny","Garbary","Rondo Grunwaldzkie","Plac Pozna&#324;ski","Szubi&#324;ska / Pi&#281;kna","Szubi&#324;ska / Gnie&#378;nie&#324;ska","Szubi&#324;ska / &#379;wirki i Wigury","B&#322;onie"], 
+		"czasy":[0,1,4,6,7,8,9,10,14,18,21,22,25,26,28,30] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Piaski", 
+		"przystanki":["B&#322;onie","Szubi&#324;ska / &#379;wirki i Wigury","Szubi&#324;ska / Gnie&#378;nie&#324;ska","Szubi&#324;ska / Pi&#281;kna","Plac Pozna&#324;ski","Rondo Grunwaldzkie","Garbary","Warszawska / Fredry","Dworzec G&#322;&oacute;wny","&#379;eglarska / Ludwikowo","Saper&oacute;w / Ludwikowo","Saper&oacute;w / Zak&#261;tek","Saper&oacute;w / Czo&#322;gist&oacute;w","Saper&oacute;w / Komandos&oacute;w","Saper&oacute;w / K&#261;pielisko","Smukalska / B&#322;&#261;dzimska","Piaski"], 
+		"czasy":[0,2,4,6,8,10,12,15,17,21,22,23,24,25,27,30,31] 
+	}],
+	"kier3": [{ 
+		"wariant":"Smuka&#322;a", 
+		"przystanki":["B&#322;onie","Szubi&#324;ska / &#379;wirki i Wigury","Szubi&#324;ska / Gnie&#378;nie&#324;ska","Szubi&#324;ska / Pi&#281;kna","Plac Pozna&#324;ski","Rondo Grunwaldzkie","Garbary","Warszawska / Fredry","Dworzec G&#322;&oacute;wny","&#379;eglarska / Ludwikowo","Saper&oacute;w / Ludwikowo","Saper&oacute;w / Zak&#261;tek","Saper&oacute;w / Czo&#322;gist&oacute;w","Saper&oacute;w / Komandos&oacute;w","Saper&oacute;w / K&#261;pielisko","Smukalska / B&#322;&#261;dzimska","Piaski","Smukalska / Sanktuarium","Smukalska / Agrestowa","Smukalska / Baranowskiego","Smuka&#322;a"], 
+		"czasy":[0,2,4,6,8,10,12,15,17,21,22,23,24,25,27,30,31,32,33,34,36] 
+	}],
+	"kier4": [{ 
+		"wariant":"B&#322;onie&Pileckiego", 
+		"przystanki":["Piaski","Smukalska / B&#322;&#261;dzimska","Saper&oacute;w / K&#261;pielisko","Saper&oacute;w / Komandos&oacute;w","Saper&oacute;w / Czo&#322;gist&oacute;w","Saper&oacute;w / Zak&#261;tek","Saper&oacute;w / Ludwikowo","&#379;eglarska / Ludwikowo","Pileckiego / Kmicica","Pileckiego / Rynkowska","Za&#347;wiat / Artyleryjska","Dworzec G&#322;&oacute;wny","Garbary","Rondo Grunwaldzkie","Plac Pozna&#324;ski","Szubi&#324;ska / Pi&#281;kna","Szubi&#324;ska / Gnie&#378;nie&#324;ska","Szubi&#324;ska / &#379;wirki i Wigury","B&#322;onie"], 
+		"czasy":[0,1,4,6,7,8,9,10,12,13,15,17,21,24,25,28,29,31,33] 
+	}],
+	"kier5": [{ 
+		"wariant":"B&#322;onie&Smukala", 
+		"przystanki":["Smuka&#322;a","Smukalska / Baranowskiego","Smukalska / Agrestowa","Smukalska / Sanktuarium","Piaski","Smukalska / B&#322;&#261;dzimska","Saper&oacute;w / K&#261;pielisko","Saper&oacute;w / Komandos&oacute;w","Saper&oacute;w / Czo&#322;gist&oacute;w","Saper&oacute;w / Zak&#261;tek","Saper&oacute;w / Ludwikowo","&#379;eglarska / Ludwikowo","Dworzec G&#322;&oacute;wny","Garbary","Rondo Grunwaldzkie","Plac Pozna&#324;ski","Szubi&#324;ska / Pi&#281;kna","Szubi&#324;ska / Gnie&#378;nie&#324;ska","Szubi&#324;ska / &#379;wirki i Wigury","B&#322;onie"], 
+		"czasy":[0,1,2,3,5,6,9,11,12,13,14,15,19,23,26,27,30,31,33,35] 
+	}],
+	"kier6": [{ 
+		"wariant":"Piaski&Pileckiego", 
+		"przystanki":["B&#322;onie","Szubi&#324;ska / &#379;wirki i Wigury","Szubi&#324;ska / Gnie&#378;nie&#324;ska","Szubi&#324;ska / Pi&#281;kna","Plac Pozna&#324;ski","Rondo Grunwaldzkie","Garbary","Warszawska / Fredry","Dworzec G&#322;&oacute;wny","Za&#347;wiat / Artyleryjska","Pileckiego / Cmentarz","Pileckiego / Rynkowska","Pileckiego / Kmicica","Pileckiego / &#379;eglarska","Saper&oacute;w / Ludwikowo","Saper&oacute;w / Zak&#261;tek","Saper&oacute;w / Czo&#322;gist&oacute;w","Saper&oacute;w / Komandos&oacute;w","Saper&oacute;w / K&#261;pielisko","Smukalska / B&#322;&#261;dzimska","Piaski"], 
+		"czasy":[0,2,4,6,8,10,12,15,17,19,21,22,23,24,26,27,28,29,31,34,35] 
+	}]
+},
+{   
+	"il": "2", 
+	"numerlinii": "55", 
+	"kier1":[ { 
+		"wariant":"Morska", 
+		"przystanki":["Skorupki","Skorupki / Czackiego","Solskiego / Kossaka","Szubi&#324;ska / Pi&#281;kna","Plac Pozna&#324;ski","Nowy Rynek","Zbo&#380;owy Rynek","Rondo Jagiellon&oacute;w","Markwarta / 3 Maja","Rondo Ossoli&#324;skich","Ogi&#324;skiego / Moniuszki","Rondo Wielkopolskie","Powst. Wielkopolskich / Lelewela","Powst. Wielkopolskich / Wyszy&#324;skiego","G&#322;owackiego / Gajowa","G&#322;owackiego / Ba&#322;tycka","Morska"], 
+		"czasy":[0,1,2,4,6,8,9,11,13,15,18,19,21,23,24,25,26] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Skorupki", 
+		"przystanki":["Morska","G&#322;owackiego / Ba&#322;tycka","G&#322;owackiego / Gajowa","Powst. Wielkopolskich / Wyszy&#324;skiego","Powst. Wielkopolskich / Lelewela","Rondo Wielkopolskie","Rondo Ossoli&#324;skich","Jagiello&#324;ska / Piotrowskiego","Rondo Jagiellon&oacute;w","Zbo&#380;owy Rynek","Nowy Rynek","Plac Pozna&#324;ski","Pi&#281;kna / Szubi&#324;ska","Solskiego / Kossaka","Skorupki / Czackiego","Skorupki"], 
+		"czasy":[0,1,2,4,6,8,9,11,13,15,16,18,21,23,24,25] 
+	}]
+},
+{   
+	"il": "11", 
+	"numerlinii": "56", 
+	"kier1":[ { 
+		"wariant":"Belma", 
+		"przystanki":["Glinki BFM","Glinki / Eltra","Glinki / Polon","Glinki / Szpitalna","Glinki / Zaj&#281;cza","Glinki / D&#261;browa","Magnuszewska","Magnuszewska / Modrakowa","Wojska Polskiego / K&#322;adka","Wojska Polskiego / Ujejskiego","Wzg&oacute;rze Wolno&#347;ci","Rondo Kujawskie","Zbo&#380;owy Rynek","Nowy Rynek","Plac Pozna&#324;ski","Rondo Grunwaldzkie","Nakielska / Stawowa","Nakielska / Wrzesi&#324;ska","Wilczak","Nakielska / Widok","Nakielska / Pijar&oacute;w","Nakielska / Wi&#347;niowa","Nakielska / &#379;ywiecka","Nakielska / Tarnowska","Nakielska / Notecka","Nakielska / Lisia","&#321;ochowska","Belma"], 
+		"czasy":[0,1,2,3,4,5,6,7,9,11,13,15,18,19,21,23,25,26,28,30,31,32,34,35,36,37,39,40] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Belma&Garbary", 
+		"przystanki":["Glinki BFM","Glinki / Eltra","Glinki / Polon","Glinki / Szpitalna","Glinki / Zaj&#281;cza","Glinki / D&#261;browa","Magnuszewska","Magnuszewska / Modrakowa","Wojska Polskiego / K&#322;adka","Wojska Polskiego / Ujejskiego","Wzg&oacute;rze Wolno&#347;ci","Rondo Kujawskie","Zbo&#380;owy Rynek","Nowy Rynek","Plac Pozna&#324;ski","Rondo Grunwaldzkie","Garbary","Rondo Grunwaldzkie","Nakielska / Stawowa","Nakielska / Wrzesi&#324;ska","Wilczak","Nakielska / Widok","Nakielska / Pijar&oacute;w","Nakielska / Wi&#347;niowa","Nakielska / &#379;ywiecka","Nakielska / Tarnowska","Nakielska / Notecka","Nakielska / Lisia","&#321;ochowska","Belma"], 
+		"czasy":[0,1,2,3,4,5,6,7,9,11,13,15,18,19,21,23,25,27,29,30,32,34,35,36,38,39,40,41,43,44] 
+	}],
+	"kier3": [{ 
+		"wariant":"Belma&Park", 
+		"przystanki":["Park Przemys&#322;owy / Biurowiec","Park Przemys&#322;owy / Raczkowskiego","Park Przemys&#322;owy / Paciorkiewicza","Glinki BFM","Glinki / Eltra","Glinki / Polon","Glinki / Szpitalna","Glinki / Zaj&#281;cza","Glinki / D&#261;browa","Magnuszewska","Magnuszewska / Modrakowa","Wojska Polskiego / K&#322;adka","Wojska Polskiego / Ujejskiego","Wzg&oacute;rze Wolno&#347;ci","Rondo Kujawskie","Zbo&#380;owy Rynek","Nowy Rynek","Plac Pozna&#324;ski","Rondo Grunwaldzkie","Nakielska / Stawowa","Nakielska / Wrzesi&#324;ska","Wilczak","Nakielska / Widok","Nakielska / Pijar&oacute;w","Nakielska / Wi&#347;niowa","Nakielska / &#379;ywiecka","Nakielska / Tarnowska","Nakielska / Notecka","Nakielska / Lisia","&#321;ochowska","Belma"], 
+		"czasy":[0,1,2,5,6,7,8,9,10,11,12,14,16,18,20,23,24,26,28,30,31,33,35,36,37,39,40,41,42,44,45] 
+	}],
+	"kier4":[ { 
+		"wariant":"Belma&Kladka", 
+		"przystanki":["Wojska Polskiego / K&#322;adka","Wojska Polskiego / Ujejskiego","Wzg&oacute;rze Wolno&#347;ci","Rondo Kujawskie","Zbo&#380;owy Rynek","Nowy Rynek","Plac Pozna&#324;ski","Rondo Grunwaldzkie","Garbary","Rondo Grunwaldzkie","Nakielska / Stawowa","Nakielska / Wrzesi&#324;ska","Wilczak","Nakielska / Widok","Nakielska / Pijar&oacute;w","Nakielska / Wi&#347;niowa","Nakielska / &#379;ywiecka","Nakielska / Tarnowska","Nakielska / Notecka","Nakielska / Lisia","&#321;ochowska","Belma"], 
+		"czasy":[0,2,4,6,9,10,12,14,16,18,20,21,23,25,26,27,29,30,31,32,34,35] 
+	}], 
+	"kier5": [{ 
+		"wariant":"Glinki BFM", 
+		"przystanki":["Belma","&#321;ochowska","Nakielska / Lisia","Nakielska / Notecka","Nakielska / Tarnowska","Nakielska / Iglasta","Nakielska / &#379;ywiecka","Nakielska / Wi&#347;niowa","Nakielska / Pijar&oacute;w","Nakielska / Widok","Wilczak","Nakielska / Wrzesi&#324;ska","Nakielska / Stawowa","Rondo Grunwaldzkie","Plac Pozna&#324;ski","Nowy Rynek","Zbo&#380;owy Rynek","Rondo Kujawskie","Wzg&oacute;rze Wolno&#347;ci","Wojska Polskiego / Ujejskiego","Wojska Polskiego / K&#322;adka","Magnuszewska / Modrakowa","Magnuszewska","Glinki / D&#261;browa","Glinki / Zaj&#281;cza","Glinki / Szpitalna","Glinki / Polon","Glinki / Eltra","Glinki BFM"], 
+		"czasy":[0,1,3,4,5,6,7,9,10,11,13,15,16,19,21,23,24,27,29,31,32,34,35,36,37,38,39,40,41] 
+	}],
+	"kier6": [{ 
+		"wariant":"Park Przemys&#322;owy / Biurowiec", 
+		"przystanki":["Belma","&#321;ochowska","Nakielska / Lisia","Nakielska / Notecka","Nakielska / Tarnowska","Nakielska / Iglasta","Nakielska / &#379;ywiecka","Nakielska / Wi&#347;niowa","Nakielska / Pijar&oacute;w","Nakielska / Widok","Wilczak","Nakielska / Wrzesi&#324;ska","Nakielska / Stawowa","Rondo Grunwaldzkie","Plac Pozna&#324;ski","Nowy Rynek","Zbo&#380;owy Rynek","Rondo Kujawskie","Wzg&oacute;rze Wolno&#347;ci","Wojska Polskiego / Ujejskiego","Wojska Polskiego / K&#322;adka","Magnuszewska / Modrakowa","Magnuszewska","Glinki / D&#261;browa","Glinki / Zaj&#281;cza","Glinki / Szpitalna","Glinki / Polon","Glinki / Eltra","Glinki BFM","Park Przemys&#322;owy / Paciorkiewicza","Park Przemys&#322;owy / Raczkowskiego","Park Przemys&#322;owy / Biurowiec"], 
+		"czasy":[0,1,3,4,5,6,7,9,10,11,13,15,16,19,21,23,24,27,29,31,32,34,35,36,37,38,39,40,41,44,45,47] 
+	}],
+	"kier7":[ { 
+		"wariant":"Park Przemys&#322;owy / Biurowiec&Garbary", 
+		"przystanki":["Belma","&#321;ochowska","Nakielska / Lisia","Nakielska / Notecka","Nakielska / Tarnowska","Nakielska / Iglasta","Nakielska / &#379;ywiecka","Nakielska / Wi&#347;niowa","Nakielska / Pijar&oacute;w","Nakielska / Widok","Wilczak","Nakielska / Wrzesi&#324;ska","Nakielska / Stawowa","Rondo Grunwaldzkie","Garbary","Rondo Grunwaldzkie","Plac Pozna&#324;ski","Nowy Rynek","Zbo&#380;owy Rynek","Rondo Kujawskie","Wzg&oacute;rze Wolno&#347;ci","Wojska Polskiego / Ujejskiego","Wojska Polskiego / K&#322;adka","Magnuszewska / Modrakowa","Magnuszewska","Glinki / D&#261;browa","Glinki / Zaj&#281;cza","Glinki / Szpitalna","Glinki / Polon","Glinki / Eltra","Glinki BFM","Park Przemys&#322;owy / Paciorkiewicza","Park Przemys&#322;owy / Raczkowskiego","Park Przemys&#322;owy / Biurowiec"], 
+		"czasy":[0,1,3,4,5,6,7,9,10,11,13,15,16,19,21,23,25,27,28,31,33,35,36,38,39,40,41,42,43,44,45,48,49,51] 
+	}], 
+	"kier8": [{ 
+		"wariant":"Glinki / Szpitalna", 
+		"przystanki":["Belma","&#321;ochowska","Nakielska / Lisia","Nakielska / Notecka","Nakielska / Tarnowska","Nakielska / Iglasta","Nakielska / &#379;ywiecka","Nakielska / Wi&#347;niowa","Nakielska / Pijar&oacute;w","Nakielska / Widok","Wilczak","Nakielska / Wrzesi&#324;ska","Nakielska / Stawowa","Rondo Grunwaldzkie","Plac Pozna&#324;ski","Nowy Rynek","Zbo&#380;owy Rynek","Rondo Kujawskie","Wzg&oacute;rze Wolno&#347;ci","Wojska Polskiego / Ujejskiego","Wojska Polskiego / K&#322;adka","Magnuszewska / Modrakowa","Magnuszewska","Glinki / D&#261;browa","Glinki / Zaj&#281;cza","Glinki / Szpitalna"], 
+		"czasy":[0,1,3,4,5,6,7,9,10,11,13,15,16,19,21,23,24,27,29,31,32,34,35,36,37,38] 
+	}],
+	"kier9": [{ 
+		"wariant":"Glinki / Szpitalna&Garbary", 
+		"przystanki":["Belma","&#321;ochowska","Nakielska / Lisia","Nakielska / Notecka","Nakielska / Tarnowska","Nakielska / Iglasta","Nakielska / &#379;ywiecka","Nakielska / Wi&#347;niowa","Nakielska / Pijar&oacute;w","Nakielska / Widok","Wilczak","Nakielska / Wrzesi&#324;ska","Nakielska / Stawowa","Rondo Grunwaldzkie","Garbary","Rondo Grunwaldzkie","Plac Pozna&#324;ski","Nowy Rynek","Zbo&#380;owy Rynek","Rondo Kujawskie","Wzg&oacute;rze Wolno&#347;ci","Wojska Polskiego / Ujejskiego","Wojska Polskiego / K&#322;adka","Magnuszewska / Modrakowa","Magnuszewska","Glinki / D&#261;browa","Glinki / Zaj&#281;cza","Glinki / Szpitalna"], 
+		"czasy":[0,1,3,4,5,6,7,9,10,11,13,15,16,19,21,23,25,27,28,31,33,35,36,38,39,40,41,42] 
+	}],
+	"kier10": [{ 
+		"wariant":"Glinki / Szpitalna&Kladka", 
+		"przystanki":["Belma","&#321;ochowska","Nakielska / Lisia","Nakielska / Notecka","Nakielska / Tarnowska","Nakielska / Iglasta","Nakielska / &#379;ywiecka","Nakielska / Wi&#347;niowa","Nakielska / Pijar&oacute;w","Nakielska / Widok","Wilczak","Nakielska / Wrzesi&#324;ska","Nakielska / Stawowa","Rondo Grunwaldzkie","Plac Pozna&#324;ski","Nowy Rynek","Zbo&#380;owy Rynek","Rondo Kujawskie","Wzg&oacute;rze Wolno&#347;ci","Wojska Polskiego / Ujejskiego","Wojska Polskiego / K&#322;adka"], 
+		"czasy":[0,1,3,4,5,6,7,9,10,11,13,15,16,19,21,23,24,27,29,31,32] 
+	}],
+	"kier11": [{ 
+		"wariant":"Belma&ParkGarbary", 
+		"przystanki":["Park Przemys&#322;owy / Biurowiec","Park Przemys&#322;owy / Raczkowskiego","Park Przemys&#322;owy / Paciorkiewicza","Glinki BFM","Glinki / Eltra","Glinki / Polon","Glinki / Szpitalna","Glinki / Zaj&#281;cza","Glinki / D&#261;browa","Magnuszewska","Magnuszewska / Modrakowa","Wojska Polskiego / K&#322;adka","Wojska Polskiego / Ujejskiego","Wzg&oacute;rze Wolno&#347;ci","Rondo Kujawskie","Zbo&#380;owy Rynek","Nowy Rynek","Plac Pozna&#324;ski","Rondo Grunwaldzkie","Garbary","Rondo Grunwaldzkie","Nakielska / Stawowa","Nakielska / Wrzesi&#324;ska","Wilczak","Nakielska / Widok","Nakielska / Pijar&oacute;w","Nakielska / Wi&#347;niowa","Nakielska / &#379;ywiecka","Nakielska / Tarnowska","Nakielska / Notecka","Nakielska / Lisia","&#321;ochowska","Belma"], 
+		"czasy":[0,1,2,5,6,7,8,9,10,11,12,14,16,18,20,23,24,26,28,30,32,34,35,37,39,40,41,43,44,45,46,48,49] 
+	}]
+},
+{   
+	"il": "2", 
+	"numerlinii": "57", 
+	"kier1":[ { 
+		"wariant":"B&#322;onie", 
+		"przystanki":["Dworzec G&#322;&oacute;wny","Rycerska","Za&#347;wiat / Artyleryjska","Za&#347;wiat / Cmentarz","Powst.Warszawy / Skromna","Powst.Warszawy / Szpital Woj.","Czerkaska / Gda&#324;ska","Czerkaska / Su&#322;kowskiego","Su&#322;kowskiego / Kamienna","UKW","Rondo Wielkopolskie","Dworzec Autobusowy","Wzg&oacute;rze Wolno&#347;ci","Rondo Kujawskie","Solskiego / Ugory","Solskiego / Bielicka","Solskiego / Kossaka","Po&#322;tyna / Szubi&#324;ska","Stawowa / 16 Pu&#322;ku U&#322;.Wlkp.","Stawowa / W&#322;adys&#322;awa IV","Schulza / Stawowa","B&#322;onie"], 
+		"czasy":[0,2,4,5,6,7,10,11,13,15,16,18,22,24,26,27,29,32,34,35,36,39] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Dworzec G&#322;&oacute;wny", 
+		"przystanki":["B&#322;onie","Schulza / Stawowa","Stawowa / W&#322;adys&#322;awa IV","Wysoka / Koszarowa","Pi&#281;kna / Szubi&#324;ska","Solskiego / Kossaka","Solskiego / Bielicka","Solskiego / Ugory","Rondo Kujawskie","Wzg&oacute;rze Wolno&#347;ci","Dworzec Autobusowy","Ogi&#324;skiego / Moniuszki","UKW","Su&#322;kowskiego / Kamienna","Czerkaska / Su&#322;kowskiego","Powst.Warszawy / Gda&#324;ska","Powst.Warszawy / Szpital Woj.","Powst.Warszawy / Skromna","Za&#347;wiat / Cmentarz","Za&#347;wiat / Artyleryjska","Rycerska","Dworzec G&#322;&oacute;wny"], 
+		"czasy":[0,1,3,5,7,9,10,12,14,17,20,21,23,25,27,29,30,31,32,33,35,37] 
+	}]
+},
+{   
+	"il": "4", 
+	"numerlinii": "58", 
+	"kier1":[ { 
+		"wariant":"Plac Ko&#347;cieleckich", 
+		"przystanki":["Smuka&#322;a","Op&#322;awiec / Biwakowa","Op&#322;awiec / Elektrownia","Op&#322;awiec / Przedszkole","Op&#322;awiec / Meysnera","Op&#322;awiec / Soboczy&#324;skiego","Op&#322;awiec / Wypoczynkowa","Op&#322;awiec / Kolonijna","Op&#322;awiec / Koronowska","Koronowska / Wodoci&#261;gi","Nad Torem / Chmurna","Nad Torem / Karolewska","Nad Torem / Orlicza","Rondo Maczka","Grunwaldzka / Kraszewskiego","Grunwaldzka / Czarna Droga","Grunwaldzka / Kana&#322;owa","Rondo Grunwaldzkie","Plac Pozna&#324;ski","Nowy Rynek","Zbo&#380;owy Rynek","Rondo Jagiellon&oacute;w","Plac Ko&#347;cieleckich"], 
+		"czasy":[0,1,2,3,4,5,6,7,8,11,13,14,15,16,18,19,20,23,25,27,28,31,32] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Smuka&#322;a", 
+		"przystanki":["Plac Ko&#347;cieleckich","Nowy Rynek","Plac Pozna&#324;ski","Rondo Grunwaldzkie","Grunwaldzka / Kana&#322;owa","Grunwaldzka / Czarna Droga","Grunwaldzka / Kraszewskiego","Rondo Maczka","Nad Torem / Orlicza","Nad Torem / Karolewska","Nad Torem / Chmurna","Koronowska / Wodoci&#261;gi","Op&#322;awiec / Koronowska","Op&#322;awiec / Kolonijna","Op&#322;awiec / Wypoczynkowa","Op&#322;awiec / Soboczy&#324;skiego","Meysnera / Op&#322;awiec","Op&#322;awiec / Przedszkole","Op&#322;awiec / Elektrownia","Op&#322;awiec / Internat","Op&#322;awiec / Biwakowa","Smuka&#322;a"], 
+		"czasy":[0,3,5,7,8,9,10,12,13,14,16,18,20,21,22,23,24,25,26,27,28,29] 
+	}], 
+	"kier3": [{ 
+		"wariant":"Plac Ko&#347;cieleckich&Sanatorium", 
+		"przystanki":["Smuka&#322;a","Op&#322;awiec / Biwakowa","Op&#322;awiec / Elektrownia","Op&#322;awiec / Przedszkole","Meysnera / Op&#322;awiec@","Sanatorium@","Op&#322;awiec / Meysnera","Op&#322;awiec / Soboczy&#324;skiego","Op&#322;awiec / Wypoczynkowa","Op&#322;awiec / Kolonijna","Op&#322;awiec / Koronowska","Koronowska / Wodoci&#261;gi","Nad Torem / Chmurna","Nad Torem / Karolewska","Nad Torem / Orlicza","Rondo Maczka","Grunwaldzka / Kraszewskiego","Grunwaldzka / Czarna Droga","Grunwaldzka / Kana&#322;owa","Rondo Grunwaldzkie","Plac Pozna&#324;ski","Nowy Rynek","Zbo&#380;owy Rynek","Rondo Jagiellon&oacute;w","Plac Ko&#347;cieleckich"], 
+		"czasy":[0,1,2,3,4,6,8,9,10,11,12,15,17,18,19,20,22,23,24,27,29,31,32,35,36] 
+	}], 
+	"kier4": [{ 
+		"wariant":"Smuka&#322;a&Sanatorium", 
+		"przystanki":["Plac Ko&#347;cieleckich","Nowy Rynek","Plac Pozna&#324;ski","Rondo Grunwaldzkie","Grunwaldzka / Kana&#322;owa","Grunwaldzka / Czarna Droga","Grunwaldzka / Kraszewskiego","Rondo Maczka","Nad Torem / Orlicza","Nad Torem / Karolewska","Nad Torem / Chmurna","Koronowska / Wodoci&#261;gi","Op&#322;awiec / Koronowska","Op&#322;awiec / Kolonijna","Op&#322;awiec / Wypoczynkowa","Op&#322;awiec / Soboczy&#324;skiego","Meysnera / Op&#322;awiec@","Sanatorium@","Op&#322;awiec / Meysnera","Op&#322;awiec / Przedszkole","Op&#322;awiec / Elektrownia","Op&#322;awiec / Internat","Op&#322;awiec / Biwakowa","Smuka&#322;a"], 
+		"czasy":[0,3,5,7,8,9,10,12,13,14,16,18,20,21,22,23,24,26,28,29,30,31,32,33] 
+	}],
+	"kier5": [{ 
+		"wariant":"Zbo&#380;owy Rynek", 
+		"przystanki":["Smuka&#322;a","Op&#322;awiec / Biwakowa","Op&#322;awiec / Elektrownia","Op&#322;awiec / Przedszkole","Op&#322;awiec / Meysnera","Op&#322;awiec / Soboczy&#324;skiego","Op&#322;awiec / Wypoczynkowa","Op&#322;awiec / Kolonijna","Op&#322;awiec / Koronowska","Koronowska / Wodoci&#261;gi","Nad Torem / Chmurna","Nad Torem / Karolewska","Nad Torem / Orlicza","Rondo Maczka","Grunwaldzka / Kraszewskiego","Grunwaldzka / Czarna Droga","Grunwaldzka / Kana&#322;owa","Rondo Grunwaldzkie","Plac Pozna&#324;ski","Nowy Rynek","Zbo&#380;owy Rynek"], 
+		"czasy":[0,1,2,3,4,5,6,7,8,11,13,14,15,16,18,19,20,23,25,27,28] }]
+},
+{   
+	"il": "4", 
+	"numerlinii": "59", 
+	"kier1":[ { 
+		"wariant":"B&#322;onie", 
+		"przystanki":["Kapu&#347;ciska","Wojska Polskiego / Baczy&#324;skiego","Wojska Polskiego / Prezydenta Lecha Kaczy&#324;skiego","Prezydenta Lecha Kaczy&#324;skiego / Sandomierska","Kazimierza Wielkiego / Toru&#324;ska","Most Kazimierza Wielkiego","Sk&#322;odowskiej-Curie / &#321;&#281;czycka","Sk&#322;odowskiej-Curie / Ba&#322;tycka","Sk&#322;odowskiej-Curie / Gajowa","Sk&#322;odowskiej-Curie / Jurasza","Rondo Ossoli&#324;skich","Plac Weyssenhoffa","Paderewskiego","3 Maja / Markwarta","Rondo Jagiellon&oacute;w","Zbo&#380;owy Rynek","Nowy Rynek","Plac Pozna&#324;ski","Szubi&#324;ska / Pi&#281;kna","Szubi&#324;ska / Gnie&#378;nie&#324;ska","Szubi&#324;ska / &#379;wirki i Wigury","B&#322;onie"], 
+		"czasy":[0,1,2,4,6,9,10,12,13,16,19,20,21,22,24,26,27,29,32,33,35,37] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Kapu&#347;ciska", 
+		"przystanki":["B&#322;onie","Szubi&#324;ska / &#379;wirki i Wigury","Szubi&#324;ska / Gnie&#378;nie&#324;ska","Szubi&#324;ska / Pi&#281;kna","Plac Pozna&#324;ski","Nowy Rynek","Zbo&#380;owy Rynek","Rondo Jagiellon&oacute;w","Markwarta / 3 Maja","Rondo Ossoli&#324;skich","Sk&#322;odowskiej-Curie / Jurasza","Sk&#322;odowskiej-Curie / Gajowa","Sk&#322;odowskiej-Curie / Ba&#322;tycka","Sk&#322;odowskiej-Curie / &#321;&#281;czycka","Most Kazimierza Wielkiego","Kazimierza Wielkiego / Toru&#324;ska","Prezydenta Lecha Kaczy&#324;skiego / Sandomierska","Wojska Polskiego / Prezydenta Lecha Kaczy&#324;skiego","Wojska Polskiego / Baczy&#324;skiego","Kapu&#347;ciska"], 
+		"czasy":[0,2,4,6,8,10,11,13,15,17,19,22,23,24,26,27,29,32,33,34] 
+	}],
+	"kier3": [{ 
+		"wariant":"&#321;&#281;gnowo", 
+		"przystanki":["B&#322;onie","Szubi&#324;ska / &#379;wirki i Wigury","Szubi&#324;ska / Gnie&#378;nie&#324;ska","Szubi&#324;ska / Pi&#281;kna","Plac Pozna&#324;ski","Nowy Rynek","Zbo&#380;owy Rynek","Rondo Jagiellon&oacute;w","Markwarta / 3 Maja","Rondo Ossoli&#324;skich","Sk&#322;odowskiej-Curie / Jurasza","Sk&#322;odowskiej-Curie / Gajowa","Sk&#322;odowskiej-Curie / Ba&#322;tycka","Sk&#322;odowskiej-Curie / &#321;&#281;czycka","Most Kazimierza Wielkiego","Kazimierza Wielkiego / Toru&#324;ska","Prezydenta Lecha Kaczy&#324;skiego / Sandomierska","Wojska Polskiego / Prezydenta Lecha Kaczy&#324;skiego","Wojska Polskiego / Baczy&#324;skiego","Kapu&#347;ciska","Wojska Polskiego / Hechli&#324;skiego","Wojska Polskiego / Dziatkiewicza","Wojska Polskiego / Petersona","Wulffa / Eberhardta","Hutnicza / Eberhardta","&#321;&#281;gnowo"], 
+		"czasy":[0,2,4,6,8,10,11,13,15,17,19,22,23,24,26,27,29,32,33,34,35,36,38,40,42,44] 
+	}],
+	"kier4": [{ 
+		"wariant":"B&#322;onie&Legnowo", 
+		"przystanki":["&#321;&#281;gnowo","Hutnicza / Eberhardta","Wulffa / Eberhardta","Wojska Polskiego / Petersona","Wojska Polskiego / Dziatkiewicza","Wojska Polskiego / Hechli&#324;skiego","Kapu&#347;ciska","Wojska Polskiego / Baczy&#324;skiego","Wojska Polskiego / Prezydenta Lecha Kaczy&#324;skiego","Prezydenta Lecha Kaczy&#324;skiego / Sandomierska","Kazimierza Wielkiego / Toru&#324;ska","Most Kazimierza Wielkiego","Sk&#322;odowskiej-Curie / &#321;&#281;czycka","Sk&#322;odowskiej-Curie / Ba&#322;tycka","Sk&#322;odowskiej-Curie / Gajowa","Sk&#322;odowskiej-Curie / Jurasza","Rondo Ossoli&#324;skich","Plac Weyssenhoffa","Paderewskiego","3 Maja / Markwarta","Rondo Jagiellon&oacute;w","Zbo&#380;owy Rynek","Nowy Rynek","Plac Pozna&#324;ski","Szubi&#324;ska / Pi&#281;kna","Szubi&#324;ska / Gnie&#378;nie&#324;ska","Szubi&#324;ska / &#379;wirki i Wigury","B&#322;onie"], 
+		"czasy":[0,2,4,5,7,9,10,11,12,14,16,19,20,22,23,26,29,30,31,32,34,36,37,39,42,43,45,47] 
+	}]
+},
+{   
+	"il": "2", 
+	"numerlinii": "60", 
+	"kier1":[ { 
+		"wariant":"B&#322;onie", 
+		"przystanki":["Morska","Ba&#322;tycka / G&#322;owackiego","Sk&#322;odowskiej-Curie / Ba&#322;tycka","Sk&#322;odowskiej-Curie / Gajowa","Sk&#322;odowskiej-Curie / Jurasza","Rondo Ossoli&#324;skich","Plac Weyssenhoffa","Paderewskiego","3 Maja / Markwarta","Rondo Jagiellon&oacute;w","Zbo&#380;owy Rynek","Nowy Rynek","Plac Pozna&#324;ski","Szubi&#324;ska / Pi&#281;kna","Szubi&#324;ska / Gnie&#378;nie&#324;ska","Szubi&#324;ska / &#379;wirki i Wigury","B&#322;onie"], 
+		"czasy":[0,1,3,4,7,10,11,12,13,15,17,18,20,23,24,26,28] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Morska", 
+		"przystanki":["B&#322;onie","Szubi&#324;ska / &#379;wirki i Wigury","Szubi&#324;ska / Gnie&#378;nie&#324;ska","Szubi&#324;ska / Pi&#281;kna","Plac Pozna&#324;ski","Nowy Rynek","Zbo&#380;owy Rynek","Rondo Jagiellon&oacute;w","Markwarta / 3 Maja","Rondo Ossoli&#324;skich","Sk&#322;odowskiej-Curie / Jurasza","Sk&#322;odowskiej-Curie / Gajowa","Ba&#322;tycka / Sk&#322;odowskiej-Curie","Ba&#322;tycka / G&#322;owackiego","Morska"], 
+		"czasy":[0,2,4,6,8,10,11,13,15,17,19,22,24,25,26] 
+	}]
+},
+{   
+	"il": "8", 
+	"numerlinii": "61", 
+	"kier1":[ { 
+		"wariant":"Rekinowa", 
+		"przystanki":["Kapu&#347;ciska","Wojska Polskiego / Baczy&#324;skiego","Wojska Polskiego / Prezydenta Lecha Kaczy&#324;skiego","Wojska Polskiego / Szarych Szereg&oacute;w","Wy&#380;yny","Wojska Polskiego / K&#322;adka","Wojska Polskiego / Ujejskiego","Wzg&oacute;rze Wolno&#347;ci","Rondo Kujawskie","Ugory / Solskiego","Ugory / Nowodworska","Skorupki / Orla","Skorupki / Jordanowska","Stroma / Kossaka","Stroma / Orla","Plac Pozna&#324;ski","Rondo Grunwaldzkie","Garbary","Rondo Grunwaldzkie","Grunwaldzka / Kana&#322;owa","Grunwaldzka / Czarna Droga","Grunwaldzka / Kraszewskiego","Rondo Maczka","Grunwaldzka / Flisacka","Grunwaldzka / Chojnicka","Grunwaldzka / Filtrowa","Grunwaldzka / Przej&#347;cie","Kolbego / Grunwaldzka","Kolbego / Dzi&#281;cio&#322;owa","Kolbego / Kogucia","Kolbego / Wielorybia","Rekinowa"], 
+		"czasy":[0,1,2,3,5,7,9,11,13,15,16,17,18,19,20,22,24,26,28,29,30,31,34,35,36,37,39,41,42,43,44,45] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Solskiego / Ugory", 
+		"przystanki":["Kapu&#347;ciska","Wojska Polskiego / Baczy&#324;skiego","Wojska Polskiego / Prezydenta Lecha Kaczy&#324;skiego","Wojska Polskiego / Szarych Szereg&oacute;w","Wy&#380;yny","Wojska Polskiego / K&#322;adka","Wojska Polskiego / Ujejskiego","Wzg&oacute;rze Wolno&#347;ci","Rondo Kujawskie","Solskiego / Ugory"], 
+		"czasy":[0,1,2,3,5,7,9,11,13,15] 
+	}],
+	"kier3": [{ 
+		"wariant":"Rekinowa&Mokra", 
+		"przystanki":["Mokra","Chemiczna / Ogrodnictwo","Kapu&#347;ciska","Wojska Polskiego / Baczy&#324;skiego","Wojska Polskiego / Prezydenta Lecha Kaczy&#324;skiego","Wojska Polskiego / Szarych Szereg&oacute;w","Wy&#380;yny","Wojska Polskiego / K&#322;adka","Wojska Polskiego / Ujejskiego","Wzg&oacute;rze Wolno&#347;ci","Rondo Kujawskie","Ugory / Solskiego","Ugory / Nowodworska","Skorupki / Orla","Skorupki / Jordanowska","Stroma / Kossaka","Stroma / Orla","Plac Pozna&#324;ski","Rondo Grunwaldzkie","Garbary","Rondo Grunwaldzkie","Grunwaldzka / Kana&#322;owa","Grunwaldzka / Czarna Droga","Grunwaldzka / Kraszewskiego","Rondo Maczka","Grunwaldzka / Flisacka","Grunwaldzka / Chojnicka","Grunwaldzka / Filtrowa","Grunwaldzka / Przej&#347;cie","Kolbego / Grunwaldzka","Kolbego / Dzi&#281;cio&#322;owa","Kolbego / Kogucia","Kolbego / Wielorybia","Rekinowa"], 
+		"czasy":[0,1,4,5,6,7,9,11,13,15,17,19,20,21,22,23,24,26,28,30,32,33,34,35,38,39,40,41,43,45,46,47,48,49] 
+	}],
+	"kier4":[ { 
+		"wariant":"Rekinowa&Eurogaz", 
+		"przystanki":["Mokra","Chemiczna / Ogrodnictwo","Eurogaz","Kapu&#347;ciska","Wojska Polskiego / Baczy&#324;skiego","Wojska Polskiego / Prezydenta Lecha Kaczy&#324;skiego","Wojska Polskiego / Szarych Szereg&oacute;w","Wy&#380;yny","Wojska Polskiego / K&#322;adka","Wojska Polskiego / Ujejskiego","Wzg&oacute;rze Wolno&#347;ci","Rondo Kujawskie","Ugory / Solskiego","Ugory / Nowodworska","Skorupki / Orla","Skorupki / Jordanowska","Stroma / Kossaka","Stroma / Orla","Plac Pozna&#324;ski","Rondo Grunwaldzkie","Garbary","Rondo Grunwaldzkie","Grunwaldzka / Kana&#322;owa","Grunwaldzka / Czarna Droga","Grunwaldzka / Kraszewskiego","Rondo Maczka","Grunwaldzka / Flisacka","Grunwaldzka / Chojnicka","Grunwaldzka / Filtrowa","Grunwaldzka / Przej&#347;cie","Kolbego / Grunwaldzka","Kolbego / Dzi&#281;cio&#322;owa","Kolbego / Kogucia","Kolbego / Wielorybia","Rekinowa"], 
+		"czasy":[0,1,3,6,7,8,9,11,13,15,17,19,21,22,23,24,25,26,28,30,32,34,35,36,37,40,41,42,43,45,47,48,49,50,51] 
+	}], 
+	"kier5": [{ 
+		"wariant":"Kapu&#347;ciska", 
+		"przystanki":["Rekinowa","Kolbego / Wielorybia","Kolbego / Kogucia","Kolbego / Dzi&#281;cio&#322;owa","Grunwaldzka / Kolbego","Grunwaldzka / Przej&#347;cie","Grunwaldzka / Filtrowa","Grunwaldzka / Flisacka","Rondo Maczka","Grunwaldzka / Kraszewskiego","Grunwaldzka / Czarna Droga","Grunwaldzka / Kana&#322;owa","Rondo Grunwaldzkie","Garbary","Rondo Grunwaldzkie","Plac Pozna&#324;ski","Stroma / Orla","Stroma / Kossaka","Skorupki / Jordanowska","Skorupki / Orla","Ugory / Nowodworska","Solskiego / Ugory","Rondo Kujawskie","Wzg&oacute;rze Wolno&#347;ci","Wojska Polskiego / Ujejskiego","Wojska Polskiego / K&#322;adka","Wy&#380;yny","Wojska Polskiego / Szarych Szereg&oacute;w","Wojska Polskiego / Prezydenta Lecha Kaczy&#324;skiego","Wojska Polskiego / Baczy&#324;skiego","Kapu&#347;ciska"], 
+		"czasy":[0,1,2,3,5,6,9,11,12,13,14,15,19,21,24,25,27,28,29,30,31,33,35,37,39,40,42,44,45,46,47] 
+	}],
+	"kier6":[ { 
+		"wariant":"Stroma / Kossaka", 
+		"przystanki":["Rekinowa","Kolbego / Wielorybia","Kolbego / Kogucia","Kolbego / Dzi&#281;cio&#322;owa","Grunwaldzka / Kolbego","Grunwaldzka / Przej&#347;cie","Grunwaldzka / Filtrowa","Grunwaldzka / Flisacka","Rondo Maczka","Grunwaldzka / Kraszewskiego","Grunwaldzka / Czarna Droga","Grunwaldzka / Kana&#322;owa","Rondo Grunwaldzkie","Garbary","Rondo Grunwaldzkie","Plac Pozna&#324;ski","Stroma / Orla","Stroma / Kossaka"], 
+		"czasy":[0,1,2,3,5,6,9,11,12,13,14,15,19,21,24,25,27,28] 
+	}], 
+	"kier7": [{ 
+		"wariant":"Mokra", 
+		"przystanki":["Rekinowa","Kolbego / Wielorybia","Kolbego / Kogucia","Kolbego / Dzi&#281;cio&#322;owa","Grunwaldzka / Kolbego","Grunwaldzka / Przej&#347;cie","Grunwaldzka / Filtrowa","Grunwaldzka / Flisacka","Rondo Maczka","Grunwaldzka / Kraszewskiego","Grunwaldzka / Czarna Droga","Grunwaldzka / Kana&#322;owa","Rondo Grunwaldzkie","Garbary","Rondo Grunwaldzkie","Plac Pozna&#324;ski","Stroma / Orla","Stroma / Kossaka","Skorupki / Jordanowska","Skorupki / Orla","Ugory / Nowodworska","Solskiego / Ugory","Rondo Kujawskie","Wzg&oacute;rze Wolno&#347;ci","Wojska Polskiego / Ujejskiego","Wojska Polskiego / K&#322;adka","Wy&#380;yny","Wojska Polskiego / Szarych Szereg&oacute;w","Wojska Polskiego / Prezydenta Lecha Kaczy&#324;skiego","Wojska Polskiego / Baczy&#324;skiego","Kapu&#347;ciska","Chemiczna / Ogrodnictwo","Mokra"], 
+		"czasy":[0,1,2,3,5,6,9,11,12,13,14,15,19,21,24,25,27,28,29,30,31,33,35,37,39,40,42,44,45,46,47,50,51] 
+	}],
+	"kier8": [{ 
+		"wariant":"Wojska Polskiego / Baczy&#324;skiego&Eurogaz", 
+		"przystanki":["Rekinowa","Kolbego / Wielorybia","Kolbego / Kogucia","Kolbego / Dzi&#281;cio&#322;owa","Grunwaldzka / Kolbego","Grunwaldzka / Przej&#347;cie","Grunwaldzka / Filtrowa","Grunwaldzka / Flisacka","Rondo Maczka","Grunwaldzka / Kraszewskiego","Grunwaldzka / Czarna Droga","Grunwaldzka / Kana&#322;owa","Rondo Grunwaldzkie","Garbary","Rondo Grunwaldzkie","Plac Pozna&#324;ski","Stroma / Orla","Stroma / Kossaka","Skorupki / Jordanowska","Skorupki / Orla","Ugory / Nowodworska","Solskiego / Ugory","Rondo Kujawskie","Wzg&oacute;rze Wolno&#347;ci","Wojska Polskiego / Ujejskiego","Wojska Polskiego / K&#322;adka","Wy&#380;yny","Wojska Polskiego / Szarych Szereg&oacute;w","Wojska Polskiego / Prezydenta Lecha Kaczy&#324;skiego","Wojska Polskiego / Baczy&#324;skiego","Kapu&#347;ciska","Eurogaz","Chemiczna / Ogrodnictwo","Mokra"], 
+		"czasy":[0,1,2,3,5,6,9,11,12,13,14,15,19,21,24,25,27,28,29,30,31,33,35,37,39,40,42,44,45,46,47,50,52,53] 
+	}]
+},
+{   
+	"il": "4", 
+	"numerlinii": "62", 
+	"kier1":[ { 
+		"wariant":"Belma", 
+		"przystanki":["Garbary","Rondo Grunwaldzkie","Nakielska / Stawowa","Nakielska / Wrzesi&#324;ska","Wilczak","Nakielska / Widok","Nakielska / Pijar&oacute;w","Nakielska / Wi&#347;niowa","Nakielska / &#379;ywiecka","Nakielska / Tarnowska","Nakielska / Notecka","Nakielska / Lisia","&#321;ochowska","Belma"], 
+		"czasy":[0,2,4,5,7,9,10,11,13,14,15,16,18,19] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Garbary", 
+		"przystanki":["Belma","&#321;ochowska","Nakielska / Lisia","Nakielska / Notecka","Nakielska / Tarnowska","Nakielska / Iglasta","Nakielska / &#379;ywiecka","Nakielska / Wi&#347;niowa","Nakielska / Pijar&oacute;w","Nakielska / Widok","Wilczak","Nakielska / Wrzesi&#324;ska","Nakielska / Stawowa","Rondo Grunwaldzkie","Garbary"], 
+		"czasy":[0,1,3,4,5,6,7,9,10,11,13,15,16,19,21] 
+	}],
+	"kier3": [{ 
+		"wariant":"Lisia", 
+		"przystanki":["Garbary","Rondo Grunwaldzkie","Nakielska / Stawowa","Nakielska / Wrzesi&#324;ska","Wilczak","Nakielska / Widok","Nakielska / Pijar&oacute;w","Nakielska / Wi&#347;niowa","Nakielska / &#379;ywiecka","Nakielska / Tarnowska","Nakielska / Notecka","Lisia"], 
+		"czasy":[0,2,4,5,7,9,10,11,13,14,15,16] 
+	}],
+	"kier4": [{ 
+		"wariant":"Garbary&Lisia", 
+		"przystanki":["Lisia","Nakielska / Notecka","Nakielska / Tarnowska","Nakielska / Iglasta","Nakielska / &#379;ywiecka","Nakielska / Wi&#347;niowa","Nakielska / Pijar&oacute;w","Nakielska / Widok","Wilczak","Nakielska / Wrzesi&#324;ska","Nakielska / Stawowa","Rondo Grunwaldzkie","Garbary"], 
+		"czasy":[0,1,2,3,4,6,7,8,10,12,13,16,18] 
+	}]
+},
+{   
+	"il": "5", 
+	"numerlinii": "64", 
+	"kier1":[ { 
+		"wariant":"Barwna", 
+		"przystanki":["Przemys&#322;owa","Przemys&#322;owa / Tartak","Przemys&#322;owa / Os. Rzemie&#347;lnicze","Przemys&#322;owa / Portowa","Dworzec Wsch&oacute;d","Fordo&#324;ska / Wy&#347;cigowa","Fordo&#324;ska / Fabryczna","Fordo&#324;ska / Szajnochy","Most Kazimierza Wielkiego","Sk&#322;odowskiej-Curie / &#321;&#281;czycka","Sk&#322;odowskiej-Curie / Ba&#322;tycka","Sk&#322;odowskiej-Curie / Gajowa","Rondo Skrzetuskie","Powst. Wielkopolskich / Wyszy&#324;skiego","Powst. Wielkopolskich / Lelewela","Rondo Wielkopolskie","Paderewskiego","3 Maja / Markwarta","Rondo Jagiellon&oacute;w","Rondo Kujawskie","Brzozowa / Jesionowa","Brzozowa / Bielicka","Inowroc&#322;awska / Zajezdnia","Inowroc&#322;awska / Skorupki","&#379;wirki i Wigury / Jask&oacute;&#322;cza","Szubi&#324;ska / &#379;wirki i Wigury","W&#322;adys&#322;awa IV / Stawowa","W&#322;adys&#322;awa IV / Czerw.Krzy&#380;a","Barwna"], 
+		"czasy":[0,1,3,4,6,8,10,12,13,15,17,18,19,21,23,25,27,28,31,35,37,39,40,41,42,45,47,48,49] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Brzozowa / Bielicka", 
+		"przystanki":["Przemys&#322;owa","Przemys&#322;owa / Tartak","Przemys&#322;owa / Os. Rzemie&#347;lnicze","Przemys&#322;owa / Portowa","Dworzec Wsch&oacute;d","Fordo&#324;ska / Wy&#347;cigowa","Fordo&#324;ska / Fabryczna","Fordo&#324;ska / Szajnochy","Most Kazimierza Wielkiego","Sk&#322;odowskiej-Curie / &#321;&#281;czycka","Sk&#322;odowskiej-Curie / Ba&#322;tycka","Sk&#322;odowskiej-Curie / Gajowa","Rondo Skrzetuskie","Powst. Wielkopolskich / Wyszy&#324;skiego","Powst. Wielkopolskich / Lelewela","Rondo Wielkopolskie","Paderewskiego","3 Maja / Markwarta","Rondo Jagiellon&oacute;w","Rondo Kujawskie","Brzozowa / Jesionowa","Brzozowa / Bielicka"], 
+		"czasy":[0,1,3,4,6,8,10,12,13,15,17,18,19,21,23,25,27,28,31,35,37,39] 
+	}],
+	"kier3": [{ 
+		"wariant":"Przemys&#322;owa", 
+		"przystanki":["Barwna","W&#322;adys&#322;awa IV / Czerw.Krzy&#380;a","W&#322;adys&#322;awa IV / Stawowa","Szubi&#324;ska / &#379;wirki i Wigury","&#379;wirki i Wigury / Jask&oacute;&#322;cza","Inowroc&#322;awska / Skorupki","Inowroc&#322;awska / Zajezdnia","Brzozowa / Bielicka","Brzozowa / Jesionowa","Rondo Inowroc&#322;awskie","Rondo Kujawskie","Rondo Kujawskie","Rondo Jagiellon&oacute;w","Markwarta / 3 Maja","Rondo Ossoli&#324;skich","Plac Weyssenhoffa","Rondo Wielkopolskie","Powst. Wielkopolskich / Lelewela","Wyszy&#324;skiego / Powsta&#324;c&oacute;w Wielkopolskich","Sk&#322;odowskiej-Curie / Gajowa","Sk&#322;odowskiej-Curie / Ba&#322;tycka","Sk&#322;odowskiej-Curie / &#321;&#281;czycka","Most Kazimierza Wielkiego","Fordo&#324;ska / Fabryczna","Fordo&#324;ska / Wy&#347;cigowa","Dworzec Wsch&oacute;d","Przemys&#322;owa / Portowa","Przemys&#322;owa / Os. Rzemie&#347;lnicze","Przemys&#322;owa / Tartak","Przemys&#322;owa"], 
+		"czasy":[0,1,2,5,6,8,9,10,12,14,15,17,21,23,25,26,27,29,31,33,35,36,39,41,43,45,46,47,49,50] 
+	}],
+	"kier4": [{ 
+		"wariant":"Inowroc&#322;awska / Zajezdnia", 
+		"przystanki":["Barwna","W&#322;adys&#322;awa IV / Czerw.Krzy&#380;a","W&#322;adys&#322;awa IV / Stawowa","Szubi&#324;ska / &#379;wirki i Wigury","&#379;wirki i Wigury / Jask&oacute;&#322;cza","Inowroc&#322;awska / Skorupki","Inowroc&#322;awska / Zajezdnia"], 
+		"czasy":[0,1,2,5,6,8,9] 
+	}],
+	"kier5": [{ 
+		"wariant":"Dworzec Wsch&oacute;d", 
+		"przystanki":["Barwna","W&#322;adys&#322;awa IV / Czerw.Krzy&#380;a","W&#322;adys&#322;awa IV / Stawowa","Szubi&#324;ska / &#379;wirki i Wigury","&#379;wirki i Wigury / Jask&oacute;&#322;cza","Inowroc&#322;awska / Skorupki","Inowroc&#322;awska / Zajezdnia","Brzozowa / Bielicka","Brzozowa / Jesionowa","Rondo Inowroc&#322;awskie","Rondo Kujawskie","Rondo Kujawskie","Rondo Jagiellon&oacute;w","Markwarta / 3 Maja","Rondo Ossoli&#324;skich","Plac Weyssenhoffa","Rondo Wielkopolskie","Powst. Wielkopolskich / Lelewela","Wyszy&#324;skiego / Powsta&#324;c&oacute;w Wielkopolskich","Sk&#322;odowskiej-Curie / Gajowa","Sk&#322;odowskiej-Curie / Ba&#322;tycka","Sk&#322;odowskiej-Curie / &#321;&#281;czycka","Most Kazimierza Wielkiego","Fordo&#324;ska / Fabryczna","Fordo&#324;ska / Wy&#347;cigowa","Dworzec Wsch&oacute;d"], 
+		"czasy":[0,1,2,5,6,8,9,10,12,14,15,17,21,23,25,26,27,29,31,33,35,36,39,41,43,45] 
+	}]
+},
+{   
+	"il": "7", 
+	"numerlinii": "65", 
+	"kier1":[ { 
+		"wariant":"Dworzec Le&#347;ne", 
+		"przystanki":["Nad Wis&#322;&#261;","Pi&#322;sudskiego / Swobodna","Niepodleg&#322;o&#347;ci","Wyzwolenia / Swobodna","Wyzwolenia / Styki","Fordon Rynek","Fordo&#324;ska / Wiadukt","Dworzec Fordon","Fordo&#324;ska / Wyszogrodzka","Dworzec Akademia","Fordo&#324;ska / Traktorzyst&oacute;w","Fordo&#324;ska / &#321;owicka","Fordo&#324;ska / Wi&#347;lana","Fordo&#324;ska / Sochaczewska","Fordo&#324;ska / Kapliczna","Dworzec Wsch&oacute;d","Fordo&#324;ska / Wy&#347;cigowa","Fordo&#324;ska / Fabryczna","Fordo&#324;ska / Szajnochy","Fordo&#324;ska / Ba&#322;tycka","Fordo&#324;ska / Gajowa","Rondo Fordo&#324;skie","Rondo Skrzetuskie","Powst. Wielkopolskich / Wyszy&#324;skiego","Powst. Wielkopolskich / Lelewela","UKW","Su&#322;kowskiego / Kamienna","Su&#322;kowskiego / Czerkaska","Le&#347;ne","Dworzec Le&#347;ne"], 
+		"czasy":[0,1,3,4,6,7,9,11,12,14,15,16,18,19,20,22,24,26,27,29,30,32,34,36,38,40,42,43,44,45] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Dworzec Le&#347;ne&Loskon", 
+		"przystanki":["&#321;osko&#324;","Bora-Komorowskiego / Braci Ba&#380;a&#324;skich","Bora-Komorowskiego / Gieryna","Bora-Komorowskiego / Kiedrowskiego","Nad Wis&#322;&#261;","Pi&#322;sudskiego / Swobodna","Niepodleg&#322;o&#347;ci","Wyzwolenia / Swobodna","Wyzwolenia / Styki","Fordon Rynek","Fordo&#324;ska / Wiadukt","Dworzec Fordon","Fordo&#324;ska / Wyszogrodzka","Dworzec Akademia","Fordo&#324;ska / Traktorzyst&oacute;w","Fordo&#324;ska / &#321;owicka","Fordo&#324;ska / Wi&#347;lana","Fordo&#324;ska / Sochaczewska","Fordo&#324;ska / Kapliczna","Dworzec Wsch&oacute;d","Fordo&#324;ska / Wy&#347;cigowa","Fordo&#324;ska / Fabryczna","Fordo&#324;ska / Szajnochy","Fordo&#324;ska / Ba&#322;tycka","Fordo&#324;ska / Gajowa","Rondo Fordo&#324;skie","Rondo Skrzetuskie","Powst. Wielkopolskich / Wyszy&#324;skiego","Powst. Wielkopolskich / Lelewela","UKW","Su&#322;kowskiego / Kamienna","Su&#322;kowskiego / Czerkaska","Le&#347;ne","Dworzec Le&#347;ne"], 
+		"czasy":[0,1,2,3,5,6,8,9,11,12,14,16,17,19,20,21,23,24,25,27,29,31,32,34,35,37,39,41,43,45,47,48,49,50] 
+	}],
+	"kier3": [{ 
+		"wariant":"Fordo&#324;ska / Gajowa", 
+		"przystanki":["Nad Wis&#322;&#261;","Pi&#322;sudskiego / Swobodna","Niepodleg&#322;o&#347;ci","Wyzwolenia / Swobodna","Wyzwolenia / Styki","Fordon Rynek","Fordo&#324;ska / Wiadukt","Dworzec Fordon","Fordo&#324;ska / Wyszogrodzka","Dworzec Akademia","Fordo&#324;ska / Traktorzyst&oacute;w","Fordo&#324;ska / &#321;owicka","Fordo&#324;ska / Wi&#347;lana","Fordo&#324;ska / Sochaczewska","Fordo&#324;ska / Kapliczna","Dworzec Wsch&oacute;d","Fordo&#324;ska / Wy&#347;cigowa","Fordo&#324;ska / Fabryczna","Fordo&#324;ska / Szajnochy","Fordo&#324;ska / Ba&#322;tycka","Fordo&#324;ska / Gajowa"], 
+		"czasy":[0,1,3,4,6,7,9,11,12,14,15,16,18,19,20,22,24,26,27,29,30] 
+	}],
+	"kier4":[ { 
+		"wariant":"Fordo&#324;ska / Gajowa&Loskon", 
+		"przystanki":["&#321;osko&#324;","Bora-Komorowskiego / Braci Ba&#380;a&#324;skich","Bora-Komorowskiego / Gieryna","Bora-Komorowskiego / Kiedrowskiego","Nad Wis&#322;&#261;","Pi&#322;sudskiego / Swobodna","Niepodleg&#322;o&#347;ci","Wyzwolenia / Swobodna","Wyzwolenia / Styki","Fordon Rynek","Fordo&#324;ska / Wiadukt","Dworzec Fordon","Fordo&#324;ska / Wyszogrodzka","Dworzec Akademia","Fordo&#324;ska / Traktorzyst&oacute;w","Fordo&#324;ska / &#321;owicka","Fordo&#324;ska / Wi&#347;lana","Fordo&#324;ska / Sochaczewska","Fordo&#324;ska / Kapliczna","Dworzec Wsch&oacute;d","Fordo&#324;ska / Wy&#347;cigowa","Fordo&#324;ska / Fabryczna","Fordo&#324;ska / Szajnochy","Fordo&#324;ska / Ba&#322;tycka","Fordo&#324;ska / Gajowa"], 
+		"czasy":[0,1,2,3,5,6,8,9,11,12,14,16,17,19,20,21,23,24,25,27,29,31,32,34,35] 
+	}], 
+	"kier5": [{ 
+		"wariant":"Nad Wis&#322;&#261;", 
+		"przystanki":["Dworzec Le&#347;ne","Le&#347;ne","Su&#322;kowskiego / Czerkaska","Su&#322;kowskiego / Kamienna","UKW","Powst. Wielkopolskich / Lelewela","Wyszy&#324;skiego / Powsta&#324;c&oacute;w Wielkopolskich","Rondo Skrzetuskie","Rondo Fordo&#324;skie","Fordo&#324;ska / Ba&#322;tycka","Most Kazimierza Wielkiego","Fordo&#324;ska / Fabryczna","Fordo&#324;ska / Wy&#347;cigowa","Dworzec Wsch&oacute;d","Fordo&#324;ska / Kapliczna","Fordo&#324;ska / Sochaczewska","Fordo&#324;ska / Wi&#347;lana","Fordo&#324;ska / &#321;owicka","Fordo&#324;ska / Traktorzyst&oacute;w","Dworzec Akademia","Fordo&#324;ska / Wyszogrodzka","Dworzec Fordon","Fordo&#324;ska / Wiadukt","Fordon Rynek","Wyzwolenia / Styki","Wyzwolenia / Swobodna","Niepodleg&#322;o&#347;ci","Pi&#322;sudskiego / Swobodna","Nad Wis&#322;&#261;"], 
+		"czasy":[0,1,2,4,6,9,11,12,14,15,17,18,20,22,24,25,26,28,30,32,33,34,36,38,39,40,42,44,45] 
+	}],
+	"kier6": [{ 
+		"wariant":"&#321;osko&#324; / Zajezdnia", 
+		"przystanki":["Dworzec Le&#347;ne","Le&#347;ne","Su&#322;kowskiego / Czerkaska","Su&#322;kowskiego / Kamienna","UKW","Powst. Wielkopolskich / Lelewela","Wyszy&#324;skiego / Powsta&#324;c&oacute;w Wielkopolskich","Rondo Skrzetuskie","Rondo Fordo&#324;skie","Fordo&#324;ska / Ba&#322;tycka","Most Kazimierza Wielkiego","Fordo&#324;ska / Fabryczna","Fordo&#324;ska / Wy&#347;cigowa","Dworzec Wsch&oacute;d","Fordo&#324;ska / Kapliczna","Fordo&#324;ska / Sochaczewska","Fordo&#324;ska / Wi&#347;lana","Fordo&#324;ska / &#321;owicka","Fordo&#324;ska / Traktorzyst&oacute;w","Dworzec Akademia","Fordo&#324;ska / Wyszogrodzka","Dworzec Fordon","Fordo&#324;ska / Wiadukt","Fordon Rynek","Wyzwolenia / Styki","Wyzwolenia / Swobodna","Niepodleg&#322;o&#347;ci","Pi&#322;sudskiego / Swobodna","Nad Wis&#322;&#261;","Bora-Komorowskiego / Kiedrowskiego","Bora-Komorowskiego / Gieryna","Bora-Komorowskiego / Braci Ba&#380;a&#324;skich","&#321;osko&#324;"], 
+		"czasy":[0,1,2,4,6,9,11,12,14,15,17,18,20,22,24,25,26,28,30,32,33,34,36,38,39,40,42,44,45,47,48,49,50] 
+	}],
+	"kier7": [{ 
+		"wariant":"Rondo Skrzetuskie", 
+		"przystanki":["Dworzec Le&#347;ne","Le&#347;ne","Su&#322;kowskiego / Czerkaska","Su&#322;kowskiego / Kamienna","UKW","Powst. Wielkopolskich / Lelewela","Wyszy&#324;skiego / Powsta&#324;c&oacute;w Wielkopolskich","Rondo Skrzetuskie"], 
+		"czasy":[0,1,2,4,6,9,11,12] 
+	}]
+},
+{   
+	"il": "1", 
+	"numerlinii": "66", 
+	"kier1":[ { 
+		"wariant":"Rondo Jagiellon&oacute;w", 
+		"przystanki":["Rondo Jagiellon&oacute;w","Zbo&#380;owy Rynek","Rondo Kujawskie","Wzg&oacute;rze Wolno&#347;ci","Wojska Polskiego / Ujejskiego","Wojska Polskiego / K&#322;adka","Magnuszewska / Modrakowa","Magnuszewska","Glinki / Zelwerowicza","Glinki / Cmentarna","Cmentarna / Glinki","Cmentarna / Gniewkowska","Cmentarna / Dobrzy&#324;ska","W&#261;brzeska","Cmentarna / Dobrzy&#324;ska","Cmentarna / Gniewkowska","Cmentarna / Glinki","Glinki / Cmentarna","Glinki / Zelwerowicza","Magnuszewska","Magnuszewska / Modrakowa","Wojska Polskiego / K&#322;adka","Wojska Polskiego / Ujejskiego","Wzg&oacute;rze Wolno&#347;ci","Rondo Kujawskie","Rondo Jagiellon&oacute;w"], 
+		"czasy":[0,1,4,6,8,9,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,28,30,32,34,37] 
+	}]
+},
+{   
+	"il": "2", 
+	"numerlinii": "67", 
+	"kier1":[ { 
+		"wariant":"", 
+		"przystanki":["Sk&#322;odowskiej-Curie / &#321;&#281;czycka","Sk&#322;odowskiej-Curie / Ba&#322;tycka","Sk&#322;odowskiej-Curie / Gajowa","Sk&#322;odowskiej-Curie / Jurasza","Rondo Ossoli&#324;skich","Plac Weyssenhoffa","Mickiewicza / Teatr Polski","Hetma&#324;ska / Kaszubska","Plac Piastowski","Dworzec G&#322;&oacute;wny","Rycerska"], 
+		"czasy":[0,2,3,6,9,10,11,13,15,17,18] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Sk&#322;odowskiej-Curie / &#321;&#281;czycka", 
+		"przystanki":["Rycerska","Dworzec G&#322;&oacute;wny","Plac Piastowski","&#346;niadeckich / Sienkiewicza","&#346;niadeckich / Gda&#324;ska","Markwarta / 3 maja","Rondo Ossoli&#324;skich","Sk&#322;odowskiej-Curie / Jurasza","Sk&#322;odowskiej-Curie / Gajowa","Sk&#322;odowskiej-Curie / Ba&#322;tycka","Sk&#322;odowskiej-Curie / &#321;&#281;czycka"], 
+		"czasy":[0,1,4,5,6,8,10,12,15,16,19] 
+	}]
+},
+{   
+	"il": "9", 
+	"numerlinii": "68", 
+	"kier1":[ { 
+		"wariant":"Glinki BFM", 
+		"przystanki":["Dworzec Le&#347;ne","Le&#347;ne","Su&#322;kowskiego / Czerkaska","Su&#322;kowskiego / Kamienna","UKW","Powst. Wielkopolskich / Lelewela","Wyszy&#324;skiego / Powsta&#324;c&oacute;w Wielkopolskich","Rondo Skrzetuskie","Rondo Fordo&#324;skie","Rondo Toru&#324;skie","Wojska Polskiego / Ujejskiego","Wojska Polskiego / K&#322;adka","Magnuszewska / Modrakowa","Magnuszewska","Glinki / D&#261;browa","Glinki / Zaj&#281;cza","Glinki / Szpitalna","Glinki / Polon","Glinki / Eltra","Glinki BFM"], 
+		"czasy":[0,1,2,4,6,9,11,12,13,16,19,20,22,23,24,25,26,27,28,29] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Glinki", 
+		"przystanki":["Dworzec Le&#347;ne","Le&#347;ne","Su&#322;kowskiego / Czerkaska","Su&#322;kowskiego / Kamienna","UKW","Powst. Wielkopolskich / Lelewela","Wyszy&#324;skiego / Powsta&#324;c&oacute;w Wielkopolskich","Rondo Skrzetuskie","Rondo Fordo&#324;skie","Rondo Toru&#324;skie","Wojska Polskiego / Ujejskiego","Wojska Polskiego / K&#322;adka","Magnuszewska / Modrakowa","Magnuszewska","Glinki / D&#261;browa","Glinki / Zaj&#281;cza","Glinki"], 
+		"czasy":[0,1,2,4,6,9,11,12,13,16,19,20,22,23,24,25,26] 
+	}],
+	"kier3": [{ 
+		"wariant":"Pr&#261;doci&#324;ska", 
+		"przystanki":["Dworzec Le&#347;ne","Le&#347;ne","Su&#322;kowskiego / Czerkaska","Su&#322;kowskiego / Kamienna","UKW","Powst. Wielkopolskich / Lelewela","Wyszy&#324;skiego / Powsta&#324;c&oacute;w Wielkopolskich","Rondo Skrzetuskie","Rondo Fordo&#324;skie","Rondo Toru&#324;skie","Wojska Polskiego / Ujejskiego","Wojska Polskiego / K&#322;adka","Magnuszewska / Modrakowa","Glinki / D&#261;browa","Glinki / Zaj&#281;cza","Glinki / Szpitalna","Glinki / Polon","Glinki / Eltra","Glinki BFM","Park Przemys&#322;owy / Paciorkiewicza","Park Przemys&#322;owy / Falkowskiego","Park Przemys&#322;owy / Petersona","Park Przemys&#322;owy / Gamma","Park Przemys&#322;owy / Exploseum","Pr&#261;doci&#324;ska"], 
+		"czasy":[0,1,2,4,6,9,11,12,13,16,19,20,22,24,25,26,27,28,29,32,33,34,36,37,45] 
+	}],
+	"kier4":[ { 
+		"wariant":"Park Przemys&#322;owy / Exploseum", 
+		"przystanki":["Dworzec Le&#347;ne","Le&#347;ne","Su&#322;kowskiego / Czerkaska","Su&#322;kowskiego / Kamienna","UKW","Powst. Wielkopolskich / Lelewela","Wyszy&#324;skiego / Powsta&#324;c&oacute;w Wielkopolskich","Rondo Skrzetuskie","Rondo Fordo&#324;skie","Rondo Toru&#324;skie","Wojska Polskiego / Ujejskiego","Wojska Polskiego / K&#322;adka","Magnuszewska / Modrakowa","Magnuszewska","Glinki / D&#261;browa","Glinki / Zaj&#281;cza","Glinki / Szpitalna","Glinki / Polon","Glinki / Eltra","Glinki BFM","Park Przemys&#322;owy / Paciorkiewicza","Park Przemys&#322;owy / Falkowskiego","Park Przemys&#322;owy / Petersona","Park Przemys&#322;owy / Gamma","Park Przemys&#322;owy / Exploseum"], 
+		"czasy":[0,1,2,4,6,9,11,12,13,16,19,20,22,23,24,25,26,27,28,29,32,33,34,36,37] 
+	}], 
+	"kier5": [{ 
+		"wariant":"Rondo Toru&#324;skie", 
+		"przystanki":["Dworzec Le&#347;ne","Le&#347;ne","Su&#322;kowskiego / Czerkaska","Su&#322;kowskiego / Kamienna","UKW","Powst. Wielkopolskich / Lelewela","Wyszy&#324;skiego / Powsta&#324;c&oacute;w Wielkopolskich","Rondo Skrzetuskie","Rondo Fordo&#324;skie","Rondo Toru&#324;skie"], 
+		"czasy":[0,1,2,4,6,9,11,12,13,16] 
+	}],
+	"kier6": [{ 
+		"wariant":"Dworzec Le&#347;ne", 
+		"przystanki":["Glinki BFM","Glinki / Eltra","Glinki / Polon","Glinki / Szpitalna","Glinki / Zaj&#281;cza","Glinki / D&#261;browa","Magnuszewska","Magnuszewska / Modrakowa","Wojska Polskiego / K&#322;adka","Rondo Toru&#324;skie","Rondo Fordo&#324;skie","Rondo Skrzetuskie","Powst. Wielkopolskich / Wyszy&#324;skiego","Powst. Wielkopolskich / Lelewela","UKW","Su&#322;kowskiego / Kamienna","Su&#322;kowskiego / Czerkaska","Le&#347;ne","Dworzec Le&#347;ne"], 
+		"czasy":[0,1,2,3,4,5,6,7,9,11,14,16,18,20,22,24,25,26,27] 
+	}],
+	"kier7":[ { 
+		"wariant":"Dworzec Leśne&Glinki", 
+		"przystanki":["Glinki","Glinki / Zajęcza","Glinki / Dąbrowa","Magnuszewska","Magnuszewska / Modrakowa","Wojska Polskiego / Kładka","Rondo Toruńskie","Rondo Fordońskie","Rondo Skrzetuskie","Powst. Wielkopolskich / Wyszyńskiego","Powst. Wielkopolskich / Lelewela","UKW","Sułkowskiego / Kamienna","Sułkowskiego / Czerkaska","Leśne","Dworzec Leśne"], 
+		"czasy":[0,1,2,3,4,6,8,11,13,15,17,19,21,22,23,24] 
+	}], 
+	"kier8": [{ 
+		"wariant":"Dworzec Le&#347;ne&Pradocinska", 
+		"przystanki":["Pr&#261;doci&#324;ska","Park Przemys&#322;owy / Exploseum","Park Przemys&#322;owy / Gamma","Park Przemys&#322;owy / Petersona","Park Przemys&#322;owy / Falkowskiego","Park Przemys&#322;owy / Paciorkiewicza","Glinki BFM","Glinki / Eltra","Glinki / Polon","Glinki / Szpitalna","Glinki / Zaj&#281;cza","Glinki / D&#261;browa","Magnuszewska","Magnuszewska / Modrakowa","Wojska Polskiego / K&#322;adka","Rondo Toru&#324;skie","Rondo Fordo&#324;skie","Rondo Skrzetuskie","Powst. Wielkopolskich / Wyszy&#324;skiego","Powst. Wielkopolskich / Lelewela","UKW","Su&#322;kowskiego / Kamienna","Su&#322;kowskiego / Czerkaska","Le&#347;ne","Dworzec Le&#347;ne"], 
+		"czasy":[0,8,9,11,12,13,16,17,18,19,20,21,22,23,25,27,30,32,34,36,38,40,41,42,43] 
+	}],
+	"kier9": [{ 
+		"wariant":"Dworzec Leśne&Park", 
+		"przystanki":["Park Przemys&#322;owy / Exploseum","Park Przemys&#322;owy / Gamma","Park Przemys&#322;owy / Petersona","Park Przemys&#322;owy / Falkowskiego","Park Przemys&#322;owy / Paciorkiewicza","Glinki BFM","Glinki / Eltra","Glinki / Polon","Glinki / Szpitalna","Glinki / Zaj&#281;cza","Glinki / D&#261;browa","Magnuszewska","Magnuszewska / Modrakowa","Wojska Polskiego / K&#322;adka","Rondo Toru&#324;skie","Rondo Fordo&#324;skie","Rondo Skrzetuskie","Powst. Wielkopolskich / Wyszy&#324;skiego","Powst. Wielkopolskich / Lelewela","UKW","Su&#322;kowskiego / Kamienna","Su&#322;kowskiego / Czerkaska","Le&#347;ne","Dworzec Le&#347;ne"], 
+		"czasy":[0,1,3,4,5,8,9,10,11,12,13,14,15,17,19,22,24,26,28,30,32,33,34,35] 
+	}]
+},
+{
+    "il": "4",
+    "numerlinii": "69",
+    "kier1":[ {
+		"wariant":"B&#322;onie",
+		"przystanki":["Tatrza&#324;skie","Pelpli&#324;ska / Jaru&#380;y&#324;ska","Pelpli&#324;ska / Taternik&oacute;w","Pelpli&#324;ska / Targowisko","Twardzickiego / Przybory","Twardzickiego / Witosa","Twardzickiego / Thommee","Twardzickiego / Kleina","Twardzickiego / &#321;ochowskiego","Korfantego / Prejsa","Przylesie","Romanowskiej / Akademicka","Centrum Onkologii","Matki Teresy z Kalkuty / Romanowskiej","Rejewskiego / Akademicka","Rejewskiego / Auchan","Fordo&#324;ska / Wi&#347;lana","Fordo&#324;ska / Sochaczewska","Dworzec Wsch&oacute;d","Fordo&#324;ska / Wy&#347;cigowa","Fordo&#324;ska / Fabryczna","Fordo&#324;ska / Szajnochy","Most Kazimierza Wielkiego","Sk&#322;odowskiej-Curie / &#321;&#281;czycka","Sk&#322;odowskiej-Curie / Ba&#322;tycka","Sk&#322;odowskiej-Curie / Gajowa","Rondo Skrzetuskie","Rondo Fordo&#324;skie","Rondo Toru&#324;skie","Wojska Polskiego / Ujejskiego","Wzg&oacute;rze Wolno&#347;ci","Rondo Kujawskie","Brzozowa / Jesionowa","Brzozowa / Bielicka","Inowroc&#322;awska / Zajezdnia","Inowroc&#322;awska / Skorupki","&#379;wirki i Wigury / Jask&oacute;&#322;cza","Szubi&#324;ska / &#379;wirki i Wigury","B&#322;onie"],
+		"czasy":[0,1,2,3,4,5,6,8,9,10,12,13,15,16,17,19,21,22,24,26,28,30,31,33,35,36,38,39,42,44,46,48,50,52,53,54,55,58,60]
+    }],
+	"kier2": [{
+	  "wariant":"Tatrza&#324;skie",
+      "przystanki":["B&#322;onie","Szubi&#324;ska / &#379;wirki i Wigury","&#379;wirki i Wigury / Jask&oacute;&#322;cza","Inowroc&#322;awska / Skorupki","Inowroc&#322;awska / Zajezdnia","Brzozowa / Bielicka","Brzozowa / Jesionowa","Rondo Inowroc&#322;awskie","Rondo Kujawskie","Wzg&oacute;rze Wolno&#347;ci","Wojska Polskiego / Ujejskiego","Rondo Toru&#324;skie","Rondo Fordo&#324;skie","Sk&#322;odowskiej-Curie / Gajowa","Sk&#322;odowskiej-Curie / Ba&#322;tycka","Sk&#322;odowskiej-Curie / &#321;&#281;czycka","Most Kazimierza Wielkiego","Fordo&#324;ska / Fabryczna","Fordo&#324;ska / Wy&#347;cigowa","Dworzec Wsch&oacute;d","Fordo&#324;ska / Sochaczewska","Fordo&#324;ska / Wi&#347;lana","Rejewskiego / Auchan","Matki Teresy z Kalkuty / Akademicka","Centrum Onkologii","Akademicka / Romanowskiej","Przylesie","Korfantego / Prejsa","Twardzickiego / &#321;ochowskiego","Twardzickiego / Kleina","Twardzickiego / Thommee","Twardzickiego / Witosa","Twardzickiego / Przybory","Pelpli&#324;ska / Targowisko","Pelpli&#324;ska / Taternik&oacute;w","Pelpli&#324;ska / Jaru&#380;y&#324;ska","Tatrza&#324;skie"],
+	  "czasy":[0,2,3,5,6,7,9,11,12,15,17,20,23,25,27,28,31,33,35,37,39,40,43,45,46,49,51,52,53,54,56,57,58,59,60,61,62]
+    }],
+	"kier3":[ {
+		"wariant":"Most Kazimierza Wielkiego",
+		"przystanki":["Tatrza&#324;skie","Pelpli&#324;ska / Jaru&#380;y&#324;ska","Pelpli&#324;ska / Taternik&oacute;w","Pelpli&#324;ska / Targowisko","Twardzickiego / Przybory","Twardzickiego / Witosa","Twardzickiego / Thommee","Twardzickiego / Kleina","Twardzickiego / &#321;ochowskiego","Korfantego / Prejsa","Przylesie","Romanowskiej / Akademicka","Centrum Onkologii","Matki Teresy z Kalkuty / Romanowskiej","Rejewskiego / Akademicka","Rejewskiego / Auchan","Fordo&#324;ska / Wi&#347;lana","Fordo&#324;ska / Sochaczewska","Dworzec Wsch&oacute;d","Fordo&#324;ska / Wy&#347;cigowa","Fordo&#324;ska / Fabryczna","Fordo&#324;ska / Szajnochy","Most Kazimierza Wielkiego"],
+		"czasy":[0,1,2,3,4,5,6,8,9,10,12,13,15,16,17,19,21,22,24,26,28,30,32]
+    }],
+	"kier4":[ {
+		"wariant":"Wojska Polskiego / Ujejskiego",
+		"przystanki":["B&#322;onie","Szubi&#324;ska / &#379;wirki i Wigury","&#379;wirki i Wigury / Jask&oacute;&#322;cza","Inowroc&#322;awska / Skorupki","Inowroc&#322;awska / Zajezdnia","Brzozowa / Bielicka","Brzozowa / Jesionowa","Rondo Inowroc&#322;awskie","Rondo Kujawskie","Wzg&oacute;rze Wolno&#347;ci","Wojska Polskiego / Ujejskiego"],
+		"czasy":[0,2,3,5,6,7,9,11,12,15,17]
+    }]
+  },
+  {   
+	"il": "3", 
+	"numerlinii": "71", 
+	"kier1":[ { 
+		"wariant":"Morska", 
+		"przystanki":["Rekinowa","Kolbego / Wielorybia","Kolbego / Kogucia","Kolbego / Dzi&#281;cio&#322;owa","Grunwaldzka / Kolbego","Grunwaldzka / Przej&#347;cie","Grunwaldzka / Filtrowa","Grunwaldzka / Flisacka","Rondo Maczka","Grunwaldzka / Kraszewskiego","Grunwaldzka / Czarna Droga","Grunwaldzka / Kana&#322;owa","Rondo Grunwaldzkie","Garbary","Fredry / Warszawska","Mazowiecka / Pomorska","Gda&#324;ska / Cieszkowskiego","Mickiewicza / Teatr Polski","Rondo Wielkopolskie","Powst. Wielkopolskich / Lelewela","Powst. Wielkopolskich / Wyszy&#324;skiego","G&#322;owackiego / Gajowa","G&#322;owackiego / Ba&#322;tycka","Morska"], 
+		"czasy":[0,1,2,3,5,6,9,11,12,13,14,15,19,21,24,25,29,30,32,34,36,37,38,39] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Rekinowa", 
+		"przystanki":["Morska","G&#322;owackiego / Ba&#322;tycka","G&#322;owackiego / Gajowa","Powst. Wielkopolskich / Wyszy&#324;skiego","Powst. Wielkopolskich / Lelewela","Rondo Wielkopolskie","Mickiewicza / Teatr Polski","Hetma&#324;ska / Kaszubska","Dworzec G&#322;&oacute;wny","Garbary","Rondo Grunwaldzkie","Grunwaldzka / Kana&#322;owa","Grunwaldzka / Czarna Droga","Grunwaldzka / Kraszewskiego","Rondo Maczka","Grunwaldzka / Flisacka","Grunwaldzka / Chojnicka","Grunwaldzka / Filtrowa","Grunwaldzka / Przej&#347;cie","Kolbego / Grunwaldzka","Kolbego / Dzi&#281;cio&#322;owa","Kolbego / Kogucia","Kolbego / Wielorybia","Rekinowa"], 
+		"czasy":[0,1,2,4,6,8,10,12,15,19,21,22,23,24,27,28,29,30,32,34,35,36,37,38] 
+	}],
+	"kier3": [{ 
+		"wariant":"Rondo Grunwaldzkie", 
+		"przystanki":["Morska","G&#322;owackiego / Ba&#322;tycka","G&#322;owackiego / Gajowa","Powst. Wielkopolskich / Wyszy&#324;skiego","Powst. Wielkopolskich / Lelewela","Rondo Wielkopolskie","Mickiewicza / Teatr Polski","Hetma&#324;ska / Kaszubska","Dworzec G&#322;&oacute;wny","Garbary","Rondo Grunwaldzkie"], 
+		"czasy":[0,1,2,4,6,8,10,12,15,19,21] 
+	}],
+	"kier4": [{ 
+		"wariant":"Garbary", 
+		"przystanki":["Rekinowa","Kolbego / Wielorybia","Kolbego / Kogucia","Kolbego / Dzi&#281;cio&#322;owa","Grunwaldzka / Kolbego","Grunwaldzka / Przej&#347;cie","Grunwaldzka / Filtrowa","Grunwaldzka / Flisacka","Rondo Maczka","Grunwaldzka / Kraszewskiego","Grunwaldzka / Czarna Droga","Grunwaldzka / Kana&#322;owa","Rondo Grunwaldzkie","Garbary"], 
+		"czasy":[0,1,2,3,5,6,9,11,12,13,14,15,19,21] 
+	}]
+},
+{   
+	"il": "7", 
+	"numerlinii": "73", 
+	"kier1":[ { 
+		"wariant":"Eskulapa", 
+		"przystanki":["Kapu&#347;ciska","Chemiczna / Eurogaz","Chemiczna / Dachtery","Chemiczna / Energetyczna","Chemiczna / Szczerby","&#321;&#281;gnowo","&#346;wietlicowa","Nowotoru&#324;ska / &#379;&oacute;&#322;wi&#324;ska","Nowotoru&#324;ska / Przepompownia","Nowotoru&#324;ska / Pl&#261;tnowska","Pl&#261;tnowska / Przejazd","Pl&#261;tnowska / Otorowska","Pl&#261;tnowska / Ko&#347;ci&oacute;&#322;","Toru&#324;ska / Wie&#380;a Ci&#347;nie&#324;","Toru&#324;ska / Przy&#322;ubska","Toru&#324;ska / Wypaleniska","Dworzec &#321;&#281;gnowo","Stomil","Toru&#324;ska / Stomil (brama)","Toru&#324;ska / Sporna","Dworzec Wsch&oacute;d","Fordo&#324;ska / Sochaczewska","Fordo&#324;ska / Wi&#347;lana","Rejewskiego / Auchan","Matki Teresy z Kalkuty / Akademicka","Matki Teresy z Kalkuty / Romanowskiej","Matki Teresy z Kalkuty / Rydygiera","Trybowskiego / Matki Teresy z Kalkuty","Trybowskiego / Majtkowskiego","Jasiniecka / Trybowskiego","Jasiniecka / Pod Skarp&#261;","Pod Skarp&#261; / Stamma","Eskulapa"], 
+		"czasy":[0,2,3,4,5,7,8,9,10,11,13,15,16,17,18,19,20,21,22,24,28,31,32,35,37,38,39,40,41,42,43,44,45] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Eskulapa&Mokra", 
+		"przystanki":["Kapu&#347;ciska","Chemiczna / Ogrodnictwo","Mokra","Chemiczna / Ogrodnictwo","Chemiczna / Eurogaz","Chemiczna / Dachtery","Chemiczna / Energetyczna","Chemiczna / Szczerby","&#321;&#281;gnowo","&#346;wietlicowa","Nowotoru&#324;ska / &#379;&oacute;&#322;wi&#324;ska","Nowotoru&#324;ska / Przepompownia","Nowotoru&#324;ska / Pl&#261;tnowska","Pl&#261;tnowska / Przejazd","Pl&#261;tnowska / Otorowska","Pl&#261;tnowska / Ko&#347;ci&oacute;&#322;","Toru&#324;ska / Wie&#380;a Ci&#347;nie&#324;","Toru&#324;ska / Przy&#322;ubska","Toru&#324;ska / Wypaleniska","Dworzec &#321;&#281;gnowo","Stomil","Toru&#324;ska / Stomil (brama)","Toru&#324;ska / Sporna","Dworzec Wsch&oacute;d","Fordo&#324;ska / Sochaczewska","Fordo&#324;ska / Wi&#347;lana","Rejewskiego / Auchan","Matki Teresy z Kalkuty / Akademicka","Matki Teresy z Kalkuty / Romanowskiej","Matki Teresy z Kalkuty / Rydygiera","Trybowskiego / Matki Teresy z Kalkuty","Trybowskiego / Majtkowskiego","Jasiniecka / Trybowskiego","Jasiniecka / Pod Skarp&#261;","Pod Skarp&#261; / Stamma","Eskulapa"], 
+		"czasy":[0,3,4,5,6,7,8,9,11,12,13,14,15,17,19,20,21,22,23,24,25,26,28,32,35,36,39,41,42,43,44,45,46,47,48,49] 
+	}],
+	"kier3": [{ 
+		"wariant":"Stomil", 
+		"przystanki":["Kapu&#347;ciska","Chemiczna / Eurogaz","Chemiczna / Dachtery","Chemiczna / Energetyczna","Chemiczna / Szczerby","&#321;&#281;gnowo","&#346;wietlicowa","Nowotoru&#324;ska / &#379;&oacute;&#322;wi&#324;ska","Nowotoru&#324;ska / Przepompownia","Nowotoru&#324;ska / Pl&#261;tnowska","Pl&#261;tnowska / Przejazd","Pl&#261;tnowska / Otorowska","Pl&#261;tnowska / Ko&#347;ci&oacute;&#322;","Toru&#324;ska / Wie&#380;a Ci&#347;nie&#324;","Toru&#324;ska / Przy&#322;ubska","Toru&#324;ska / Wypaleniska","Dworzec &#321;&#281;gnowo","Stomil"], 
+		"czasy":[0,2,3,4,5,7,8,9,10,11,13,15,16,17,18,19,20,21] 
+	}],
+	"kier4":[ { 
+		"wariant":"Toru&#324;ska / Sporna", 
+		"przystanki":["Kapu&#347;ciska","Chemiczna / Eurogaz","Chemiczna / Dachtery","Chemiczna / Energetyczna","Chemiczna / Szczerby","&#321;&#281;gnowo","&#346;wietlicowa","Nowotoru&#324;ska / &#379;&oacute;&#322;wi&#324;ska","Nowotoru&#324;ska / Przepompownia","Nowotoru&#324;ska / Pl&#261;tnowska","Pl&#261;tnowska / Przejazd","Pl&#261;tnowska / Otorowska","Pl&#261;tnowska / Ko&#347;ci&oacute;&#322;","Toru&#324;ska / Wie&#380;a Ci&#347;nie&#324;","Toru&#324;ska / Przy&#322;ubska","Toru&#324;ska / Wypaleniska","Dworzec &#321;&#281;gnowo","Stomil","Toru&#324;ska / Stomil (brama)","Toru&#324;ska / Sporna"], 
+		"czasy":[0,2,3,4,5,7,8,9,10,11,13,15,16,17,18,19,20,21,22,24] 
+	}], 
+	"kier5": [{ 
+		"wariant":"Kapu&#347;ciska", 
+		"przystanki":["Eskulapa","Pod Skarp&#261; / Stamma","Jasiniecka / Pod Skarp&#261;","Trybowskiego / Jasiniecka","Trybowskiego / Majtkowskiego","Trybowskiego / Matki Teresy z Kalkuty","Matki Teresy z Kalkuty / Rydygiera","Matki Teresy z Kalkuty / Romanowskiej","Rejewskiego / Akademicka","Rejewskiego / Auchan","Fordo&#324;ska / Wi&#347;lana","Fordo&#324;ska / Sochaczewska","Dworzec Wsch&oacute;d","Sporna / Toru&#324;ska","Toru&#324;ska / Stomil (brama)","Stomil","Dworzec &#321;&#281;gnowo","Toru&#324;ska / Wypaleniska","Toru&#324;ska / Przy&#322;ubska","Toru&#324;ska / Wie&#380;a Ci&#347;nie&#324;","Pl&#261;tnowska / Ko&#347;ci&oacute;&#322;","Pl&#261;tnowska / Otorowska","Pl&#261;tnowska / Przejazd","Nowotoru&#324;ska / Pl&#261;tnowska","Nowotoru&#324;ska / Przepompownia","Nowotoru&#324;ska / &#379;&oacute;&#322;wi&#324;ska","Sp&oacute;&#322;dzielcza","&#321;&#281;gnowo","Chemiczna / Szczerby","Chemiczna / Energetyczna","Chemiczna / Dachtery","Chemiczna / Eurogaz","Kapu&#347;ciska"], 
+		"czasy":[0,2,3,4,5,6,7,8,9,11,13,14,17,18,20,22,23,24,25,26,27,28,30,32,33,34,35,37,39,40,41,42,43] 
+	}],
+	"kier6": [{ 
+		"wariant":"Kapu&#347;ciska&Mokra", 
+		"przystanki":["Eskulapa","Pod Skarp&#261; / Stamma","Jasiniecka / Pod Skarp&#261;","Trybowskiego / Jasiniecka","Trybowskiego / Majtkowskiego","Trybowskiego / Matki Teresy z Kalkuty","Matki Teresy z Kalkuty / Rydygiera","Matki Teresy z Kalkuty / Romanowskiej","Rejewskiego / Akademicka","Rejewskiego / Auchan","Fordo&#324;ska / Wi&#347;lana","Fordo&#324;ska / Sochaczewska","Dworzec Wsch&oacute;d","Sporna / Toru&#324;ska","Toru&#324;ska / Stomil (brama)","Stomil","Dworzec &#321;&#281;gnowo","Toru&#324;ska / Wypaleniska","Toru&#324;ska / Przy&#322;ubska","Toru&#324;ska / Wie&#380;a Ci&#347;nie&#324;","Pl&#261;tnowska / Ko&#347;ci&oacute;&#322;","Pl&#261;tnowska / Otorowska","Pl&#261;tnowska / Przejazd","Nowotoru&#324;ska / Pl&#261;tnowska","Nowotoru&#324;ska / Przepompownia","Nowotoru&#324;ska / &#379;&oacute;&#322;wi&#324;ska","Sp&oacute;&#322;dzielcza","&#321;&#281;gnowo","Chemiczna / Szczerby","Chemiczna / Energetyczna","Chemiczna / Dachtery","Chemiczna / Ogrodnictwo","Mokra","Chemiczna / Ogrodnictwo","Chemiczna / Eurogaz","Kapu&#347;ciska"], 
+		"czasy":[0,2,3,4,5,6,7,8,9,11,13,14,17,18,20,22,23,24,25,26,27,28,30,32,33,34,35,37,39,40,41,42,43,44,45,46] 
+	}],
+	"kier7": [{ 
+		"wariant":"&#321;&#281;gnowo", 
+		"przystanki":["Eskulapa","Pod Skarp&#261; / Stamma","Jasiniecka / Pod Skarp&#261;","Trybowskiego / Jasiniecka","Trybowskiego / Majtkowskiego","Trybowskiego / Matki Teresy z Kalkuty","Matki Teresy z Kalkuty / Rydygiera","Matki Teresy z Kalkuty / Romanowskiej","Rejewskiego / Akademicka","Rejewskiego / Auchan","Fordo&#324;ska / Wi&#347;lana","Fordo&#324;ska / Sochaczewska","Dworzec Wsch&oacute;d","Sporna / Toru&#324;ska","Toru&#324;ska / Stomil (brama)","Stomil","Dworzec &#321;&#281;gnowo","Toru&#324;ska / Wypaleniska","Toru&#324;ska / Przy&#322;ubska","Toru&#324;ska / Wie&#380;a Ci&#347;nie&#324;","Pl&#261;tnowska / Ko&#347;ci&oacute;&#322;","Pl&#261;tnowska / Otorowska","Pl&#261;tnowska / Przejazd","Nowotoru&#324;ska / Pl&#261;tnowska","Nowotoru&#324;ska / Przepompownia","Nowotoru&#324;ska / &#379;&oacute;&#322;wi&#324;ska","Sp&oacute;&#322;dzielcza","&#321;&#281;gnowo"], 
+		"czasy":[0,2,3,4,5,6,7,8,9,11,13,14,17,18,20,22,23,24,25,26,27,28,30,32,33,34,35,37] 
+	}]
+},
+{   
+	"il": "4", 
+	"numerlinii": "74", 
+	"kier1":[ { 
+		"wariant":"Wy&#347;cigowa", 
+		"przystanki":["Tatrza&#324;skie","Pelpli&#324;ska / Jaru&#380;y&#324;ska","Pelpli&#324;ska / Taternik&oacute;w","Pelpli&#324;ska / Targowisko","Skar&#380;y&#324;skiego / Twardzickiego","Bajka","Brzechwy / Szafirowa","Brzechwy / Szelburg-Zarembiny","Dworzec Fordon","Fordo&#324;ska / Wyszogrodzka","Wyszogrodzka / Opalowa","Brdyuj&#347;cie","Witebska / Wschodnia","Tor Regatowy","&#321;owicka / Szko&#322;a","Wi&#281;cka / &#321;owicka","Skandynawska / Ikea","Fordo&#324;ska / Wi&#347;lana","Fordo&#324;ska / Sochaczewska","Fordo&#324;ska / Kapliczna","Dworzec Wsch&oacute;d","Wy&#347;cigowa"], 
+		"czasy":[0,1,2,3,5,6,7,8,10,11,13,14,15,16,17,18,19,21,22,23,25,27] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Tatrza&#324;skie", 
+		"przystanki":["Wy&#347;cigowa","Fordo&#324;ska / Wy&#347;cigowa","Dworzec Wsch&oacute;d","Fordo&#324;ska / Kapliczna","Fordo&#324;ska / Sochaczewska","Fordo&#324;ska / Wi&#347;lana","Skandynawska / Ikea","Wi&#281;cka / &#321;owicka","&#321;owicka / Szko&#322;a","Tor Regatowy","Witebska / Wschodnia","Brdyuj&#347;cie","Wyszogrodzka / Opalowa","Fordo&#324;ska / Wyszogrodzka","Dworzec Fordon","Brzechwy / Szelburg-Zarembiny","Bajka","Skar&#380;y&#324;skiego / Kwiatkowskiego","Skar&#380;y&#324;skiego / Twardzickiego","Pelpli&#324;ska / Targowisko","Pelpli&#324;ska / Taternik&oacute;w","Pelpli&#324;ska / Jaru&#380;y&#324;ska","Tatrza&#324;skie"], 
+		"czasy":[0,2,4,6,7,8,10,11,12,13,14,15,16,18,19,21,22,23,24,25,26,27,28] 
+	}],
+	"kier3": [{ 
+		"wariant":"Tatrza&#324;skie&Dworzec Fordon", 
+		"przystanki":["Dworzec Fordon","Brzechwy / Szelburg-Zarembiny","Bajka","Skar&#380;y&#324;skiego / Kwiatkowskiego","Skar&#380;y&#324;skiego / Twardzickiego","Pelpli&#324;ska / Targowisko","Pelpli&#324;ska / Taternik&oacute;w","Pelpli&#324;ska / Jaru&#380;y&#324;ska","Tatrza&#324;skie"], 
+		"czasy":[0,2,3,4,5,6,7,8,9] 
+	}],
+	"kier4": [{ 
+		"wariant":"Dworzec Fordon", 
+		"przystanki":["Tatrza&#324;skie","Pelpli&#324;ska / Jaru&#380;y&#324;ska","Pelpli&#324;ska / Taternik&oacute;w","Pelpli&#324;ska / Targowisko","Skar&#380;y&#324;skiego / Twardzickiego","Bajka","Brzechwy / Szafirowa","Brzechwy / Szelburg-Zarembiny","Dworzec Fordon"], 
+		"czasy":[0,1,2,3,5,6,7,8,10] 
+	}]
+},
+{   
+	"il": "4", 
+	"numerlinii": "76", 
+	"kier1":[ { 
+		"wariant":"Smole&#324;ska / Pi&#324;czowska", 
+		"przystanki":["Rondo Toru&#324;skie","Toru&#324;ska / Spokojna","Toru&#324;ska / &#321;uczniczki","Nowotoru&#324;ska / Prezydenta Lecha Kaczy&#324;skiego","Smole&#324;ska / Kielecka","Smole&#324;ska / Budowlana","Smole&#324;ska / Pi&#324;czowska"], 
+		"czasy":[0,1,2,4,7,8,9] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Rondo Toru&#324;skie", 
+		"przystanki":["Smole&#324;ska / Pi&#324;czowska","Smole&#324;ska / Budowlana","Smole&#324;ska / Kielecka","Nowotoru&#324;ska / Kielecka","Nowotoru&#324;ska / Prezydenta Lecha Kaczy&#324;skiego","Toru&#324;ska / &#321;uczniczki","Toru&#324;ska / Per&#322;owa","Rondo Toru&#324;skie"], 
+		"czasy":[0,1,2,3,5,6,7,11] 
+	}],
+	"kier3": [{ 
+		"wariant":"&#321;&#281;gnowo", 
+		"przystanki":["Rondo Toru&#324;skie","Toru&#324;ska / Spokojna","Toru&#324;ska / &#321;uczniczki","Nowotoru&#324;ska / Prezydenta Lecha Kaczy&#324;skiego","Smole&#324;ska / Kielecka","Smole&#324;ska / Budowlana","Smole&#324;ska / Pi&#324;czowska","Objazdowa / Nowotoru&#324;ska","Nowotoru&#324;ska / Objazdowa","Nowotoru&#324;ska / Hutnicza","&#321;&#281;gnowo"], 
+		"czasy":[0,1,2,4,7,8,9,10,12,13,14] 
+	}],
+	"kier4": [{ 
+		"wariant":"Rondo Toru&#324;skie&Legnowo", 
+		"przystanki":["&#321;&#281;gnowo","Nowotoru&#324;ska / Hutnicza","Nowotoru&#324;ska / Objazdowa","Objazdowa / Nowotoru&#324;ska","Smole&#324;ska / Pi&#324;czowska","Smole&#324;ska / Budowlana","Smole&#324;ska / Kielecka","Nowotoru&#324;ska / Kielecka","Nowotoru&#324;ska / Prezydenta Lecha Kaczy&#324;skiego","Toru&#324;ska / &#321;uczniczki","Toru&#324;ska / Per&#322;owa","Rondo Toru&#324;skie"], 
+		"czasy":[0,2,3,4,5,6,7,8,10,11,12,16] 
+	}]
+},
+
+{   
+	"il": "3", 
+	"numerlinii": "77", 
+	"kier1":[ { 
+		"wariant":"Morska", 
+		"przystanki":["Niklowa","Srebrna / Spi&#380;owa","Srebrna / Stalowa","Podmiejska / Kruszy&#324;ska","Kruszy&#324;ska / Sowia","Kruszy&#324;ska / Kra&#324;cowa","Mi&#324;ska / Plonowa","Mi&#324;ska / Studzienna","Dworzec Zach&oacute;d","Grunwaldzka / Flisacka","Rondo Maczka","Grunwaldzka / Kraszewskiego","Grunwaldzka / Czarna Droga","Grunwaldzka / Kana&#322;owa","Rondo Grunwaldzkie","Garbary","Fredry / Warszawska","Mazowiecka / Pomorska","Gda&#324;ska / Cieszkowskiego","Mickiewicza / Teatr Polski","Rondo Wielkopolskie","Powsta&#324;c&oacute;w Wlkp. / Lelewela","Powst. Wlkp. / Wyszy&#324;skiego","G&#322;owackiego / Gajowa","G&#322;owackiego / Ba&#322;tycka","Morska"], 
+		"czasy":[0,1,2,4,5,6,8,9,10,12,13,14,15,16,20,22,25,26,30,31,33,35,37,38,39,40] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Niklowa", 
+		"przystanki":["Morska","G&#322;owackiego / Ba&#322;tycka","G&#322;owackiego / Gajowa","Powst. Wlkp. / Wyszy&#324;skiego","Powsta&#324;c&oacute;w Wlkp. / Lelewela","Rondo Wielkopolskie","Mickiewicza / Teatr Polski","Hetma&#324;ska / Kaszubska","Dworzec G&#322;&oacute;wny","Garbary","Rondo Grunwaldzkie","Grunwaldzka / Kana&#322;owa","Grunwaldzka / Czarna Droga","Grunwaldzka / Kraszewskiego","Rondo Maczka","Flisacka / Grunwaldzka","Dworzec Zach&oacute;d","Mi&#324;ska / Studzienna","Mi&#324;ska / Plonowa","Kruszy&#324;ska / Kra&#324;cowa","Kruszy&#324;ska / Sowia","Podmiejska / Kruszy&#324;ska","Srebrna / Stalowa","Srebrna / Spi&#380;owa","Spi&#380;owa / O&#322;owiana","Niklowa"], 
+		"czasy":[0,1,2,4,6,8,10,12,15,19,21,22,23,24,27,29,30,31,32,34,35,36,38,39,40,41] 
+	}],
+	"kier3": [{ 
+		"wariant":"Garbary", 
+		"przystanki":["Niklowa","Srebrna / Spi&#380;owa","Srebrna / Stalowa","Podmiejska / Kruszy&#324;ska","Kruszy&#324;ska / Sowia","Kruszy&#324;ska / Kra&#324;cowa","Mi&#324;ska / Plonowa","Mi&#324;ska / Studzienna","Dworzec Zach&oacute;d","Grunwaldzka / Flisacka","Rondo Maczka","Grunwaldzka / Kraszewskiego","Grunwaldzka / Czarna Droga","Grunwaldzka / Kana&#322;owa","Rondo Grunwaldzkie","Garbary"], 
+		"czasy":[0,1,2,4,5,6,8,9,10,12,13,14,15,16,20,22] 
+	}]
+},
+{   
+	"il": "3", 
+	"numerlinii": "79", 
+	"kier1":[ { 
+		"wariant":"Glinki", 
+		"przystanki":["Rycerska","Dworzec G&#322;&oacute;wny","Garbary","Rondo Grunwaldzkie","Plac Pozna&#324;ski","Pi&#281;kna / Szubi&#324;ska","Solskiego / Kossaka","Solskiego / Bielicka","Solskiego / Ugory","Rondo Kujawskie","Wzg&oacute;rze Wolno&#347;ci","Wojska Polskiego / Ujejskiego","Wojska Polskiego / K&#322;adka","Magnuszewska / Modrakowa","Magnuszewska","Glinki / D&#261;browa","Glinki / Zaj&#281;cza","Glinki"], 
+		"czasy":[0,1,5,8,9,12,14,15,17,19,21,23,24,26,27,28,29,31] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Rycerska", 
+		"przystanki":["Glinki","Glinki / Zaj&#281;cza","Glinki / D&#261;browa","Magnuszewska","Magnuszewska / Modrakowa","Wojska Polskiego / K&#322;adka","Wojska Polskiego / Ujejskiego","Wzg&oacute;rze Wolno&#347;ci","Rondo Kujawskie","Solskiego / Ugory","Solskiego / Bielicka","Solskiego / Kossaka","Szubi&#324;ska / Pi&#281;kna","Plac Pozna&#324;ski","Rondo Grunwaldzkie","Garbary","Warszawska / Fredry","Dworzec G&#322;&oacute;wny","Rycerska"], 
+		"czasy":[0,1,2,3,4,6,8,10,12,14,15,17,19,21,23,25,28,30,31] 
+	}],
+	"kier3": [{ 
+		"wariant":"Solskiego / Kossaka", 
+		"przystanki":["Rycerska","Dworzec G&#322;&oacute;wny","Garbary","Rondo Grunwaldzkie","Plac Pozna&#324;ski","Pi&#281;kna / Szubi&#324;ska","Solskiego / Kossaka"], 
+		"czasy":[0,1,5,8,9,12,14] 
+	}]
+},
+{   
+	"il": "5", 
+	"numerlinii": "80", 
+	"kier1":[ { 
+		"wariant":"Dworzec G&#322;&oacute;wny", 
+		"przystanki":["Port Lotniczy (Airport)","Jana Paw&#322;a II / W&#261;brzeska","Jana Paw&#322;a II / Ziemska","Rondo Inowroc&#322;awskie","Rondo Kujawskie","Rondo Kujawskie","Rondo Jagiellon&oacute;w","Dworzec Autobusowy","Ogi&#324;skiego / Moniuszki","UKW","Su&#322;kowskiego / Kamienna","Czerkaska / Su&#322;kowskiego","Powst.Warszawy / Gda&#324;ska","Powst.Warszawy / Szpital Woj.","Powst.Warszawy / Skromna","Za&#347;wiat / Cmentarz","Za&#347;wiat / Artyleryjska","Rycerska","Dworzec G&#322;&oacute;wny"], 
+		"czasy":[0,2,4,6,7,9,12,14,15,17,19,21,23,24,25,26,27,29,31] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Port Lotniczy (Airport)", 
+		"przystanki":["Dworzec G&#322;&oacute;wny","Rycerska","Za&#347;wiat / Artyleryjska","Za&#347;wiat / Cmentarz","Powst.Warszawy / Skromna","Powst.Warszawy / Szpital Woj.","Czerkaska / Gda&#324;ska","Czerkaska / Su&#322;kowskiego","Su&#322;kowskiego / Kamienna","UKW","Rondo Wielkopolskie","Dworzec Autobusowy","Rondo Jagiellon&oacute;w","Rondo Kujawskie","Rondo Inowroc&#322;awskie","Jana Paw&#322;a II / Ziemska","Jana Paw&#322;a II / W&#261;brzeska","Port Lotniczy (Airport)"], 
+		"czasy":[0,2,4,5,6,7,10,11,13,15,16,19,21,25,27,28,30,33] 
+	}],
+	"kier3": [{ 
+		"wariant":"Zbo&#380;owy Rynek", 
+		"przystanki":["Port Lotniczy (Airport)","Jana Paw&#322;a II / W&#261;brzeska","Jana Paw&#322;a II / Ziemska","Rondo Inowroc&#322;awskie","Rondo Kujawskie","Rondo Kujawskie","Rondo Jagiellon&oacute;w","Zbo&#380;owy Rynek"], 
+		"czasy":[0,2,4,6,7,9,12,13] 
+	}],
+	"kier4": [{ 
+		"wariant":"Rondo Jagiellon&oacute;w", 
+		"przystanki":["Port Lotniczy (Airport)","Jana Paw&#322;a II / W&#261;brzeska","Jana Paw&#322;a II / Ziemska","Rondo Inowroc&#322;awskie","Rondo Kujawskie","Rondo Kujawskie","Rondo Jagiellon&oacute;w"], 
+		"czasy":[0,2,4,6,7,9,12] 
+	}],
+	"kier5": [{ 
+		"wariant":"Port Lotniczy (Airport)&Zbozowy Rynek", 
+		"przystanki":["Zbo&#380;owy Rynek","Rondo Kujawskie","Rondo Inowroc&#322;awskie","Jana Paw&#322;a II / Ziemska","Jana Paw&#322;a II / W&#261;brzeska","Port Lotniczy (Airport)"], 
+		"czasy":[0,2,4,5,7,10] 
+	}]
+},
+{   
+	"il": "8", 
+	"numerlinii": "81", 
+	"kier1":[ { 
+		"wariant":"Skandynawska / Ikea", 
+		"przystanki":["Tatrza&#324;skie","Wyzwolenia / Komisariat","Geodet&oacute;w / Wyzwolenia","Geodet&oacute;w / Pieni&#324;ska","&#321;osko&#324;","Bora-Komorowskiego / Braci Ba&#380;a&#324;skich","Bora-Komorowskiego / Gieryna","Bora-Komorowskiego / Kiedrowskiego","Nad Wis&#322;&#261;","Pi&#322;sudskiego / Swobodna","Niepodleg&#322;o&#347;ci","Wyzwolenia / Swobodna","Wyzwolenia / Styki","Fordon Rynek","Fordo&#324;ska / Wiadukt","Dworzec Fordon","Brzechwy / Szelburg-Zarembiny","Bajka","Skar&#380;y&#324;skiego / Kwiatkowskiego","Skar&#380;y&#324;skiego / Twardzickiego","Twardzickiego / Przybory","Twardzickiego / Witosa","Andersa / Kleeberga","Akademicka / Igrzyskowa","Akademicka / Kaliskiego (UTP)","Przylesie","Romanowskiej / Akademicka","Centrum Onkologii","Matki Teresy z Kalkuty / Romanowskiej","Rejewskiego / Akademicka","Rejewskiego / Auchan","Skandynawska / Ikea"], 
+		"czasy":[0,1,2,3,4,5,6,7,9,10,12,13,15,16,18,19,20,21,23,24,26,27,28,30,31,33,34,35,36,37,39,41] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Tor Regatowy", 
+		"przystanki":["Tatrza&#324;skie","Wyzwolenia / Komisariat","Geodet&oacute;w / Wyzwolenia","Geodet&oacute;w / Pieni&#324;ska","&#321;osko&#324;","Bora-Komorowskiego / Braci Ba&#380;a&#324;skich","Bora-Komorowskiego / Gieryna","Bora-Komorowskiego / Kiedrowskiego","Nad Wis&#322;&#261;","Pi&#322;sudskiego / Swobodna","Niepodleg&#322;o&#347;ci","Wyzwolenia / Swobodna","Wyzwolenia / Styki","Fordon Rynek","Fordo&#324;ska / Wiadukt","Dworzec Fordon","Brzechwy / Szelburg-Zarem.","Bajka","Skar&#380;y&#324;skiego / Kwiatkowskiego","Skar&#380;y&#324;skiego / Twardzickiego","Twardzickiego / Przybory","Twardzickiego / Witosa","Andersa / Kleeberga","Akademicka / Igrzyskowa","Akademicka / Kaliskiego (UTP)","Przylesie","Romanowskiej / Akademicka","Centrum Onkologii","Matki Teresy z Kalkuty / Romanowskiej","Rejewskiego / Akademicka","Rejewskiego / Auchan","Skandynawska / Ikea","Wi&#281;cka / &#321;owicka","&#321;owicka / Szko&#322;a","Tor Regatowy"], 
+		"czasy":[0,1,2,3,4,5,6,7,9,10,12,13,15,16,18,19,20,21,23,24,26,27,28,30,31,33,34,35,36,37,39,41,42,43,44] 
+	}],
+	"kier3": [{ 
+		"wariant":"Centrum Onkologii", 
+		"przystanki":["Tatrza&#324;skie","Wyzwolenia / Komisariat","Geodet&oacute;w / Wyzwolenia","Geodet&oacute;w / Pieni&#324;ska","&#321;osko&#324;","Bora-Komorowskiego / Braci Ba&#380;a&#324;skich","Bora-Komorowskiego / Gieryna","Bora-Komorowskiego / Kiedrowskiego","Nad Wis&#322;&#261;","Pi&#322;sudskiego / Swobodna","Niepodleg&#322;o&#347;ci","Wyzwolenia / Swobodna","Wyzwolenia / Styki","Fordon Rynek","Fordo&#324;ska / Wiadukt","Dworzec Fordon","Brzechwy / Szelburg-Zarem.","Bajka","Skar&#380;y&#324;skiego / Kwiatkowskiego","Skar&#380;y&#324;skiego / Twardzickiego","Twardzickiego / Przybory","Twardzickiego / Witosa","Andersa / Kleeberga","Akademicka / Igrzyskowa","Akademicka / Kaliskiego (UTP)","Przylesie","Akademicka / Romanowskiej","Matki Teresy z Kalkuty / Akademicka","Centrum Onkologii"], 
+		"czasy":[0,1,2,3,4,5,6,7,9,10,12,13,15,16,18,19,20,21,23,24,26,27,28,30,31,33,35,37,38] 
+	}],
+	"kier4":[ { 
+		"wariant":"Przemys&#322;owa", 
+		"przystanki":["Tatrza&#324;skie","Wyzwolenia / Komisariat","Geodet&oacute;w / Wyzwolenia","Geodet&oacute;w / Pieni&#324;ska","&#321;osko&#324;","Bora-Komorowskiego / Braci Ba&#380;a&#324;skich","Bora-Komorowskiego / Gieryna","Bora-Komorowskiego / Kiedrowskiego","Nad Wis&#322;&#261;","Pi&#322;sudskiego / Swobodna","Niepodleg&#322;o&#347;ci","Wyzwolenia / Swobodna","Wyzwolenia / Styki","Fordon Rynek","Fordo&#324;ska / Wiadukt","Dworzec Fordon","Brzechwy / Szelburg-Zarem.","Bajka","Skar&#380;y&#324;skiego / Kwiatkowskiego","Skar&#380;y&#324;skiego / Twardzickiego","Twardzickiego / Przybory","Twardzickiego / Witosa","Andersa / Kleeberga","Akademicka / Igrzyskowa","Akademicka / Kaliskiego (UTP)","Przylesie","Romanowskiej / Akademicka","Centrum Onkologii","Matki Teresy z Kalkuty / Romanowskiej","Rejewskiego / Akademicka","Rejewskiego / Auchan","Skandynawska / Ikea","Wi&#281;cka / &#321;owicka","&#321;owicka / Szko&#322;a","Tor Regatowy","Witebska / Gazbud","Przemys&#322;owa / Przejazd","Przemys&#322;owa"], 
+		"czasy":[0,1,2,3,4,5,6,7,9,10,12,13,15,16,18,19,20,21,23,24,26,27,28,30,31,33,34,35,36,37,39,41,42,43,44,46,48,49] 
+	}], 
+	"kier5": [{ 
+		"wariant":"Tatrza&#324;skie", 
+		"przystanki":["Skandynawska / Ikea","Rejewskiego / Auchan","Matki Teresy z Kalkuty / Akademicka","Centrum Onkologii","Akademicka / Romanowskiej","Przylesie","Akademicka / Kaliskiego (UTP)","Akademicka / Igrzyskowa","Kleeberga / Andersa","Twardzickiego / Witosa","Twardzickiego / Przybory","Skar&#380;y&#324;skiego / Twardzickiego","Bajka","Brzechwy / Szafirowa","Brzechwy / Szelburg-Zarembiny","Dworzec Fordon","Fordo&#324;ska / Wiadukt","Fordon Rynek","Wyzwolenia / Styki","Wyzwolenia / Swobodna","Niepodleg&#322;o&#347;ci","Pi&#322;sudskiego / Swobodna","Nad Wis&#322;&#261;","Bora-Komorowskiego / Kiedrowskiego","Bora-Komorowskiego / Gieryna","Bora-Komorowskiego / Braci Ba&#380;a&#324;skich","&#321;osko&#324;","Geodet&oacute;w / Pieni&#324;ska","Geodet&oacute;w / Wyzwolenia","Wyzwolenia / Komisariat","Tatrza&#324;skie"], 
+		"czasy":[0,2,4,5,7,8,10,11,13,14,15,17,18,19,20,22,24,26,27,28,30,32,33,35,36,37,38,39,40,41,42] 
+	}],
+	"kier6": [{ 
+		"wariant":"Tatrza&#324;skie&Tor Regatowy", 
+		"przystanki":["Tor Regatowy","&#321;owicka / Szko&#322;a","Wi&#281;cka / &#321;owicka","Skandynawska / Ikea","Rejewskiego / Auchan","Matki Teresy z Kalkuty / Akademicka","Centrum Onkologii","Akademicka / Romanowskiej","Przylesie","Akademicka / Kaliskiego (UTP)","Akademicka / Igrzyskowa","Kleeberga / Andersa","Twardzickiego / Witosa","Twardzickiego / Przybory","Skar&#380;y&#324;skiego / Twardzickiego","Bajka","Brzechwy / Szafirowa","Brzechwy / Szelburg-Zarembiny","Dworzec Fordon","Fordo&#324;ska / Wiadukt","Fordon Rynek","Wyzwolenia / Styki","Wyzwolenia / Swobodna","Niepodleg&#322;o&#347;ci","Pi&#322;sudskiego / Swobodna","Nad Wis&#322;&#261;","Bora-Komorowskiego / Kiedrowskiego","Bora-Komorowskiego / Gieryna","Bora-Komorowskiego / Braci Ba&#380;a&#324;skich","&#321;osko&#324;","Geodet&oacute;w / Pieni&#324;ska","Geodet&oacute;w / Wyzwolenia","Wyzwolenia / Komisariat","Tatrza&#324;skie"], 
+		"czasy":[0,1,2,3,5,7,8,10,11,13,14,16,17,18,20,21,22,23,25,27,29,30,31,33,35,36,38,39,40,41,42,43,44,45] 
+	}],
+	"kier7": [{ 
+		"wariant":"Tatrza&#324;skie&Centrum Onkologii", 
+		"przystanki":["Centrum Onkologii","Akademicka / Romanowskiej","Przylesie","Akademicka / Kaliskiego (UTP)","Akademicka / Igrzyskowa","Kleeberga / Andersa","Twardzickiego / Witosa","Twardzickiego / Przybory","Skar&#380;y&#324;skiego / Twardzickiego","Bajka","Brzechwy / Szafirowa","Brzechwy / Szelburg-Zarembiny","Dworzec Fordon","Fordo&#324;ska / Wiadukt","Fordon Rynek","Wyzwolenia / Styki","Wyzwolenia / Swobodna","Niepodleg&#322;o&#347;ci","Pi&#322;sudskiego / Swobodna","Nad Wis&#322;&#261;","Bora-Komorowskiego / Kiedrowskiego","Bora-Komorowskiego / Gieryna","Bora-Komorowskiego / Braci Ba&#380;a&#324;skich","&#321;osko&#324;","Geodet&oacute;w / Pieni&#324;ska","Geodet&oacute;w / Wyzwolenia","Wyzwolenia / Komisariat","Tatrza&#324;skie"], 
+		"czasy":[0,2,3,5,6,8,9,10,12,13,14,15,17,19,21,22,23,25,27,28,30,31,32,33,34,35,36,37] 
+	}],
+	"kier8": [{ 
+		"wariant":"Tatrza&#324;skie&Przemyslowa", 
+		"przystanki":["Przemys&#322;owa","Przemys&#322;owa / Przejazd","Witebska / Gazbud","Tor Regatowy","&#321;owicka / Szko&#322;a","Wi&#281;cka / &#321;owicka","Skandynawska / Ikea","Rejewskiego / Auchan","Matki Teresy z Kalkuty / Akademicka","Centrum Onkologii","Akademicka / Romanowskiej","Przylesie","Akademicka / Kaliskiego (UTP)","Akademicka / Igrzyskowa","Kleeberga / Andersa","Twardzickiego / Witosa","Twardzickiego / Przybory","Skar&#380;y&#324;skiego / Twardzickiego","Bajka","Brzechwy / Szafirowa","Brzechwy / Szelburg-Zarembiny","Dworzec Fordon","Fordo&#324;ska / Wiadukt","Fordon Rynek","Wyzwolenia / Styki","Wyzwolenia / Swobodna","Niepodleg&#322;o&#347;ci","Pi&#322;sudskiego / Swobodna","Nad Wis&#322;&#261;","Bora-Komorowskiego / Kiedrowskiego","Bora-Komorowskiego / Gieryna","Bora-Komorowskiego / Braci Ba&#380;a&#324;skich","&#321;osko&#324;","Geodet&oacute;w / Pieni&#324;ska","Geodet&oacute;w / Wyzwolenia","Wyzwolenia / Komisariat","Tatrza&#324;skie"], 
+		"czasy":[0,1,3,5,6,7,8,10,12,13,15,16,18,19,21,22,23,25,26,27,28,30,32,34,35,36,38,40,41,43,44,45,46,47,48,49,50] 
+	}]
+},
+{   
+	"il": "3", 
+	"numerlinii": "82", 
+	"kier1":[ { 
+		"wariant":"Tatrza&#324;skie", 
+		"przystanki":["Zamczysko (p&#281;tla)","Pod Skarp&#261; / Przemys&#322;a II","Jasiniecka / Pod Skarp&#261;","Trybowskiego / Jasiniecka","Trybowskiego / Majtkowskiego","Trybowskiego / Matki Teresy z Kalkuty","Pod Skarp&#261; / &#379;emojtela","Korfantego / Prejsa","Przylesie","Akademicka / Kaliskiego (UTP)","Akademicka / Igrzyskowa","Kleeberga / Andersa","Twardzickiego / Witosa","Twardzickiego / Przybory","Skar&#380;y&#324;skiego / Twardzickiego","Bajka","Brzechwy / Szafirowa","Brzechwy / Szelburg-Zarembiny","Dworzec Fordon","Fordo&#324;ska / Wiadukt","Fordon Rynek","Wyzwolenia / Styki","Wyzwolenia / Swobodna","Niepodleg&#322;o&#347;ci","Wyzwolenia / Derdowskiego","Tatrza&#324;skie"], 
+		"czasy":[0,2,3,4,5,6,7,9,10,12,13,15,16,17,19,20,21,22,24,26,28,29,30,32,34,36] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Zamczysko (p&#281;tla)", 
+		"przystanki":["Tatrza&#324;skie","Wyzwolenia / Derdowskiego","Niepodleg&#322;o&#347;ci","Wyzwolenia / Swobodna","Wyzwolenia / Styki","Fordon Rynek","Fordo&#324;ska / Wiadukt","Dworzec Fordon","Brzechwy / Szelburg-Zarembiny","Bajka","Skar&#380;y&#324;skiego / Kwiatkowskiego","Skar&#380;y&#324;skiego / Twardzickiego","Twardzickiego / Przybory","Twardzickiego / Witosa","Andersa / Kleeberga","Akademicka / Igrzyskowa","Akademicka / Kaliskiego (UTP)","Przylesie","Korfantego / Prejsa","Pod Skarp&#261; / &#379;emojtela","Trybowskiego / Matki Teresy z Kalkuty","Trybowskiego / Majtkowskiego","Jasiniecka / Trybowskiego","Jasiniecka / Pod Skarp&#261;","Pod Skarp&#261; / Przemys&#322;a II","Zamczysko (p&#281;tla)"], 
+		"czasy":[0,2,4,5,7,8,10,11,12,13,15,16,18,19,20,22,23,25,26,28,29,30,31,32,33,35] 
+	}],
+	"kier3": [{ 
+		"wariant":"Korfantego / Prejsa", 
+		"przystanki":["Zamczysko (p&#281;tla)","Pod Skarp&#261; / Przemys&#322;a II","Jasiniecka / Pod Skarp&#261;","Trybowskiego / Jasiniecka","Trybowskiego / Majtkowskiego","Trybowskiego / Matki Teresy z Kalkuty","Pod Skarp&#261; / &#379;emojtela","Korfantego / Prejsa"], 
+		"czasy":[0,2,3,4,5,6,7,9] 
+	}]
+},
+  {
+    "il": "3",
+    "numerlinii": "83",
+    "kier1":[ {
+		"wariant":"Czy&#380;k&oacute;wko",
+		"przystanki":["Tatrza&#324;skie","Pelpli&#324;ska / Jaru&#380;y&#324;ska","Pelpli&#324;ska / Taternik&oacute;w","Pelpli&#324;ska / Targowisko","Twardzickiego / Przybory","Twardzickiego / Witosa","Twardzickiego / Thommee","Twardzickiego / Kleina","Twardzickiego / &#321;ochowskiego","Korfantego / Prejsa","Przylesie","Kaliskiego / Akademicka (UTP)","Kaliskiego / UTP","Dworzec Akademia","Fordo&#324;ska / Traktorzyst&oacute;w","Fordo&#324;ska / &#321;owicka","Fordo&#324;ska / Wi&#347;lana","Fordo&#324;ska / Sochaczewska","Dworzec Wsch&oacute;d","Kamienna / Fabryczna","Dworzec Bielawy","Kamienna / Gajowa","Kamienna / Wyszy&#324;skiego","Kamienna / Su&#322;kowskiego","Kamienna / Gda&#324;ska","Artyleryjska / Za&#347;wiat","Pileckiego / Cmentarz","Pileckiego / Rynkowska","Pileckiego / Kmicica","Pileckiego / &#379;eglarska","Rondo Maczka","Nad Torem / Orlicza","Nad Torem / Karolewska","Deszczowa / Wiejska","Deszczowa / Wichrowa","Czy&#380;k&oacute;wko"],
+		"czasy":[0,1,2,3,4,5,6,8,9,10,12,14,15,17,18,19,21,22,24,26,28,30,32,34,36,38,39,40,41,42,45,46,48,50,51,52]
+    }],
+	"kier2": [{
+	  "wariant":"Tatrza&#324;skie",
+      "przystanki":["Czy&#380;k&oacute;wko","Deszczowa / Wichrowa","Nad Torem / Chmurna","Nad Torem / Karolewska","Nad Torem / Orlicza","Rondo Maczka","Pileckiego / &#379;eglarska","Pileckiego / Kmicica","Pileckiego / Rynkowska","Artyleryjska / Za&#347;wiat","Kamienna / Gda&#324;ska","Kamienna / Su&#322;kowskiego","Kamienna / Wyszy&#324;skiego","Kamienna / Gajowa","Dworzec Bielawy","Kamienna / Fabryczna","Dworzec Wsch&oacute;d","Fordo&#324;ska / Sochaczewska","Fordo&#324;ska / Wi&#347;lana","Fordo&#324;ska / &#321;owicka","Fordo&#324;ska / Traktorzyst&oacute;w","Kaliskiego / UTP","Akademicka / Kaliskiego (UTP)","Przylesie","Korfantego / Prejsa","Twardzickiego / &#321;ochowskiego","Twardzickiego / Kleina","Twardzickiego / Thommee","Twardzickiego / Witosa","Twardzickiego / Przybory","Pelpli&#324;ska / Targowisko","Pelpli&#324;ska / Taternik&oacute;w","Pelpli&#324;ska / Jaru&#380;y&#324;ska","Tatrza&#324;skie"],
+	  "czasy":[0,2,4,5,6,8,9,11,12,14,17,19,22,23,25,26,28,31,32,34,36,38,40,41,42,43,44,46,47,48,49,50,51,52]
+    }],
+	"kier3":[ {
+		"wariant":"Dworzec Wsch&oacute;d",
+		"przystanki":["Tatrza&#324;skie","Pelpli&#324;ska / Jaru&#380;y&#324;ska","Pelpli&#324;ska / Taternik&oacute;w","Pelpli&#324;ska / Targowisko","Twardzickiego / Przybory","Twardzickiego / Witosa","Twardzickiego / Thommee","Twardzickiego / Kleina","Twardzickiego / &#321;ochowskiego","Korfantego / Prejsa","Przylesie","Kaliskiego / Akademicka (UTP)","Kaliskiego / UTP","Dworzec Akademia","Fordo&#324;ska / Traktorzyst&oacute;w","Fordo&#324;ska / &#321;owicka","Fordo&#324;ska / Wi&#347;lana","Fordo&#324;ska / Sochaczewska","Dworzec Wsch&oacute;d"],
+		"czasy":[0,1,2,3,4,5,6,8,9,10,12,14,15,17,18,19,21,22,24]
+    }]
+  },
+{
+    "il": "4",
+    "numerlinii": "89",
+    "kier1":[ {
+		"wariant":"B&#322;onie",
+		"przystanki":["Tatrza&#324;skie","Pelpli&#324;ska / Jaru&#380;y&#324;ska","Pelpli&#324;ska / Taternik&oacute;w","Pelpli&#324;ska / Targowisko","Twardzickiego / Przybory","Twardzickiego / Witosa","Twardzickiego / Thommee","Twardzickiego / Kleina","Twardzickiego / &#321;ochowskiego","Korfantego / Prejsa","Przylesie","Kaliskiego / Akademicka (UTP)","Kaliskiego / UTP","Dworzec Akademia","Fordo&#324;ska / Traktorzyst&oacute;w","Fordo&#324;ska / &#321;owicka","Fordo&#324;ska / Wi&#347;lana","Fordo&#324;ska / Sochaczewska","Dworzec Wsch&oacute;d","Fordo&#324;ska / Wy&#347;cigowa","Fordo&#324;ska / Fabryczna","Fordo&#324;ska / Szajnochy","Most Kazimierza Wielkiego","Sk&#322;odowskiej-Curie / &#321;&#281;czycka","Sk&#322;odowskiej-Curie / Ba&#322;tycka","Sk&#322;odowskiej-Curie / Gajowa","Rondo Skrzetuskie","Rondo Fordo&#324;skie","Rondo Toru&#324;skie","Wojska Polskiego / Ujejskiego","Wzg&oacute;rze Wolno&#347;ci","Rondo Kujawskie","Brzozowa / Jesionowa","Brzozowa / Bielicka","Inowroc&#322;awska / Zajezdnia","Inowroc&#322;awska / Skorupki","&#379;wirki i Wigury / Jask&oacute;&#322;cza","Szubi&#324;ska / &#379;wirki i Wigury","B&#322;onie"],
+		"czasy":[0,1,2,3,4,5,6,8,9,10,12,14,15,17,18,19,21,22,24,26,28,30,31,33,35,36,38,39,42,44,46,48,50,52,53,54,55,58,60]
+    }],
+	"kier2": [{
+	  "wariant":"Tatrza&#324;skie",
+      "przystanki":["B&#322;onie","Szubi&#324;ska / &#379;wirki i Wigury","&#379;wirki i Wigury / Jask&oacute;&#322;cza","Inowroc&#322;awska / Skorupki","Inowroc&#322;awska / Zajezdnia","Brzozowa / Bielicka","Brzozowa / Jesionowa","Rondo Inowroc&#322;awskie","Rondo Kujawskie","Wzg&oacute;rze Wolno&#347;ci","Wojska Polskiego / Ujejskiego","Rondo Toru&#324;skie","Rondo Fordo&#324;skie","Sk&#322;odowskiej-Curie / Gajowa","Sk&#322;odowskiej-Curie / Ba&#322;tycka","Sk&#322;odowskiej-Curie / &#321;&#281;czycka","Most Kazimierza Wielkiego","Fordo&#324;ska / Fabryczna","Fordo&#324;ska / Wy&#347;cigowa","Dworzec Wsch&oacute;d","Fordo&#324;ska / Sochaczewska","Fordo&#324;ska / Wi&#347;lana","Fordo&#324;ska / &#321;owicka","Fordo&#324;ska / Traktorzyst&oacute;w","Kaliskiego / UTP","Akademicka / Kaliskiego (UTP)","Przylesie","Korfantego / Prejsa","Twardzickiego / &#321;ochowskiego","Twardzickiego / Kleina","Twardzickiego / Thommee","Twardzickiego / Witosa","Twardzickiego / Przybory","Pelpli&#324;ska / Targowisko","Pelpli&#324;ska / Taternik&oacute;w","Pelpli&#324;ska / Jaru&#380;y&#324;ska","Tatrza&#324;skie"],
+	  "czasy":[0,2,3,5,6,7,9,11,12,15,17,20,23,25,27,28,31,33,35,37,39,40,42,44,47,49,51,52,53,54,56,57,58,59,60,61,62]
+    }],
+	"kier3":[ {
+		"wariant":"Inowroc&#322;awska / Zajezdnia",
+		"przystanki":["B&#322;onie","Szubi&#324;ska / &#379;wirki i Wigury","&#379;wirki i Wigury / Jask&oacute;&#322;cza","Inowroc&#322;awska / Skorupki","Inowroc&#322;awska / Zajezdnia"],
+		"czasy":[0,2,3,5,6]
+    }],
+	"kier4":[ {
+		"wariant":"Brzozowa / Bielicka",		
+		"przystanki":["Tatrza&#324;skie","Pelpli&#324;ska / Jaru&#380;y&#324;ska","Pelpli&#324;ska / Taternik&oacute;w","Pelpli&#324;ska / Targowisko","Twardzickiego / Przybory","Twardzickiego / Witosa","Twardzickiego / Thommee","Twardzickiego / Kleina","Twardzickiego / &#321;ochowskiego","Korfantego / Prejsa","Przylesie","Kaliskiego / Akademicka (UTP)","Kaliskiego / UTP","Dworzec Akademia","Fordo&#324;ska / Traktorzyst&oacute;w","Fordo&#324;ska / &#321;owicka","Fordo&#324;ska / Wi&#347;lana","Fordo&#324;ska / Sochaczewska","Dworzec Wsch&oacute;d","Fordo&#324;ska / Wy&#347;cigowa","Fordo&#324;ska / Fabryczna","Fordo&#324;ska / Szajnochy","Most Kazimierza Wielkiego","Sk&#322;odowskiej-Curie / &#321;&#281;czycka","Sk&#322;odowskiej-Curie / Ba&#322;tycka","Sk&#322;odowskiej-Curie / Gajowa","Rondo Skrzetuskie","Rondo Fordo&#324;skie","Rondo Toru&#324;skie","Wojska Polskiego / Ujejskiego","Wzg&oacute;rze Wolno&#347;ci","Rondo Kujawskie","Brzozowa / Jesionowa","Brzozowa / Bielicka"],
+		"czasy":[0,1,2,3,4,5,6,8,9,10,12,14,15,17,18,19,21,22,24,26,28,30,31,33,35,36,38,39,42,44,46,48,50,52]
+    }]
+  },
+{   
+	"il": "2", 
+	"numerlinii": "ZaT4", 
+	"kier1":[ { 
+		"wariant":"Glinki", 
+		"przystanki":["Rondo Toru&#324;skie (Be&#322;zy)","Be&#322;zy / Spokojna","Be&#322;zy / Szarych Szereg&oacute;w","Szpitalna / &#321;om&#380;y&#324;ska","Szpitalna / Solna","Glinki / Szpitalna","Glinki"], 
+		"czasy":[0,1,2,4,5,6,7] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Rondo Toru&#324;skie (Be&#322;zy)", 
+		"przystanki":["Glinki","Glinki / Szpitalna","Szpitalna / Solna","Szpitalna / &#321;om&#380;y&#324;ska","Be&#322;zy / Szarych Szereg&oacute;w","Spokojna","Rondo Toru&#324;skie (Be&#322;zy)"], 
+		"czasy":[0,0,1,2,4,6,10] 
+	}]
+},
+{   
+	"il": "2", 
+	"numerlinii": "ZaT7", 
+	"kier1":[ { 
+		"wariant":"Most Kazimierza Wielkiego", 
+		"przystanki":["Kapu&#347;ciska","Wojska Polskiego / Baczy&#324;skiego","Wojska Polskiego / &#321;ukasiewicza","Wojska Polskiego / Prezydenta Lecha Kaczy&#324;skiego","Prezydenta Lecha Kaczy&#324;skiego / Sandomierska","Kazimierza Wielkiego / Toru&#324;ska","Most Kazimierza Wielkiego"], 
+		"czasy":[0,1,2,4,6,9] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Kapu&#347;ciska", 
+		"przystanki":["Most Kazimierza Wielkiego","Kazimierza Wielkiego / Toru&#324;ska","Prezydenta Lecha Kaczy&#324;skiego / Sandomierska","Wojska Polskiego / Prezydenta Lecha Kaczy&#324;skiego","Wojska Polskiego / Baczy&#324;skiego","Kapu&#347;ciska"], 
+		"czasy":[0,1,3,6,7,8] 
+	}]
+},
+{   
+	"il": "2", 
+	"numerlinii": "ZaT8", 
+	"kier1":[ { 
+		"wariant":"Rondo Toru&#324;skie (Be&#322;zy)", 
+		"przystanki":["Kapu&#347;ciska","Wojska Polskiego / Baczy&#324;skiego","Wojska Polskiego / Prezydenta Lecha Kaczy&#324;skiego","Wojska Polskiego / Szarych Szereg&oacute;w","Be&#322;zy / Szarych Szereg&oacute;w","Spokojna","Rondo Toru&#324;skie (Be&#322;zy)"], 
+		"czasy":[0,1,2,3,4,6,10] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Kapu&#347;ciska", 
+		"przystanki":["Rondo Toru&#324;skie (Be&#322;zy)","Be&#322;zy / Spokojna","Be&#322;zy / Szarych Szereg&oacute;w","Wojska Polskiego / Szarych Szereg&oacute;w","Wojska Polskiego / Prezydenta Lecha Kaczy&#324;skiego","Wojska Polskiego / Baczy&#324;skiego","Kapu&#347;ciska"], 
+		"czasy":[0,2,4,6,7,8,9] 
+	}]
+},
+{   
+	"il": "6", 
+	"numerlinii": "91", 
+	"kier1":[ { 
+		"wariant":"B&#322;onie", 
+		"przystanki":["Przy&#322;&#281;ki","Przy&#322;&#281;ki / Cicha","Przy&#322;&#281;ki / Ko&#347;ci&oacute;&#322;","Przy&#322;&#281;ki / M&#322;y&#324;ska","Przy&#322;&#281;ki / Biznesowa","Zielonka / Orzechowa","Zielonka / Bocianowo","Ciele / &#377;r&oacute;dlana","Ciele / Ko&#347;cielna","Ciele / Pogodna","Ciele / Makowa","Ciele / Ogrody","Ciele / Makowa","Ciele / Pogodna","Bia&#322;e B&#322;ota / Kruszy&#324;ska","Bia&#322;e B&#322;ota / Modra","Bia&#322;e B&#322;ota / Czekoladowa","Bia&#322;e B&#322;ota / Chlebowa","B&#322;onie"], 
+		"czasy":[0,1,2,3,5,8,11,13,14,16,17,19,21,22,25,27,29,30,36] 
+	}], 
+	"kier2": [{ 
+		"wariant":"B&#322;onie&Kruszyn", 
+		"przystanki":["Przy&#322;&#281;ki","Przy&#322;&#281;ki / Cicha","Przy&#322;&#281;ki / Ko&#347;ci&oacute;&#322;","Przy&#322;&#281;ki / M&#322;y&#324;ska","Przy&#322;&#281;ki / Biznesowa","Zielonka / Orzechowa","Zielonka / Bocianowo","Ciele / &#377;r&oacute;dlana","Ciele / Ko&#347;cielna","Ciele / Pogodna","Ciele / Makowa","Ciele / Ogrody","Kruszyn Kraje&#324;ski / Mro&#378;na","Ciele / Ogrody","Ciele / Makowa","Ciele / Pogodna","Bia&#322;e B&#322;ota / Kruszy&#324;ska","Bia&#322;e B&#322;ota / Modra","Bia&#322;e B&#322;ota / Czekoladowa","Bia&#322;e B&#322;ota / Chlebowa","B&#322;onie"], 
+		"czasy":[0,1,2,3,5,8,11,13,14,16,17,19,23,26,28,29,32,34,36,37,43] 
+	}],
+	"kier3": [{ 
+		"wariant":"B&#322;onie&Ciele", 
+		"przystanki":["Przy&#322;&#281;ki","Przy&#322;&#281;ki / Cicha","Przy&#322;&#281;ki / Ko&#347;ci&oacute;&#322;","Przy&#322;&#281;ki / M&#322;y&#324;ska","Przy&#322;&#281;ki / Biznesowa","Zielonka / Orzechowa","Zielonka / Bocianowo","Ciele / &#377;r&oacute;dlana","Ciele / Ko&#347;cielna","Bia&#322;e B&#322;ota / Kruszy&#324;ska","Bia&#322;e B&#322;ota / Modra","Bia&#322;e B&#322;ota / Czekoladowa","Bia&#322;e B&#322;ota / Chlebowa","B&#322;onie"], 
+		"czasy":[0,1,2,3,5,8,11,13,14,17,19,21,22,28] 
+	}],
+	"kier4":[ { 
+		"wariant":"Przy&#322;&#281;ki", 
+		"przystanki":["B&#322;onie","Bia&#322;e B&#322;ota / Chlebowa","Bia&#322;e B&#322;ota / Czerska","Bia&#322;e B&#322;ota / Modra","Bia&#322;e B&#322;ota / Kruszy&#324;ska","Ciele / Pogodna","Ciele / Makowa","Ciele / Ogrody","Ciele / Makowa","Ciele / Pogodna","Ciele / Ko&#347;cielna","Ciele / &#377;r&oacute;dlana","Zielonka / Bocianowo","Zielonka / Orzechowa","Przy&#322;&#281;ki / Biznesowa","Przy&#322;&#281;ki / M&#322;y&#324;ska","Przy&#322;&#281;ki / Ko&#347;ci&oacute;&#322;","Przy&#322;&#281;ki / Cicha","Przy&#322;&#281;ki"], 
+		"czasy":[0,5,6,8,10,13,14,15,17,18,20,21,24,26,29,31,32,33,34] 
+	}], 
+	"kier5": [{ 
+		"wariant":"Przy&#322;&#281;ki&Kruszyn", 
+		"przystanki":["B&#322;onie","Bia&#322;e B&#322;ota / Chlebowa","Bia&#322;e B&#322;ota / Czerska","Bia&#322;e B&#322;ota / Modra","Bia&#322;e B&#322;ota / Kruszy&#324;ska","Ciele / Pogodna","Ciele / Makowa","Ciele / Ogrody","Kruszyn Kraje&#324;ski / Mro&#378;na","Ciele / Ogrody","Ciele / Makowa","Ciele / Pogodna","Ciele / Ko&#347;cielna","Ciele / &#377;r&oacute;dlana","Zielonka / Bocianowo","Zielonka / Orzechowa","Przy&#322;&#281;ki / Biznesowa","Przy&#322;&#281;ki / M&#322;y&#324;ska","Przy&#322;&#281;ki / Ko&#347;ci&oacute;&#322;","Przy&#322;&#281;ki / Cicha","Przy&#322;&#281;ki"], 
+		"czasy":[0,5,6,8,10,13,14,15,19,22,24,25,27,28,31,33,36,38,39,40,41] 
+	}],
+	"kier6": [{ 
+		"wariant":"Przy&#322;&#281;ki&Ciele", 
+		"przystanki":["Błonie","Białe Błota / Chlebowa","Białe Błota / Czerska","Białe Błota / Modra","Białe Błota / Kruszyńska","Ciele / Kościelna","Ciele / Źródlana","Zielonka / Bocianowo","Zielonka / Orzechowa","Przyłęki / Biznesowa","Przyłęki / Młyńska","Przyłęki / Kościół","Przyłęki / Cicha","Przyłęki"], 
+		"czasy":[0,5,6,8,10,13,14,17,19,22,24,25,26,27] 
+	}]
+},
+{   
+	"il": "4", 
+	"numerlinii": "92", 
+	"kier1":[ { 
+		"wariant":"B&#322;onie", 
+		"przystanki":["Murowaniec","Murowaniec / Strusia","Lipniki / STW","Lipniki / Wiadukt","Kruszyn Kraje&#324;ski / &#321;&#261;kowa","Kruszyn Kraje&#324;ski / S&#322;oneczna","Kruszyn Kraje&#324;ski / Jasiniecka","Bia&#322;e B&#322;ota / Kapliczna","Bia&#322;e B&#322;ota / Urz&#261;d Gminy","B&#322;onie"], 
+		"czasy":[0,1,3,4,5,6,7,9,13,19] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Murowaniec", 
+		"przystanki":["B&#322;onie","Bia&#322;e B&#322;ota / Urz&#261;d Gminy","Bia&#322;e B&#322;ota / Kapliczna","Bia&#322;e B&#322;ota / Sosnowa","Lipniki / Akacjowa","Lipniki / Wierzbowa","Lipniki / Wiadukt","Lipniki / STW","Murowaniec / Strusia","Murowaniec"], 
+		"czasy":[0,4,7,10,12,13,15,16,18,19] 
+	}],
+	"kier3": [{ 
+		"wariant":"&#321;ochowo", 
+		"przystanki":["B&#322;onie","Bia&#322;e B&#322;ota / Urz&#261;d Gminy","Bia&#322;e B&#322;ota / Kapliczna","Bia&#322;e B&#322;ota / Sosnowa","Lipniki / Akacjowa","Lipniki / Wierzbowa","Lipniki / Wiadukt","Lipniki / STW","Murowaniec / Strusia","Murowaniec","Drzewce","&#321;ochowo / Sosnowa","&#321;ochowo"], 
+		"czasy":[0,4,7,10,12,13,15,16,18,19,22,24,26] 
+	}],
+	"kier4": [{ 
+		"wariant":"B&#322;onie&Lochowo", 
+		"przystanki":["&#321;ochowo","&#321;ochowo / Sosnowa","Drzewce","Murowaniec","Murowaniec / Strusia","Lipniki / STW","Lipniki / Wiadukt","Kruszyn Kraje&#324;ski / &#321;&#261;kowa","Kruszyn Kraje&#324;ski / S&#322;oneczna","Kruszyn Kraje&#324;ski / Jasiniecka","Bia&#322;e B&#322;ota / Kapliczna","Bia&#322;e B&#322;ota / Urz&#261;d Gminy","B&#322;onie"], 
+		"czasy":[0,2,4,7,8,10,11,12,13,14,16,20,26] 
+	}]
+},
+{   
+	"il": "4", 
+	"numerlinii": "93", 
+	"kier1":[ { 
+		"wariant":"Dworzec Le&#347;ne", 
+		"przystanki":["Niwy","Osielsko / Centralna","Osielsko / Wi&#261;zowa","Osielsko / Le&#347;na","Osielsko / Kwiatowa","Osielsko / Gmina","Osielsko / M&#322;yn","Osielsko / My&#347;l&#281;cinek","Gda&#324;ska / Je&#378;dziecka","My&#347;l&#281;cinek","Las Gda&#324;ski","Modrzewiowa / Gda&#324;ska","Dworzec Le&#347;ne"], 
+		"czasy":[0,2,3,4,5,7,9,10,12,14,17,19,21] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Niwy", 
+		"przystanki":["Dworzec Le&#347;ne","Le&#347;ne","Modrzewiowa / Gda&#324;ska","Las Gda&#324;ski","My&#347;l&#281;cinek","Gda&#324;ska / Je&#378;dziecka","Osielsko / My&#347;l&#281;cinek","Osielsko / M&#322;yn","Osielsko / Kwiatowa","Osielsko / Le&#347;na","Osielsko / Wi&#261;zowa","Osielsko / Centralna","Niwy"], 
+		"czasy":[0,1,2,4,7,10,12,13,16,17,18,19,21] 
+	}],
+	"kier3": [{ 
+		"wariant":"Wilcze", 
+		"przystanki":["Dworzec Le&#347;ne","Le&#347;ne","Modrzewiowa / Gda&#324;ska","Las Gda&#324;ski","My&#347;l&#281;cinek","Gda&#324;ska / Je&#378;dziecka","Osielsko / My&#347;l&#281;cinek","Osielsko / M&#322;yn","Osielsko / Kwiatowa","Osielsko / Le&#347;na","Osielsko / Wi&#261;zowa","Osielsko / Centralna","Niwy","Niwy / Karkonoska","Niwy / Zakopia&#324;ska","Wilcze / Krakowska","Jaru&#380;yn / Bociania","Jaru&#380;yn / Nowowiejska","Strzelce G&oacute;rne / Jaworowa","Wilcze"], 
+		"czasy":[0,1,2,4,7,10,12,13,16,17,18,19,21,22,23,24,26,27,28,30] 
+	}],
+	"kier4": [{ 
+		"wariant":"Dworzec Le&#347;ne&Wilcze", 
+		"przystanki":["Wilcze","Strzelce G&oacute;rne / Jaworowa","Jaru&#380;yn / Nowowiejska","Jaru&#380;yn / Bociania","Wilcze / Krakowska","Niwy / Zakopia&#324;ska","Niwy / Bieszczadzka","Niwy","Osielsko / Centralna","Osielsko / Wi&#261;zowa","Osielsko / Le&#347;na","Osielsko / Kwiatowa","Osielsko / Gmina","Osielsko / M&#322;yn","Osielsko / My&#347;l&#281;cinek","Gda&#324;ska / Je&#378;dziecka","My&#347;l&#281;cinek","Las Gda&#324;ski","Modrzewiowa / Gda&#324;ska","Dworzec Le&#347;ne"], 
+		"czasy":[0,1,2,3,5,7,8,9,11,12,13,14,16,18,19,21,23,26,28,30] 
+	}]
+},
+{   
+	"il": "15", 
+	"numerlinii": "94", 
+	"kier1":[ { 
+		"wariant":"&#379;o&#322;&#281;dowo / Augustowska", 
+		"przystanki":["Dworzec Le&#347;ne","Le&#347;ne","Modrzewiowa / Gda&#324;ska","Las Gda&#324;ski","My&#347;l&#281;cinek","Je&#378;dziecka / Gda&#324;ska","Je&#378;dziecka / Ogr&oacute;d Botaniczny","Niemcz / Kasprowicza","Niemcz / Mickiewicza","Niemcz / Pod Wierzbami","Niemcz / Malczewskiego","Niemcz / Krzyszkowiaka","Jagodowo / Letnia","Jagodowo / Polna","&#379;o&#322;&#281;dowo / Koronowska","&#379;o&#322;&#281;dowo / Szko&#322;a","&#379;o&#322;&#281;dowo / Przyjazna","&#379;o&#322;&#281;dowo / Augustowska"], 
+		"czasy":[0,1,2,4,7,10,11,13,14,15,17,18,19,20,22,24,26,28] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Nekla / Akacjowa", 
+		"przystanki":["Dworzec Le&#347;ne","Le&#347;ne","Modrzewiowa / Gda&#324;ska","Las Gda&#324;ski","My&#347;l&#281;cinek","Je&#378;dziecka / Gda&#324;ska","Je&#378;dziecka / Ogr&oacute;d Botaniczny","Niemcz / Kasprowicza","Niemcz / Mickiewicza","Niemcz / Pod Wierzbami","Niemcz / Malczewskiego","Niemcz / Krzyszkowiaka","Jagodowo / Letnia","Jagodowo / Polna","&#379;o&#322;&#281;dowo / Koronowska","&#379;o&#322;&#281;dowo / Szko&#322;a","&#379;o&#322;&#281;dowo / Przyjazna","&#379;o&#322;&#281;dowo / Augustowska","&#379;o&#322;&#281;dowo / Przyjazna","Nekla / T&#281;czowa","Nekla / Le&#347;na","Nekla / Makowa","Nekla / Le&#347;na","Nekla / Ciep&#322;a","Nekla / Akacjowa"], 
+		"czasy":[0,1,2,4,7,10,11,13,14,15,17,18,19,20,22,24,26,28,29,33,34,36,38,40,41] 
+	}],
+	"kier3": [{ 
+		"wariant":"&#379;o&#322;&#281;dowo / Szko&#322;a", 
+		"przystanki":["Dworzec Le&#347;ne","Le&#347;ne","Modrzewiowa / Gda&#324;ska","Las Gda&#324;ski","My&#347;l&#281;cinek","Je&#378;dziecka / Gda&#324;ska","Je&#378;dziecka / Ogr&oacute;d Botaniczny","Niemcz / Kasprowicza","Niemcz / Mickiewicza","Niemcz / Pod Wierzbami","Niemcz / Malczewskiego","Niemcz / Krzyszkowiaka","Jagodowo / Letnia","Jagodowo / Polna","&#379;o&#322;&#281;dowo / Koronowska","&#379;o&#322;&#281;dowo / Szko&#322;a"], 
+		"czasy":[0,1,2,4,7,10,11,13,14,15,17,18,19,20,22,25] 
+	}],
+	"kier4":[ { 
+		"wariant":"Nekla / Akacjowa&Szkola", 
+		"przystanki":["Dworzec Le&#347;ne","Le&#347;ne","Modrzewiowa / Gda&#324;ska","Las Gda&#324;ski","My&#347;l&#281;cinek","Je&#378;dziecka / Gda&#324;ska","Je&#378;dziecka / Ogr&oacute;d Botaniczny","Niemcz / Kasprowicza","Niemcz / Mickiewicza","Niemcz / Pod Wierzbami","Niemcz / Malczewskiego","Niemcz / Krzyszkowiaka","Jagodowo / Letnia","Jagodowo / Polna","&#379;o&#322;&#281;dowo / Koronowska","&#379;o&#322;&#281;dowo / Szko&#322;a","Nekla / T&#281;czowa","Nekla / Le&#347;na","Nekla / Makowa","Nekla / Le&#347;na","Nekla / Ciep&#322;a","Nekla / Akacjowa"], 
+		"czasy":[0,1,2,4,7,10,11,13,14,15,17,18,19,20,22,24,27,28,30,32,34,35] 
+	}], 
+	"kier5": [{ 
+		"wariant":"&#379;o&#322;&#281;dowo / Augustowska&Maksymilianowo", 
+		"przystanki":["Dworzec Le&#347;ne","Le&#347;ne","Modrzewiowa / Gda&#324;ska","Las Gda&#324;ski","My&#347;l&#281;cinek","Je&#378;dziecka / Gda&#324;ska","Je&#378;dziecka / Ogr&oacute;d Botaniczny","Niemcz / Kasprowicza","Niemcz / Mickiewicza","Niemcz / Pod Wierzbami","Niemcz / Malczewskiego","Niemcz / Krzyszkowiaka","Jagodowo / Letnia","Jagodowo / Polna","Maksymilianowo / Ptasia","Maksymilianowo / G&#322;&oacute;wna","Maksymilianowo / Szko&#322;a","&#379;o&#322;&#281;dowo / Koronowska","&#379;o&#322;&#281;dowo / Szko&#322;a","&#379;o&#322;&#281;dowo / Przyjazna","&#379;o&#322;&#281;dowo / Augustowska"], 
+		"czasy":[0,1,2,4,7,10,11,13,14,15,17,18,19,20,22,24,25,27,29,31,33] 
+	}],
+	"kier6": [{ 
+		"wariant":"Nekla / Akacjowa&Maksymilianowo", 
+		"przystanki":["Dworzec Le&#347;ne","Le&#347;ne","Modrzewiowa / Gda&#324;ska","Las Gda&#324;ski","My&#347;l&#281;cinek","Je&#378;dziecka / Gda&#324;ska","Je&#378;dziecka / Ogr&oacute;d Botaniczny","Niemcz / Kasprowicza","Niemcz / Mickiewicza","Niemcz / Pod Wierzbami","Niemcz / Malczewskiego","Niemcz / Krzyszkowiaka","Jagodowo / Letnia","Jagodowo / Polna","Maksymilianowo / Ptasia","Maksymilianowo / G&#322;&oacute;wna","Maksymilianowo / Szko&#322;a","&#379;o&#322;&#281;dowo / Koronowska","&#379;o&#322;&#281;dowo / Szko&#322;a","&#379;o&#322;&#281;dowo / Przyjazna","&#379;o&#322;&#281;dowo / Augustowska","&#379;o&#322;&#281;dowo / Przyjazna","Nekla / T&#281;czowa","Nekla / Le&#347;na","Nekla / Makowa","Nekla / Le&#347;na","Nekla / Ciep&#322;a","Nekla / Akacjowa"], 
+		"czasy":[0,1,2,4,7,10,11,13,14,15,17,18,19,20,22,24,25,27,29,31,33,34,38,39,41,43,45,46] 
+	}],
+	"kier7":[ { 
+		"wariant":"&#379;o&#322;&#281;dowo / Szko&#322;a&Maksymilianowo", 
+		"przystanki":["Dworzec Le&#347;ne","Le&#347;ne","Modrzewiowa / Gda&#324;ska","Las Gda&#324;ski","My&#347;l&#281;cinek","Je&#378;dziecka / Gda&#324;ska","Je&#378;dziecka / Ogr&oacute;d Botaniczny","Niemcz / Kasprowicza","Niemcz / Mickiewicza","Niemcz / Pod Wierzbami","Niemcz / Malczewskiego","Niemcz / Krzyszkowiaka","Jagodowo / Letnia","Jagodowo / Polna","Maksymilianowo / Ptasia","Maksymilianowo / G&#322;&oacute;wna","Maksymilianowo / Szko&#322;a","&#379;o&#322;&#281;dowo / Koronowska","&#379;o&#322;&#281;dowo / Szko&#322;a"], 
+		"czasy":[0,1,2,4,7,10,11,13,14,15,17,18,19,20,22,24,25,27,30] 
+	}], 
+	"kier8": [{ 
+		"wariant":"Nekla / Akacjowa&MaksymilianowoSzkola", 
+		"przystanki":["Dworzec Le&#347;ne","Le&#347;ne","Modrzewiowa / Gda&#324;ska","Las Gda&#324;ski","My&#347;l&#281;cinek","Je&#378;dziecka / Gda&#324;ska","Je&#378;dziecka / Ogr&oacute;d Botaniczny","Niemcz / Kasprowicza","Niemcz / Mickiewicza","Niemcz / Pod Wierzbami","Niemcz / Malczewskiego","Niemcz / Krzyszkowiaka","Jagodowo / Letnia","Jagodowo / Polna","Maksymilianowo / Ptasia","Maksymilianowo / G&#322;&oacute;wna","Maksymilianowo / Szko&#322;a","&#379;o&#322;&#281;dowo / Koronowska","&#379;o&#322;&#281;dowo / Szko&#322;a","Nekla / T&#281;czowa","Nekla / Le&#347;na","Nekla / Makowa","Nekla / Le&#347;na","Nekla / Ciep&#322;a","Nekla / Akacjowa"], 
+		"czasy":[0,1,2,4,7,10,11,13,14,15,17,18,19,20,22,24,25,27,29,32,33,35,37,39,40] 
+	}],
+	"kier9": [{ 
+		"wariant":"Dworzec Le&#347;ne&Nekla", 
+		"przystanki":["Nekla / Akacjowa","Nekla / Ciep&#322;a","Nekla / Le&#347;na","Nekla / Makowa","Nekla / Le&#347;na","Nekla / T&#281;czowa","&#379;o&#322;&#281;dowo / Przyjazna","&#379;o&#322;&#281;dowo / Augustowska","&#379;o&#322;&#281;dowo / Przyjazna","&#379;o&#322;&#281;dowo / Szko&#322;a","&#379;o&#322;&#281;dowo / Koronowska","Jagodowo / Polna","Jagodowo / Letnia","Niemcz / Krzyszkowiaka","Niemcz / Rutkiewicz","Niemcz / Urocza","Niemcz / Mickiewicza","Niemcz / S&#322;owackiego","Je&#378;dziecka / Ogr&oacute;d Botaniczny","Gda&#324;ska / Je&#378;dziecka","My&#347;l&#281;cinek","Las Gda&#324;ski","Modrzewiowa / Gda&#324;ska","Dworzec Le&#347;ne"], 
+		"czasy":[0,1,3,5,7,8,12,14,15,17,19,21,22,23,24,26,27,28,30,32,34,37,39,41] 
+	}],
+	"kier10": [{ 
+		"wariant":"Dworzec Le&#347;ne&NeklaAugustowskaMaksymilianowo", 
+		"przystanki":["Nekla / Akacjowa","Nekla / Ciep&#322;a","Nekla / Le&#347;na","Nekla / Makowa","Nekla / Le&#347;na","Nekla / T&#281;czowa","&#379;o&#322;&#281;dowo / Przyjazna","&#379;o&#322;&#281;dowo / Augustowska","&#379;o&#322;&#281;dowo / Przyjazna","&#379;o&#322;&#281;dowo / Szko&#322;a","&#379;o&#322;&#281;dowo / Koronowska","Maksymilianowo / Szko&#322;a","Maksymilianowo / G&#322;&oacute;wna","Maksymilianowo / Ptasia","Jagodowo / Polna","Jagodowo / Letnia","Niemcz / Krzyszkowiaka","Niemcz / Rutkiewicz","Niemcz / Urocza","Niemcz / Mickiewicza","Niemcz / S&#322;owackiego","Je&#378;dziecka / Ogr&oacute;d Botaniczny","Gda&#324;ska / Je&#378;dziecka","My&#347;l&#281;cinek","Las Gda&#324;ski","Modrzewiowa / Gda&#324;ska","Dworzec Le&#347;ne"], 
+		"czasy":[0,1,3,5,7,8,12,14,15,17,19,20,22,24,26,27,28,29,31,32,33,35,37,39,42,44,46] 
+	}],
+	"kier11": [{ 
+		"wariant":"Dworzec Le&#347;ne&NeklaMaksymilianowo", 
+		"przystanki":["Nekla / Akacjowa","Nekla / Ciep&#322;a","Nekla / Le&#347;na","Nekla / Makowa","Nekla / Le&#347;na","Nekla / T&#281;czowa","&#379;o&#322;&#281;dowo / Szko&#322;a","&#379;o&#322;&#281;dowo / Koronowska","Maksymilianowo / Szko&#322;a","Maksymilianowo / G&#322;&oacute;wna","Maksymilianowo / Ptasia","Jagodowo / Polna","Jagodowo / Letnia","Niemcz / Krzyszkowiaka","Niemcz / Rutkiewicz","Niemcz / Urocza","Niemcz / Mickiewicza","Niemcz / S&#322;owackiego","Je&#378;dziecka / Ogr&oacute;d Botaniczny","Gda&#324;ska / Je&#378;dziecka","My&#347;l&#281;cinek","Las Gda&#324;ski","Modrzewiowa / Gda&#324;ska","Dworzec Le&#347;ne"], 
+		"czasy":[0,1,3,5,7,8,11,13,14,16,18,20,21,22,23,25,26,27,29,31,33,36,38,40] 
+	}],
+	"kier12": [{ 
+		"wariant":"Dworzec Le&#347;ne&NeklaSzkola", 
+		"przystanki":["Nekla / Akacjowa","Nekla / Ciep&#322;a","Nekla / Le&#347;na","Nekla / Makowa","Nekla / Le&#347;na","Nekla / T&#281;czowa","&#379;o&#322;&#281;dowo / Szko&#322;a","&#379;o&#322;&#281;dowo / Koronowska","Jagodowo / Polna","Jagodowo / Letnia","Niemcz / Krzyszkowiaka","Niemcz / Rutkiewicz","Niemcz / Urocza","Niemcz / Mickiewicza","Niemcz / S&#322;owackiego","Je&#378;dziecka / Ogr&oacute;d Botaniczny","Gda&#324;ska / Je&#378;dziecka","My&#347;l&#281;cinek","Las Gda&#324;ski","Modrzewiowa / Gda&#324;ska","Dworzec Le&#347;ne"], 
+		"czasy":[0,1,3,5,7,8,11,13,15,16,17,18,20,21,22,24,26,28,31,33,35] 
+	}],
+	"kier13": [{ 
+		"wariant":"Dworzec Le&#347;ne&Maksymilianowo", 
+		"przystanki":["&#379;o&#322;&#281;dowo / Augustowska","&#379;o&#322;&#281;dowo / Przyjazna","&#379;o&#322;&#281;dowo / Szko&#322;a","&#379;o&#322;&#281;dowo / Koronowska","Maksymilianowo / Szko&#322;a","Maksymilianowo / G&#322;&oacute;wna","Maksymilianowo / Ptasia","Jagodowo / Polna","Jagodowo / Letnia","Niemcz / Krzyszkowiaka","Niemcz / Rutkiewicz","Niemcz / Urocza","Niemcz / Mickiewicza","Niemcz / S&#322;owackiego","Je&#378;dziecka / Ogr&oacute;d Botaniczny","Gda&#324;ska / Je&#378;dziecka","My&#347;l&#281;cinek","Las Gda&#324;ski","Modrzewiowa / Gda&#324;ska","Dworzec Le&#347;ne"], 
+		"czasy":[0,1,3,5,6,8,10,12,13,14,15,17,18,19,21,23,25,28,30,32] 
+	}],
+	"kier14": [{ 
+		"wariant":"Dworzec Le&#347;ne", 
+		"przystanki":["&#379;o&#322;&#281;dowo / Augustowska","&#379;o&#322;&#281;dowo / Przyjazna","&#379;o&#322;&#281;dowo / Szko&#322;a","&#379;o&#322;&#281;dowo / Koronowska","Jagodowo / Polna","Jagodowo / Letnia","Niemcz / Krzyszkowiaka","Niemcz / Rutkiewicz","Niemcz / Urocza","Niemcz / Mickiewicza","Niemcz / S&#322;owackiego","Je&#378;dziecka / Ogr&oacute;d Botaniczny","Gda&#324;ska / Je&#378;dziecka","My&#347;l&#281;cinek","Las Gda&#324;ski","Modrzewiowa / Gda&#324;ska","Dworzec Le&#347;ne"], 
+		"czasy":[0,1,3,5,7,8,9,10,12,13,14,16,18,20,23,25,27] 
+	}],
+	"kier15": [{ 
+		"wariant":"Dworzec Le&#347;ne&Szkola", 
+		"przystanki":["&#379;o&#322;&#281;dowo / Szko&#322;a","&#379;o&#322;&#281;dowo / Koronowska","Maksymilianowo / Szko&#322;a","Maksymilianowo / G&#322;&oacute;wna","Maksymilianowo / Ptasia","Jagodowo / Polna","Jagodowo / Letnia","Niemcz / Krzyszkowiaka","Niemcz / Rutkiewicz","Niemcz / Urocza","Niemcz / Mickiewicza","Niemcz / S&#322;owackiego","Je&#378;dziecka / Ogr&oacute;d Botaniczny","Gda&#324;ska / Je&#378;dziecka","My&#347;l&#281;cinek","Las Gda&#324;ski","Modrzewiowa / Gda&#324;ska","Dworzec Le&#347;ne"], 
+		"czasy":[0,2,3,5,7,9,10,11,12,14,15,16,18,20,22,25,27,29] 
+	}]
+},
+{   
+	"il": "1", 
+	"numerlinii": "95", 
+	"kier1":[ { 
+		"wariant":"Tatrza&#324;skie", 
+		"przystanki":["Tatrza&#324;skie","Wyzwolenia / Komisariat","Geodet&oacute;w / Wyzwolenia","Geodet&oacute;w / Pieni&#324;ska","&#321;osko&#324;","Geodet&oacute;w / Pieni&#324;ska","Wyzwolenia / Geodet&oacute;w","Jaru&#380;yn / Krakowska","Jaru&#380;yn / Rajska","Strzelce G&oacute;rne / Diamentowa","Strzelce G&oacute;rne / Wilcza","Strzelce G&oacute;rne / Szkolna","Strzelce G&oacute;rne / Go&#322;&#281;bia","Strzelce Dolne II","Strzelce Dolne III","Wyzwolenia / Brzegowa","Geodet&oacute;w / Wyzwolenia","Geodet&oacute;w / Pieni&#324;ska","&#321;osko&#324;","Geodet&oacute;w / Pieni&#324;ska","Wyzwolenia / Geodet&oacute;w","Wyzwolenia / Komisariat","Tatrza&#324;skie"], 
+		"czasy":[0,1,2,3,3,4,5,8,9,10,11,12,13,15,16,17,19,20,20,21,22,23,24] 
+	}]
+},
+{   
+	"il": "4", 
+	"numerlinii": "96", 
+	"kier1":[ { 
+		"wariant":"B&#322;onie", 
+		"przystanki":["Przy&#322;&#281;ki","Przy&#322;&#281;ki / Cicha","Przy&#322;&#281;ki / Ko&#347;ci&oacute;&#322;","Przy&#322;&#281;ki / M&#322;y&#324;ska","Przy&#322;&#281;ki / Biznesowa","Zielonka / Orzechowa","Zielonka / Bocianowo","Ciele / &#377;r&oacute;dlana","Aleja &#379;o&#322;nierzy Wykl&#281;tych / Ciele","Trzciniec / Sarnia","B&#322;onie"], 
+		"czasy":[0,1,2,3,5,8,11,13,15,18,24] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Przy&#322;&#281;ki", 
+		"przystanki":["B&#322;onie","Trzciniec / Sarnia","Ciele / Ko&#347;cielna","Ciele / &#377;r&oacute;dlana","Zielonka / Bocianowo","Zielonka / Orzechowa","Przy&#322;&#281;ki / Biznesowa","Przy&#322;&#281;ki / M&#322;y&#324;ska","Przy&#322;&#281;ki / Ko&#347;ci&oacute;&#322;","Przy&#322;&#281;ki / Cicha","Przy&#322;&#281;ki"], 
+		"czasy":[0,5,8,9,12,14,17,19,20,21,22] 
+	}],
+	"kier3": [{ 
+		"wariant":"B&#322;onie&Kruszyn", 
+		"przystanki":["Przy&#322;&#281;ki","Przy&#322;&#281;ki / Cicha","Przy&#322;&#281;ki / Ko&#347;ci&oacute;&#322;","Przy&#322;&#281;ki / M&#322;y&#324;ska","Przy&#322;&#281;ki / Biznesowa","Zielonka / Orzechowa","Zielonka / Bocianowo","Ciele / &#377;r&oacute;dlana","Ciele / Ko&#347;cielna","Ciele / Pogodna","Ciele / Makowa","Ciele / Ogrody","Kruszyn Kraje&#324;ski / Mro&#378;na","Ciele / Ogrody","Ciele / Makowa","Ciele / Pogodna","Aleja &#379;o&#322;nierzy Wykl&#281;tych / Ciele","Trzciniec / Sarnia","B&#322;onie"], 
+		"czasy":[0,1,2,3,5,8,11,13,14,16,17,19,23,26,28,29,32,35,41] 
+	}],
+	"kier4": [{ 
+		"wariant":"Przy&#322;&#281;ki&Kruszyn", 
+		"przystanki":["B&#322;onie","Trzciniec / Sarnia","Ciele / Ko&#347;cielna","Ciele / Pogodna","Ciele / Makowa","Ciele / Ogrody","Kruszyn Kraje&#324;ski / Mro&#378;na","Ciele / Ogrody","Ciele / Makowa","Ciele / Pogodna","Ciele / Ko&#347;cielna","Ciele / &#377;r&oacute;dlana","Zielonka / Bocianowo","Zielonka / Orzechowa","Przy&#322;&#281;ki / Biznesowa","Przy&#322;&#281;ki / M&#322;y&#324;ska","Przy&#322;&#281;ki / Ko&#347;ci&oacute;&#322;","Przy&#322;&#281;ki / Cicha","Przy&#322;&#281;ki"], 
+		"czasy":[0,5,8,10,11,14,18,21,23,24,26,27,30,32,35,37,38,39,40] 
+	}]
+},
+{   
+	"il": "2", 
+	"numerlinii": "97", 
+	"kier1":[ { 
+		"wariant":"Kozielec (p&#281;tla)", 
+		"przystanki":["Tatrza&#324;skie","Wyzwolenia / Komisariat","Geodet&oacute;w / Wyzwolenia","Geodet&oacute;w / Pieni&#324;ska","&#321;osko&#324;","Geodet&oacute;w / Pieni&#324;ska","Wyzwolenia / Geodet&oacute;w","Wyzwolenia / Brzegowa","Strzelce Dolne III","Strzelce Dolne II","Strzelce G&oacute;rne / Go&#322;&#281;bia","Strzelce G&oacute;rne / G&#261;decka","G&#261;decz","Hutna Wie&#347;","W&#322;&oacute;ki","Trz&#281;sacz I","Trz&#281;sacz II","Kozielec I","Kozielec (p&#281;tla)"], 
+		"czasy":[0,1,2,3,3,4,5,7,10,11,13,14,17,19,23,25,26,27,29] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Tatrza&#324;skie", 
+		"przystanki":["Kozielec (p&#281;tla)","Kozielec I","Trz&#281;sacz II","Trz&#281;sacz I","W&#322;&oacute;ki","Hutna Wie&#347;","G&#261;decz","Strzelce G&oacute;rne / G&#261;decka","Strzelce G&oacute;rne / Szkolna","Strzelce G&oacute;rne / Go&#322;&#281;bia","Strzelce Dolne II","Strzelce Dolne III","Wyzwolenia / Brzegowa","Geodet&oacute;w / Wyzwolenia","Geodet&oacute;w / Pieni&#324;ska","&#321;osko&#324;","Geodet&oacute;w / Pieni&#324;ska","Wyzwolenia / Geodet&oacute;w","Wyzwolenia / Komisariat","Tatrza&#324;skie"], 
+		"czasy":[0,2,3,4,6,10,12,14,15,16,18,19,21,23,24,24,25,26,27,28] 
+	}]
+},
+{   
+	"il": "2", 
+	"numerlinii": "98", 
+	"kier1":[ { 
+		"wariant":"Przylesie", 
+		"przystanki":["Przylesie","Korfantego / Prejsa","Pod Skarp&#261; / &#379;emojtela","Pod Skarp&#261; / Stamma","Pod Skarp&#261; / Przemys&#322;a II","Czarn&oacute;wczyn","Osielsko / Gryczana","Osielsko / Cisowa","Osielsko / Lipowa","Osielsko / Kwiatowa","Osielsko / Gwia&#378;dzista","&#379;o&#322;&#281;dowo / Tulipanowa","&#379;o&#322;&#281;dowo / Koronowska","Maksymilianowo / Szko&#322;a","Maksymilianowo / &#346;wietlica","Bo&#380;enkowo / Osiedlowa","Bo&#380;enkowo / Bo&#380;enkowska","Bo&#380;enkowo / Harcerska","Bo&#380;enkowo / Bo&#380;enkowska","Bo&#380;enkowo / Osiedlowa","Maksymilianowo / &#346;wietlica","Maksymilianowo / Szko&#322;a","&#379;o&#322;&#281;dowo / Koronowska","&#379;o&#322;&#281;dowo / Tulipanowa","Osielsko / Gwia&#378;dzista","Osielsko / Kwiatowa","Osielsko / Lipowa","Osielsko / Cisowa","Osielsko / Gryczana","Czarn&oacute;wczyn","Pod Skarp&#261; / Przemys&#322;a II","Pod Skarp&#261; / Stamma","Pod Skarp&#261; / &#379;emojtela","Korfantego / Prejsa","Przylesie"], 
+		"czasy":[0,1,3,5,7,8,10,11,12,13,15,18,20,22,24,34,35,38,42,46,56,57,59,61,65,67,68,69,70,72,73,75,77,79,80] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Przylesie&Maksymilianowo", 
+		"przystanki":["Przylesie","Korfantego / Prejsa","Pod Skarp&#261; / &#379;emojtela","Pod Skarp&#261; / Stamma","Pod Skarp&#261; / Przemys&#322;a II","Czarn&oacute;wczyn","Osielsko / Gryczana","Osielsko / Cisowa","Osielsko / Lipowa","Osielsko / Kwiatowa","Osielsko / Gwia&#378;dzista","&#379;o&#322;&#281;dowo / Tulipanowa","&#379;o&#322;&#281;dowo / Koronowska","Maksymilianowo / Szko&#322;a","Maksymilianowo / &#346;wietlica","Maksymilianowo / Szko&#322;a","&#379;o&#322;&#281;dowo / Koronowska","&#379;o&#322;&#281;dowo / Tulipanowa","Osielsko / Gwia&#378;dzista","Osielsko / Kwiatowa","Osielsko / Lipowa","Osielsko / Cisowa","Osielsko / Gryczana","Czarn&oacute;wczyn","Pod Skarp&#261; / Przemys&#322;a II","Pod Skarp&#261; / Stamma","Pod Skarp&#261; / &#379;emojtela","Korfantego / Prejsa","Przylesie"], 
+		"czasy":[0,1,3,5,7,8,10,11,12,13,15,18,20,22,24,25,27,29,33,35,36,37,38,40,41,43,45,47,48] 
+	}]
+},
+{   
+	"il": "6", 
+	"numerlinii": "31N", 
+	"kier1":[ { 
+		"wariant":"Dworzec Le&#347;ne", 
+		"przystanki":["&#321;osko&#324; / Zajezdnia","&#321;osko&#324;","Bora-Komorowskiego / Braci Ba&#380;a&#324;skich","Bora-Komorowskiego / Gieryna","Bora-Komorowskiego / Kiedrowskiego","Nad Wis&#322;&#261;","Pi&#322;sudskiego / Swobodna","Niepodleg&#322;o&#347;ci","Andersa / Wolna","Andersa / Kasztela&#324;ska","Bajka","Andersa / Kleeberga","Akademicka / Igrzyskowa","Akademicka / Kaliskiego (UTP)","Przylesie","Centrum Onkologii","Rejewskiego / Auchan","Fordo&#324;ska / Wi&#347;lana","Fordo&#324;ska / Sochaczewska","Dworzec Wsch&oacute;d","Toru&#324;ska / Kielecka","Kielecka / Smole&#324;ska","Chemiczna / Dachtery","Kapu&#347;ciska","Wojska Polskiego / Baczy&#324;skiego","Wojska Polskiego / Prezydenta Lecha Kaczy&#324;skiego","Wojska Polskiego / Szarych Szereg&oacute;w","Szpitalna / &#321;om&#380;y&#324;ska","Glinki / Szpitalna","Glinki / Zaj&#281;cza","Glinki / D&#261;browa","Magnuszewska / Modrakowa","Wojska Polskiego / K&#322;adka","Wojska Polskiego / Ujejskiego","Wzg&oacute;rze Wolno&#347;ci","Rondo Kujawskie","Rondo Jagiellon&oacute;w","Plac Ko&#347;cieleckich","Rondo Jagiellon&oacute;w","Focha / Opera","Garbary","Warszawska / Fredry","Dworzec G&#322;&oacute;wny","Fredry / Warszawska","Mazowiecka / Pomorska","Gda&#324;ska / Cieszkowskiego","Gda&#324;ska / Chodkiewicza","Gda&#324;ska / Artyleryjska","Czerkaska / Gda&#324;ska","Su&#322;kowskiego / Czerkaska","Le&#347;ne","Dworzec Le&#347;ne"], 
+		"czasy":[0,1,2,3,4,6,7,8,9,10,11,12,13,15,16,19,22,24,25,27,29,30,31,34,35,36,37,39,40,41,42,43,45,46,48,49,51,55,57,59,60,62,63,65,66,69,70,72,74,75,76,77] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Dworzec Le&#347;ne&Mokra", 
+		"przystanki":["&#321;osko&#324; / Zajezdnia","&#321;osko&#324;","Bora-Komorowskiego / Braci Ba&#380;a&#324;skich","Bora-Komorowskiego / Gieryna","Bora-Komorowskiego / Kiedrowskiego","Nad Wis&#322;&#261;","Pi&#322;sudskiego / Swobodna","Niepodleg&#322;o&#347;ci","Andersa / Wolna","Andersa / Kasztela&#324;ska","Bajka","Andersa / Kleeberga","Akademicka / Igrzyskowa","Akademicka / Kaliskiego (UTP)","Przylesie","Centrum Onkologii","Rejewskiego / Auchan","Fordo&#324;ska / Wi&#347;lana","Fordo&#324;ska / Sochaczewska","Dworzec Wsch&oacute;d","Toru&#324;ska / Kielecka","Toru&#324;ska / Zajezdnia Tramwajowa","Toru&#324;ska / R&oacute;wna","Toru&#324;ska / Kielecka","Kielecka / Smole&#324;ska","Chemiczna / Dachtery","Mokra","Kapu&#347;ciska","Wojska Polskiego / Baczy&#324;skiego","Wojska Polskiego / Prezydenta Lecha Kaczy&#324;skiego","Wojska Polskiego / Szarych Szereg&oacute;w","Szpitalna / &#321;om&#380;y&#324;ska","Glinki / Szpitalna","Glinki / Zaj&#281;cza","Glinki / D&#261;browa","Magnuszewska / Modrakowa","Wojska Polskiego / K&#322;adka","Wojska Polskiego / Ujejskiego","Wzg&oacute;rze Wolno&#347;ci","Rondo Kujawskie","Rondo Jagiellon&oacute;w","Plac Ko&#347;cieleckich","Rondo Jagiellon&oacute;w","Focha / Opera","Garbary","Warszawska / Fredry","Dworzec G&#322;&oacute;wny","Fredry / Warszawska","Mazowiecka / Pomorska","Gda&#324;ska / Cieszkowskiego","Gda&#324;ska / Chodkiewicza","Gda&#324;ska / Artyleryjska","Czerkaska / Gda&#324;ska","Su&#322;kowskiego / Czerkaska","Le&#347;ne","Dworzec Le&#347;ne"], 
+		"czasy":[0,1,2,3,4,6,7,8,9,10,11,12,13,15,16,19,22,24,25,27,29,32,34,35,36,37,39,42,43,44,45,47,48,49,50,51,53,54,56,57,59,63,65,67,68,70,71,73,74,77,78,80,82,83,84,85] 
+	}],
+	"kier3": [{ 
+		"wariant":"Podkowa", 
+		"przystanki":["&#321;osko&#324; / Zajezdnia","&#321;osko&#324;","Bora-Komorowskiego / Braci Ba&#380;a&#324;skich","Bora-Komorowskiego / Gieryna","Bora-Komorowskiego / Kiedrowskiego","Nad Wis&#322;&#261;","Pi&#322;sudskiego / Swobodna","Niepodleg&#322;o&#347;ci","Andersa / Wolna","Andersa / Kasztela&#324;ska","Bajka","Andersa / Kleeberga","Akademicka / Igrzyskowa","Akademicka / Kaliskiego (UTP)","Przylesie","Centrum Onkologii","Rejewskiego / Auchan","Fordo&#324;ska / Wi&#347;lana","Fordo&#324;ska / Sochaczewska","Dworzec Wsch&oacute;d","Toru&#324;ska / Kielecka","Kielecka / Smole&#324;ska","Chemiczna / Dachtery","Mokra","Kapu&#347;ciska","Wojska Polskiego / Baczy&#324;skiego","Wojska Polskiego / Prezydenta Lecha Kaczy&#324;skiego","Wojska Polskiego / Szarych Szereg&oacute;w","Szpitalna / &#321;om&#380;y&#324;ska","Glinki / Szpitalna","Glinki / Zaj&#281;cza","Glinki / D&#261;browa","Magnuszewska / Modrakowa","Wojska Polskiego / K&#322;adka","Wojska Polskiego / Ujejskiego","Wzg&oacute;rze Wolno&#347;ci","Rondo Kujawskie","Rondo Jagiellon&oacute;w","Plac Ko&#347;cieleckich","Rondo Jagiellon&oacute;w","Focha / Opera","Garbary","Warszawska / Fredry","Dworzec G&#322;&oacute;wny","Fredry / Warszawska","Mazowiecka / Pomorska","Gda&#324;ska / Cieszkowskiego","Gda&#324;ska / Chodkiewicza","Gda&#324;ska / Artyleryjska","Czerkaska / Gda&#324;ska","Su&#322;kowskiego / Czerkaska","Le&#347;ne","Modrzewiowa / Gda&#324;ska","Las Gda&#324;ski","My&#347;l&#281;cinek","Je&#378;dziecka / Gda&#324;ska","Je&#378;dziecka / Ogr&oacute;d Botaniczny","Je&#378;dziecka / Hipiczna","Je&#378;dziecka / D&#380;okejowa","Podkowa"], 
+		"czasy":[0,1,2,3,4,6,7,8,9,10,11,12,13,15,16,19,22,24,25,27,29,30,31,33,36,37,38,39,41,42,43,44,45,47,48,50,51,53,57,59,61,62,64,65,67,68,71,72,74,76,77,78,79,81,83,86,87,88,89,90] 
+	}],
+	"kier4":[ { 
+		"wariant":"&#321;osko&#324; / Zajezdnia", 
+		"przystanki":["Dworzec Le&#347;ne","Le&#347;ne","Su&#322;kowskiego / Czerkaska","Gda&#324;ska / Powst. Warszawy","Gda&#324;ska / Artyleryjska","Gda&#324;ska / Chodkiewicza","Hetma&#324;ska / Kaszubska","Dworzec G&#322;&oacute;wny","Garbary","Plac Teatralny","Rondo Jagiellon&oacute;w","Plac Ko&#347;cieleckich","Rondo Kujawskie","Wzg&oacute;rze Wolno&#347;ci","Wojska Polskiego / Ujejskiego","Wojska Polskiego / K&#322;adka","Magnuszewska / Modrakowa","Glinki / D&#261;browa","Glinki / Zaj&#281;cza","Glinki / Szpitalna","Szpitalna / &#321;om&#380;y&#324;ska","Wojska Polskiego / Szarych Szereg&oacute;w","Wojska Polskiego / Prezydenta Lecha Kaczy&#324;skiego","Wojska Polskiego / Baczy&#324;skiego","Kapu&#347;ciska","Mokra","Dachtery / Chemiczna","Kielecka / Smole&#324;ska","Kielecka / Toru&#324;ska","Toru&#324;ska / R&oacute;wna","Toru&#324;ska / Zajezdnia Tramwajowa","Dworzec Wsch&oacute;d","Fordo&#324;ska / Sochaczewska","Fordo&#324;ska / Wi&#347;lana","Rejewskiego / Auchan","Centrum Onkologii","Przylesie","Akademicka / Kaliskiego (UTP)","Akademicka / Igrzyskowa","Andersa / Kleeberga","Bajka","Andersa / Kasztela&#324;ska","Andersa / Wolna","Niepodleg&#322;o&#347;ci","Pi&#322;sudskiego / Swobodna","Nad Wis&#322;&#261;","Bora-Komorowskiego / Kiedrowskiego","Bora-Komorowskiego / Gieryna","Bora-Komorowskiego / Braci Ba&#380;a&#324;skich","&#321;osko&#324;","&#321;osko&#324; / Zajezdnia"], 
+		"czasy":[0,1,2,4,5,7,9,12,15,17,18,22,24,26,27,29,30,32,33,34,36,37,38,39,40,43,45,46,47,48,50,53,55,56,58,61,64,66,67,68,69,70,71,72,74,75,77,78,79,80,81] 
+	}], 
+	"kier5": [{ 
+		"wariant":"&#321;osko&#324; / Zajezdnia&Mokra", 
+		"przystanki":["Dworzec Le&#347;ne","Le&#347;ne","Su&#322;kowskiego / Czerkaska","Gda&#324;ska / Powst. Warszawy","Gda&#324;ska / Artyleryjska","Gda&#324;ska / Chodkiewicza","Hetma&#324;ska / Kaszubska","Dworzec G&#322;&oacute;wny","Garbary","Plac Teatralny","Rondo Jagiellon&oacute;w","Plac Ko&#347;cieleckich","Rondo Kujawskie","Wzg&oacute;rze Wolno&#347;ci","Wojska Polskiego / Ujejskiego","Wojska Polskiego / K&#322;adka","Magnuszewska / Modrakowa","Glinki / D&#261;browa","Glinki / Zaj&#281;cza","Glinki / Szpitalna","Szpitalna / &#321;om&#380;y&#324;ska","Wojska Polskiego / Szarych Szereg&oacute;w","Wojska Polskiego / Prezydenta Lecha Kaczy&#324;skiego","Wojska Polskiego / Baczy&#324;skiego","Kapu&#347;ciska","Mokra","Dachtery / Chemiczna","Kielecka / Smole&#324;ska","Kielecka / Toru&#324;ska","Dworzec Wsch&oacute;d","Fordo&#324;ska / Sochaczewska","Fordo&#324;ska / Wi&#347;lana","Rejewskiego / Auchan","Centrum Onkologii","Przylesie","Akademicka / Kaliskiego (UTP)","Akademicka / Igrzyskowa","Andersa / Kleeberga","Bajka","Andersa / Kasztela&#324;ska","Andersa / Wolna","Niepodleg&#322;o&#347;ci","Pi&#322;sudskiego / Swobodna","Nad Wis&#322;&#261;","Bora-Komorowskiego / Kiedrowskiego","Bora-Komorowskiego / Gieryna","Bora-Komorowskiego / Braci Ba&#380;a&#324;skich","&#321;osko&#324;","&#321;osko&#324; / Zajezdnia"], 
+		"czasy":[0,1,2,4,5,7,9,12,15,17,18,22,24,26,27,29,30,32,33,34,36,37,38,39,40,43,45,46,47,49,51,52,54,57,60,62,63,64,65,66,67,68,70,71,73,74,75,76,77] 
+	}],
+	"kier6": [{ 
+		"wariant":"&#321;osko&#324; / Zajezdnia&Podkowa", 
+		"przystanki":["Podkowa","Je&#378;dziecka / D&#380;okejowa","Je&#378;dziecka / Hipiczna","Je&#378;dziecka / Ogr&oacute;d Botaniczny","Gda&#324;ska / Je&#378;dziecka","My&#347;l&#281;cinek","Las Gda&#324;ski","Modrzewiowa / Gda&#324;ska","Le&#347;ne","Su&#322;kowskiego / Czerkaska","Gda&#324;ska / Powst. Warszawy","Gda&#324;ska / Artyleryjska","Gda&#324;ska / Chodkiewicza","Hetma&#324;ska / Kaszubska","Dworzec G&#322;&oacute;wny","Garbary","Plac Teatralny","Rondo Jagiellon&oacute;w","Plac Ko&#347;cieleckich","Rondo Kujawskie","Wzg&oacute;rze Wolno&#347;ci","Wojska Polskiego / Ujejskiego","Wojska Polskiego / K&#322;adka","Magnuszewska / Modrakowa","Glinki / D&#261;browa","Glinki / Zaj&#281;cza","Glinki / Szpitalna","Szpitalna / &#321;om&#380;y&#324;ska","Wojska Polskiego / Szarych Szereg&oacute;w","Wojska Polskiego / Prezydenta Lecha Kaczy&#324;skiego","Wojska Polskiego / Baczy&#324;skiego","Kapu&#347;ciska","Dachtery / Chemiczna","Kielecka / Smole&#324;ska","Kielecka / Toru&#324;ska","Dworzec Wsch&oacute;d","Fordo&#324;ska / Sochaczewska","Fordo&#324;ska / Wi&#347;lana","Rejewskiego / Auchan","Centrum Onkologii","Przylesie","Akademicka / Kaliskiego (UTP)","Akademicka / Igrzyskowa","Andersa / Kleeberga","Bajka","Andersa / Kasztela&#324;ska","Andersa / Wolna","Niepodleg&#322;o&#347;ci","Pi&#322;sudskiego / Swobodna","Nad Wis&#322;&#261;","Bora-Komorowskiego / Kiedrowskiego","Bora-Komorowskiego / Gieryna","Bora-Komorowskiego / Braci Ba&#380;a&#324;skich","&#321;osko&#324;","&#321;osko&#324; / Zajezdnia"], 
+		"czasy":[0,1,2,3,4,7,9,11,12,13,15,16,18,20,23,26,28,29,33,35,37,38,40,41,43,44,45,47,48,49,50,51,54,55,56,58,60,61,63,66,69,71,72,73,74,75,76,77,79,80,82,83,84,85,86] 
+	}]
+},
+{   
+	"il": "4", 
+	"numerlinii": "32N", 
+	"kier1":[ { 
+		"wariant":"Dworzec B&#322;onie", 
+		"przystanki":["Tatrza&#324;skie","Pelpli&#324;ska / Jaru&#380;y&#324;ska","Pelpli&#324;ska / Taternik&oacute;w","Pelpli&#324;ska / Targowisko","Twardzickiego / Przybory","Twardzickiego / Witosa","Twardzickiego / Thommee","Twardzickiego / Kleina","Twardzickiego / &#321;ochowskiego","Korfantego / Prejsa","Przylesie","Kaliskiego / Akademicka (UTP)","Kaliskiego / UTP","Fordo&#324;ska / Traktorzyst&oacute;w","Fordo&#324;ska / &#321;owicka","Fordo&#324;ska / Wi&#347;lana","Fordo&#324;ska / Sochaczewska","Dworzec Wsch&oacute;d","Fordo&#324;ska / Wy&#347;cigowa","Fordo&#324;ska / Fabryczna","Fordo&#324;ska / Szajnochy","Fordo&#324;ska / Ba&#322;tycka","Rondo Fordo&#324;skie","Jagiello&#324;ska / &#321;u&#380;ycka","Dworzec Autobusowy","Rondo Jagiellon&oacute;w","Plac Ko&#347;cieleckich","Rondo Kujawskie","Brzozowa / Jesionowa","Brzozowa / Bielicka","Inowroc&#322;awska / Zajezdnia","Skorupki","Skorupki / Czackiego","Solskiego / Kossaka","Szubi&#324;ska / Pi&#281;kna","Szubi&#324;ska / Gnie&#378;nie&#324;ska","Szubi&#324;ska / &#379;wirki i Wigury","B&#322;onie","Schulza / Stawowa","Dworzec B&#322;onie"], 
+		"czasy":[0,1,2,3,4,5,6,7,8,10,11,12,13,15,16,17,18,20,21,23,24,26,29,30,32,33,37,39,41,43,44,46,47,48,50,51,53,54,55,56] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Tatrza&#324;skie", 
+		"przystanki":["Dworzec B&#322;onie","Schulza / Stawowa","Schulza / Szubi&#324;ska","Szubi&#324;ska / &#379;wirki i Wigury","Szubi&#324;ska / Gnie&#378;nie&#324;ska","Pi&#281;kna / Szubi&#324;ska","Solskiego / Kossaka","Skorupki / Czackiego","Skorupki","Inowroc&#322;awska / Zajezdnia","Brzozowa / Bielicka","Brzozowa / Jesionowa","Rondo Inowroc&#322;awskie","Rondo Kujawskie","Rondo Jagiellon&oacute;w","Plac Ko&#347;cieleckich","Rondo Jagiellon&oacute;w","Dworzec Autobusowy","Jagiello&#324;ska / &#321;u&#380;ycka","Rondo Fordo&#324;skie","Fordo&#324;ska / Ba&#322;tycka","Most Kazimierza Wielkiego","Fordo&#324;ska / Fabryczna","Fordo&#324;ska / Wy&#347;cigowa","Dworzec Wsch&oacute;d","Fordo&#324;ska / Sochaczewska","Fordo&#324;ska / Wi&#347;lana","Fordo&#324;ska / &#321;owicka","Fordo&#324;ska / Traktorzyst&oacute;w","Kaliskiego / UTP","Akademicka / Kaliskiego (UTP)","Przylesie","Korfantego / Prejsa","Twardzickiego / &#321;ochowskiego","Twardzickiego / Kleina","Twardzickiego / Thommee","Twardzickiego / Witosa","Twardzickiego / Przybory","Pelpli&#324;ska / Targowisko","Pelpli&#324;ska / Taternik&oacute;w","Pelpli&#324;ska / Jaru&#380;y&#324;ska","Tatrza&#324;skie"], 
+		"czasy":[0,1,2,4,6,8,9,10,11,13,14,15,18,19,22,26,28,30,31,33,34,36,37,39,40,42,43,44,45,48,49,50,51,52,53,54,55,56,57,58,59,60] 
+	}],
+	"kier3": [{ 
+		"wariant":"&#321;osko&#324; / Zajezdnia", 
+		"przystanki":["Dworzec B&#322;onie","Schulza / Stawowa","Schulza / Szubi&#324;ska","Szubi&#324;ska / &#379;wirki i Wigury","Szubi&#324;ska / Gnie&#378;nie&#324;ska","Pi&#281;kna / Szubi&#324;ska","Solskiego / Kossaka","Skorupki / Czackiego","Skorupki","Inowroc&#322;awska / Zajezdnia","Brzozowa / Bielicka","Brzozowa / Jesionowa","Rondo Inowroc&#322;awskie","Rondo Kujawskie","Rondo Jagiellon&oacute;w","Plac Ko&#347;cieleckich","Rondo Jagiellon&oacute;w","Dworzec Autobusowy","Jagiello&#324;ska / &#321;u&#380;ycka","Rondo Fordo&#324;skie","Fordo&#324;ska / Ba&#322;tycka","Most Kazimierza Wielkiego","Fordo&#324;ska / Fabryczna","Fordo&#324;ska / Wy&#347;cigowa","Dworzec Wsch&oacute;d","Fordo&#324;ska / Sochaczewska","Fordo&#324;ska / Wi&#347;lana","Fordo&#324;ska / &#321;owicka","Fordo&#324;ska / Traktorzyst&oacute;w","Kaliskiego / UTP","Akademicka / Kaliskiego (UTP)","Przylesie","Korfantego / Prejsa","Twardzickiego / &#321;ochowskiego","Twardzickiego / Kleina","Twardzickiego / Thommee","Twardzickiego / Witosa","Twardzickiego / Przybory","Pelpli&#324;ska / Targowisko","Pelpli&#324;ska / Taternik&oacute;w","Pelpli&#324;ska / Jaru&#380;y&#324;ska","Tatrza&#324;skie","Wyzwolenia / Komisariat","Geodet&oacute;w / Wyzwolenia","Geodet&oacute;w / Pieni&#324;ska","&#321;osko&#324; / Zajezdnia"], 
+		"czasy":[0,1,2,4,6,8,9,10,11,13,14,15,18,19,22,26,28,30,31,33,34,36,37,39,40,42,43,44,45,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64] 
+	}],
+	"kier4": [{ 
+		"wariant":"Dworzec B&#322;onie&Loskon", 
+		"przystanki":["&#321;osko&#324; / Zajezdnia","Geodet&oacute;w / Pieni&#324;ska","Geodet&oacute;w / Wyzwolenia","Wyzwolenia / Komisariat","Tatrza&#324;skie","Pelpli&#324;ska / Jaru&#380;y&#324;ska","Pelpli&#324;ska / Taternik&oacute;w","Pelpli&#324;ska / Targowisko","Twardzickiego / Przybory","Twardzickiego / Witosa","Twardzickiego / Thommée","Twardzickiego / Kleina","Twardzickiego / &#321;ochowskiego","Korfantego / Prejsa","Przylesie","Kaliskiego / Akademicka (UTP)","Kaliskiego / UTP","Fordo&#324;ska / Traktorzyst&oacute;w","Fordo&#324;ska / &#321;owicka","Fordo&#324;ska / Wi&#347;lana","Fordo&#324;ska / Sochaczewska","Dworzec Wsch&oacute;d","Fordo&#324;ska / Wy&#347;cigowa","Fordo&#324;ska / Fabryczna","Fordo&#324;ska / Szajnochy","Fordo&#324;ska / Ba&#322;tycka","Rondo Fordo&#324;skie","Jagiello&#324;ska / &#321;u&#380;ycka","Dworzec Autobusowy","Rondo Jagiellon&oacute;w","Plac Ko&#347;cieleckich","Rondo Kujawskie","Brzozowa / Jesionowa","Brzozowa / Bielicka","Inowroc&#322;awska / Zajezdnia","Skorupki","Skorupki / Czackiego","Solskiego / Kossaka","Szubi&#324;ska / Pi&#281;kna","Szubi&#324;ska / Gnie&#378;nie&#324;ska","Szubi&#324;ska / &#379;wirki i Wigury","B&#322;onie","Schulza / Stawowa","Dworzec B&#322;onie"], 
+		"czasy":[0,1,2,3,4,5,6,7,8,9,10,11,12,14,15,16,17,19,20,21,22,24,25,27,28,30,33,34,36,37,41,43,45,47,48,50,51,52,54,55,57,58,59,60] 
+	}]
+},
+{   
+	"il": "6", 
+	"numerlinii": "33N", 
+	"kier1":[ { 
+		"wariant":"Tatrza&#324;skie", 
+		"przystanki":["Piaski","Smukalska / B&#322;&#261;dzimska","Saper&oacute;w / K&#261;pielisko","Saper&oacute;w / Komandos&oacute;w","Saper&oacute;w / Czo&#322;gist&oacute;w","Saper&oacute;w / Zak&#261;tek","Saper&oacute;w / Ludwikowo","&#379;eglarska / Ludwikowo","Dworzec G&#322;&oacute;wny","Garbary","Plac Teatralny","Rondo Jagiellon&oacute;w","Plac Ko&#347;cieleckich","Rondo Jagiellon&oacute;w","Markwarta / 3 Maja","Rondo Ossoli&#324;skich","Ogi&#324;skiego / Moniuszki","Rondo Wielkopolskie","Powst. Wielkopolskich / Lelewela","Powst. Wielkopolskich / Wyszy&#324;skiego","G&#322;owackiego / Gajowa","G&#322;owackiego / Ba&#322;tycka","Sk&#322;odowskiej-Curie / Ba&#322;tycka","Sk&#322;odowskiej-Curie / &#321;&#281;czycka","Most Kazimierza Wielkiego","Fordo&#324;ska / Fabryczna","Fordo&#324;ska / Wy&#347;cigowa","Dworzec Wsch&oacute;d","Fordo&#324;ska / Sochaczewska","Fordo&#324;ska / Wi&#347;lana","Skandynawska / Ikea","Wi&#281;cka / &#321;owicka","&#321;owicka / Szko&#322;a","Tor Regatowy","Witebska / Wschodnia","Brdyuj&#347;cie","Wyszogrodzka / Opalowa","Fordo&#324;ska / Wyszogrodzka","Dworzec Fordon","Fordo&#324;ska / Wiadukt","Fordon Rynek","Wyzwolenia / Styki","Wyzwolenia / Swobodna","Niepodleg&#322;o&#347;ci","Wyzwolenia / Derdowskiego","Tatrza&#324;skie"], 
+		"czasy":[0,1,4,6,7,8,9,10,14,17,19,20,24,26,27,28,30,31,32,34,35,36,38,39,41,42,44,45,47,48,50,51,52,53,54,55,56,58,59,60,62,63,64,65,67,69] 
+	}], 
+	"kier2": [{ 
+		"wariant":"&#321;osko&#324; / Zajezdnia", 
+		"przystanki":["Piaski","Smukalska / B&#322;&#261;dzimska","Saper&oacute;w / K&#261;pielisko","Saper&oacute;w / Komandos&oacute;w","Saper&oacute;w / Czo&#322;gist&oacute;w","Saper&oacute;w / Zak&#261;tek","Saper&oacute;w / Ludwikowo","&#379;eglarska / Ludwikowo","Dworzec G&#322;&oacute;wny","Garbary","Plac Teatralny","Rondo Jagiellon&oacute;w","Plac Ko&#347;cieleckich","Rondo Jagiellon&oacute;w","Markwarta / 3 Maja","Rondo Ossoli&#324;skich","Ogi&#324;skiego / Moniuszki","Rondo Wielkopolskie","Powst. Wielkopolskich / Lelewela","Powst. Wielkopolskich / Wyszy&#324;skiego","G&#322;owackiego / Gajowa","G&#322;owackiego / Ba&#322;tycka","Sk&#322;odowskiej-Curie / Ba&#322;tycka","Sk&#322;odowskiej-Curie / &#321;&#281;czycka","Most Kazimierza Wielkiego","Fordo&#324;ska / Fabryczna","Fordo&#324;ska / Wy&#347;cigowa","Dworzec Wsch&oacute;d","Fordo&#324;ska / Sochaczewska","Fordo&#324;ska / Wi&#347;lana","Skandynawska / Ikea","Wi&#281;cka / &#321;owicka","&#321;owicka / Szko&#322;a","Tor Regatowy","Witebska / Wschodnia","Brdyuj&#347;cie","Wyszogrodzka / Opalowa","Fordo&#324;ska / Wyszogrodzka","Dworzec Fordon","Fordo&#324;ska / Wiadukt","Fordon Rynek","Wyzwolenia / Styki","Wyzwolenia / Swobodna","Niepodleg&#322;o&#347;ci","Wyzwolenia / Derdowskiego","Wyzwolenia / Komisariat","Geodet&oacute;w / Wyzwolenia","Geodet&oacute;w / Pieni&#324;ska","&#321;osko&#324; / Zajezdnia"], 
+		"czasy":[0,1,4,6,7,8,9,10,14,17,19,20,24,26,27,28,30,31,32,34,35,36,38,39,41,42,44,45,47,48,50,51,52,53,54,55,56,58,59,60,62,63,64,65,67,68,69,70,71] 
+	}],
+	"kier3": [{ 
+		"wariant":"Plac Ko&#347;cieleckich", 
+		"przystanki":["Piaski","Smukalska / B&#322;&#261;dzimska","Saper&oacute;w / K&#261;pielisko","Saper&oacute;w / Komandos&oacute;w","Saper&oacute;w / Czo&#322;gist&oacute;w","Saper&oacute;w / Zak&#261;tek","Saper&oacute;w / Ludwikowo","&#379;eglarska / Ludwikowo","Dworzec G&#322;&oacute;wny","Garbary","Plac Teatralny","Rondo Jagiellon&oacute;w","Plac Ko&#347;cieleckich"], 
+		"czasy":[0,1,4,6,7,8,9,10,14,17,19,20,24] 
+	}],
+	"kier4":[ { 
+		"wariant":"Piaski", 
+		"przystanki":["Tatrza&#324;skie","Wyzwolenia / Derdowskiego","Niepodleg&#322;o&#347;ci","Wyzwolenia / Swobodna","Wyzwolenia / Styki","Fordon Rynek","Fordo&#324;ska / Wiadukt","Dworzec Fordon","Fordo&#324;ska / Wyszogrodzka","Wyszogrodzka / Opalowa","Brdyuj&#347;cie","Witebska / Wschodnia","Tor Regatowy","&#321;owicka / Szko&#322;a","Wi&#281;cka / &#321;owicka","Skandynawska / Ikea","Fordo&#324;ska / Wi&#347;lana","Fordo&#324;ska / Sochaczewska","Dworzec Wsch&oacute;d","Fordo&#324;ska / Wy&#347;cigowa","Fordo&#324;ska / Fabryczna","Fordo&#324;ska / Szajnochy","Most Kazimierza Wielkiego","Sk&#322;odowskiej-Curie / &#321;&#281;czycka","Ba&#322;tycka / Sk&#322;odowskiej-Curie","G&#322;owackiego / Ba&#322;tycka","G&#322;owackiego / Gajowa","Powst. Wielkopolskich / Wyszy&#324;skiego","Powst. Wielkopolskich / Lelewela","Rondo Wielkopolskie","Paderewskiego","3 Maja / Markwarta","Rondo Jagiellon&oacute;w","Plac Ko&#347;cieleckich","Rondo Jagiellon&oacute;w","Focha / Opera","Garbary","Warszawska / Fredry","Dworzec G&#322;&oacute;wny","&#379;eglarska / Ludwikowo","Saper&oacute;w / Ludwikowo","Saper&oacute;w / Zak&#261;tek","Saper&oacute;w / Czo&#322;gist&oacute;w","Saper&oacute;w / Komandos&oacute;w","Saper&oacute;w / K&#261;pielisko","Smukalska / B&#322;&#261;dzimska","Piaski"], 
+		"czasy":[0,1,3,4,6,7,9,10,11,13,14,15,16,17,18,19,22,23,25,26,28,29,30,31,32,34,35,36,38,39,40,42,44,48,50,52,53,55,56,60,61,62,63,64,66,69,70] 
+	}], 
+	"kier5": [{ 
+		"wariant":"Plac Ko&#347;cieleckich&Loskon", 
+		"przystanki":["&#321;osko&#324; / Zajezdnia","Geodet&oacute;w / Pieni&#324;ska","Geodet&oacute;w / Wyzwolenia","Wyzwolenia / Komisariat","Wyzwolenia / Derdowskiego","Niepodleg&#322;o&#347;ci","Wyzwolenia / Swobodna","Wyzwolenia / Styki","Fordon Rynek","Fordo&#324;ska / Wiadukt","Dworzec Fordon","Fordo&#324;ska / Wyszogrodzka","Wyszogrodzka / Opalowa","Brdyuj&#347;cie","Witebska / Wschodnia","Tor Regatowy","&#321;owicka / Szko&#322;a","Wi&#281;cka / &#321;owicka","Skandynawska / Ikea","Fordo&#324;ska / Wi&#347;lana","Fordo&#324;ska / Sochaczewska","Dworzec Wsch&oacute;d","Fordo&#324;ska / Wy&#347;cigowa","Fordo&#324;ska / Fabryczna","Fordo&#324;ska / Szajnochy","Most Kazimierza Wielkiego","Sk&#322;odowskiej-Curie / &#321;&#281;czycka","Ba&#322;tycka / Sk&#322;odowskiej-Curie","G&#322;owackiego / Ba&#322;tycka","G&#322;owackiego / Gajowa","Powst. Wielkopolskich / Wyszy&#324;skiego","Powst. Wielkopolskich / Lelewela","Rondo Wielkopolskie","Paderewskiego","3 Maja / Markwarta","Rondo Jagiellon&oacute;w","Plac Ko&#347;cieleckich"], 
+		"czasy":[0,1,2,3,4,6,7,9,10,12,13,14,16,17,18,19,20,21,22,25,26,28,29,31,32,33,34,35,37,38,39,41,42,43,45,47,51] 
+	}],
+	"kier6": [{ 
+		"wariant":"Piaski&Loskon", 
+		"przystanki":["&#321;osko&#324; / Zajezdnia","Geodet&oacute;w / Pieni&#324;ska","Geodet&oacute;w / Wyzwolenia","Wyzwolenia / Komisariat","Wyzwolenia / Derdowskiego","Niepodleg&#322;o&#347;ci","Wyzwolenia / Swobodna","Wyzwolenia / Styki","Fordon Rynek","Fordo&#324;ska / Wiadukt","Dworzec Fordon","Fordo&#324;ska / Wyszogrodzka","Wyszogrodzka / Opalowa","Brdyuj&#347;cie","Witebska / Wschodnia","Tor Regatowy","&#321;owicka / Szko&#322;a","Wi&#281;cka / &#321;owicka","Skandynawska / Ikea","Fordo&#324;ska / Wi&#347;lana","Fordo&#324;ska / Sochaczewska","Dworzec Wsch&oacute;d","Fordo&#324;ska / Wy&#347;cigowa","Fordo&#324;ska / Fabryczna","Fordo&#324;ska / Szajnochy","Most Kazimierza Wielkiego","Sk&#322;odowskiej-Curie / &#321;&#281;czycka","Ba&#322;tycka / Sk&#322;odowskiej-Curie","G&#322;owackiego / Ba&#322;tycka","G&#322;owackiego / Gajowa","Powst. Wielkopolskich / Wyszy&#324;skiego","Powst. Wielkopolskich / Lelewela","Rondo Wielkopolskie","Paderewskiego","3 Maja / Markwarta","Rondo Jagiellon&oacute;w","Plac Ko&#347;cieleckich","Rondo Jagiellon&oacute;w","Focha / Opera","Garbary","Warszawska / Fredry","Dworzec G&#322;&oacute;wny","&#379;eglarska / Ludwikowo","Saper&oacute;w / Ludwikowo","Saper&oacute;w / Zak&#261;tek","Saper&oacute;w / Czo&#322;gist&oacute;w","Saper&oacute;w / Komandos&oacute;w","Saper&oacute;w / K&#261;pielisko","Smukalska / B&#322;&#261;dzimska","Piaski"], 
+		"czasy":[0,1,2,3,4,6,7,9,10,12,13,14,16,17,18,19,20,21,22,25,26,28,29,31,32,33,34,35,37,38,39,41,42,43,45,47,51,53,55,56,58,59,63,64,65,66,67,69,72,73] 
+	}]
+},
+{   
+	"il": "3", 
+	"numerlinii": "34N", 
+	"kier1":[ { 
+		"wariant":"Plac Ko&#347;cieleckich", 
+		"przystanki":["Smuka&#322;a","Op&#322;awiec / Biwakowa","Op&#322;awiec / Elektrownia","Op&#322;awiec / Przedszkole","Op&#322;awiec / Meysnera","Op&#322;awiec / Soboczy&#324;skiego","Op&#322;awiec / Wypoczynkowa","Op&#322;awiec / Kolonijna","Op&#322;awiec / Koronowska","Koronowska / Wodoci&#261;gi","Wiejska / Deszczowa","Wiejska / Chojnicka","Kraje&#324;ska / Wiejska","Nad Torem / Orlicza","Rondo Maczka","Grunwaldzka / Kraszewskiego","Grunwaldzka / Kana&#322;owa","Rondo Grunwaldzkie","Plac Teatralny","Rondo Jagiellon&oacute;w","Plac Ko&#347;cieleckich"], 
+		"czasy":[0,1,2,3,4,5,6,7,8,10,12,13,14,15,17,18,19,21,23,24,25] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Smuka&#322;a", 
+		"przystanki":["Plac Ko&#347;cieleckich","Rondo Jagiellon&oacute;w","Focha / Opera","Rondo Grunwaldzkie","Grunwaldzka / Kana&#322;owa","Grunwaldzka / Kraszewskiego","Rondo Maczka","Kraje&#324;ska / Koronowska","Wiejska / Kraje&#324;ska","Wiejska / Chojnicka","Nad Torem / Chmurna","Koronowska / Wodoci&#261;gi","Op&#322;awiec / Koronowska","Op&#322;awiec / Kolonijna","Op&#322;awiec / Wypoczynkowa","Op&#322;awiec / Soboczy&#324;skiego","Op&#322;awiec / Meysnera","Op&#322;awiec / Przedszkole","Op&#322;awiec / Elektrownia","Op&#322;awiec / Internat","Op&#322;awiec / Biwakowa","Smuka&#322;a"], 
+		"czasy":[0,2,4,5,6,7,9,10,11,12,13,15,17,18,19,20,21,22,23,24,25,26] 
+	}],
+	"kier3": [{ 
+		"wariant":"Smuka&#322;a&Sanatorium", 
+		"przystanki":["Plac Ko&#347;cieleckich","Rondo Jagiellon&oacute;w","Focha / Opera","Rondo Grunwaldzkie","Grunwaldzka / Kana&#322;owa","Grunwaldzka / Kraszewskiego","Rondo Maczka","Kraje&#324;ska / Koronowska","Wiejska / Kraje&#324;ska","Wiejska / Chojnicka","Nad Torem / Chmurna","Koronowska / Wodoci&#261;gi","Op&#322;awiec / Koronowska","Op&#322;awiec / Kolonijna","Op&#322;awiec / Wypoczynkowa","Op&#322;awiec / Soboczy&#324;skiego","Meysnera / Op&#322;awiec","Sanatorium","Op&#322;awiec / Meysnera","Op&#322;awiec / Przedszkole","Op&#322;awiec / Elektrownia","Op&#322;awiec / Internat","Op&#322;awiec / Biwakowa","Smuka&#322;a"], 
+		"czasy":[0,2,4,5,6,7,9,10,11,12,13,15,17,18,19,20,21,23,25,26,27,28,29,30] 
+	}]
+},
+{   
+	"il": "3", 
+	"numerlinii": "35N", 
+	"kier1":[ { 
+		"wariant":"Plac Ko&#347;cieleckich", 
+		"przystanki":["Rekinowa","Kolbego / Wielorybia","Kolbego / Kogucia","Kolbego / Dzi&#281;cio&#322;owa","Grunwaldzka / Kolbego","Kruszy&#324;ska / Sowia","Kruszy&#324;ska / Kra&#324;cowa","Mi&#324;ska / Plonowa","Mi&#324;ska / Studzienna","Dworzec Zach&oacute;d","Grunwaldzka / Flisacka","Rondo Maczka","Grunwaldzka / Kraszewskiego","Grunwaldzka / Kana&#322;owa","Rondo Grunwaldzkie","Plac Pozna&#324;ski","Nowy Rynek","Zbo&#380;owy Rynek","Rondo Jagiellon&oacute;w","Plac Ko&#347;cieleckich"], 
+		"czasy":[0,1,2,3,4,7,8,9,10,11,12,14,15,16,18,20,21,22,24,25] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Rekinowa", 
+		"przystanki":["Plac Ko&#347;cieleckich","Nowy Rynek","Plac Pozna&#324;ski","Rondo Grunwaldzkie","Grunwaldzka / Kana&#322;owa","Grunwaldzka / Kraszewskiego","Rondo Maczka","Flisacka / Grunwaldzka","Dworzec Zach&oacute;d","Mi&#324;ska / Studzienna","Mi&#324;ska / Plonowa","Kruszy&#324;ska / Kra&#324;cowa","Kruszy&#324;ska / Sowia","Kolbego / Grunwaldzka","Kolbego / Dzi&#281;cio&#322;owa","Kolbego / Kogucia","Kolbego / Wielorybia","Rekinowa"], 
+		"czasy":[0,2,3,5,6,7,9,10,11,12,13,14,15,18,19,20,21,22] 
+	}],
+	"kier3": [{ 
+		"wariant":"Rekinowa&Niklowa", 
+		"przystanki":["Plac Ko&#347;cieleckich","Nowy Rynek","Plac Pozna&#324;ski","Rondo Grunwaldzkie","Grunwaldzka / Kana&#322;owa","Grunwaldzka / Kraszewskiego","Rondo Maczka","Flisacka / Grunwaldzka","Dworzec Zach&oacute;d","Mi&#324;ska / Studzienna","Mi&#324;ska / Plonowa","Kruszy&#324;ska / Kra&#324;cowa","Kruszy&#324;ska / Sowia","Podmiejska / Kruszy&#324;ska","Srebrna / Stalowa","Srebrna / Spi&#380;owa","Spi&#380;owa / O&#322;owiana","Niklowa","Kolbego / Grunwaldzka","Kolbego / Dzi&#281;cio&#322;owa","Kolbego / Kogucia","Kolbego / Wielorybia","Rekinowa"], 
+		"czasy":[0,2,3,5,6,7,9,10,11,12,13,14,15,16,17,18,19,20,25,26,27,28,29] 
+	}]
+},
+{   
+	"il": "6", 
+	"numerlinii": "36N", 
+	"kier1":[ { 
+		"wariant":"&#321;&#281;gnowo", 
+		"przystanki":["Lisia","Nakielska / Notecka","Nakielska / Tarnowska","Nakielska / Iglasta","Nakielska / &#379;ywiecka","Nakielska / Wi&#347;niowa","Nakielska / Pijar&oacute;w","Nakielska / Widok","Wilczak","Nakielska / Wrzesi&#324;ska","Nakielska / Stawowa","Rondo Grunwaldzkie","Plac Pozna&#324;ski","Stroma / Orla","Stroma / Kossaka","Solskiego / Bielicka","Solskiego / Ugory","Rondo Kujawskie","Rondo Jagiellon&oacute;w","Plac Ko&#347;cieleckich","Zbo&#380;owy Rynek","Babia Wie&#347;","Toru&#324;ska / &#379;upy","Rondo Toru&#324;skie","Toru&#324;ska / &#321;uczniczki","Toru&#324;ska / Kazimierza Wielkiego","Toru&#324;ska / Zajezdnia Tramwajowa","Toru&#324;ska / R&oacute;wna","Toru&#324;ska / Kielecka","Toru&#324;ska / Stomil (brama)","Stomil","Dworzec &#321;&#281;gnowo","Toru&#324;ska / Wypaleniska","Toru&#324;ska / Przy&#322;ubska","Toru&#324;ska / Wie&#380;a Ci&#347;nie&#324;","Pl&#261;tnowska / Ko&#347;ci&oacute;&#322;","Pl&#261;tnowska / Otorowska","Pl&#261;tnowska / Przejazd","Nowotoru&#324;ska / Przepompownia","Nowotoru&#324;ska / &#379;&oacute;&#322;wi&#324;ska","Sp&oacute;&#322;dzielcza","&#321;&#281;gnowo"], 
+		"czasy":[0,1,2,3,4,5,6,7,9,10,11,13,14,16,17,18,19,21,23,27,28,29,30,32,34,36,37,38,39,41,42,43,44,45,46,47,48,49,51,52,53,55] 
+	}], 
+	"kier2": [{ 
+		"wariant":"Toru&#324;ska / Zajezdnia Tramwajowa", 
+		"przystanki":["Lisia","Nakielska / Notecka","Nakielska / Tarnowska","Nakielska / Iglasta","Nakielska / &#379;ywiecka","Nakielska / Wi&#347;niowa","Nakielska / Pijar&oacute;w","Nakielska / Widok","Wilczak","Nakielska / Wrzesi&#324;ska","Nakielska / Stawowa","Rondo Grunwaldzkie","Plac Pozna&#324;ski","Stroma / Orla","Stroma / Kossaka","Solskiego / Bielicka","Solskiego / Ugory","Rondo Kujawskie","Rondo Jagiellon&oacute;w","Plac Ko&#347;cieleckich","Zbo&#380;owy Rynek","Babia Wie&#347;","Toru&#324;ska / &#379;upy","Rondo Toru&#324;skie","Toru&#324;ska / &#321;uczniczki","Toru&#324;ska / Kazimierza Wielkiego","Toru&#324;ska / Zajezdnia Tramwajowa"], 
+		"czasy":[0,1,2,3,4,5,6,7,9,10,11,13,14,16,17,18,19,21,23,27,28,29,30,32,34,36,37] 
+	}],
+	"kier3": [{ 
+		"wariant":"Lisia", 
+		"przystanki":["&#321;&#281;gnowo","&#346;wietlicowa","Nowotoru&#324;ska / &#379;&oacute;&#322;wi&#324;ska","Nowotoru&#324;ska / Przepompownia","Pl&#261;tnowska / Przejazd","Pl&#261;tnowska / Otorowska","Pl&#261;tnowska / Ko&#347;ci&oacute;&#322;","Toru&#324;ska / Wie&#380;a Ci&#347;nie&#324;","Toru&#324;ska / Przy&#322;ubska","Toru&#324;ska / Wypaleniska","Dworzec &#321;&#281;gnowo","Stomil","Toru&#324;ska / Stomil (brama)","Toru&#324;ska / Sporna","Toru&#324;ska / Kielecka","Toru&#324;ska / R&oacute;wna","Toru&#324;ska / Zajezdnia Tramwajowa","Kazimierza Wielkiego / Toru&#324;ska","Toru&#324;ska / &#321;uczniczki","Rondo Toru&#324;skie","Toru&#324;ska / &#379;upy","Babia Wie&#347;","Zbo&#380;owy Rynek","Rondo Jagiellon&oacute;w","Plac Ko&#347;cieleckich","Rondo Kujawskie","Solskiego / Ugory","Bielicka / Solskiego","Stroma / Kossaka","Stroma / Orla","Plac Pozna&#324;ski","Rondo Grunwaldzkie","Nakielska / Stawowa","Nakielska / Wrzesi&#324;ska","Wilczak","Nakielska / Widok","Nakielska / Pijar&oacute;w","Nakielska / Wi&#347;niowa","Nakielska / &#379;ywiecka","Nakielska / Tarnowska","Nakielska / Notecka","Lisia"], 
+		"czasy":[0,1,2,3,5,6,7,8,9,10,11,12,13,14,15,16,17,19,20,22,23,24,25,27,31,33,34,35,37,38,40,42,44,45,47,49,50,51,52,53,54,55] 
+	}],
+	"kier4":[ { 
+		"wariant":"Belma", 
+		"przystanki":["&#321;&#281;gnowo","&#346;wietlicowa","Nowotoru&#324;ska / &#379;&oacute;&#322;wi&#324;ska","Nowotoru&#324;ska / Przepompownia","Pl&#261;tnowska / Przejazd","Pl&#261;tnowska / Otorowska","Pl&#261;tnowska / Ko&#347;ci&oacute;&#322;","Toru&#324;ska / Wie&#380;a Ci&#347;nie&#324;","Toru&#324;ska / Przy&#322;ubska","Toru&#324;ska / Wypaleniska","Dworzec &#321;&#281;gnowo","Stomil","Toru&#324;ska / Stomil (brama)","Toru&#324;ska / Sporna","Toru&#324;ska / Kielecka","Toru&#324;ska / R&oacute;wna","Toru&#324;ska / Zajezdnia Tramwajowa","Kazimierza Wielkiego / Toru&#324;ska","Toru&#324;ska / &#321;uczniczki","Rondo Toru&#324;skie","Toru&#324;ska / &#379;upy","Babia Wie&#347;","Zbo&#380;owy Rynek","Rondo Jagiellon&oacute;w","Plac Ko&#347;cieleckich","Rondo Kujawskie","Solskiego / Ugory","Bielicka / Solskiego","Stroma / Kossaka","Stroma / Orla","Plac Pozna&#324;ski","Rondo Grunwaldzkie","Nakielska / Stawowa","Nakielska / Wrzesi&#324;ska","Wilczak","Nakielska / Widok","Nakielska / Pijar&oacute;w","Nakielska / Wi&#347;niowa","Nakielska / &#379;ywiecka","Nakielska / Tarnowska","Nakielska / Notecka","Nakielska / Lisia","&#321;ochowska","Belma"], 
+		"czasy":[0,1,2,3,5,6,7,8,9,10,11,12,13,14,15,16,17,19,20,22,23,24,25,27,31,33,34,35,37,38,40,42,44,45,47,49,50,51,52,53,54,55,57,58] 
+	}], 
+	"kier5": [{ 
+		"wariant":"Toru&#324;ska / Zajezdnia Tramwajowa&Belma", 
+		"przystanki":["Belma","&#321;ochowska","Nakielska / Lisia","Nakielska / Notecka","Nakielska / Tarnowska","Nakielska / Iglasta","Nakielska / &#379;ywiecka","Nakielska / Wi&#347;niowa","Nakielska / Pijar&oacute;w","Nakielska / Widok","Wilczak","Nakielska / Wrzesi&#324;ska","Nakielska / Stawowa","Rondo Grunwaldzkie","Plac Pozna&#324;ski","Stroma / Orla","Stroma / Kossaka","Solskiego / Bielicka","Solskiego / Ugory","Rondo Kujawskie","Rondo Jagiellon&oacute;w","Plac Ko&#347;cieleckich","Zbo&#380;owy Rynek","Babia Wie&#347;","Toru&#324;ska / &#379;upy","Rondo Toru&#324;skie","Toru&#324;ska / &#321;uczniczki","Toru&#324;ska / Kazimierza Wielkiego","Toru&#324;ska / Zajezdnia Tramwajowa"], 
+		"czasy":[0,1,3,4,5,6,7,8,9,10,12,13,14,16,17,19,20,21,22,24,26,30,31,32,33,35,37,39,40] 
+	}],
+	"kier6": [{ 
+		"wariant":"Plac Ko&#347;cieleckich", 
+		"przystanki":["Belma","&#321;ochowska","Nakielska / Lisia","Nakielska / Notecka","Nakielska / Tarnowska","Nakielska / Iglasta","Nakielska / &#379;ywiecka","Nakielska / Wi&#347;niowa","Nakielska / Pijar&oacute;w","Nakielska / Widok","Wilczak","Nakielska / Wrzesi&#324;ska","Nakielska / Stawowa","Rondo Grunwaldzkie","Plac Pozna&#324;ski","Stroma / Orla","Stroma / Kossaka","Solskiego / Bielicka","Solskiego / Ugory","Rondo Kujawskie","Rondo Jagiellon&oacute;w","Plac Ko&#347;cieleckich"], 
+		"czasy":[0,1,3,4,5,6,7,8,9,10,12,13,14,16,17,19,20,21,22,24,26,27] 
+	}]
+}
+  ]

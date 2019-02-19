@@ -1,0 +1,495 @@
+[{"nazwa":"3 Maja \/ Markwarta","numery":"3058"}
+,{"nazwa":"Akademicka \/ Igrzyskowa","numery":"8059 8058 8097 8098"}
+,{"nazwa":"Akademicka \/ Kaliskiego (UTP)","numery":"8060 8083 8095 8096"}
+,{"nazwa":"Akademicka \/ Rejewskiego","numery":"8085 8086"}
+,{"nazwa":"Akademicka \/ Romanowskiej","numery":"8042 8043 8088 8089"}
+,{"nazwa":"Aleja &#379;o&#322;nierzy Wykl&#281;tych \/ Ciele","numery":"13133"}
+,{"nazwa":"Andersa \/ Gieryna","numery":"8112 8113"}
+,{"nazwa":"Andersa \/ Kasztela&#324;ska","numery":"8053 8052"}
+,{"nazwa":"Andersa \/ Kleeberga","numery":"8057 8056 8099 8100"}
+,{"nazwa":"Andersa \/ Wolna","numery":"8106 8107 8108 8109"}
+,{"nazwa":"Armii Krajowej \/ Je&#378;dziecka","numery":"1067"}
+,{"nazwa":"Armii Krajowej \/ Zamczysko","numery":"1012"}
+,{"nazwa":"Artyleryjska \/ Za&#347;wiat","numery":"2077 2078"}
+,{"nazwa":"Babia Wie&#347;","numery":"10025 10024 10083 10084"}
+,{"nazwa":"Baczy&#324;skiego \/ Sandomierska","numery":"11066"}
+,{"nazwa":"Baczy&#324;skiego \/ Wojska Polskiego","numery":"11065"}
+,{"nazwa":"Bajka","numery":"8055 8054 8073 8102 8103 8104"}
+,{"nazwa":"Ba&#322;tycka \/ G&#322;owackiego","numery":"4008 4009"}
+,{"nazwa":"Ba&#322;tycka \/ Sk&#322;odowskiej-Curie","numery":"4019"}
+,{"nazwa":"Barwna","numery":"9027 9026"}
+,{"nazwa":"Belma","numery":"6036"}
+,{"nazwa":"Be&#322;zy \/ Spokojna","numery":"99095"}
+,{"nazwa":"Be&#322;zy \/ Szarych Szereg&oacute;w","numery":"99098 99097"}
+,{"nazwa":"Bia&#322;e B&#322;ota \/ Chlebowa","numery":"13027 13028"}
+,{"nazwa":"Bia&#322;e B&#322;ota \/ Czekoladowa","numery":"13030"}
+,{"nazwa":"Bia&#322;e B&#322;ota \/ Czerska","numery":"13029"}
+,{"nazwa":"Bia&#322;e B&#322;ota \/ Kapliczna","numery":"13005 13006"}
+,{"nazwa":"Bia&#322;e B&#322;ota \/ Kruszy&#324;ska","numery":"13033 13034"}
+,{"nazwa":"Bia&#322;e B&#322;ota \/ Modra","numery":"13031 13032"}
+,{"nazwa":"Bia&#322;e B&#322;ota \/ Sosnowa","numery":"13007"}
+,{"nazwa":"Bia&#322;e B&#322;ota \/ Urz&#261;d Gminy","numery":"13001 13002"}
+,{"nazwa":"Bielawy","numery":"3052 3062"}
+,{"nazwa":"Bielicka \/ Solskiego","numery":"9055"}
+,{"nazwa":"B&#322;onie","numery":"9012 9014 9013 9019 9018 9020 9015"}
+,{"nazwa":"Bora-Komorowskiego \/ Braci Ba&#380;a&#324;skich","numery":"8017 8016"}
+,{"nazwa":"Bora-Komorowskiego \/ Gieryna","numery":"8019 8018"}
+,{"nazwa":"Bora-Komorowskiego \/ Kiedrowskiego","numery":"8021 8020"}
+,{"nazwa":"Bo&#380;enkowo \/ Bo&#380;enkowska","numery":"13189 13190"}
+,{"nazwa":"Bo&#380;enkowo \/ Harcerska","numery":"13191"}
+,{"nazwa":"Bo&#380;enkowo \/ Osiedlowa","numery":"13188"}
+,{"nazwa":"Brdyuj&#347;cie","numery":"7044 7047"}
+,{"nazwa":"Brzechwy \/ Szafirowa","numery":"8065"}
+,{"nazwa":"Brzechwy \/ Szelburg-Zarembiny","numery":"8067 8066"}
+,{"nazwa":"Brzozowa \/ Bielicka","numery":"9050 9051"}
+,{"nazwa":"Brzozowa \/ Jesionowa","numery":"9052 9053"}
+,{"nazwa":"Centrum Onkologii","numery":"8045 8044"}
+,{"nazwa":"Chemiczna \/ Dachtery","numery":"12089 12090"}
+,{"nazwa":"Chemiczna \/ Energetyczna","numery":"12045 12046"}
+,{"nazwa":"Chemiczna \/ Eurogaz","numery":"12047 12048"}
+,{"nazwa":"Chemiczna \/ Ogrodnictwo","numery":"12050 12049"}
+,{"nazwa":"Chemiczna \/ Szczerby","numery":"12072 12073"}
+,{"nazwa":"Chodkiewicza \/ Gda&#324;ska","numery":"3056"}
+,{"nazwa":"Chodkiewicza \/ Lelewela","numery":"3049 3050"}
+,{"nazwa":"Chodkiewicza \/ Paderewskiego","numery":"3045 3046"}
+,{"nazwa":"Ciele \/ Ko&#347;cielna","numery":"13040 13041"}
+,{"nazwa":"Ciele \/ Makowa","numery":"13037 13038"}
+,{"nazwa":"Ciele \/ Ogrody","numery":"13039 13124"}
+,{"nazwa":"Ciele \/ Pogodna","numery":"13035 13036"}
+,{"nazwa":"Ciele \/ &#377;r&oacute;dlana","numery":"13102 13101"}
+,{"nazwa":"Cmentarna \/ Dobrzy&#324;ska","numery":"10072 10073"}
+,{"nazwa":"Cmentarna \/ Glinki","numery":"10068 10069"}
+,{"nazwa":"Cmentarna \/ Gniewkowska","numery":"10070 10071"}
+,{"nazwa":"Czarn&oacute;wczyn","numery":"13175 13176"}
+,{"nazwa":"Czerkaska \/ Gda&#324;ska","numery":"1035"}
+,{"nazwa":"Czerkaska \/ Su&#322;kowskiego","numery":"1041 1042"}
+,{"nazwa":"Czy&#380;k&oacute;wko","numery":"5026"}
+,{"nazwa":"Dachtery \/ Chemiczna","numery":"12094"}
+,{"nazwa":"Deszczowa \/ Wichrowa","numery":"5027 5028"}
+,{"nazwa":"Deszczowa \/ Wiejska","numery":"5029"}
+,{"nazwa":"Drzewce","numery":"13094 13097"}
+,{"nazwa":"Dworcowa \/ Matejki","numery":"2071 2072"}
+,{"nazwa":"Dworzec Akademia","numery":"7028 7027"}
+,{"nazwa":"Dworzec Autobusowy","numery":"3037 3036 3039 3038 3040 3057"}
+,{"nazwa":"Dworzec Bielawy","numery":"4063 4062"}
+,{"nazwa":"Dworzec B&#322;onie","numery":"9074"}
+,{"nazwa":"Dworzec Fordon","numery":"7032 7034 7031 7033"}
+,{"nazwa":"Dworzec G&#322;&oacute;wny","numery":"2034 2040 2033 2039 2035 2037"}
+,{"nazwa":"Dworzec Le&#347;ne","numery":"1063 1064 1065"}
+,{"nazwa":"Dworzec &#321;&#281;gnowo","numery":"12053 12052"}
+,{"nazwa":"Dworzec Wsch&oacute;d","numery":"7001 7002 7051 7052 7059 7057 7058"}
+,{"nazwa":"Dworzec Zach&oacute;d","numery":"5066 5067"}
+,{"nazwa":"Eskulapa","numery":"8155"}
+,{"nazwa":"Eurogaz","numery":"12076"}
+,{"nazwa":"Flisacka \/ Grunwaldzka","numery":"5065"}
+,{"nazwa":"Focha \/ Opera","numery":"2054 2055 2056"}
+,{"nazwa":"Fordon Rynek","numery":"7038 7037"}
+,{"nazwa":"Fordo&#324;ska \/ Ba&#322;tycka","numery":"4030 4031 4032 4033"}
+,{"nazwa":"Fordo&#324;ska \/ Fabryczna","numery":"4038 4039 4040 4041"}
+,{"nazwa":"Fordo&#324;ska \/ Gajowa","numery":"4070"}
+,{"nazwa":"Fordo&#324;ska \/ Kapliczna","numery":"7009 7010"}
+,{"nazwa":"Fordo&#324;ska \/ &#321;owicka","numery":"7015 7055"}
+,{"nazwa":"Fordo&#324;ska \/ Sochaczewska","numery":"7012 7011"}
+,{"nazwa":"Fordo&#324;ska \/ Szajnochy","numery":"4037"}
+,{"nazwa":"Fordo&#324;ska \/ Traktorzyst&oacute;w","numery":"7026 7025"}
+,{"nazwa":"Fordo&#324;ska \/ Wiadukt","numery":"7036 7035"}
+,{"nazwa":"Fordo&#324;ska \/ Wi&#347;lana","numery":"7014 7013"}
+,{"nazwa":"Fordo&#324;ska \/ Wyszogrodzka","numery":"7029 7030"}
+,{"nazwa":"Fordo&#324;ska \/ Wy&#347;cigowa","numery":"4046 4044 4045 4049"}
+,{"nazwa":"Fredry \/ Warszawska","numery":"2049"}
+,{"nazwa":"Garbary","numery":"2058 2057 2061 2062 2059 2069 2070 2074"}
+,{"nazwa":"G&#261;decz","numery":"13162 13163"}
+,{"nazwa":"Gda&#324;ska \/ Artyleryjska","numery":"1046 1045 1043 1044"}
+,{"nazwa":"Gda&#324;ska \/ Chodkiewicza","numery":"3043 3044"}
+,{"nazwa":"Gda&#324;ska \/ Cieszkowskiego","numery":"3019 3020"}
+,{"nazwa":"Gda&#324;ska \/ Dworcowa","numery":"3023 3024"}
+,{"nazwa":"Gda&#324;ska \/ Je&#378;dziecka","numery":"1011 1010"}
+,{"nazwa":"Gda&#324;ska \/ Powst. Warszawy","numery":"1038 1039 1040"}
+,{"nazwa":"Geodet&oacute;w \/ Pieni&#324;ska","numery":"8010 8137"}
+,{"nazwa":"Geodet&oacute;w \/ Wyzwolenia","numery":"8136"}
+,{"nazwa":"Glinki","numery":"11015 11079 11078"}
+,{"nazwa":"Glinki \/ Cmentarna","numery":"10054 10053"}
+,{"nazwa":"Glinki \/ D&#261;browa","numery":"10060 10059"}
+,{"nazwa":"Glinki \/ Eltra","numery":"11024 11025"}
+,{"nazwa":"Glinki \/ Polon","numery":"11022 11023"}
+,{"nazwa":"Glinki \/ Szpitalna","numery":"11016 11017"}
+,{"nazwa":"Glinki \/ Zaj&#281;cza","numery":"10062 10061"}
+,{"nazwa":"Glinki \/ Zelwerowicza","numery":"10055 10056"}
+,{"nazwa":"Glinki BFM","numery":"11026"}
+,{"nazwa":"G&#322;owackiego \/ Ba&#322;tycka","numery":"4006 4007"}
+,{"nazwa":"G&#322;owackiego \/ Gajowa","numery":"4004 4005"}
+,{"nazwa":"Grunwaldzka \/ Chojnicka","numery":"5082"}
+,{"nazwa":"Grunwaldzka \/ Czarna Droga","numery":"5095 5096"}
+,{"nazwa":"Grunwaldzka \/ Filtrowa","numery":"5044 5045"}
+,{"nazwa":"Grunwaldzka \/ Flisacka","numery":"5042 5043"}
+,{"nazwa":"Grunwaldzka \/ Kana&#322;owa","numery":"5038 5039"}
+,{"nazwa":"Grunwaldzka \/ Kolbego","numery":"5080 5050"}
+,{"nazwa":"Grunwaldzka \/ Kraszewskiego","numery":"5040 5041"}
+,{"nazwa":"Grunwaldzka \/ Przej&#347;cie","numery":"5048 5049"}
+,{"nazwa":"Hetma&#324;ska \/ Kaszubska","numery":"2050"}
+,{"nazwa":"Hutna Wie&#347;","numery":"13164 13165"}
+,{"nazwa":"Hutnicza \/ Eberhardta","numery":"11076 11077"}
+,{"nazwa":"Hutnicza \/ Nowotoru&#324;ska","numery":"12029 12030"}
+,{"nazwa":"Inowroc&#322;awska \/ Skorupki","numery":"9044 9045"}
+,{"nazwa":"Inowroc&#322;awska \/ Zajezdnia","numery":"9048 9049"}
+,{"nazwa":"Jagiello&#324;ska \/ &#321;u&#380;ycka","numery":"3042 3041 3060 3061"}
+,{"nazwa":"Jagiello&#324;ska \/ Piotrowskiego","numery":"3035"}
+,{"nazwa":"Jagodowo \/ Letnia","numery":"13103 13104"}
+,{"nazwa":"Jagodowo \/ Polna","numery":"13078 13079"}
+,{"nazwa":"Jana Paw&#322;a II \/ W&#261;brzeska","numery":"10010 10011"}
+,{"nazwa":"Jana Paw&#322;a II \/ Ziemska","numery":"10008 10009"}
+,{"nazwa":"Jaru&#380;yn \/ Bociania","numery":"13142 13143"}
+,{"nazwa":"Jaru&#380;yn \/ Krakowska","numery":"13125"}
+,{"nazwa":"Jaru&#380;yn \/ Nowowiejska","numery":"13144 13145"}
+,{"nazwa":"Jaru&#380;yn \/ Rajska","numery":"13126"}
+,{"nazwa":"Jasiniecka \/ Pod Skarp&#261;","numery":"8154 8147"}
+,{"nazwa":"Jasiniecka \/ Trybowskiego","numery":"8153"}
+,{"nazwa":"Je&#378;dziecka \/ D&#380;okejowa","numery":"1003 1004"}
+,{"nazwa":"Je&#378;dziecka \/ Gda&#324;ska","numery":"1009"}
+,{"nazwa":"Je&#378;dziecka \/ Hipiczna","numery":"1005 1006"}
+,{"nazwa":"Je&#378;dziecka \/ Ogr&oacute;d Botaniczny","numery":"1007 1008"}
+,{"nazwa":"Kaliskiego \/ Akademicka (UTP)","numery":"8084"}
+,{"nazwa":"Kaliskiego \/ UTP","numery":"8062 8063"}
+,{"nazwa":"Kamienna \/ Fabryczna","numery":"4066 4067"}
+,{"nazwa":"Kamienna \/ Gajowa","numery":"1057 1056"}
+,{"nazwa":"Kamienna \/ Gda&#324;ska","numery":"1060 1061"}
+,{"nazwa":"Kamienna \/ Su&#322;kowskiego","numery":"1062 1049"}
+,{"nazwa":"Kamienna \/ Wyszy&#324;skiego","numery":"1051 1050"}
+,{"nazwa":"Kapu&#347;ciska","numery":"11035 11036 11038"}
+,{"nazwa":"Kazimierza Wielkiego \/ Toru&#324;ska","numery":"12006 12083 12084"}
+,{"nazwa":"Kielecka \/ Smole&#324;ska","numery":"12095 12096"}
+,{"nazwa":"Kielecka \/ Toru&#324;ska","numery":"12097"}
+,{"nazwa":"Kleeberga \/ Andersa","numery":"8101"}
+,{"nazwa":"Kolbego \/ Dzi&#281;cio&#322;owa","numery":"5086 5085"}
+,{"nazwa":"Kolbego \/ Grunwaldzka","numery":"5051"}
+,{"nazwa":"Kolbego \/ Kogucia","numery":"5052 5053"}
+,{"nazwa":"Kolbego \/ Wielorybia","numery":"5054 5055"}
+,{"nazwa":"Korfantego \/ Prejsa","numery":"8040 8041"}
+,{"nazwa":"Koronowska \/ Wodoci&#261;gi","numery":"5019 5018"}
+,{"nazwa":"Kozielec I","numery":"13172 13173"}
+,{"nazwa":"Kozielec (p&#281;tla)","numery":"13174"}
+,{"nazwa":"Kraje&#324;ska \/ Koronowska","numery":"5035"}
+,{"nazwa":"Kraje&#324;ska \/ Wiejska","numery":"5034"}
+,{"nazwa":"Kruszyn Kraje&#324;ski \/ Jasiniecka","numery":"13008"}
+,{"nazwa":"Kruszyn Kraje&#324;ski \/ &#321;&#261;kowa","numery":"13012"}
+,{"nazwa":"Kruszyn Kraje&#324;ski \/ Mro&#378;na","numery":"13121 13122"}
+,{"nazwa":"Kruszyn Kraje&#324;ski \/ S&#322;oneczna","numery":"13010"}
+,{"nazwa":"Kruszy&#324;ska \/ Kra&#324;cowa","numery":"5072 5073"}
+,{"nazwa":"Kruszy&#324;ska \/ Sowia","numery":"5074 5075"}
+,{"nazwa":"Las Gda&#324;ski","numery":"1019 1018 1022 1023"}
+,{"nazwa":"Le&#347;ne","numery":"1029 1030 1028 1032"}
+,{"nazwa":"Lipniki \/ Akacjowa","numery":"13009"}
+,{"nazwa":"Lipniki \/ STW","numery":"13015 13016"}
+,{"nazwa":"Lipniki \/ Wiadukt","numery":"13013 13014"}
+,{"nazwa":"Lipniki \/ Wierzbowa","numery":"13011"}
+,{"nazwa":"Lisia","numery":"6039"}
+,{"nazwa":"&#321;&#281;gnowo","numery":"12031 12034"}
+,{"nazwa":"&#321;ochowo","numery":"13100"}
+,{"nazwa":"&#321;ochowo \/ Sosnowa","numery":"13096 13099"}
+,{"nazwa":"&#321;ochowska","numery":"6035 6034"}
+,{"nazwa":"&#321;osko&#324;","numery":"8076 8075 8116 8117 8138"}
+,{"nazwa":"&#321;osko&#324; \/ Zajezdnia","numery":"8130"}
+,{"nazwa":"&#321;owicka \/ Szko&#322;a","numery":"7018 7019"}
+,{"nazwa":"&#321;ukasiewicza","numery":"11064"}
+,{"nazwa":"Magnuszewska","numery":"10057 10087 10058"}
+,{"nazwa":"Magnuszewska \/ Modrakowa","numery":"10049 10050"}
+,{"nazwa":"Maksymilianowo \/ G&#322;&oacute;wna","numery":"13089 13090"}
+,{"nazwa":"Maksymilianowo \/ Ptasia","numery":"13087 13088"}
+,{"nazwa":"Maksymilianowo \/ Szko&#322;a","numery":"13091 13092"}
+,{"nazwa":"Maksymilianowo \/ &#346;wietlica","numery":"13187"}
+,{"nazwa":"Markwarta \/ 3 Maja","numery":"3011"}
+,{"nazwa":"Matki Teresy z Kalkuty \/ Akademicka","numery":"8048"}
+,{"nazwa":"Matki Teresy z Kalkuty \/ Romanowskiej","numery":"8143 8144"}
+,{"nazwa":"Matki Teresy z Kalkuty \/ Rydygiera","numery":"8145 8146"}
+,{"nazwa":"Mazowiecka \/ Pomorska","numery":"2051"}
+,{"nazwa":"Meysnera \/ Op&#322;awiec","numery":"5010"}
+,{"nazwa":"Mickiewicza \/ Teatr Polski","numery":"3001 3002"}
+,{"nazwa":"Mi&#324;ska \/ Plonowa","numery":"5070 5071"}
+,{"nazwa":"Mi&#324;ska \/ Studzienna","numery":"5068 5069"}
+,{"nazwa":"Modrzewiowa \/ Gda&#324;ska","numery":"1026 1027"}
+,{"nazwa":"Mokra","numery":"12051"}
+,{"nazwa":"Morska","numery":"4011 4010 4012"}
+,{"nazwa":"Most Kazimierza Wielkiego","numery":"4034 4035 4036 4068 4069"}
+,{"nazwa":"Murowaniec","numery":"13019 13098"}
+,{"nazwa":"Murowaniec \/ Strusia","numery":"13017 13018"}
+,{"nazwa":"My&#347;l&#281;cinek","numery":"1017"}
+,{"nazwa":"Nad Torem \/ Chmurna","numery":"5021 5020"}
+,{"nazwa":"Nad Torem \/ Karolewska","numery":"5023 5022"}
+,{"nazwa":"Nad Torem \/ Orlicza","numery":"5024 5025"}
+,{"nazwa":"Nad Wis&#322;&#261;","numery":"8025"}
+,{"nazwa":"Nakielska \/ Iglasta","numery":"6027"}
+,{"nazwa":"Nakielska \/ Lisia","numery":"6033 6032"}
+,{"nazwa":"Nakielska \/ Notecka","numery":"6031 6030"}
+,{"nazwa":"Nakielska \/ Pijar&oacute;w","numery":"6022 6021"}
+,{"nazwa":"Nakielska \/ S&#322;oneczna","numery":"6016 6015"}
+,{"nazwa":"Nakielska \/ Stawowa","numery":"6010 6009"}
+,{"nazwa":"Nakielska \/ Tarnowska","numery":"6029 6028"}
+,{"nazwa":"Nakielska \/ Widok","numery":"6020 6019"}
+,{"nazwa":"Nakielska \/ Wi&#347;niowa","numery":"6024 6023"}
+,{"nazwa":"Nakielska \/ Wroc&#322;awska","numery":"6008 6007"}
+,{"nazwa":"Nakielska \/ Wrzesi&#324;ska","numery":"6012 6011 6014 6013"}
+,{"nazwa":"Nakielska \/ &#379;ywiecka","numery":"6026 6025"}
+,{"nazwa":"Nekla \/ Akacjowa","numery":"13156"}
+,{"nazwa":"Nekla \/ Ciep&#322;a","numery":"13154 13155"}
+,{"nazwa":"Nekla \/ Le&#347;na","numery":"13151 13152"}
+,{"nazwa":"Nekla \/ Makowa","numery":"13153"}
+,{"nazwa":"Nekla \/ T&#281;czowa","numery":"13149 13150"}
+,{"nazwa":"Niemcz \/ Kasprowicza","numery":"13068"}
+,{"nazwa":"Niemcz \/ Krzyszkowiaka","numery":"13076 13077"}
+,{"nazwa":"Niemcz \/ Malczewskiego","numery":"13074"}
+,{"nazwa":"Niemcz \/ Mickiewicza","numery":"13070 13071"}
+,{"nazwa":"Niemcz \/ Pod Wierzbami","numery":"13072"}
+,{"nazwa":"Niemcz \/ Rutkiewicz","numery":"13075"}
+,{"nazwa":"Niemcz \/ S&#322;owackiego","numery":"13069"}
+,{"nazwa":"Niemcz \/ Urocza","numery":"13073"}
+,{"nazwa":"Niepodleg&#322;o&#347;ci","numery":"8069 8005 8006 8110 8111"}
+,{"nazwa":"Niepodleg&#322;o&#347;ci (p&#281;tla)","numery":"8127"}
+,{"nazwa":"Niklowa","numery":"5064"}
+,{"nazwa":"Niwy","numery":"13067"}
+,{"nazwa":"Niwy \/ Bieszczadzka","numery":"13137"}
+,{"nazwa":"Niwy \/ Karkonoska","numery":"13136"}
+,{"nazwa":"Niwy \/ Zakopia&#324;ska","numery":"13139 13138"}
+,{"nazwa":"Nowotoru&#324;ska \/ Hutnicza","numery":"12028 12074"}
+,{"nazwa":"Nowotoru&#324;ska \/ Kielecka","numery":"12088"}
+,{"nazwa":"Nowotoru&#324;ska \/ Objazdowa","numery":"12033 12035"}
+,{"nazwa":"Nowotoru&#324;ska \/ Pl&#261;tnowska","numery":"12065 12064"}
+,{"nazwa":"Nowotoru&#324;ska \/ Prezydenta Lecha Kaczy&#324;skiego","numery":"12036 12037"}
+,{"nazwa":"Nowotoru&#324;ska \/ Przepompownia","numery":"12067 12066"}
+,{"nazwa":"Nowotoru&#324;ska \/ &#379;&oacute;&#322;wi&#324;ska","numery":"12069 12068"}
+,{"nazwa":"Nowy Rynek","numery":"9028 9029 9054"}
+,{"nazwa":"Objazdowa \/ Nowotoru&#324;ska","numery":"12043 12044"}
+,{"nazwa":"Ogi&#324;skiego \/ Moniuszki","numery":"3016"}
+,{"nazwa":"Op&#322;awiec \/ Biwakowa","numery":"5002 5003"}
+,{"nazwa":"Op&#322;awiec \/ Elektrownia","numery":"5004 5005"}
+,{"nazwa":"Op&#322;awiec \/ Internat","numery":"5077"}
+,{"nazwa":"Op&#322;awiec \/ Kolonijna","numery":"5015 5014"}
+,{"nazwa":"Op&#322;awiec \/ Koronowska","numery":"5017 5016"}
+,{"nazwa":"Op&#322;awiec \/ Meysnera","numery":"5008 5009"}
+,{"nazwa":"Op&#322;awiec \/ Przedszkole","numery":"5006 5007"}
+,{"nazwa":"Op&#322;awiec \/ Soboczy&#324;skiego","numery":"5083 5084"}
+,{"nazwa":"Op&#322;awiec \/ Wypoczynkowa","numery":"5013 5012"}
+,{"nazwa":"Osielsko \/ Centralna","numery":"13065 13066"}
+,{"nazwa":"Osielsko \/ Cisowa","numery":"13179 13180"}
+,{"nazwa":"Osielsko \/ Gmina","numery":"13060"}
+,{"nazwa":"Osielsko \/ Gryczana","numery":"13177 13178"}
+,{"nazwa":"Osielsko \/ Gwia&#378;dzista","numery":"13183 13184"}
+,{"nazwa":"Osielsko \/ Kwiatowa","numery":"13058 13059"}
+,{"nazwa":"Osielsko \/ Le&#347;na","numery":"13061 13062"}
+,{"nazwa":"Osielsko \/ Lipowa","numery":"13181 13182"}
+,{"nazwa":"Osielsko \/ M&#322;yn","numery":"13056 13057"}
+,{"nazwa":"Osielsko \/ My&#347;l&#281;cinek","numery":"13054 13055"}
+,{"nazwa":"Osielsko \/ Wi&#261;zowa","numery":"13063 13064"}
+,{"nazwa":"Paderewskiego","numery":"3008"}
+,{"nazwa":"Park Przemys&#322;owy \/ Paciorkiewicza","numery":"11051 11052 11056"}
+,{"nazwa":"Park Przemys&#322;owy \/ Raczkowskiego","numery":"11053 11054"}
+,{"nazwa":"Park Przemys&#322;owy \/ Biurowiec","numery":"11055"}
+,{"nazwa":"Park Przemys&#322;owy \/ Exploseum","numery":"11063"}
+,{"nazwa":"Park Przemys&#322;owy \/ Falkowskiego","numery":"11057 11058"}
+,{"nazwa":"Park Przemys&#322;owy \/ Gamma","numery":"11061 11062"}
+,{"nazwa":"Park Przemys&#322;owy \/ Petersona","numery":"11060 11059"}
+,{"nazwa":"Pelpli&#324;ska \/ Jaru&#380;y&#324;ska","numery":"8026 8027"}
+,{"nazwa":"Pelpli&#324;ska \/ Targowisko","numery":"8156 8157"}
+,{"nazwa":"Pelpli&#324;ska \/ Taternik&oacute;w","numery":"8028 8029"}
+,{"nazwa":"Per&#322;owa \/ Toru&#324;ska","numery":"11039 11040"}
+,{"nazwa":"Piaski","numery":"2001 2075"}
+,{"nazwa":"Pi&#281;kna \/ Szubi&#324;ska","numery":"9007"}
+,{"nazwa":"Pileckiego \/ Cmentarz","numery":"2022"}
+,{"nazwa":"Pileckiego \/ Kmicica","numery":"2018 2019"}
+,{"nazwa":"Pileckiego \/ Rynkowska","numery":"2020 2021"}
+,{"nazwa":"Pileckiego \/ &#379;eglarska","numery":"2016 2076"}
+,{"nazwa":"Pi&#322;sudskiego \/ Swobodna","numery":"8023 8022"}
+,{"nazwa":"Plac Ko&#347;cieleckich","numery":"10023 10021 10022 10020"}
+,{"nazwa":"Plac Piastowski","numery":"2048 2079"}
+,{"nazwa":"Plac Pozna&#324;ski","numery":"9001 9002 9003 9004"}
+,{"nazwa":"Plac Teatralny","numery":"2053 2052"}
+,{"nazwa":"Plac Weyssenhoffa","numery":"3012"}
+,{"nazwa":"Plac Wolno&#347;ci","numery":"3021 3022"}
+,{"nazwa":"Pl&#261;tnowska \/ Ko&#347;ci&oacute;&#322;","numery":"12061 12060"}
+,{"nazwa":"Pl&#261;tnowska \/ Otorowska","numery":"12077 12078"}
+,{"nazwa":"Pl&#261;tnowska \/ Przejazd","numery":"12063 12062"}
+,{"nazwa":"Pod Skarp&#261; \/ Przemys&#322;a II","numery":"8159 8160"}
+,{"nazwa":"Pod Skarp&#261; \/ Stamma","numery":"8079 8080"}
+,{"nazwa":"Pod Skarp&#261; \/ &#379;emojtela","numery":"8077 8078"}
+,{"nazwa":"Podkowa","numery":"1001 1002"}
+,{"nazwa":"Podmiejska \/ Kruszy&#324;ska","numery":"5058 5057"}
+,{"nazwa":"Po&#322;tyna \/ Szubi&#324;ska","numery":"9062"}
+,{"nazwa":"Port Lotniczy (Airport)","numery":"10012"}
+,{"nazwa":"Powst. Wielkopolskich \/ Wyszy&#324;skiego","numery":"4001 4003 4002"}
+,{"nazwa":"Powst.Warszawy \/ Gda&#324;ska","numery":"1036"}
+,{"nazwa":"Powst.Warszawy \/ Skromna","numery":"2028 2027"}
+,{"nazwa":"Powst.Warszawy \/ Szpital Woj.","numery":"2030 2029"}
+,{"nazwa":"Powst. Wielkopolskich \/ Lelewela","numery":"3007 3006"}
+,{"nazwa":"Pr&#261;doci&#324;ska","numery":"12080"}
+,{"nazwa":"Prezydenta Lecha Kaczy&#324;skiego \/ Sandomierska","numery":"12081 12082"}
+,{"nazwa":"Przemys&#322;owa","numery":"7008"}
+,{"nazwa":"Przemys&#322;owa \/ Os. Rzemie&#347;lnicze","numery":"7005 7042"}
+,{"nazwa":"Przemys&#322;owa \/ Portowa","numery":"7003 7004"}
+,{"nazwa":"Przemys&#322;owa \/ Przejazd","numery":"7063 7064"}
+,{"nazwa":"Przemys&#322;owa \/ Tartak","numery":"7007 7006"}
+,{"nazwa":"Przylesie","numery":"8090 8091 8092 8093 8094"}
+,{"nazwa":"Przy&#322;&#281;ki \/ Wodna","numery":"13052 13053"}
+,{"nazwa":"Przy&#322;&#281;ki \/ Biznesowa","numery":"13045 13046"}
+,{"nazwa":"Przy&#322;&#281;ki \/ Cicha","numery":"13050 13051"}
+,{"nazwa":"Przy&#322;&#281;ki \/ Ko&#347;ci&oacute;&#322;","numery":"13048 13049"}
+,{"nazwa":"Przy&#322;&#281;ki \/ M&#322;y&#324;ska","numery":"13047"}
+,{"nazwa":"Rejewskiego \/ Akademicka","numery":"8047"}
+,{"nazwa":"Rejewskiego \/ Auchan","numery":"8049 8050"}
+,{"nazwa":"Rekinowa","numery":"5056"}
+,{"nazwa":"Romanowskiej \/ Akademicka","numery":"8131"}
+,{"nazwa":"Rondo Fordo&#324;skie","numery":"4023 4022 4025 4024 4029 4028 4026 4027"}
+,{"nazwa":"Rondo Grunwaldzkie","numery":"6006 6005 6004 6003 6001 6002"}
+,{"nazwa":"Rondo Inowroc&#322;awskie","numery":"10005 10006"}
+,{"nazwa":"Rondo Jagiellon&oacute;w","numery":"3026 3025 3030 3031 3029 3032 3033 93030"}
+,{"nazwa":"Rondo Kujawskie","numery":"10017 10018 10026 10016 10013 10014 10015"}
+,{"nazwa":"Rondo Maczka","numery":"5036 5078 5037 5093 5094"}
+,{"nazwa":"Rondo Ossoli&#324;skich","numery":"3014 3015 3013"}
+,{"nazwa":"Rondo Skrzetuskie","numery":"4013 4014"}
+,{"nazwa":"Rondo Toru&#324;skie","numery":"11001 11002 11003 11004 11006 11049 11005 11067"}
+,{"nazwa":"Rondo Toru&#324;skie (Be&#322;zy)","numery":"99094"}
+,{"nazwa":"Rondo Wielkopolskie","numery":"3003 3004 3005"}
+,{"nazwa":"Rycerska","numery":"2041 2032 2042 2044 2031 2064 2066 2063"}
+,{"nazwa":"Sanatorium","numery":"5011"}
+,{"nazwa":"Saper&oacute;w \/ Czo&#322;gist&oacute;w","numery":"2009 2008"}
+,{"nazwa":"Saper&oacute;w \/ K&#261;pielisko","numery":"2005 2004"}
+,{"nazwa":"Saper&oacute;w \/ Komandos&oacute;w","numery":"2007 2006"}
+,{"nazwa":"Saper&oacute;w \/ Ludwikowo","numery":"2013 2012"}
+,{"nazwa":"Saper&oacute;w \/ Zak&#261;tek","numery":"2011 2010"}
+,{"nazwa":"Schulza \/ Stawowa","numery":"9057 9058"}
+,{"nazwa":"Schulza \/ Szubi&#324;ska","numery":"9073 9075"}
+,{"nazwa":"Skandynawska \/ Ikea","numery":"7048 7054"}
+,{"nazwa":"Skar&#380;y&#324;skiego \/ Kwiatkowskiego","numery":"8074"}
+,{"nazwa":"Skar&#380;y&#324;skiego \/ Twardzickiego","numery":"8071 8072"}
+,{"nazwa":"Sk&#322;odowskiej-Curie \/ Ba&#322;tycka","numery":"4018 4017"}
+,{"nazwa":"Sk&#322;odowskiej-Curie \/ Gajowa","numery":"4015 4016"}
+,{"nazwa":"Sk&#322;odowskiej-Curie \/ Jurasza","numery":"3017 3018"}
+,{"nazwa":"Sk&#322;odowskiej-Curie \/ &#321;&#281;czycka","numery":"4021 4020"}
+,{"nazwa":"Skorupki","numery":"9046 9047"}
+,{"nazwa":"Skorupki \/ Czackiego","numery":"9041 9040"}
+,{"nazwa":"Skorupki \/ Jordanowska","numery":"9071 9072"}
+,{"nazwa":"Skorupki \/ Orla","numery":"9068 9067"}
+,{"nazwa":"Smole&#324;ska \/ Budowlana","numery":"12040 12040"}
+,{"nazwa":"Smole&#324;ska \/ Kielecka","numery":"12038 12039"}
+,{"nazwa":"Smole&#324;ska \/ Pi&#324;czowska","numery":"12041 12042"}
+,{"nazwa":"Smukalska \/ Agrestowa","numery":"5089 5090"}
+,{"nazwa":"Smukalska \/ Baranowskiego","numery":"5092 5091"}
+,{"nazwa":"Smukalska \/ B&#322;&#261;dzimska","numery":"2002 2003"}
+,{"nazwa":"Smukalska \/ Sanktuarium","numery":"5087 5088"}
+,{"nazwa":"Smuka&#322;a","numery":"5001"}
+,{"nazwa":"Solskiego \/ Bielicka","numery":"9037 9036"}
+,{"nazwa":"Solskiego \/ Kossaka","numery":"9035 9034"}
+,{"nazwa":"Solskiego \/ Ugory","numery":"9039 9038"}
+,{"nazwa":"Spi&#380;owa \/ O&#322;owiana","numery":"5063"}
+,{"nazwa":"Spokojna","numery":"99096"}
+,{"nazwa":"Sporna \/ Toru&#324;ska","numery":"12086"}
+,{"nazwa":"Sp&oacute;&#322;dzielcza","numery":"12070"}
+,{"nazwa":"Srebrna \/ Spi&#380;owa","numery":"5062 5061"}
+,{"nazwa":"Srebrna \/ Stalowa","numery":"5060 5059"}
+,{"nazwa":"Stadion Zawisza","numery":"1024 1025"}
+,{"nazwa":"Stawowa \/ 16 Pu&#322;ku U&#322;.Wlkp.","numery":"9063"}
+,{"nazwa":"Stawowa \/ W&#322;adys&#322;awa IV","numery":"9059 9060"}
+,{"nazwa":"Stomil","numery":"12025 12026 12027 12075"}
+,{"nazwa":"Stroma \/ Kossaka","numery":"9030 9031"}
+,{"nazwa":"Stroma \/ Orla","numery":"9070 9069"}
+,{"nazwa":"Strzelce Dolne II","numery":"13131 13158"}
+,{"nazwa":"Strzelce Dolne III","numery":"13132 13157"}
+,{"nazwa":"Strzelce G&oacute;rne \/ Diamentowa","numery":"13127"}
+,{"nazwa":"Strzelce G&oacute;rne \/ G&#261;decka","numery":"13160 13161"}
+,{"nazwa":"Strzelce G&oacute;rne \/ Go&#322;&#281;bia","numery":"13130 13159"}
+,{"nazwa":"Strzelce G&oacute;rne \/ Jaworowa","numery":"13146 13147"}
+,{"nazwa":"Strzelce G&oacute;rne \/ Szkolna","numery":"13129"}
+,{"nazwa":"Strzelce G&oacute;rne \/ Wilcza","numery":"13128"}
+,{"nazwa":"Su&#322;kowskiego \/ Czerkaska","numery":"1034 1033"}
+,{"nazwa":"Su&#322;kowskiego \/ Kamienna","numery":"1047 1048"}
+,{"nazwa":"Szarych Szereg&oacute;w","numery":"11011 11010 11012 11009"}
+,{"nazwa":"Szpitalna \/ &#321;om&#380;y&#324;ska","numery":"11018 11019 11046 11050"}
+,{"nazwa":"Szpitalna \/ Solna","numery":"11020 11021 99105 99108"}
+,{"nazwa":"Szubi&#324;ska \/ Gnie&#378;nie&#324;ska","numery":"9009 9008"}
+,{"nazwa":"Szubi&#324;ska \/ Pi&#281;kna","numery":"9005 9006"}
+,{"nazwa":"Szubi&#324;ska \/ &#379;wirki i Wigury","numery":"9011 9010 9056"}
+,{"nazwa":"&#346;niadeckich \/ Gda&#324;ska","numery":"3055"}
+,{"nazwa":"&#346;niadeckich \/ Sienkiewicza","numery":"2080"}
+,{"nazwa":"&#346;wietlicowa","numery":"12071"}
+,{"nazwa":"Tatrza&#324;skie","numery":"8014 8015 8070 8013 98070 98015 98014"}
+,{"nazwa":"Tor Regatowy","numery":"7021 7020"}
+,{"nazwa":"Toru&#324;ska \/ Filmowa","numery":"12001 12002"}
+,{"nazwa":"Toru&#324;ska \/ Hala","numery":"10030 10029"}
+,{"nazwa":"Toru&#324;ska \/ Kazimierza Wielkiego","numery":"12003 12004 12005"}
+,{"nazwa":"Toru&#324;ska \/ Kielecka","numery":"12017 12018 12019 12020"}
+,{"nazwa":"Toru&#324;ska \/ &#321;uczniczki","numery":"11044 11048"}
+,{"nazwa":"Toru&#324;ska \/ Per&#322;owa","numery":"11042 11041 11043"}
+,{"nazwa":"Toru&#324;ska \/ Przy&#322;ubska","numery":"12057 12056"}
+,{"nazwa":"Toru&#324;ska \/ R&oacute;wna","numery":"12013 12014 12015 12016"}
+,{"nazwa":"Toru&#324;ska \/ Spokojna","numery":"11080"}
+,{"nazwa":"Toru&#324;ska \/ Sporna","numery":"12021 12022 12087"}
+,{"nazwa":"Toru&#324;ska \/ Stomil (brama)","numery":"12023 12024 12092 12093"}
+,{"nazwa":"Toru&#324;ska \/ Tor awaryjny","numery":"12011 12012"}
+,{"nazwa":"Toru&#324;ska \/ Wie&#380;a Ci&#347;nie&#324;","numery":"12059 12058"}
+,{"nazwa":"Toru&#324;ska \/ Wypaleniska","numery":"12055 12054"}
+,{"nazwa":"Toru&#324;ska \/ Zajezdnia Tramwajowa","numery":"12007 12008 12009 12010"}
+,{"nazwa":"Toru&#324;ska \/ &#379;upy","numery":"10028 10027 10085 10086"}
+,{"nazwa":"Trybowskiego \/ Jasiniecka","numery":"8148"}
+,{"nazwa":"Trybowskiego \/ Majtkowskiego","numery":"8149 8152"}
+,{"nazwa":"Trybowskiego \/ Matki Teresy z Kalkuty","numery":"8150 8151"}
+,{"nazwa":"Trzciniec \/ Sarnia","numery":"13135 13134"}
+,{"nazwa":"Trz&#281;sacz I","numery":"13168 13169"}
+,{"nazwa":"Trz&#281;sacz II","numery":"13170 13171"}
+,{"nazwa":"Twardzickiego \/ Kleina","numery":"8036 8037"}
+,{"nazwa":"Twardzickiego \/ &#321;ochowskiego","numery":"8038 8039"}
+,{"nazwa":"Twardzickiego \/ Przybory","numery":"8030 8031"}
+,{"nazwa":"Twardzickiego \/ Thommee","numery":"8034 8035"}
+,{"nazwa":"Twardzickiego \/ Witosa","numery":"8032 8033"}
+,{"nazwa":"Ugory \/ Nowodworska","numery":"9066 9065"}
+,{"nazwa":"Ugory \/ Solskiego","numery":"9064"}
+,{"nazwa":"UKW","numery":"3053 3054 3047 3048"}
+,{"nazwa":"Warszawska \/ Fredry","numery":"2047"}
+,{"nazwa":"W&#261;brzeska","numery":"10075"}
+,{"nazwa":"Wiejska \/ Chojnicka","numery":"5031 5032"}
+,{"nazwa":"Wiejska \/ Deszczowa","numery":"5030"}
+,{"nazwa":"Wiejska \/ Kraje&#324;ska","numery":"5033"}
+,{"nazwa":"Wi&#281;cka \/ &#321;owicka","numery":"7049 7056"}
+,{"nazwa":"Wilczak","numery":"6018 6017 6040 6041"}
+,{"nazwa":"Wilcze \/ Gdy&#324;ska","numery":"13148"}
+,{"nazwa":"Wilcze \/ Krakowska","numery":"13140 13141"}
+,{"nazwa":"Witebska \/ Gazbud","numery":"7062 7061"}
+,{"nazwa":"Witebska \/ Wschodnia","numery":"7022 7023"}
+,{"nazwa":"W&#322;adys&#322;awa IV \/ Czerwonego Krzy&#380;a","numery":"9025 9024"}
+,{"nazwa":"W&#322;adys&#322;awa IV \/ Stawowa","numery":"9023 9022"}
+,{"nazwa":"W&#322;&oacute;ki","numery":"13166 13167"}
+,{"nazwa":"Wojska Polskiego \/ Dziatkiewicza","numery":"11070 11071"}
+,{"nazwa":"Wojska Polskiego \/ Hechli&#324;skiego","numery":"11068 11069"}
+,{"nazwa":"Wojska Polskiego \/ Petersona","numery":"11072 11073"}
+,{"nazwa":"Wojska Polskiego \/ Baczy&#324;skiego","numery":"11031 11032 11033 11034"}
+,{"nazwa":"Wojska Polskiego \/ Ku Wiatrakom","numery":"10052 10051"}
+,{"nazwa":"Wojska Polskiego \/ Prezydenta Lecha Kaczy&#324;skiego","numery":"11027 11028"}
+,{"nazwa":"Wojska Polskiego \/ Szarych Szereg&oacute;w","numery":"11007 11008"}
+,{"nazwa":"Wojska Polskiego \/ Ujejskiego","numery":"10038 10039 10037 10036"}
+,{"nazwa":"Wojska Polskiego \/ K&#322;adka","numery":"10044 10043 10041 10042"}
+,{"nazwa":"Wulffa \/ Eberhardta","numery":"11074 11075"}
+,{"nazwa":"Wysoka \/ Koszarowa","numery":"9061"}
+,{"nazwa":"Wyszogrodzka \/ Opalowa","numery":"7045 7046"}
+,{"nazwa":"Wyszy&#324;skiego \/ Powsta&#324;c&oacute;w Wielkopolskich","numery":"4065"}
+,{"nazwa":"Wy&#347;cigowa","numery":"4048 4047"}
+,{"nazwa":"Wyzwolenia \/ Brzegowa","numery":"8141 8158"}
+,{"nazwa":"Wyzwolenia \/ Derdowskiego","numery":"8007 8008"}
+,{"nazwa":"Wyzwolenia \/ Geodet&oacute;w","numery":"8135 8142"}
+,{"nazwa":"Wyzwolenia \/ Komisariat","numery":"8011 8012"}
+,{"nazwa":"Wyzwolenia \/ Styki","numery":"7039 7040"}
+,{"nazwa":"Wyzwolenia \/ Swobodna","numery":"8002 8001"}
+,{"nazwa":"Wy&#380;yny","numery":"10048 10047 10046 10045"}
+,{"nazwa":"Wzg&oacute;rze Wolno&#347;ci","numery":"10035 10034 10032 10031 10077"}
+,{"nazwa":"Zajezdnia Tramwajowa","numery":"80002"}
+,{"nazwa":"Zamczysko (p&#281;tla)","numery":"8161"}
+,{"nazwa":"Zamczysko \/ Armii Krajowej","numery":"1014"}
+,{"nazwa":"Zamczysko \/ Gda&#324;ska","numery":"1015 1016"}
+,{"nazwa":"Za&#347;wiat \/ Artyleryjska","numery":"2024 2023"}
+,{"nazwa":"Za&#347;wiat \/ Cmentarz","numery":"2026 2025"}
+,{"nazwa":"Zbo&#380;owy Rynek","numery":"10063 10001 10002 10078 10081 10082"}
+,{"nazwa":"Zielonka \/ Bocianowo","numery":"13042"}
+,{"nazwa":"Zielonka \/ Orzechowa","numery":"13043 13044"}
+,{"nazwa":"&#379;eglarska \/ Ludwikowo","numery":"2015 2014"}
+,{"nazwa":"&#379;o&#322;&#281;dowo \/ Augustowska","numery":"13086"}
+,{"nazwa":"&#379;o&#322;&#281;dowo \/ Koronowska","numery":"13080 13081 13093"}
+,{"nazwa":"&#379;o&#322;&#281;dowo \/ Przyjazna","numery":"13084 13085"}
+,{"nazwa":"&#379;o&#322;&#281;dowo \/ Szko&#322;a","numery":"13082 13083"}
+,{"nazwa":"&#379;o&#322;&#281;dowo \/ Tulipanowa","numery":"13185 13186"}
+,{"nazwa":"&#379;wirki i Wigury \/ Jask&oacute;&#322;cza","numery":"9042 9043"}]

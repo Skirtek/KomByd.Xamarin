@@ -1,0 +1,1982 @@
+[
+    {
+        "nazwa": "3 Maja \/ Markwarta",
+        "kierunki": "52 -> B&#322;onie 59 -> B&#322;onie 60 -> B&#322;onie 64 -> Barwna 33N -> Piaski"
+    },
+    {
+        "nazwa": "Akademicka \/ Igrzyskowa",
+        "kierunki": "81 -> Skandynawska / Ikea 82 -> Zamczysko (p&#281;tla) 31N -> Dworzec Le&#347;ne#81 -> Tatrza&#324;skie 82 -> Tatrza&#324;skie 31N -> &#321;osko&#324; / Zajezdnia#3 -> &#321;osko&#324; 5 -> &#321;osko&#324; 7 -> Niepodleg&#322;o&#347;ci (p&#281;tla) 10 -> Niepodleg&#322;o&#347;ci (p&#281;tla)#3 -> Wilczak 5 -> Rycerska 7 -> Zajezdnia Tramwajowa 10 -> Las Gda&#324;ski"
+    },
+    {
+        "nazwa": "Akademicka \/ Kaliskiego (UTP)",
+        "kierunki": "81 -> Tatrza&#324;skie 82 -> Tatrza&#324;skie 31N -> &#321;osko&#324; / Zajezdnia#81 -> Skandynawska / Ikea 82 -> Zamczysko (p&#281;tla) 83 -> Tatrza&#324;skie 89 -> Tatrza&#324;skie 31N -> Dworzec Le&#347;ne 32N -> Tatrza&#324;skie#3 -> &#321;osko&#324; 5 -> &#321;osko&#324; 7 -> Niepodleg&#322;o&#347;ci (p&#281;tla) 10 -> Niepodleg&#322;o&#347;ci (p&#281;tla)#3 -> Wilczak 5 -> Rycerska 7 -> Zajezdnia Tramwajowa 10 -> Las Gda&#324;ski"
+    },
+    {
+        "nazwa": "Akademicka \/ Rejewskiego",
+        "kierunki": "3 -> &#321;osko&#324; 5 -> &#321;osko&#324; 7 -> Niepodleg&#322;o&#347;ci (p&#281;tla) 10 -> Niepodleg&#322;o&#347;ci (p&#281;tla)#3 -> Wilczak 5 -> Rycerska 7 -> Zajezdnia Tramwajowa 10 -> Las Gda&#324;ski"
+    },
+    {
+        "nazwa": "Akademicka \/ Romanowskiej",
+        "kierunki": "69 -> Tatrza&#324;skie 81 -> Tatrza&#324;skie#81 -> Centrum Onkologii#3 -> &#321;osko&#324; 5 -> &#321;osko&#324; 7 -> Niepodleg&#322;o&#347;ci (p&#281;tla) 10 -> Niepodleg&#322;o&#347;ci (p&#281;tla)#3 -> Wilczak 5 -> Rycerska 7 -> Zajezdnia Tramwajowa 10 -> Las Gda&#324;ski"
+    },
+    {
+        "nazwa": "Aleja &#379;o&#322;nierzy Wykl&#281;tych \/ Ciele",
+        "kierunki": "96 -> B&#322;onie"
+    },
+    {
+        "nazwa": "Andersa \/ Gieryna",
+        "kierunki": "3 -> &#321;osko&#324; 5 -> &#321;osko&#324; 7 -> &#321;osko&#324; 10 -> &#321;osko&#324; #3 -> Wilczak 5 -> Rycerska 7 -> Zajezdnia Tramwajowa 10 -> Las Gda&#324;ski"
+    },
+    {
+        "nazwa": "Andersa \/ Kasztela&#324;ska",
+        "kierunki": "31N -> Dworzec Le&#347;ne#31N -> &#321;osko&#324; / Zajezdnia"
+    },
+    {
+        "nazwa": "Andersa \/ Kleeberga",
+        "kierunki": "81 -> Skandynawska / Ikea 82 -> Zamczysko (p&#281;tla) 31N -> Dworzec Le&#347;ne#31N -> &#321;osko&#324; / Zajezdnia#3 -> &#321;osko&#324; 5 -> &#321;osko&#324; 7 -> Niepodleg&#322;o&#347;ci (p&#281;tla) 10 -> Niepodleg&#322;o&#347;ci (p&#281;tla)#3 -> Wilczak 5 -> Rycerska 7 -> Zajezdnia Tramwajowa 10 -> Las Gda&#324;ski"
+    },
+    {
+        "nazwa": "Andersa \/ Wolna",
+        "kierunki": "3 -> &#321;osko&#324; 5 -> &#321;osko&#324; 7 -> Niepodleg&#322;o&#347;ci (p&#281;tla) 10 -> Niepodleg&#322;o&#347;ci (p&#281;tla)#3 -> Wilczak 5 -> Rycerska 7 -> Zajezdnia Tramwajowa 10 -> Las Gda&#324;ski#31N -> Dworzec Le&#347;ne#31N -> &#321;osko&#324; / Zajezdnia"
+    },
+    {
+        "nazwa": "Armii Krajowej \/ Je&#378;dziecka",
+        "kierunki": "52 -> B&#322;onie"
+    },
+    {
+        "nazwa": "Armii Krajowej \/ Zamczysko",
+        "kierunki": "52 -> Podkowa"
+    },
+    {
+        "nazwa": "Artyleryjska \/ Za&#347;wiat",
+        "kierunki": "83 -> Tatrza&#324;skie#83 -> Czy&#380;k&oacute;wko"
+    },
+    {
+        "nazwa": "Babia Wie&#347;",
+        "kierunki": "2 -> Las Gda&#324;ski 4 -> Bielawy#2 -> Babia Wie&#347; 4 -> Babia Wie&#347;#36N -> &#321;&#281;gnowo# 36N -> Lisia"
+    },
+    {
+        "nazwa": "Baczy&#324;skiego \/ Sandomierska",
+        "kierunki": "53 -> &#321;ukasiewicza"
+    },
+    {
+        "nazwa": "Baczy&#324;skiego \/ Wojska Polskiego",
+        "kierunki": "53 -> &#321;ukasiewicza"
+    },
+    {
+        "nazwa": "Bajka",
+        "kierunki": "31N -> Dworzec Le&#347;ne#31N -> &#321;osko&#324; / Zajezdnia#74 -> Wy&#347;cigowa 81 -> Tatrza&#324;skie 82 -> Tatrza&#324;skie#3 -> &#321;osko&#324; 5 -> &#321;osko&#324; 7 -> Niepodleg&#322;o&#347;ci (p&#281;tla) 10 -> Niepodleg&#322;o&#347;ci (p&#281;tla)#3 -> Wilczak 5 -> Rycerska 7 -> Zajezdnia Tramwajowa 10 -> Las Gda&#324;ski#74 -> Tatrza&#324;skie 81 -> Skandynawska / Ikea 82 -> Zamczysko (p&#281;tla)"
+    },
+    {
+        "nazwa": "Ba&#322;tycka \/ G&#322;owackiego",
+        "kierunki": "60 -> Morska#60 -> B&#322;onie"
+    },
+    {
+        "nazwa": "Ba&#322;tycka \/ Sk&#322;odowskiej-Curie",
+        "kierunki": "60 -> Morska 33N -> Piaski"
+    },
+    {
+        "nazwa": "Barwna",
+        "kierunki": "64 -> Przemys&#322;owa#64 -> Barwna"
+    },
+    {
+        "nazwa": "Belma",
+        "kierunki": "56 -> Glinki BFM 62 -> Garbary 36N -> Plac Ko&#347;cieleckich"
+    },
+    {
+        "nazwa": "Be&#322;zy \/ Spokojna",
+        "kierunki": "ZaT4 -> Glinki ZaT8 -> Kapu&#347;ciska"
+    },
+    {
+        "nazwa": "Be&#322;zy \/ Szarych Szereg&oacute;w",
+        "kierunki": "ZaT4 -> Rondo Toru&#324;skie (Be&#322;zy) ZaT8 -> Rondo Toru&#324;skie (Be&#322;zy)#ZaT4 -> Glinki ZaT8 -> Kapu&#347;ciska"
+    },
+    {
+        "nazwa": "Bia&#322;e B&#322;ota \/ Chlebowa",
+        "kierunki": "91 -> Przy&#322;&#281;ki#91 -> B&#322;onie"
+    },
+    {
+        "nazwa": "Bia&#322;e B&#322;ota \/ Czekoladowa",
+        "kierunki": "91 -> B&#322;onie"
+    },
+    {
+        "nazwa": "Bia&#322;e B&#322;ota \/ Czerska",
+        "kierunki": "91 -> Przy&#322;&#281;ki"
+    },
+    {
+        "nazwa": "Bia&#322;e B&#322;ota \/ Kapliczna",
+        "kierunki": "92 -> Murowaniec#92 -> B&#322;onie"
+    },
+    {
+        "nazwa": "Bia&#322;e B&#322;ota \/ Kruszy&#324;ska",
+        "kierunki": "91 -> Przy&#322;&#281;ki#91 -> B&#322;onie"
+    },
+    {
+        "nazwa": "Bia&#322;e B&#322;ota \/ Modra",
+        "kierunki": "91 -> Przy&#322;&#281;ki#91 -> B&#322;onie"
+    },
+    {
+        "nazwa": "Bia&#322;e B&#322;ota \/ Sosnowa",
+        "kierunki": "92 -> Murowaniec"
+    },
+    {
+        "nazwa": "Bia&#322;e B&#322;ota \/ Urz&#261;d Gminy",
+        "kierunki": "92 -> Murowaniec#92 -> B&#322;onie"
+    },
+    {
+        "nazwa": "Bielawy",
+        "kierunki": "4 -> Babia Wie&#347;#6 -> &#321;&#281;gnowo"
+    },
+    {
+        "nazwa": "Bielicka \/ Solskiego",
+        "kierunki": "36N -> Lisia"
+    },
+    {
+        "nazwa": "B&#322;onie",
+        "kierunki": "69 -> Tatrza&#324;skie 89 -> Tatrza&#324;skie#54 -> Piaski#59 -> Kapu&#347;ciska 60 -> Morska#91 -> Przy&#322;&#281;ki 92 -> Murowaniec 96 -> Przy&#322;&#281;ki#57 -> Dworzec G&#322;&oacute;wny 32N -> Dworzec B&#322;onie#69 -> B&#322;onie#52 -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Bora-Komorowskiego \/ Braci Ba&#380;a&#324;skich",
+        "kierunki": "65 -> Dworzec Le&#347;ne 81 -> Skandynawska / Ikea 31N -> Dworzec Le&#347;ne#65 -> &#321;osko&#324; / Zajezdnia 81 -> Tatrza&#324;skie 31N -> &#321;osko&#324; / Zajezdnia"
+    },
+    {
+        "nazwa": "Bora-Komorowskiego \/ Gieryna",
+        "kierunki": "65 -> Dworzec Le&#347;ne 81 -> Skandynawska / Ikea 31N -> Dworzec Le&#347;ne#65 -> &#321;osko&#324; / Zajezdnia 81 -> Tatrza&#324;skie 31N -> &#321;osko&#324; / Zajezdnia"
+    },
+    {
+        "nazwa": "Bora-Komorowskiego \/ Kiedrowskiego",
+        "kierunki": "65 -> Dworzec Le&#347;ne 81 -> Skandynawska / Ikea 31N -> Dworzec Le&#347;ne#65 -> &#321;osko&#324; / Zajezdnia 81 -> Tatrza&#324;skie 31N -> &#321;osko&#324; / Zajezdnia"
+    },
+    {
+        "nazwa": "Bo&#380;enkowo \/ Bo&#380;enkowska",
+        "kierunki": "98 -> Przylesie#98 -> Przylesie"
+    },
+    {
+        "nazwa": "Bo&#380;enkowo \/ Harcerska",
+        "kierunki": "98 -> Przylesie"
+    },
+    {
+        "nazwa": "Bo&#380;enkowo \/ Osiedlowa",
+        "kierunki": "98 -> Przylesie"
+    },
+    {
+        "nazwa": "Brdyuj&#347;cie",
+        "kierunki": "74 -> Tatrza&#324;skie 33N -> Tatrza&#324;skie#74 -> Wy&#347;cigowa 33N -> Piaski"
+    },
+    {
+        "nazwa": "Brzechwy \/ Szafirowa",
+        "kierunki": "74 -> Wy&#347;cigowa 81 -> Tatrza&#324;skie 82 -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Brzechwy \/ Szelburg-Zarembiny",
+        "kierunki": "74 -> Wy&#347;cigowa 81 -> Tatrza&#324;skie 82 -> Tatrza&#324;skie#74 -> Tatrza&#324;skie 81 -> Skandynawska / Ikea 82 -> Zamczysko (p&#281;tla)"
+    },
+    {
+        "nazwa": "Brzozowa \/ Bielicka",
+        "kierunki": "64 -> Przemys&#322;owa 69 -> Tatrza&#324;skie 89 -> Tatrza&#324;skie 32N -> Tatrza&#324;skie#64 -> Barwna 69 -> B&#322;onie 89 -> B&#322;onie 32N -> Dworzec B&#322;onie"
+    },
+    {
+        "nazwa": "Brzozowa \/ Jesionowa",
+        "kierunki": "64 -> Przemys&#322;owa 69 -> Tatrza&#324;skie 89 -> Tatrza&#324;skie 32N -> Tatrza&#324;skie#64 -> Barwna 69 -> B&#322;onie 89 -> B&#322;onie 32N -> Dworzec B&#322;onie"
+    },
+    {
+        "nazwa": "Centrum Onkologii",
+        "kierunki": "69 -> Tatrza&#324;skie 81 -> Tatrza&#324;skie 31N -> &#321;osko&#324; / Zajezdnia#69 -> B&#322;onie 81 -> Skandynawska / Ikea 31N -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Chemiczna \/ Dachtery",
+        "kierunki": "73 -> Kapu&#347;ciska 31N -> Dworzec Le&#347;ne#73 -> Eskulapa"
+    },
+    {
+        "nazwa": "Chemiczna \/ Energetyczna",
+        "kierunki": "73 -> Kapu&#347;ciska#73 -> Eskulapa"
+    },
+    {
+        "nazwa": "Chemiczna \/ Eurogaz",
+        "kierunki": "73 -> Eskulapa#73 -> Kapu&#347;ciska"
+    },
+    {
+        "nazwa": "Chemiczna \/ Ogrodnictwo",
+        "kierunki": "61 -> Rekinowa 73 -> Kapu&#347;ciska 73 -> Eskulapa#61 -> Mokra 73 -> Kapu&#347;ciska 73 -> Eskulapa"
+    },
+    {
+        "nazwa": "Chemiczna \/ Szczerby",
+        "kierunki": "73 -> Kapu&#347;ciska#73 -> Eskulapa"
+    },
+    {
+        "nazwa": "Chodkiewicza \/ Gda&#324;ska",
+        "kierunki": "4 -> Babia Wie&#347; 6 -> &#321;&#281;gnowo"
+    },
+    {
+        "nazwa": "Chodkiewicza \/ Lelewela",
+        "kierunki": "4 -> Bielawy 6 -> Bielawy#4 -> Babia Wie&#347; 6 -> &#321;&#281;gnowo"
+    },
+    {
+        "nazwa": "Chodkiewicza \/ Paderewskiego",
+        "kierunki": "4 -> Bielawy 6 -> Bielawy#4 -> Babia Wie&#347; 6 -> &#321;&#281;gnowo"
+    },
+    {
+        "nazwa": "Ciele \/ Ko&#347;cielna",
+        "kierunki": "91 -> Przy&#322;&#281;ki 96 -> Przy&#322;&#281;ki#91 -> B&#322;onie 96 -> B&#322;onie 96 -> Przy&#322;&#281;ki"
+    },
+    {
+        "nazwa": "Ciele \/ Makowa",
+        "kierunki": "91 -> B&#322;onie 91 -> Przy&#322;&#281;ki 96 -> B&#322;onie 96 -> Przy&#322;&#281;ki#91 -> B&#322;onie 91 -> Przy&#322;&#281;ki 96 -> B&#322;onie 96 -> Przy&#322;&#281;ki"
+    },
+    {
+        "nazwa": "Ciele \/ Ogrody",
+        "kierunki": "91 -> B&#322;onie 91 -> Przy&#322;&#281;ki 96 -> B&#322;onie 96 -> Przy&#322;&#281;ki#91 -> B&#322;onie 91 -> Przy&#322;&#281;ki 96 -> B&#322;onie 96 -> Przy&#322;&#281;ki"
+    },
+    {
+        "nazwa": "Ciele \/ Pogodna",
+        "kierunki": "91 -> B&#322;onie 91 -> Przy&#322;&#281;ki 96 -> B&#322;onie 96 -> Przy&#322;&#281;ki#91 -> B&#322;onie 91 -> Przy&#322;&#281;ki 96 -> B&#322;onie 96 -> Przy&#322;&#281;ki"
+    },
+    {
+        "nazwa": "Ciele \/ &#377;r&oacute;dlana",
+        "kierunki": "91 -> B&#322;onie 96 -> B&#322;onie#91 -> Przy&#322;&#281;ki 96 -> Przy&#322;&#281;ki"
+    },
+    {
+        "nazwa": "Cmentarna \/ Dobrzy&#324;ska",
+        "kierunki": "66 -> Rondo Jagiellon&oacute;w#66 -> Rondo Jagiellon&oacute;w"
+    },
+    {
+        "nazwa": "Cmentarna \/ Glinki",
+        "kierunki": "66 -> Rondo Jagiellon&oacute;w#66 -> Rondo Jagiellon&oacute;w"
+    },
+    {
+        "nazwa": "Cmentarna \/ Gniewkowska",
+        "kierunki": "66 -> Rondo Jagiellon&oacute;w#66 -> Rondo Jagiellon&oacute;w"
+    },
+    {
+        "nazwa": "Czarn&oacute;wczyn",
+        "kierunki": "98 -> Przylesie#98 -> Przylesie"
+    },
+    {
+        "nazwa": "Czerkaska \/ Gda&#324;ska",
+        "kierunki": "57 -> B&#322;onie 80 -> Port Lotniczy (Airport) 31N -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Czerkaska \/ Su&#322;kowskiego",
+        "kierunki": "57 -> Dworzec G&#322;&oacute;wny 80 -> Dworzec G&#322;&oacute;wny #57 -> B&#322;onie 80 -> Port Lotniczy (Airport)"
+    },
+    {
+        "nazwa": "Czy&#380;k&oacute;wko",
+        "kierunki": "51 -> Plac Ko&#347;cieleckich 83 -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Dachtery \/ Chemiczna",
+        "kierunki": "31N -> &#321;osko&#324; / Zajezdnia"
+    },
+    {
+        "nazwa": "Deszczowa \/ Wichrowa",
+        "kierunki": "51 -> Plac Ko&#347;cieleckich 83 -> Tatrza&#324;skie#51 -> Czy&#380;k&oacute;wko 83 -> Czy&#380;k&oacute;wko"
+    },
+    {
+        "nazwa": "Deszczowa \/ Wiejska",
+        "kierunki": "51 -> Czy&#380;k&oacute;wko 83 -> Czy&#380;k&oacute;wko"
+    },
+    {
+        "nazwa": "Drzewce",
+        "kierunki": "92 -> &#321;ochowo#92 -> B&#322;onie"
+    },
+    {
+        "nazwa": "Dworcowa \/ Matejki",
+        "kierunki": "1 -> Rycerska 5 -> Rycerska 8 -> Rycerska# 1 -> Las Gda&#324;ski 5 -> &#321;osko&#324; 8 -> Zajezdnia Tramwajowa"
+    },
+    {
+        "nazwa": "Dworzec Akademia",
+        "kierunki": "65 -> Dworzec Le&#347;ne 83 -> Czy&#380;k&oacute;wko 89 -> B&#322;onie#65 -> Nad Wis&#322;&#261;"
+    },
+    {
+        "nazwa": "Dworzec Autobusowy",
+        "kierunki": "2 -> Babia Wie&#347; 3 -> &#321;osko&#324; 4 -> Babia Wie&#347; 5 -> &#321;osko&#324; 6 -> &#321;&#281;gnowo 8 -> Zajezdnia Tramwajowa 10 -> Niepodleg&#322;o&#347;ci (p&#281;tla)#3 -> Wilczak 4 -> Bielawy 5 -> Rycerska 6 -> Bielawy 8 -> Rycerska 10 -> Las Gda&#324;ski#32N -> Tatrza&#324;skie#80 -> Port Lotniczy (Airport)  32N -> Dworzec B&#322;onie#57 -> Dworzec G&#322;&oacute;wny 80 -> Dworzec G&#322;&oacute;wny#57 -> B&#322;onie"
+    },
+    {
+        "nazwa": "Dworzec Bielawy",
+        "kierunki": "83 -> Tatrza&#324;skie#83 -> Czy&#380;k&oacute;wko"
+    },
+    {
+        "nazwa": "Dworzec B&#322;onie",
+        "kierunki": "53 -> &#321;ukasiewicza 32N -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Dworzec Fordon",
+        "kierunki": "81 -> Skandynawska / Ikea 82 -> Zamczysko (p&#281;tla) 33N -> Piaski#81 -> Tatrza&#324;skie 82 -> Tatrza&#324;skie#65 -> Nad Wis&#322;&#261; 74 -> Tatrza&#324;skie#65 -> Dworzec Le&#347;ne 74 -> Wy&#347;cigowa"
+    },
+    {
+        "nazwa": "Dworzec G&#322;&oacute;wny",
+        "kierunki": "54 -> B&#322;onie 71 -> Rekinowa 77 -> Niklowa 79 -> Glinki 31N -> Dworzec Le&#347;ne#54 -> Piaski 33N -> Piaski#57 -> B&#322;onie 67 -> Sk&#322;odowskiej-Curie / &#321;&#281;czycka 80 -> Port Lotniczy (Airport) 31N -> &#321;osko&#324; / Zajezdnia 33N -> Tatrza&#324;skie#67 -> Rycerska 79 -> Rycerska#1 -> Las Gda&#324;ski 5 -> &#321;osko&#324; 8 -> Zajezdnia Tramwajowa# 1 -> Rycerska 5 -> Rycerska 8 -> Rycerska"
+    },
+    {
+        "nazwa": "Dworzec Le&#347;ne",
+        "kierunki": "52 -> Dworzec Le&#347;ne 65 -> Dworzec Le&#347;ne 68 -> Dworzec Le&#347;ne 93 -> Dworzec Le&#347;ne 94 -> Dworzec Le&#347;ne#52 -> B&#322;onie 93 -> Niwy 94 -> &#379;o&#322;&#281;dowo / Augustowska 31N -> &#321;osko&#324; / Zajezdnia#65 -> Nad Wis&#322;&#261; 68 -> Glinki BFM"
+    },
+    {
+        "nazwa": "Dworzec &#321;&#281;gnowo",
+        "kierunki": "73 -> Kapu&#347;ciska 36N -> &#321;&#281;gnowo#73 -> Eskulapa 36N -> Lisia"
+    },
+    {
+        "nazwa": "Dworzec Wsch&oacute;d",
+        "kierunki": "64 -> Przemys&#322;owa 65 -> Nad Wis&#322;&#261; 69 -> Tatrza&#324;skie 74 -> Tatrza&#324;skie 89 -> Tatrza&#324;skie 31N -> Dworzec Le&#347;ne 32N -> Tatrza&#324;skie 33N -> Tatrza&#324;skie#64 -> Barwna 65 -> Dworzec Le&#347;ne 69 -> B&#322;onie 74 -> Wy&#347;cigowa 89 -> B&#322;onie 32N -> Dworzec B&#322;onie 33N -> Piaski#83 -> Tatrza&#324;skie#73 -> Eskulapa 31N -> &#321;osko&#324; / Zajezdnia#83 -> Czy&#380;k&oacute;wko#3 -> &#321;osko&#324; 5 -> &#321;osko&#324; 7 -> Niepodleg&#322;o&#347;ci (p&#281;tla) 10 -> Niepodleg&#322;o&#347;ci (p&#281;tla)#3 -> Wilczak 5 -> Rycerska 7 -> Zajezdnia Tramwajowa 10 -> Las Gda&#324;ski"
+    },
+    {
+        "nazwa": "Dworzec Zach&oacute;d",
+        "kierunki": "77 -> Niklowa 35N -> Rekinowa#77 -> Morska 35N -> Plac Ko&#347;cieleckich"
+    },
+    {
+        "nazwa": "Eskulapa",
+        "kierunki": "73 -> Kapu&#347;ciska"
+    },
+    {
+        "nazwa": "Eurogaz",
+        "kierunki": "61 -> Mokra 61 -> Rekinowa"
+    },
+    {
+        "nazwa": "Flisacka \/ Grunwaldzka",
+        "kierunki": "77 -> Niklowa 35N -> Rekinowa"
+    },
+    {
+        "nazwa": "Focha \/ Opera",
+        "kierunki": "1 -> Las Gda&#324;ski 3 -> &#321;osko&#324; 5 -> &#321;osko&#324; 8 -> Zajezdnia Tramwajowa#1 -> Wilczak 3 -> Wilczak 5 -> Rycerska 8 -> Rycerska# 31N -> Dworzec Le&#347;ne 33N -> Piaski 34N -> Smuka&#322;a"
+    },
+    {
+        "nazwa": "Fordon Rynek",
+        "kierunki": "65 -> Dworzec Le&#347;ne 81 -> Skandynawska / Ikea 82 -> Zamczysko (p&#281;tla) 33N -> Piaski#65 -> Nad Wis&#322;&#261; 81 -> Tatrza&#324;skie 82 -> Tatrza&#324;skie 33N -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Fordo&#324;ska \/ Ba&#322;tycka",
+        "kierunki": "3 -> &#321;osko&#324; 5 -> &#321;osko&#324; 7 -> Niepodleg&#322;o&#347;ci (p&#281;tla) 10 -> Niepodleg&#322;o&#347;ci (p&#281;tla)#3 -> Wilczak 5 -> Rycerska 7 -> Zajezdnia Tramwajowa 10 -> Las Gda&#324;ski#65 -> Nad Wis&#322;&#261; 32N -> Tatrza&#324;skie#65 -> Dworzec Le&#347;ne 32N -> Dworzec B&#322;onie"
+    },
+    {
+        "nazwa": "Fordo&#324;ska \/ Fabryczna",
+        "kierunki": "3 -> &#321;osko&#324; 5 -> &#321;osko&#324; 7 -> Niepodleg&#322;o&#347;ci (p&#281;tla) 10 -> Niepodleg&#322;o&#347;ci (p&#281;tla)#3 -> Wilczak 5 -> Rycerska 7 -> Zajezdnia Tramwajowa 10 -> Las Gda&#324;ski#64 -> Przemys&#322;owa 65 -> Nad Wis&#322;&#261; 69 -> Tatrza&#324;skie 89 -> Tatrza&#324;skie 32N -> Tatrza&#324;skie 33N -> Tatrza&#324;skie# 64 -> Barwna 65 -> Dworzec Le&#347;ne 69 -> B&#322;onie 89 -> B&#322;onie 32N -> Dworzec B&#322;onie 33N -> Piaski"
+    },
+    {
+        "nazwa": "Fordo&#324;ska \/ Gajowa",
+        "kierunki": "65 -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Fordo&#324;ska \/ Kapliczna",
+        "kierunki": "65 -> Nad Wis&#322;&#261; 74 -> Tatrza&#324;skie#65 -> Dworzec Le&#347;ne 74 -> Wy&#347;cigowa"
+    },
+    {
+        "nazwa": "Fordo&#324;ska \/ &#321;owicka",
+        "kierunki": "65 -> Nad Wis&#322;&#261; 83 -> Tatrza&#324;skie 89 -> Tatrza&#324;skie 32N -> Tatrza&#324;skie#65 -> Dworzec Le&#347;ne 83 -> Czy&#380;k&oacute;wko 89 -> B&#322;onie 32N -> Dworzec B&#322;onie"
+    },
+    {
+        "nazwa": "Fordo&#324;ska \/ Sochaczewska",
+        "kierunki": "65 -> Dworzec Le&#347;ne 69 -> B&#322;onie 73 -> Kapu&#347;ciska 74 -> Wy&#347;cigowa 83 -> Czy&#380;k&oacute;wko 89 -> B&#322;onie 31N -> Dworzec Le&#347;ne 32N -> Dworzec B&#322;onie 33N -> Piaski#65 -> Nad Wis&#322;&#261; 69 -> Tatrza&#324;skie 73 -> Eskulapa 74 -> Tatrza&#324;skie 83 -> Tatrza&#324;skie 89 -> Tatrza&#324;skie 31N -> &#321;osko&#324; / Zajezdnia 32N -> Tatrza&#324;skie 33N -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Fordo&#324;ska \/ Szajnochy",
+        "kierunki": "64 -> Barwna 65 -> Dworzec Le&#347;ne 69 -> B&#322;onie 89 -> B&#322;onie 32N -> Dworzec B&#322;onie 33N -> Piaski"
+    },
+    {
+        "nazwa": "Fordo&#324;ska \/ Traktorzyst&oacute;w",
+        "kierunki": "65 -> Dworzec Le&#347;ne 83 -> Czy&#380;k&oacute;wko 89 -> B&#322;onie 32N -> Dworec B&#322;onie#65 -> Nad Wis&#322;&#261; 83 -> Tatrza&#324;skie 89 -> Tatrza&#324;skie 32N -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Fordo&#324;ska \/ Wiadukt",
+        "kierunki": "65 -> Dworzec Le&#347;ne 81 -> Skandynawska / Ikea 82 -> Zamczysko (p&#281;tla) 33N -> Piaski#65 -> Nad Wis&#322;&#261; 81 -> Tatrza&#324;skie 82 -> Tatrza&#324;skie 33N -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Fordo&#324;ska \/ Wi&#347;lana",
+        "kierunki": "65 -> Dworzec Le&#347;ne 69 -> B&#322;onie 73 -> Kapu&#347;ciska 74 -> Wy&#347;cigowa 83 -> Czy&#380;k&oacute;wko 89 -> B&#322;onie 31N -> Dworzec Le&#347;ne 32N -> Dworzec B&#322;onie 33N -> Piaski#65 -> Nad Wis&#322;&#261; 69 -> Tatrza&#324;skie 73 -> Eskulapa 74 -> Tatrza&#324;skie 83 -> Tatrza&#324;skie 89 -> Tatrza&#324;skie 31N -> &#321;osko&#324; / Zajezdnia 32N -> Tatrza&#324;skie 33N -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Fordo&#324;ska \/ Wyszogrodzka",
+        "kierunki": "65 -> Nad Wis&#322;&#261; 74 -> Tatrza&#324;skie 33N -> Tatrza&#324;skie#65 -> Dworzec Le&#347;ne 74 -> Wy&#347;cigowa 33N -> Piaski"
+    },
+    {
+        "nazwa": "Fordo&#324;ska \/ Wy&#347;cigowa",
+        "kierunki": "3 -> &#321;osko&#324; 5 -> &#321;osko&#324; 7 -> Niepodleg&#322;o&#347;ci (p&#281;tla) 10 -> Niepodleg&#322;o&#347;ci (p&#281;tla)#64 -> Przemys&#322;owa 65 -> Nad Wis&#322;&#261; 69 -> Tatrza&#324;skie 74 -> Tatrza&#324;skie 89 -> Tatrza&#324;skie 32N -> Tatrza&#324;skie 33N -> Tatrza&#324;skie#64 -> Barwna 65 -> Dworzec Le&#347;ne 69 -> B&#322;onie 89 -> B&#322;onie 32N -> Dworzec B&#322;onie 33N -> Piaski#3 -> Wilczak 5 -> Rycerska 7 -> Zajezdnia Tramwajowa 10 -> Las Gda&#324;ski"
+    },
+    {
+        "nazwa": "Fredry \/ Warszawska",
+        "kierunki": "71 -> Morska 77 -> Morska 31N -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Garbary",
+        "kierunki": "54 -> B&#322;onie 61 -> Kapu&#347;ciska 61 -> Rekinowa 71 -> Rekinowa 77 -> Niklowa 79 -> Glinki #71 -> Morska 77 -> Morska 31N -> Dworzec Le&#347;ne 33N -> Piaski#1 -> Wilczak 3 -> Wilczak 5 -> Rycerska 8 -> Rycerska#1 -> Las Gda&#324;ski 3 -> &#321;osko&#324; 5 -> &#321;osko&#324; 8 -> Zajezdnia Tramwajowa#31N -> &#321;osko&#324; / Zajezdnia 33N -> Tatrza&#324;skie#5 -> Rycerska 8 -> Rycerska#5 -> &#321;osko&#324; 8 -> Zajezdnia Tramwajowa#54 -> Piaski 79 -> Rycerska"
+    },
+    {
+        "nazwa": "G&#261;decz",
+        "kierunki": "97 -> Kozielec (p&#281;tla)#97 -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Gda&#324;ska \/ Artyleryjska",
+        "kierunki": "31N -> &#321;osko&#324; / Zajezdnia#31N -> Dworzec Le&#347;ne#1 -> Las Gda&#324;ski 2 -> Las Gda&#324;ski 10 -> Las Gda&#324;ski#1 -> Wilczak 2 -> Babia Wie&#347; 10 -> Niepodleg&#322;o&#347;ci (p&#281;tla)"
+    },
+    {
+        "nazwa": "Gda&#324;ska \/ Chodkiewicza",
+        "kierunki": "1 -> Wilczak 2 -> Babia Wie&#347; 10 -> Niepodleg&#322;o&#347;ci (p&#281;tla) 31N -> &#321;osko&#324; / Zajezdnia#1 -> Las Gda&#324;ski 2 -> Las Gda&#324;ski 4 -> Bielawy 6 -> Bielawy 10 -> Las Gda&#324;ski 31N -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Gda&#324;ska \/ Cieszkowskiego",
+        "kierunki": "1 -> Las Gda&#324;ski 2 -> Las Gda&#324;ski 4 -> Bielawy 6 -> Bielawy 10 -> Las Gda&#324;ski 71 -> Morska 77 -> Morska 31N -> Dworzec Le&#347;ne#1 -> Wilczak 2 -> Babia Wie&#347; 4 -> Babia Wie&#347; 6 -> &#321;&#281;gnowo 10 -> Niepodleg&#322;o&#347;ci (p&#281;tla)"
+    },
+    {
+        "nazwa": "Gda&#324;ska \/ Dworcowa",
+        "kierunki": "1 -> Las Gda&#324;ski 2 -> Las Gda&#324;ski 4 -> Bielawy 6 -> Bielawy 10 -> Las Gda&#324;ski#1 -> Wilczak 2 -> Babia Wie&#347; 4 -> Babia Wie&#347; 6 -> &#321;&#281;gnowo 10 -> Niepodleg&#322;o&#347;ci (p&#281;tla)"
+    },
+    {
+        "nazwa": "Gda&#324;ska \/ Je&#378;dziecka",
+        "kierunki": "93 -> Niwy#93 -> Dworzec Le&#347;ne 94 -> Dworzec Le&#347;ne 31N -> &#321;osko&#324; / Zajezdnia"
+    },
+    {
+        "nazwa": "Gda&#324;ska \/ Powst. Warszawy",
+        "kierunki": "31N -> &#321;osko&#324; / Zajezdnia#1 -> Wilczak 2 -> Babia Wie&#347; 10 -> Niepodleg&#322;o&#347;ci (p&#281;tla)#1 -> Las Gda&#324;ski 2 -> Las Gda&#324;ski 10 -> Las Gda&#324;ski"
+    },
+    {
+        "nazwa": "Geodet&oacute;w \/ Pieni&#324;ska",
+        "kierunki": "81 -> Skandynawska / Ikea 95 -> Tatrza&#324;skie 97 -> Kozielec (p&#281;tla) 97 -> Tatrza&#324;skie 32N -> &#321;osko&#324; / Zajezdnia 33N -> &#321;osko&#324; / Zajezdnia#81 -> Tatrza&#324;skie 95 -> Tatrza&#324;skie 97 -> Kozielec (p&#281;tla) 97 -> Tatrza&#324;skie 32N -> Dworzec B&#322;onie 33N -> Piaski"
+    },
+    {
+        "nazwa": "Geodet&oacute;w \/ Wyzwolenia",
+        "kierunki": "81 -> Skandynawska / Ikea 95 -> Tatrza&#324;skie 97 -> Kozielec (p&#281;tla) 97 -> Tatrza&#324;skie 32N -> &#321;osko&#324; / Zajezdnia 33N -> &#321;osko&#324; / Zajezdnia"
+    },
+    {
+        "nazwa": "Glinki",
+        "kierunki": "P&#281;tla Glinki zamkni&#281;ta na czas przebudowy w&#281;z&#322;a Szarych Szereg&oacute;w#68 -> Dworzec Le&#347;ne 79 -> Rycerska ZaT4 -> Rondo Toru&#324;skie (Be&#322;zy) #79 -> Glinki"
+    },
+    {
+        "nazwa": "Glinki \/ Cmentarna",
+        "kierunki": "66 -> Rondo Jagiellon&oacute;w#66 -> Rondo Jagiellon&oacute;w"
+    },
+    {
+        "nazwa": "Glinki \/ D&#261;browa",
+        "kierunki": "56 -> Glinki BFM 68 -> Glinki BFM 79 -> Glinki  31N -> &#321;osko&#324; / Zajezdnia#56 -> Belma 68 -> Dworzec Le&#347;ne 79 -> Rycerska   31N -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Glinki \/ Eltra",
+        "kierunki": "56 -> Glinki BFM 68 -> Glinki BFM#56 -> Belma 68 -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Glinki \/ Polon",
+        "kierunki": "56 -> Glinki BFM 68 -> Glinki BFM#56 -> Belma 68 -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Glinki \/ Szpitalna",
+        "kierunki": "56 -> Glinki BFM 68 -> Glinki BFM  31N -> &#321;osko&#324; / Zajezdnia#56 -> Belma 68 -> Dworzec Le&#347;ne  31N -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Glinki \/ Zaj&#281;cza",
+        "kierunki": "56 -> Glinki BFM 68 -> Glinki BFM 79 -> Glinki  31N -> &#321;osko&#324; / Zajezdnia#56 -> Belma 68 -> Dworzec Le&#347;ne 79 -> Rycerska   31N -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Glinki \/ Zelwerowicza",
+        "kierunki": "66 -> Rondo Jagiellon&oacute;w#66 -> Rondo Jagiellon&oacute;w"
+    },
+    {
+        "nazwa": "Glinki BFM",
+        "kierunki": "56 -> Belma 56 -> Park Przemys&#322;owy / Biurowiec 68 -> Dworzec Le&#347;ne 68 -> Park Przemys&#322;owy / Exploseum"
+    },
+    {
+        "nazwa": "G&#322;owackiego \/ Ba&#322;tycka",
+        "kierunki": "55 -> Skorupki 71 -> Rekinowa 77 -> Niklowa 33N -> Piaski#55 -> Morska 71 -> Morska 77 -> Morska 33N -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "G&#322;owackiego \/ Gajowa",
+        "kierunki": "55 -> Skorupki 71 -> Rekinowa 77 -> Niklowa 33N -> Piaski#55 -> Morska 71 -> Morska 77 -> Morska 33N -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Grunwaldzka \/ Chojnicka",
+        "kierunki": "61 -> Rekinowa 71 -> Rekinowa"
+    },
+    {
+        "nazwa": "Grunwaldzka \/ Czarna Droga",
+        "kierunki": "51 -> Plac Ko&#347;cieleckich 58 -> Plac Ko&#347;cieleckich 61 -> Kapu&#347;ciska 71 -> Morska 77 -> Morska#51 -> Czy&#380;k&oacute;wko 58 -> Smuka&#322;a 61 -> Rekinowa 71 -> Rekinowa 77 -> Niklowa"
+    },
+    {
+        "nazwa": "Grunwaldzka \/ Filtrowa",
+        "kierunki": "61 -> Rekinowa 71 -> Rekinowa#61 -> Kapu&#347;ciska 71 -> Morska"
+    },
+    {
+        "nazwa": "Grunwaldzka \/ Flisacka",
+        "kierunki": "61 -> Rekinowa 71 -> Rekinowa#61 -> Kapu&#347;ciska 71 -> Morska 77 -> Morska 35N -> Plac Ko&#347;cieleckich"
+    },
+    {
+        "nazwa": "Grunwaldzka \/ Kana&#322;owa",
+        "kierunki": "51 -> Czy&#380;k&oacute;wko 58 -> Smuka&#322;a 61 -> Rekinowa 71 -> Rekinowa 77 -> Niklowa 34N -> Smuka&#322;a 35N -> Rekinowa#51 -> Plac Ko&#347;cieleckich 58 -> Plac Ko&#347;cieleckich 61 -> Kapu&#347;ciska 71 -> Morska 77 -> Morska 34N -> Plac Ko&#347;cieleckich 35N -> Plac Ko&#347;cieleckich"
+    },
+    {
+        "nazwa": "Grunwaldzka \/ Kolbego",
+        "kierunki": "35N -> Plac Ko&#347;cieleckich#61 -> Kapu&#347;ciska 71 -> Morska"
+    },
+    {
+        "nazwa": "Grunwaldzka \/ Kraszewskiego",
+        "kierunki": "51 -> Czy&#380;k&oacute;wko 58 -> Smuka&#322;a 61 -> Rekinowa 71 -> Rekinowa 77 -> Niklowa 34N -> Smuka&#322;a 35N -> Rekinowa#51 -> Plac Ko&#347;cieleckich 58 -> Plac Ko&#347;cieleckich 61 -> Kapu&#347;ciska 71 -> Morska 77 -> Morska 34N -> Plac Ko&#347;cieleckich 35N -> Plac Ko&#347;cieleckich"
+    },
+    {
+        "nazwa": "Grunwaldzka \/ Przej&#347;cie",
+        "kierunki": "61 -> Rekinowa 71 -> Rekinowa#61 -> Kapu&#347;ciska 71 -> Kapu&#347;ciska"
+    },
+    {
+        "nazwa": "Hetma&#324;ska \/ Kaszubska",
+        "kierunki": "67 -> Rycerska 71 -> Rekinowa 77 -> Niklowa 31N -> &#321;osko&#324; / Zajezdnia"
+    },
+    {
+        "nazwa": "Hutna Wie&#347;",
+        "kierunki": "97 -> Kozielec (p&#281;tla)#97 -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Hutnicza \/ Eberhardta",
+        "kierunki": "59 -> B&#322;onie#59 -> ��gnowo"
+    },
+    {
+        "nazwa": "Hutnicza \/ Nowotoru&#324;ska",
+        "kierunki": "6 -> &#321;&#281;gnowo #6 -> Bielawy"
+    },
+    {
+        "nazwa": "Inowroc&#322;awska \/ Skorupki",
+        "kierunki": "64 -> Przemys&#322;owa 69 -> Tatrza&#324;skie 89 -> Tatrza&#324;skie#64 -> Barwna 69 -> B&#322;onie 89 -> B&#322;onie"
+    },
+    {
+        "nazwa": "Inowroc&#322;awska \/ Zajezdnia",
+        "kierunki": "64 -> Przemys&#322;owa 69 -> Tatrza&#324;skie 89 -> Tatrza&#324;skie 32N -> Tatrza&#324;skie#64 -> Barwna 69 -> B&#322;onie 89 -> B&#322;onie 32N -> Dworzec B&#322;onie"
+    },
+    {
+        "nazwa": "Jagiello&#324;ska \/ &#321;u&#380;ycka",
+        "kierunki": "2 -> Babia Wie&#347; 3-> &#321;osko&#324; 4 -> Babia Wie&#347; 5 -> &#321;osko&#324; 6 -> &#321;&#281;gnowo 8 -> Zajezdnia Tramwajowa 10 -> Niepodleg&#322;o&#347;ci (p&#281;tla)#2 -> Las Gda&#324;ski 3 -> Wilczak 4 -> Bielawy 5 -> Rycerska 6 -> Bielawy 8 -> Rycerska 10 -> Las Gda&#324;ski#32N -> Tatrza&#324;skie#32N -> Dworzec B&#322;onie"
+    },
+    {
+        "nazwa": "Jagiello&#324;ska \/ Piotrowskiego",
+        "kierunki": "55 -> Skorupki"
+    },
+    {
+        "nazwa": "Jagodowo \/ Letnia",
+        "kierunki": "94 -> &#379;o&#322;&#281;dowo / Augustowska#94 -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Jagodowo \/ Polna",
+        "kierunki": "94 -> &#379;o&#322;&#281;dowo / Augustowska#94 -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Jana Paw&#322;a II \/ W&#261;brzeska",
+        "kierunki": "80 -> Port Lotniczy (Airport)#80 -> Dworzec G&#322;&oacute;wny"
+    },
+    {
+        "nazwa": "Jana Paw&#322;a II \/ Ziemska",
+        "kierunki": "80 -> Port Lotniczy (Airport)#80 -> Dworzec G&#322;&oacute;wny"
+    },
+    {
+        "nazwa": "Jaru&#380;yn \/ Bociania",
+        "kierunki": "93 -> Wilcze#93 -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Jaru&#380;yn \/ Krakowska",
+        "kierunki": "95 -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Jaru&#380;yn \/ Nowowiejska",
+        "kierunki": "93 -> Wilcze#93 -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Jaru&#380;yn \/ Rajska",
+        "kierunki": "95 -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Jasiniecka \/ Pod Skarp&#261;",
+        "kierunki": "82 -> Zamczysko (p&#281;tla)#73 -> Kapu&#347;ciska 82 -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Jasiniecka \/ Trybowskiego",
+        "kierunki": "73 -> Eskulapa 82 -> Zamczysko (p&#281;tla)"
+    },
+    {
+        "nazwa": "Je&#378;dziecka \/ D&#380;okejowa",
+        "kierunki": "52 -> Podkowa 31N -> Podkowa#52 -> B&#322;onie 31N -> &#321;osko&#324; / Zajezdnia"
+    },
+    {
+        "nazwa": "Je&#378;dziecka \/ Gda&#324;ska",
+        "kierunki": "52 -> Podkowa 94 -> &#379;o&#322;&#281;dowo / Augustowska 31N -> Podkowa"
+    },
+    {
+        "nazwa": "Je&#378;dziecka \/ Hipiczna",
+        "kierunki": "52 -> Podkowa 31N -> Podkowa#52 -> B&#322;onie 31N -> &#321;osko&#324; / Zajezdnia"
+    },
+    {
+        "nazwa": "Je&#378;dziecka \/ Ogr&oacute;d Botaniczny",
+        "kierunki": "52 -> Podkowa 94 -> &#379;o&#322;&#281;dowo / Augustowska 31N -> Podkowa#52 -> B&#322;onie 94 -> Dworzec Le&#347;ne 31N -> &#321;osko&#324; / Zajezdnia"
+    },
+    {
+        "nazwa": "Kaliskiego \/ Akademicka (UTP)",
+        "kierunki": "83 -> Czy&#380;k&oacute;wko 89 -> B&#322;onie 32N -> Dworzec B&#322;onie"
+    },
+    {
+        "nazwa": "Kaliskiego \/ UTP",
+        "kierunki": "83 -> Tatrza&#324;skie 89 -> Tatrza&#324;skie 32N -> Tatrza&#324;skie#83 -> Czy&#380;k&oacute;wko 89 -> B&#322;onie 32N -> Dworzec B&#322;onie"
+    },
+    {
+        "nazwa": "Kamienna \/ Fabryczna",
+        "kierunki": "83 -> Czy&#380;k&oacute;wko#83 -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Kamienna \/ Gajowa",
+        "kierunki": "83 -> Tatrza&#324;skie#83 -> Czy&#380;k&oacute;wko"
+    },
+    {
+        "nazwa": "Kamienna \/ Gda&#324;ska",
+        "kierunki": "83 -> Tatrza&#324;skie#83 -> Czy&#380;k&oacute;wko"
+    },
+    {
+        "nazwa": "Kamienna \/ Su&#322;kowskiego",
+        "kierunki": "83 -> Czy&#380;k&oacute;wko#83 -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Kamienna \/ Wyszy&#324;skiego",
+        "kierunki": "83 -> Tatrza&#324;skie#83 -> Czy&#380;k&oacute;wko"
+    },
+    {
+        "nazwa": "Kapu&#347;ciska",
+        "kierunki": "59 -> Kapu&#347;ciska 61 -> Mokra 73 -> Eskulapa 31N -> &#321;osko&#324; / Zajezdnia ZaT7 -> Kapu&#347;ciska ZaT8 -> Kapu&#347;ciska#59 -> B&#322;onie 61 -> Rekinowa 73 -> Kapu&#347;ciska 31N -> Dworzec Le&#347;ne ZaT7 -> Most Kazimierza Wielkiego ZaT8 -> Rondo Toru&#324;skie (Be&#322;zy)#Przystanek nieczynny na czas przebudowy w&#281;z&#322;a Szarych Szereg&oacute;w"
+    },
+    {
+        "nazwa": "Kazimierza Wielkiego \/ Toru&#324;ska",
+        "kierunki": "36N -> Lisia#59 -> Kapu&#347;ciska ZaT7 -> Kapu&#347;ciska#59 -> B&#322;onie ZaT7 -> Most Kazimierza Wielkiego"
+    },
+    {
+        "nazwa": "Kielecka \/ Smole&#324;ska",
+        "kierunki": "31N -> Dworzec Le&#347;ne#31N -> &#321;osko&#324; / Zajezdnia"
+    },
+    {
+        "nazwa": "Kielecka \/ Toru&#324;ska",
+        "kierunki": "31N -> &#321;osko&#324; / Zajezdnia"
+    },
+    {
+        "nazwa": "Kleeberga \/ Andersa",
+        "kierunki": "81 -> Tatrza&#324;skie 82 -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Kolbego \/ Dzi&#281;cio&#322;owa",
+        "kierunki": "61 -> Kapu&#347;ciska 71 -> Morska 35N -> Plac Ko&#347;cieleckich#61 -> Rekinowa 71 -> Rekinowa 35N -> Rekinowa"
+    },
+    {
+        "nazwa": "Kolbego \/ Grunwaldzka",
+        "kierunki": "61 -> Rekinowa 71 -> Rekinowa 35N -> Rekinowa"
+    },
+    {
+        "nazwa": "Kolbego \/ Kogucia",
+        "kierunki": "61 -> Rekinowa 71 -> Rekinowa 35N -> Rekinowa#61 -> Kapu&#347;ciska 71 -> Morska 35N -> Plac Ko&#347;cieleckich"
+    },
+    {
+        "nazwa": "Kolbego \/ Wielorybia",
+        "kierunki": "61 -> Rekinowa 71 -> Rekinowa 35N -> Rekinowa#61 -> Kapu&#347;ciska 71 -> Morska 35N -> Plac Ko&#347;cieleckich"
+    },
+    {
+        "nazwa": "Korfantego \/ Prejsa",
+        "kierunki": "69 -> Tatrza&#324;skie 82 -> Zamczysko (p&#281;tla) 83 -> Tatrza&#324;skie 89 -> Tatrza&#324;skie 98 -> Przylesie 32N -> Tatrza&#324;skie#69 -> B&#322;onie 82 -> Tatrza&#324;skie 83 -> Czy&#380;k&oacute;wko 89 -> B&#322;onie 98 -> Przylesie 32N -> Dworzec B&#322;onie"
+    },
+    {
+        "nazwa": "Koronowska \/ Wodoci&#261;gi",
+        "kierunki": "58 -> Smuka&#322;a 34N -> Smuka&#322;a#58 -> Plac Ko&#347;cieleckich 34N -> Plac Ko&#347;cieleckich"
+    },
+    {
+        "nazwa": "Kozielec I",
+        "kierunki": "97 -> Kozielec (p&#281;tla)#97 -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Kozielec (p&#281;tla)",
+        "kierunki": "97 -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Kraje&#324;ska \/ Koronowska",
+        "kierunki": "51 -> Czy&#380;k&oacute;wko 34N -> Smuka&#322;a"
+    },
+    {
+        "nazwa": "Kraje&#324;ska \/ Wiejska",
+        "kierunki": "51 -> Plac Ko&#347;cieleckich 34N -> Plac Ko&#347;cieleckich"
+    },
+    {
+        "nazwa": "Kruszyn Kraje&#324;ski \/ Jasiniecka",
+        "kierunki": "92 -> B&#322;onie"
+    },
+    {
+        "nazwa": "Kruszyn Kraje&#324;ski \/ &#321;&#261;kowa",
+        "kierunki": "92 -> B&#322;onie"
+    },
+    {
+        "nazwa": "Kruszyn Kraje&#324;ski \/ Mro&#378;na",
+        "kierunki": "91 -> Przy&#322;&#281;ki 96 -> Przy&#322;&#281;ki#91 -> B&#322;onie 96 -> B&#322;onie"
+    },
+    {
+        "nazwa": "Kruszyn Kraje&#324;ski \/ S&#322;oneczna",
+        "kierunki": "92 -> B&#322;onie"
+    },
+    {
+        "nazwa": "Kruszy&#324;ska \/ Kra&#324;cowa",
+        "kierunki": "77 -> Niklowa 35N -> Rekinowa#77 -> Morska 35N -> Plac Ko&#347;cieleckich"
+    },
+    {
+        "nazwa": "Kruszy&#324;ska \/ Sowia",
+        "kierunki": "77 -> Niklowa 35N -> Rekinowa#77 -> Morska 35N -> Plac Ko&#347;cieleckich"
+    },
+    {
+        "nazwa": "Las Gda&#324;ski",
+        "kierunki": "52 -> B&#322;onie 93 -> Dworzec Le&#347;ne 94 -> Dworzec Le&#347;ne 31N -> &#321;osko&#324; / Zajezdnia#52 -> Podkowa 93 -> Niwy 94 -> &#379;o&#322;&#281;dowo / Augustowska 31N -> Podkowa#1 -> Wilczak 10 -> Niepodleg&#322;o&#347;ci (p&#281;tla)#2 -> Babia Wie&#347;"
+    },
+    {
+        "nazwa": "Le&#347;ne",
+        "kierunki": "52 -> B&#322;onie 31N -> &#321;osko&#324; / Zajezdnia#65 -> Nad Wis&#322;&#261; 68 -> Glinki BFM#52 -> Dworzec Le&#347;ne 65 -> Dworzec Le&#347;ne 68 -> Dworzec Le&#347;ne 31N -> Dworzec Le&#347;ne#52 -> Podkowa 93 -> Niwy 94 -> &#379;o&#322;&#281;dowo / Augustowska 31N -> Podkowa"
+    },
+    {
+        "nazwa": "Lipniki \/ Akacjowa",
+        "kierunki": "92 -> Murowaniec"
+    },
+    {
+        "nazwa": "Lipniki \/ STW",
+        "kierunki": "92 -> Murowaniec#92 -> B&#322;onie"
+    },
+    {
+        "nazwa": "Lipniki \/ Wiadukt",
+        "kierunki": "92 -> Murowaniec#92 -> B&#322;onie"
+    },
+    {
+        "nazwa": "Lipniki \/ Wierzbowa",
+        "kierunki": "92 -> Murowaniec"
+    },
+    {
+        "nazwa": "Lisia",
+        "kierunki": "62 -> Garbary 36N -> &#321;&#281;gnowo"
+    },
+    {
+        "nazwa": "&#321;&#281;gnowo",
+        "kierunki": "6 -> Bielawy #59 -> B&#322;onie 73 -> Kapu&#347;ciska 73 -> Jasieniecka / Pod Skarp&#261; 76 -> Rondo Toru&#324;skie 36N -> Lisia"
+    },
+    {
+        "nazwa": "&#321;ochowo",
+        "kierunki": "92 -> B&#322;onie"
+    },
+    {
+        "nazwa": "&#321;ochowo \/ Sosnowa",
+        "kierunki": "92 -> B&#322;onie#92 -> &#321;ochowo"
+    },
+    {
+        "nazwa": "&#321;ochowska",
+        "kierunki": "56 -> Glinki BFM 62 -> Garbary 36N -> Plac Ko&#347;cieleckich#56 -> Belma 62 -> Belma 36N -> Belma"
+    },
+    {
+        "nazwa": "&#321;osko&#324;",
+        "kierunki": "65 -> Dworzec Le&#347;ne 81 -> Skandynawska / Ikea#65 -> &#321;osko&#324; / Zajezdnia 81 -> Tatrza&#324;skie 31N -> &#321;osko&#324; / Zajezdnia#3 -> &#321;osko&#324; 5 -> &#321;osko&#324; 7 -> &#321;osko&#324; 10 -> &#321;osko&#324;#3 -> Wilczak 5 -> Rycerska 7 -> Zajezdnia Tramwajowa 10 -> Las Gda&#324;ski#95 -> Tatrza&#324;skie 97 -> Kozielec (p&#281;tla) 97 -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "&#321;osko&#324; \/ Zajezdnia",
+        "kierunki": "65 -> Dworzec Le&#347;ne 31N -> Dworzec Le&#347;ne 32N -> Dworzec B&#322;onie 33N -> Piaski"
+    },
+    {
+        "nazwa": "&#321;owicka \/ Szko&#322;a",
+        "kierunki": "74 -> Tatrza&#324;skie 81 -> Tor Regatowy 33N -> Tatrza&#324;skie#74 -> Wy&#347;cigowa 81 -> Tatrza&#324;skie 33N -> Piaski"
+    },
+    {
+        "nazwa": "&#321;ukasiewicza",
+        "kierunki": "53 -> Dworzec B&#322;onie"
+    },
+    {
+        "nazwa": "Magnuszewska",
+        "kierunki": "66 -> Rondo Jagiellon&oacute;w#56 -> Glinki BFM 68 -> Glinki BFM 79 -> Glinki#56 -> Belma 66 -> Rondo Jagiellon&oacute;w 68 -> Dworzec Le&#347;ne 79 -> Rycerska"
+    },
+    {
+        "nazwa": "Magnuszewska \/ Modrakowa",
+        "kierunki": "56 -> Glinki BFM 66 -> Rondo Jagiellon&oacute;w 68 -> Glinki BFM 79 -> Glinki  31N -> &#321;osko&#324; / Zajezdnia#56 -> Belma 66 -> Rondo Jagiellon&oacute;w 68 -> Dworzec Le&#347;ne 79 -> Rycerska   31N -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Maksymilianowo \/ G&#322;&oacute;wna",
+        "kierunki": "94 -> &#379;o&#322;&#281;dowo / Augustowska#94 -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Maksymilianowo \/ Ptasia",
+        "kierunki": "94 -> &#379;o&#322;&#281;dowo / Augustowska#94 -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Maksymilianowo \/ Szko&#322;a",
+        "kierunki": "94 -> &#379;o&#322;&#281;dowo / Augustowska 98 -> Przylesie#94 -> Dworzec Le&#347;ne 98 -> Przylesie"
+    },
+    {
+        "nazwa": "Maksymilianowo \/ &#346;wietlica",
+        "kierunki": "98 -> Przylesie"
+    },
+    {
+        "nazwa": "Markwarta \/ 3 Maja",
+        "kierunki": "52 -> Dworzec Le&#347;ne 55 -> Morska 59 -> Kapu&#347;ciska 60 -> Morska 64 -> Przemys&#322;owa 67 -> Sk&#322;odowskiej-Curie / &#321;&#281;czycka 33N -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Matki Teresy z Kalkuty \/ Akademicka",
+        "kierunki": "69 -> Tatrza&#324;skie 73 -> Eskulapa 81 -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Matki Teresy z Kalkuty \/ Romanowskiej",
+        "kierunki": "69 -> B&#322;onie 73 -> Kapu&#347;ciska 81 -> Skandynawska / Ikea#73 -> Eskulapa"
+    },
+    {
+        "nazwa": "Matki Teresy z Kalkuty \/ Rydygiera",
+        "kierunki": "73 -> Kapu&#347;ciska#73 -> Eskulapa"
+    },
+    {
+        "nazwa": "Mazowiecka \/ Pomorska",
+        "kierunki": "71 -> Morska 77 -> Morska 31N -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Meysnera \/ Op&#322;awiec",
+        "kierunki": "58 -> Plac Ko&#347;cieleckich 58 -> Smuka&#322;a 34N -> Smuka&#322;a"
+    },
+    {
+        "nazwa": "Mickiewicza \/ Teatr Polski",
+        "kierunki": "67 -> Rycerska 71 -> Rekinowa 77 -> Niklowa#71 -> Morska 77 -> Morska"
+    },
+    {
+        "nazwa": "Mi&#324;ska \/ Plonowa",
+        "kierunki": "77 -> Niklowa 35N -> Rekinowa#77 -> Morska 35N -> Plac Ko&#347;cieleckich"
+    },
+    {
+        "nazwa": "Mi&#324;ska \/ Studzienna",
+        "kierunki": "77 -> Niklowa 35N -> Rekinowa#77 -> Morska 35N -> Plac Ko&#347;cieleckich"
+    },
+    {
+        "nazwa": "Modrzewiowa \/ Gda&#324;ska",
+        "kierunki": "52 -> Podkowa 93 -> Niwy 94 -> &#379;o&#322;&#281;dowo / Augustowska 31N -> Podkowa#52 -> B&#322;onie 93 -> Dworzec Le&#347;ne 94 -> Dworzec Le&#347;ne 31N -> &#321;osko&#324; / Zajezdnia"
+    },
+    {
+        "nazwa": "Mokra",
+        "kierunki": "61 -> Rekinowa 73 -> Kapu&#347;ciska 73 -> Eskulapa 31N -> Dworzec Le&#347;ne 31N -> &#321;osko&#324; / Zajezdnia"
+    },
+    {
+        "nazwa": "Morska",
+        "kierunki": "55 -> Skorupki 60 -> B&#322;onie 71 -> Rekinowa#60 -> Morska 77 -> Morska#77 -> Niklowa"
+    },
+    {
+        "nazwa": "Most Kazimierza Wielkiego",
+        "kierunki": "3 -> &#321;osko&#324; 5 -> &#321;osko&#324; 7 -> Niepodleg&#322;o&#347;ci (p&#281;tla) 10 -> Niepodleg&#322;o&#347;ci (p&#281;tla)#3 -> Wilczak 5 -> Rycerska 7 -> Zajezdnia Tramwajowa 10 -> Las Gda&#324;ski#64 -> Przemys&#322;owa 65 -> Nad Wis&#322;&#261; 69 -> Tatrza&#324;skie 89 -> Tatrza&#324;skie 32N -> Tatrza&#324;skie 33N -> Tatrza&#324;skie#59 -> Kapu&#347;ciska ZaT7 -> Kapu&#347;ciska#59 -> B&#322;onie 64 -> Barwna 69 -> B&#322;onie 89 -> B&#322;onie ZaT7 -> Most Kazimierza Wielkiego 33N -> Piaski"
+    },
+    {
+        "nazwa": "Murowaniec",
+        "kierunki": "92 -> &#321;ochowo#92 -> B&#322;onie"
+    },
+    {
+        "nazwa": "Murowaniec \/ Strusia",
+        "kierunki": "92 -> Murowaniec#92 -> B&#322;onie"
+    },
+    {
+        "nazwa": "My&#347;l&#281;cinek",
+        "kierunki": "52 -> B&#322;onie 52 -> Podkowa 93 -> Dworzec Le&#347;ne 93 -> Niwy 94 -> Dworzec Le&#347;ne 94 -> &#379;o&#322;&#281;dowo / Augustowska 31N -> &#321;osko&#324; / Zajezdnia 31N -> Podkowa"
+    },
+    {
+        "nazwa": "Nad Torem \/ Chmurna",
+        "kierunki": "58 -> Smuka&#322;a 34N -> Smuka&#322;a#58 -> Plac Ko&#347;cieleckich 83 -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Nad Torem \/ Karolewska",
+        "kierunki": "58 -> Smuka&#322;a 83 -> Czy&#380;k&oacute;wko#58 -> Plac Ko&#347;cieleckich 83 -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Nad Torem \/ Orlicza",
+        "kierunki": "51 -> Plac Ko&#347;cieleckich 58 -> Plac Ko&#347;cieleckich 83 -> Tatrza&#324;skie 34N -> Plac Ko&#347;cieleckich#58 -> Smuka&#322;a 83 -> Czy&#380;k&oacute;wko"
+    },
+    {
+        "nazwa": "Nad Wis&#322;&#261;",
+        "kierunki": "65 -> Dworzec Le&#347;ne 65 -> &#321;osko&#324; / Zajezdnia 81 -> Skandynawska / Ikea 81 -> Tatrza&#324;skie 31N -> Dworzec Le&#347;ne 31N -> &#321;osko&#324; / Zajezdnia"
+    },
+    {
+        "nazwa": "Nakielska \/ Iglasta",
+        "kierunki": "56 -> Glinki BFM 62 -> Garbary 36N -> &#321;&#281;gnowo"
+    },
+    {
+        "nazwa": "Nakielska \/ Lisia",
+        "kierunki": "56 -> Glinki BFM 62 -> Garbary 36N -> Plac Ko&#347;cieleckich#56 -> Belma 62 -> Belma 36N -> Belma"
+    },
+    {
+        "nazwa": "Nakielska \/ Notecka",
+        "kierunki": "56 -> Glinki BFM 62 -> Garbary 36N -> &#321;&#281;gnowo#56 -> Belma 62 -> Belma 36N -> Lisia"
+    },
+    {
+        "nazwa": "Nakielska \/ Pijar&oacute;w",
+        "kierunki": "56 -> Glinki BFM 62 -> Garbary 36N -> &#321;&#281;gnowo#56 -> Belma 62 -> Belma 36N -> Lisia"
+    },
+    {
+        "nazwa": "Nakielska \/ S&#322;oneczna",
+        "kierunki": "1 -> Las Gda&#324;ski 3 -> &#321;osko&#324;#1 -> Wilczak 3 -> Wilczak"
+    },
+    {
+        "nazwa": "Nakielska \/ Stawowa",
+        "kierunki": "1 -> Las Gda&#324;ski 3 -> &#321;osko&#324; 56 -> Glinki BFM 62 -> Garbary 36N -> &#321;&#281;gnowo#1 -> Wilczak 3 -> Wilczak 56 -> Belma 62 -> Belma 36N -> Lisia"
+    },
+    {
+        "nazwa": "Nakielska \/ Tarnowska",
+        "kierunki": "56 -> Glinki BFM 62 -> Garbary 36N -> &#321;&#281;gnowo#56 -> Belma 62 -> Belma 36N -> Lisia"
+    },
+    {
+        "nazwa": "Nakielska \/ Widok",
+        "kierunki": "56 -> Glinki BFM 62 -> Garbary 36N -> &#321;&#281;gnowo#56 -> Belma 62 -> Belma 36N -> Lisia"
+    },
+    {
+        "nazwa": "Nakielska \/ Wi&#347;niowa",
+        "kierunki": "56 -> Glinki BFM 62 -> Garbary 36N -> &#321;&#281;gnowo#56 -> Belma 62 -> Belma 36N -> Lisia"
+    },
+    {
+        "nazwa": "Nakielska \/ Wroc&#322;awska",
+        "kierunki": "1 -> Las Gda&#324;ski 3 -> &#321;osko&#324;#1 -> Wilczak 3 -> Wilczak"
+    },
+    {
+        "nazwa": "Nakielska \/ Wrzesi&#324;ska",
+        "kierunki": "1 -> Las Gda&#324;ski 3 -> &#321;osko&#324;#1 -> Wilczak 3 -> Wilczak#56 -> Glinki BFM 62 -> Garbary 36N -> &#321;&#281;gnowo#56 -> Belma 62 -> Belma 36N -> Lisia"
+    },
+    {
+        "nazwa": "Nakielska \/ &#379;ywiecka",
+        "kierunki": "56 -> Glinki BFM 62 -> Garbary 36N -> &#321;&#281;gnowo#56 -> Belma 62 -> Belma 36N -> Lisia"
+    },
+    {
+        "nazwa": "Nekla \/ Akacjowa",
+        "kierunki": "94 -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Nekla \/ Ciep&#322;a",
+        "kierunki": "94 -> Nekla / Akacjowa#94 -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Nekla \/ Le&#347;na",
+        "kierunki": "94 -> Dworzec Le&#347;ne 94 -> Nekla / Akacjowa#94 -> Dworzec Le&#347;ne 94 -> Nekla / Akacjowa"
+    },
+    {
+        "nazwa": "Nekla \/ Makowa",
+        "kierunki": "94 -> Dworzec Le&#347;ne 94 -> Nekla / Akacjowa"
+    },
+    {
+        "nazwa": "Nekla \/ T&#281;czowa",
+        "kierunki": "94 -> Nekla / Akacjowa#94 -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Niemcz \/ Kasprowicza",
+        "kierunki": "94 -> &#379;o&#322;&#281;dowo / Augustowska"
+    },
+    {
+        "nazwa": "Niemcz \/ Krzyszkowiaka",
+        "kierunki": "94 -> &#379;o&#322;&#281;dowo / Augustowska#94 -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Niemcz \/ Malczewskiego",
+        "kierunki": "94 -> &#379;o&#322;&#281;dowo / Augustowska"
+    },
+    {
+        "nazwa": "Niemcz \/ Mickiewicza",
+        "kierunki": "94 -> &#379;o&#322;&#281;dowo / Augustowska#94 -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Niemcz \/ Pod Wierzbami",
+        "kierunki": "94 -> &#379;o&#322;&#281;dowo / Augustowska"
+    },
+    {
+        "nazwa": "Niemcz \/ Rutkiewicz",
+        "kierunki": "94 -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Niemcz \/ S&#322;owackiego",
+        "kierunki": "94 -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Niemcz \/ Urocza",
+        "kierunki": "94 -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Niepodleg&#322;o&#347;ci",
+        "kierunki": "65 -> Dworzec Le&#347;ne 81 -> Skandynawska / Ikea 82 -> Zamczysko (p&#281;tla) 33N -> Piaski#65 -> Nad Wis&#322;&#261; 81 -> Tatrza&#324;skie 82 -> Tatrza&#324;skie 31N -> &#321;osko&#324; / Zajezdnia 33N -> Tatrza&#324;skie#31N -> Dworzec Le&#347;ne#3 -> &#321;osko&#324; 5 -> &#321;osko&#324; 7 -> Niepodleg&#322;o&#347;ci (p&#281;tla) 10 -> Niepodleg&#322;o&#347;ci (p&#281;tla)#3 -> Wilczak 5 -> Rycerska 7 -> Zajezdnia Tramwajowa 10 -> Las Gda&#324;ski"
+    },
+    {
+        "nazwa": "Niepodleg&#322;o&#347;ci (p&#281;tla)",
+        "kierunki": "7 -> Zajezdnia Tramwajowa 10 -> Las Gda&#324;ski"
+    },
+    {
+        "nazwa": "Niklowa",
+        "kierunki": "77 -> Morska 35N -> Rekinowa"
+    },
+    {
+        "nazwa": "Niwy",
+        "kierunki": "93 -> Dworzec Le&#347;ne 93 -> Wilcze"
+    },
+    {
+        "nazwa": "Niwy \/ Bieszczadzka",
+        "kierunki": "93 -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Niwy \/ Karkonoska",
+        "kierunki": "93 -> Wilcze"
+    },
+    {
+        "nazwa": "Niwy \/ Zakopia&#324;ska",
+        "kierunki": "93 -> Dworzec Le&#347;ne#93 -> Wilcze"
+    },
+    {
+        "nazwa": "Nowotoru&#324;ska \/ Hutnicza",
+        "kierunki": "76 -> &#321;&#281;gnowo#76 -> Rondo Toru&#324;skie"
+    },
+    {
+        "nazwa": "Nowotoru&#324;ska \/ Kielecka",
+        "kierunki": "76 -> Rondo Toru&#324;skie"
+    },
+    {
+        "nazwa": "Nowotoru&#324;ska \/ Objazdowa",
+        "kierunki": "76 -> &#321;&#281;gnowo#76 -> Rondo Toru&#324;skie"
+    },
+    {
+        "nazwa": "Nowotoru&#324;ska \/ Pl&#261;tnowska",
+        "kierunki": "73 -> Kapu&#347;ciska#73 -> Eskulapa"
+    },
+    {
+        "nazwa": "Nowotoru&#324;ska \/ Prezydenta Lecha Kaczy&#324;skiego",
+        "kierunki": "76 -> &#321;&#281;gnowo#76 -> Rondo Toru&#324;skie"
+    },
+    {
+        "nazwa": "Nowotoru&#324;ska \/ Przepompownia",
+        "kierunki": "73 -> Kapu&#347;ciska 36N -> &#321;&#281;gnowo#73 -> Eskulapa 36N -> Lisia"
+    },
+    {
+        "nazwa": "Nowotoru&#324;ska \/ &#379;&oacute;&#322;wi&#324;ska",
+        "kierunki": "73 -> Kapu&#347;ciska 36N -> &#321;&#281;gnowo#73 -> Eskulapa 36N -> Lisia"
+    },
+    {
+        "nazwa": "Nowy Rynek",
+        "kierunki": "51 -> Czy&#380;k&oacute;wko 55 -> Skorupki 58 -> Smuka&#322;a 59 -> B&#322;onie 60 -> B&#322;onie 35N -> Rekinowa#51 -> Plac Ko&#347;cieleckich 52 -> Dworzec Le&#347;ne 55 -> Morska 56 -> Glinki BFM 58 -> Plac Ko&#347;cieleckich 59 -> Kapu&#347;ciska 60 -> Morska 35N -> Plac Ko&#347;cieleckich#52 -> B&#322;onie 56 -> Belma"
+    },
+    {
+        "nazwa": "Objazdowa \/ Nowotoru&#324;ska",
+        "kierunki": "76 -> &#321;&#281;gnowo#76 -> Rondo Toru&#324;skie"
+    },
+    {
+        "nazwa": "Ogi&#324;skiego \/ Moniuszki",
+        "kierunki": "55 -> Morska 57 -> Dworzec G&#322;&oacute;wny 80 -> Dworzec G&#322;&oacute;wny 33N -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Op&#322;awiec \/ Biwakowa",
+        "kierunki": "58 -> Smuka&#322;a 34N -> Smuka&#322;a#58 -> Plac Ko&#347;cieleckich 34N -> Plac Ko&#347;cieleckich"
+    },
+    {
+        "nazwa": "Op&#322;awiec \/ Elektrownia",
+        "kierunki": "58 -> Smuka&#322;a 34N -> Smuka&#322;a#58 -> Plac Ko&#347;cieleckich 34N -> Plac Ko&#347;cieleckich"
+    },
+    {
+        "nazwa": "Op&#322;awiec \/ Internat",
+        "kierunki": "58 -> Smuka&#322;a 34N -> Smuka&#322;a"
+    },
+    {
+        "nazwa": "Op&#322;awiec \/ Kolonijna",
+        "kierunki": "58 -> Smuka&#322;a 34N -> Smuka&#322;a#58 -> Plac Ko&#347;cieleckich 34N -> Plac Ko&#347;cieleckich"
+    },
+    {
+        "nazwa": "Op&#322;awiec \/ Koronowska",
+        "kierunki": "58 -> Smuka&#322;a 34N -> Smuka&#322;a#58 -> Plac Ko&#347;cieleckich 34N -> Plac Ko&#347;cieleckich"
+    },
+    {
+        "nazwa": "Op&#322;awiec \/ Meysnera",
+        "kierunki": "58 -> Smuka&#322;a 34N -> Smuka&#322;a#58 -> Plac Ko&#347;cieleckich 34N -> Plac Ko&#347;cieleckich"
+    },
+    {
+        "nazwa": "Op&#322;awiec \/ Przedszkole",
+        "kierunki": "58 -> Smuka&#322;a 34N -> Smuka&#322;a#58 -> Plac Ko&#347;cieleckich 34N -> Plac Ko&#347;cieleckich"
+    },
+    {
+        "nazwa": "Op&#322;awiec \/ Soboczy&#324;skiego",
+        "kierunki": "58 -> Smuka&#322;a 34N -> Smuka&#322;a#58 -> Plac Ko&#347;cieleckich 34N -> Plac Ko&#347;cieleckich"
+    },
+    {
+        "nazwa": "Op&#322;awiec \/ Wypoczynkowa",
+        "kierunki": "58 -> Smuka&#322;a 34N -> Smuka&#322;a#58 -> Plac Ko&#347;cieleckich 34N -> Plac Ko&#347;cieleckich"
+    },
+    {
+        "nazwa": "Osielsko \/ Centralna",
+        "kierunki": "93 -> Niwy#93 -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Osielsko \/ Cisowa",
+        "kierunki": "98 -> Przylesie#98 -> Przylesie"
+    },
+    {
+        "nazwa": "Osielsko \/ Gmina",
+        "kierunki": "93 -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Osielsko \/ Gryczana",
+        "kierunki": "98 -> Przylesie#98 -> Przylesie"
+    },
+    {
+        "nazwa": "Osielsko \/ Gwia&#378;dzista",
+        "kierunki": "98 -> Przylesie#98 -> Przylesie"
+    },
+    {
+        "nazwa": "Osielsko \/ Kwiatowa",
+        "kierunki": "93 -> Niwy 98 -> Przylesie#93 -> Dworzec Le&#347;ne 98 -> Przylesie"
+    },
+    {
+        "nazwa": "Osielsko \/ Le&#347;na",
+        "kierunki": "93 -> Niwy#93 -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Osielsko \/ Lipowa",
+        "kierunki": "98 -> Przylesie#98 -> Przylesie"
+    },
+    {
+        "nazwa": "Osielsko \/ M&#322;yn",
+        "kierunki": "93 -> Niwy#93 -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Osielsko \/ My&#347;l&#281;cinek",
+        "kierunki": "93 -> Niwy#93 -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Osielsko \/ Wi&#261;zowa",
+        "kierunki": "93 -> Niwy#93 -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Paderewskiego",
+        "kierunki": "52 -> B&#322;onie 59 -> B&#322;onie 60 -> B&#322;onie 64 -> Barwna 33N -> Piaski"
+    },
+    {
+        "nazwa": "Park Przemys&#322;owy \/ Paciorkiewicza",
+        "kierunki": "56 -> Park Przemys&#322;owy / Biurowiec#56 -> Belma 68 -> Dworzec Le&#347;ne#68 -> Park Przemys&#322;owy / Exploseum"
+    },
+    {
+        "nazwa": "Park Przemys&#322;owy \/ Raczkowskiego",
+        "kierunki": "56 -> Park Przemys&#322;owy / Biurowiec#56 -> Belma"
+    },
+    {
+        "nazwa": "Park Przemys&#322;owy \/ Biurowiec",
+        "kierunki": "56 -> Belma"
+    },
+    {
+        "nazwa": "Park Przemys&#322;owy \/ Exploseum",
+        "kierunki": "68 -> Dworzec Le&#347;ne 68 -> Pr&#261;doci&#324;ska"
+    },
+    {
+        "nazwa": "Park Przemys&#322;owy \/ Falkowskiego",
+        "kierunki": "68 -> Park Przemys&#322;owy / Exploseum #68 -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Park Przemys&#322;owy \/ Gamma",
+        "kierunki": "68 -> Park Przemys&#322;owy / Exploseum #68 -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Park Przemys&#322;owy \/ Petersona",
+        "kierunki": "68 -> Dworzec Le&#347;ne #68 -> Park Przemys&#322;owy / Exploseum"
+    },
+    {
+        "nazwa": "Pelpli&#324;ska \/ Jaru&#380;y&#324;ska",
+        "kierunki": "69 -> Tatrza&#324;skie 74 -> Tatrza&#324;skie 83 -> Tatrza&#324;skie 89 -> Tatrza&#324;skie 32N -> Tatrza&#324;skie#69 -> B&#322;onie 74 -> Wy&#347;cigowa 83 -> Czy&#380;k&oacute;wko 89 -> B&#322;onie 32N -> Dworzec B&#322;onie"
+    },
+    {
+        "nazwa": "Pelpli&#324;ska \/ Targowisko",
+        "kierunki": "69 -> Tatrza&#324;skie 74 -> Tatrza&#324;skie 83 -> Tatrza&#324;skie 89 -> Tatrza&#324;skie 32N -> Tatrza&#324;skie#69 -> B&#322;onie 74 -> Wy&#347;cigowa 83 -> Czy&#380;k&oacute;wko 89 -> B&#322;onie 32N -> Dworzec B&#322;onie"
+    },
+    {
+        "nazwa": "Pelpli&#324;ska \/ Taternik&oacute;w",
+        "kierunki": "69 -> Tatrza&#324;skie 74 -> Tatrza&#324;skie 83 -> Tatrza&#324;skie 89 -> Tatrza&#324;skie 32N -> Tatrza&#324;skie#69 -> B&#322;onie 74 -> Wy&#347;cigowa 83 -> Czy&#380;k&oacute;wko 89 -> B&#322;onie 32N -> Dworzec B&#322;onie"
+    },
+    {
+        "nazwa": "Per&#322;owa \/ Toru&#324;ska",
+        "kierunki": "Przystanek nieczynny na czas przebudowy w&#281;z&#322;a Szarych Szereg&oacute;w#Przystanek nieczynny na czas przebudowy w&#281;z&#322;a Szarych Szereg&oacute;w"
+    },
+    {
+        "nazwa": "Piaski",
+        "kierunki": "54 -> B&#322;onie 33N -> Tatrza&#324;skie#54 -> Smuka&#322;a"
+    },
+    {
+        "nazwa": "Pi&#281;kna \/ Szubi&#324;ska",
+        "kierunki": "53 -> &#321;ukasiewicza 55 -> Skorupki 57 -> Dworzec G&#322;&oacute;wny 79 -> Glinki 32N -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Pileckiego \/ Cmentarz",
+        "kierunki": "54 -> Piaski 83 -> Czy&#380;k&oacute;wko"
+    },
+    {
+        "nazwa": "Pileckiego \/ Kmicica",
+        "kierunki": "54 -> B&#322;onie 83 -> Tatrza&#324;skie#54 -> Piaski 83 -> Czy&#380;k&oacute;wko"
+    },
+    {
+        "nazwa": "Pileckiego \/ Rynkowska",
+        "kierunki": "54 -> B&#322;onie 83 -> Tatrza&#324;skie#54 -> Piaski 83 -> Czy&#380;k&oacute;wko"
+    },
+    {
+        "nazwa": "Pileckiego \/ &#379;eglarska",
+        "kierunki": "54 -> Piaski 83 -> Czy&#380;k&oacute;wko#83 -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Pi&#322;sudskiego \/ Swobodna",
+        "kierunki": "65 -> Dworzec Le&#347;ne 81 -> Skandynawska / Ikea 31N -> Dworzec Le&#347;ne#65 -> Nad Wis&#322;&#261; 81 -> Tatrza&#324;skie 31N -> &#321;osko&#324; / Zajezdnia"
+    },
+    {
+        "nazwa": "Plac Ko&#347;cieleckich",
+        "kierunki": "35N -> Plac Ko&#347;cieleckich 35N -> Rekinowa 36N -> Lisia 36N -> &#321;&#281;gnowo#51 -> Czy&#380;k&oacute;wko 58 -> Smuka&#322;a 32N -> Tatrza&#324;skie 32N -> Dworzec B&#322;onie#33N -> Piaski 33N -> Tatrza&#324;skie#31N -> Dworzec Le&#347;ne 31N -> &#321;osko&#324; / Zajezdnia 34N -> Smuka&#322;a"
+    },
+    {
+        "nazwa": "Plac Piastowski",
+        "kierunki": "67 -> Sk&#322;odowskiej-Curie / &#321;&#281;czycka#67 -> Rycerska"
+    },
+    {
+        "nazwa": "Plac Pozna&#324;ski",
+        "kierunki": "52 -> B&#322;onie 55 -> Skorupki 59 -> B&#322;onie 60 -> B&#322;onie#51 -> Plac Ko&#347;cieleckich 52 -> Dworzec Le&#347;ne 55 -> Morska 56 -> Glinki BFM 58 -> Plac Ko&#347;cieleckich 59 -> Kapu&#347;ciska 60 -> Morska 35N -> Plac Ko&#347;cieleckich#51 -> Czy&#380;k&oacute;wko 54 -> Piaski 56 -> Belma 58 -> Smuka&#322;a 61 -> Rekinowa 79 -> Rycerska 35N -> Rekinowa 36N -> Lisia#54 -> B&#322;onie 61 -> Kapu&#347;ciska 79 -> Glinki 36N -> &#321;&#281;gnowo"
+    },
+    {
+        "nazwa": "Plac Teatralny",
+        "kierunki": "1 -> Las Gda&#324;ski 3 -> &#321;osko&#324; 5 -> &#321;osko&#324; 8 -> Zajezdnia Tramwajowa#31N -> &#321;osko&#324; / Zajezdnia 33N -> Tatrza&#324;skie 34N -> Plac Ko&#347;cieleckich"
+    },
+    {
+        "nazwa": "Plac Weyssenhoffa",
+        "kierunki": "52 -> Dworzec Le&#347;ne 59 -> B&#322;onie 60 -> B&#322;onie 64 -> Przemys&#322;owa 67 -> Rycerska"
+    },
+    {
+        "nazwa": "Plac Wolno&#347;ci",
+        "kierunki": "1 -> Las Gda&#324;ski 2 -> Las Gda&#324;ski 4 -> Bielawy 6 -> Bielawy 10 -> Las Gda&#324;ski#1 -> Wilczak 2 -> Babia Wie&#347; 4 -> Babia Wie&#347; 6 -> &#321;&#281;gnowo 10 -> Niepodleg&#322;o&#347;ci (p&#281;tla)"
+    },
+    {
+        "nazwa": "Pl&#261;tnowska \/ Ko&#347;ci&oacute;&#322;",
+        "kierunki": "73 -> Kapu&#347;ciska 36N -> &#321;&#281;gnowo#73 -> Eskulapa 36N -> Lisia"
+    },
+    {
+        "nazwa": "Pl&#261;tnowska \/ Otorowska",
+        "kierunki": "73 -> Kapu&#347;ciska 36N -> &#321;&#281;gnowo#73 -> Eskulapa 36N -> Lisia"
+    },
+    {
+        "nazwa": "Pl&#261;tnowska \/ Przejazd",
+        "kierunki": "73 -> Kapu&#347;ciska 36N -> &#321;&#281;gnowo#73 -> Eskulapa 36N -> Lisia"
+    },
+    {
+        "nazwa": "Pod Skarp&#261; \/ Przemys&#322;a II",
+        "kierunki": "82 -> Zamczysko (p&#281;tla) 98 -> Przylesie#82 -> Tatrza&#324;skie 98 -> Przylesie"
+    },
+    {
+        "nazwa": "Pod Skarp&#261; \/ Stamma",
+        "kierunki": "73 -> Kapu&#347;ciska 82 -> Zamczysko (p&#281;tla) 98 -> Przylesie#73 -> Eskulapa 98 -> Przylesie"
+    },
+    {
+        "nazwa": "Pod Skarp&#261; \/ &#379;emojtela",
+        "kierunki": "82 -> Zamczysko (p&#281;tla) 98 -> Przylesie#82 -> Tatrza&#324;skie 98 -> Przylesie"
+    },
+    {
+        "nazwa": "Podkowa",
+        "kierunki": "52 -> Podkowa 31N -> Podkowa#52 -> B&#322;onie 31N -> &#321;osko&#324; / Zajezdnia"
+    },
+    {
+        "nazwa": "Podmiejska \/ Kruszy&#324;ska",
+        "kierunki": "77 -> Morska#77 -> Niklowa 35N -> Rekinowa"
+    },
+    {
+        "nazwa": "Po&#322;tyna \/ Szubi&#324;ska",
+        "kierunki": "57 -> B&#322;onie"
+    },
+    {
+        "nazwa": "Port Lotniczy (Airport)",
+        "kierunki": "80 -> Dworzec G&#322;&oacute;wny"
+    },
+    {
+        "nazwa": "Powst. Wielkopolskich \/ Wyszy&#324;skiego",
+        "kierunki": "55 -> Skorupki 71 -> Rekinowa 77 -> Niklowa 33N -> Piaski#55 -> Morska 71 -> Morska 77 -> Morska 33N -> Tatrza&#324;skie#64 -> Barwna 65 -> Dworzec Le&#347;ne 68 -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Powst.Warszawy \/ Gda&#324;ska",
+        "kierunki": "57 -> Dworzec G&#322;&oacute;wny 80 -> Dworzec G&#322;&oacute;wny"
+    },
+    {
+        "nazwa": "Powst.Warszawy \/ Skromna",
+        "kierunki": "57 -> B&#322;onie 80 -> Port Lotniczy (Airport)#57 -> Dworzec G&#322;&oacute;wny 80 -> Dworzec G&#322;&oacute;wny"
+    },
+    {
+        "nazwa": "Powst.Warszawy \/ Szpital Woj.",
+        "kierunki": "57 -> B&#322;onie 80 -> Port Lotniczy (Airport)#57 -> Dworzec G&#322;&oacute;wny 80 -> Dworzec G&#322;&oacute;wny"
+    },
+    {
+        "nazwa": "Powst. Wielkopolskich \/ Lelewela",
+        "kierunki": "55 -> Skorupki 64 -> Barwna 65 -> Dworzec Le&#347;ne 68 -> Dworzec Le&#347;ne 71 -> Rekinowa 77 -> Niklowa 33N -> Piaski#55 -> Morska 64 -> Przemys&#322;owa 65 -> Nad Wis&#322;&#261; 68 -> Glinki BFM 71 -> Morska 77 -> Morska 33N -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Pr&#261;doci&#324;ska",
+        "kierunki": "68 -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Prezydenta Lecha Kaczy&#324;skiego \/ Sandomierska",
+        "kierunki": "59 -> Kapu&#347;ciska ZaT7 -> Kapu&#347;ciska#59 -> B&#322;onie ZaT7 -> Most Kazimierza Wielkiego"
+    },
+    {
+        "nazwa": "Przemys&#322;owa",
+        "kierunki": "64 -> Barwna 81 -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Przemys&#322;owa \/ Os. Rzemie&#347;lnicze",
+        "kierunki": "64 -> Przemys&#322;owa#64 -> Barwna"
+    },
+    {
+        "nazwa": "Przemys&#322;owa \/ Portowa",
+        "kierunki": "64 -> Przemys&#322;owa#64 -> Barwna"
+    },
+    {
+        "nazwa": "Przemys&#322;owa \/ Przejazd",
+        "kierunki": "81 -> Przemys&#322;owa#81 -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Przemys&#322;owa \/ Tartak",
+        "kierunki": "64 -> Przemys&#322;owa#64 -> Barwna"
+    },
+    {
+        "nazwa": "Przylesie",
+        "kierunki": "3 -> &#321;osko&#324; 5 -> &#321;osko&#324; 7 -> Niepodleg&#322;o&#347;ci (p&#281;tla) 10 -> Niepodleg&#322;o&#347;ci (p&#281;tla)#3 -> Wilczak 5 -> Rycerska 7 -> Zajezdnia Tramwajowa 10 -> Las Gda&#324;ski#81 -> Tatrza&#324;skie 82 -> Tatrza&#324;skie 83 -> Czy&#380;k&oacute;wko 89 -> B&#322;onie 31N -> &#321;osko&#324; / Zajezdnia 32N -> Dworzec B&#322;onie#69 -> B&#322;onie 81 -> Skandynawska / Ikea 31N -> Dworzec Le&#347;ne#69 -> Tatrza&#324;skie 82 -> Zamczysko (p&#281;tla) 83 -> Tatrza&#324;skie 89 -> Tatrza&#324;skie 98 -> Przylesie 32N -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Przy&#322;&#281;ki \/ Wodna",
+        "kierunki": "91 -> Przy&#322;&#281;ki 96 -> Przy&#322;&#281;ki#91 -> B&#322;onie 96 -> B&#322;onie"
+    },
+    {
+        "nazwa": "Przy&#322;&#281;ki \/ Biznesowa",
+        "kierunki": "91 -> Przy&#322;&#281;ki 96 -> Przy&#322;&#281;ki#91 -> B&#322;onie 96 -> B&#322;onie"
+    },
+    {
+        "nazwa": "Przy&#322;&#281;ki \/ Cicha",
+        "kierunki": "91 -> Przy&#322;&#281;ki 96 -> Przy&#322;&#281;ki#91 -> B&#322;onie 96 -> B&#322;onie"
+    },
+    {
+        "nazwa": "Przy&#322;&#281;ki \/ Ko&#347;ci&oacute;&#322;",
+        "kierunki": "91 -> Przy&#322;&#281;ki 96 -> Przy&#322;&#281;ki#91 -> B&#322;onie 96 -> B&#322;onie"
+    },
+    {
+        "nazwa": "Przy&#322;&#281;ki \/ M&#322;y&#324;ska",
+        "kierunki": "91 -> B&#322;onie 91 -> Przy&#322;&#281;ki 96 -> B&#322;onie 96 -> Przy&#322;&#281;ki"
+    },
+    {
+        "nazwa": "Rejewskiego \/ Akademicka",
+        "kierunki": "69 -> B&#322;onie 73 -> Kapu&#347;ciska 81 -> Skandynawska / Ikea"
+    },
+    {
+        "nazwa": "Rejewskiego \/ Auchan",
+        "kierunki": "69 -> Tatrza&#324;skie 73 -> Eskulapa 81 -> Tatrza&#324;skie 31N -> &#321;osko&#324; / Zajezdnia#69 -> B&#322;onie 73 -> Kapu&#347;ciska 81 -> Skandynawska / Ikea 31N -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Rekinowa",
+        "kierunki": "61 -> Kapu&#347;ciska 71 -> Morska 35N -> Plac Ko&#347;cieleckich"
+    },
+    {
+        "nazwa": "Romanowskiej \/ Akademicka",
+        "kierunki": "69 -> B&#322;onie 81 -> Skandynawska / Ikea"
+    },
+    {
+        "nazwa": "Rondo Fordo&#324;skie",
+        "kierunki": "2 -> Babia Wie&#347; 3 -> &#321;osko&#324; 4 -> Babia Wie&#347; 5 -> &#321;osko&#324; 6 -> &#321;&#281;gnowo 8 -> Zajezdnia Tramwajowa 10 -> Niepodleg&#322;o&#347;ci (p&#281;tla)#2 -> Las Gda&#324;ski 3 -> Wilczak 4 -> Bielawy 5 -> Rycerska 6 -> Bielawy 8 -> Rycerska 10 -> Las Gda&#324;ski#3 -> &#321;osko&#324; 5 -> &#321;osko&#324; 7 -> Niepodleg&#322;o&#347;ci (p&#281;tla) 10 -> Niepodleg&#322;o&#347;ci (p&#281;tla)#3 -> Wilczak 5 -> Rycerska 7 -> Zajezdnia Tramwajowa 10 -> Las Gda&#324;ski#65 -> Nad Wis&#322;&#261; 32N -> Tatrza&#324;skie#65 -> Dworzec Le&#347;ne 68 -> Dworzec Le&#347;ne 69 -> Tatrza&#324;skie 89 -> Tatrza&#324;skie#68 -> Glinki BFM 69 -> B&#322;onie 89 -> B&#322;onie#32N -> Dworzec B&#322;onie"
+    },
+    {
+        "nazwa": "Rondo Grunwaldzkie",
+        "kierunki": "1 -> Las Gda&#324;ski 3 -> &#321;osko&#324;#1 -> Wilczak 3 -> Wilczak#51 -> Czy&#380;k&oacute;wko 58 -> Smuka&#322;a 61 -> Rekinowa 71 -> Rekinowa 77 -> Niklowa 34N -> Smuka&#322;a 35N -> Rekinowa#54 -> Piaski 61 -> Rekinowa 61 -> Kapu&#347;ciska 62 -> Garbary 71 -> Morska 77 -> Morska 79 -> Rycerska 34N -> Plac Ko&#347;cieleckich 35N -> Plac Ko&#347;cieleckich#56 -> Belma 62 -> Belma 36N -> Lisia#51 -> Plac Ko&#347;cieleckich 54 -> B&#322;onie 56 -> Glinki BFM 58 -> Plac Ko&#347;cieleckich 61 -> Kapu&#347;ciska 79 -> Glinki 36N -> &#321;&#281;gnowo"
+    },
+    {
+        "nazwa": "Rondo Inowroc&#322;awskie",
+        "kierunki": "64 -> Przemys&#322;owa 69 -> Tatrza&#324;skie 80 -> Dworzec G&#322;&oacute;wny 89 -> Tatrza&#324;skie 32N -> Tatrza&#324;skie#80 -> Port Lotniczy (Airport)"
+    },
+    {
+        "nazwa": "Rondo Jagiellon&oacute;w",
+        "kierunki": "2 -> Babia Wie&#347; 3 -> &#321;osko&#324; 4 -> Babia Wie&#347; 5 -> &#321;osko&#324; 6 -> &#321;&#281;gnowo 8 -> Zajezdnia Tramwajowa 10 -> Niepodleg&#322;o&#347;ci (p&#281;tla)#2 -> Las Gda&#324;ski  3 -> Wilczak 4 -> Bielawy 5 -> Rycerska 6 -> Bielawy 8 -> Rycerska 10 -> Las Gda&#324;ski#51 -> Plac Ko&#347;cieleckich 52 -> B&#322;onie 55 -> Skorupki 58 -> Plac Ko&#347;cieleckich 59 -> B&#322;onie 60 -> B&#322;onie 64 -> Barwna 66 -> Rondo Jagiellon&oacute;w 80 -> Port Lotniczy (Airport)  31N -> Dworzec Le&#347;ne 31N -> &#321;osko&#324; / Zajezdnia 32N -> Dworzec B&#322;onie 32N -> Tatrza&#324;skie 33N -> Piaski 34N -> Plac Ko&#347;cieleckich 35N -> Plac Ko&#347;cieleckich 36N -> Lisia 36N -> &#321;&#281;gnowo#80 -> Dworzec G&#322;&oacute;wny 32N -> Tatrza&#324;skie#31N -> Dworzec Le&#347;ne 33N -> Piaski 34N -> Smuka&#322;a#55 -> Morska 59 -> Kapu&#347;ciska 60 -> Morska 64 -> Przemys&#322;owa 33N -> Tatrza&#324;skie#52 -> Dworzec Le&#347;ne 33N -> Tatrza&#324;skie#66 -> Rondo Jagiellon&oacute;w "
+    },
+    {
+        "nazwa": "Rondo Kujawskie",
+        "kierunki": "Przystanek nieczynny na czas przebudowy w&#281;z&#322;a Szarych Szereg&oacute;w#Przystanek nieczynny na czas przebudowy w&#281;z&#322;a Szarych Szereg&oacute;w#53 -> &#321;ukasiewicza 56 -> Glinki BFM 57 -> Dworzec G&#322;&oacute;wny 61 -> Kapu&#347;ciska 66 -> Rondo Jagiellon&oacute;w 79 -> Glinki  31N -> &#321;osko&#324; / Zajezdnia#56 -> Belma 64 -> Przemys&#322;owa 66 -> Rondo Jagiellon&oacute;w 80 -> Dworzec G&#322;&oacute;wny  31N -> Dworzec Le&#347;ne 36N -> &#321;&#281;gnowo#64 -> Przemys&#322;owa 69 -> Tatrza&#324;skie 80 -> Dworzec G&#322;&oacute;wny 89 -> Tatrza&#324;skie 32N -> Tatrza&#324;skie#64 -> Barwna 69 -> B&#322;onie 80 -> Port Lotniczny (Airport) 89 -> B&#322;onie 32N -> Dworzec B&#322;onie#53 -> Dworzec B&#322;onie 57 -> B&#322;onie 61 -> Rekinowa 79 -> Rycerska 36N -> Lisia"
+    },
+    {
+        "nazwa": "Rondo Maczka",
+        "kierunki": "51 -> Czy&#380;k&oacute;wko 58 -> Smuka&#322;a 83 -> Czy&#380;k&oacute;wko 34N -> Smuka&#322;a#51 -> Plac Ko&#347;cieleckich 58 -> Plac Ko&#347;cieleckich 34N -> Plac Ko&#347;cieleckich 35N -> Plac Ko&#347;cieleckich#61 -> Rekinowa 71 -> Rekinowa 77 -> Niklowa 35N -> Rekinowa#61 -> Kapu&#347;ciska 71 -> Morska 77 -> Morska#83 -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Rondo Ossoli&#324;skich",
+        "kierunki": "55 -> Morska 59 -> Kapu&#347;ciska 60 -> Morska 67 -> Sk&#322;odowskiej-Curie / &#321;&#281;czycka 33N -> Tatrza&#324;skie#55 -> Skorupki 59 -> B&#322;onie 60 -> B&#322;onie 67 -> Rycerska#52 -> Dworzec Le&#347;ne 64 -> Przemys&#322;owa"
+    },
+    {
+        "nazwa": "Rondo Skrzetuskie",
+        "kierunki": "65 -> Nad Wis&#322;&#261; 68 -> Glinki BFM 69 -> B&#322;onie 89 -> B&#322;onie#64 -> Barwna 65 -> Dworzec Le&#347;ne 68 -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Rondo Toru&#324;skie",
+        "kierunki": "6 -> &#321;&#281;gnowo 7 -> Zajezdnia Tramwajowa 8 -> Zajezdnia Tramwajowa#6 -> Bielawy 7 -> Niepodleg&#322;o&#347;ci (p&#281;tla) 8 -> Rycerska#2 -> Las Gda&#324;ski 4 -> Bielawy#2 -> Babia Wie&#347; 4 -> Babia Wie&#347;#68 -> Dworzec Le&#347;ne 69 -> Tatrza&#324;skie 89 -> Tatrza&#324;skie#68 -> Glinki BFM 69 -> B&#322;onie 89 -> B&#322;onie#76 -> &#321;&#281;gnowo 36N -> &#321;&#281;gnowo#36N -> Lisia"
+    },
+    {
+        "nazwa": "Rondo Toru&#324;skie (Be&#322;zy)",
+        "kierunki": "ZaT4 -> Glinki ZaT8 -> Kapu&#347;ciska"
+    },
+    {
+        "nazwa": "Rondo Wielkopolskie",
+        "kierunki": "64 -> Barwna 71 -> Rekinowa 77 -> Niklowa 33N -> Piaski#55 -> Morska 64 -> Przemys&#322;owa 71 -> Morska 77 -> Morska 33N -> Tatrza&#324;skie#55 -> Skorupki 57 -> B&#322;onie 80 -> Port Lotniczy (Airport)"
+    },
+    {
+        "nazwa": "Rycerska",
+        "kierunki": "57 -> B&#322;onie 80 -> Port Lotniczy (Airport)#5 -> &#321;osko&#324;#57 -> Dworzec G&#322;&oacute;wny 80 -> Dworzec G&#322;&oacute;wny#79 -> Glinki#8 -> Zajezdnia Tramwajowa#1 -> Las Gda&#324;ski#67 -> Rycerska 79 -> Rycerska#67 -> Sk&#322;odowskiej-Curie / &#321;&#281;czycka"
+    },
+    {
+        "nazwa": "Sanatorium",
+        "kierunki": "58 -> Smuka&#322;a 58 -> Plac Ko&#347;cieleckich 34N -> Smuka&#322;a"
+    },
+    {
+        "nazwa": "Saper&oacute;w \/ Czo&#322;gist&oacute;w",
+        "kierunki": "54 -> Piaski 33N -> Piaski#54 -> B&#322;onie 33N -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Saper&oacute;w \/ K&#261;pielisko",
+        "kierunki": "54 -> Piaski 33N -> Piaski#54 -> B&#322;onie 33N -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Saper&oacute;w \/ Komandos&oacute;w",
+        "kierunki": "54 -> Piaski 33N -> Piaski#54 -> B&#322;onie 33N -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Saper&oacute;w \/ Ludwikowo",
+        "kierunki": "54 -> Piaski 33N -> Piaski#54 -> B&#322;onie 33N -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Saper&oacute;w \/ Zak&#261;tek",
+        "kierunki": "54 -> Piaski 33N -> Piaski#54 -> B&#322;onie 33N -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Schulza \/ Stawowa",
+        "kierunki": "53 -> Dworzec B&#322;onie 57 -> Dworzec G&#322;&oacute;wny 32N -> Dworzec B&#322;onie#53 -> &#321;ukasiewicza 57 -> B&#322;onie 32N -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Schulza \/ Szubi&#324;ska",
+        "kierunki": "53 -> &#321;ukasiewicza 32N -> Tatrza&#324;skie#53 -> Dworzec B&#322;onie"
+    },
+    {
+        "nazwa": "Skandynawska \/ Ikea",
+        "kierunki": "74 -> Tatrza&#324;skie 81 -> Tor Regatowy 33N -> Tatrza&#324;skie#74 -> Wy&#347;cigowa 81 -> Tatrza&#324;skie 33N -> Piaski"
+    },
+    {
+        "nazwa": "Skar&#380;y&#324;skiego \/ Kwiatkowskiego",
+        "kierunki": "74 -> Tatrza&#324;skie 81 -> Skandynawska / Ikea 82 -> Zamczysko (p&#281;tla)"
+    },
+    {
+        "nazwa": "Skar&#380;y&#324;skiego \/ Twardzickiego",
+        "kierunki": "74 -> Wy&#347;cigowa 81 -> Tatrza&#324;skie 82 -> Tatrza&#324;skie#74 -> Tatrza&#324;skie 81 -> Skandynawska / Ikea 82 -> Zamczysko (p&#281;tla)"
+    },
+    {
+        "nazwa": "Sk&#322;odowskiej-Curie \/ Ba&#322;tycka",
+        "kierunki": "59 -> Kapu&#347;ciska 64 -> Przemys&#322;owa 67 -> Sk&#322;odowskiej-Curie / &#321;&#281;czycka 69 -> Tatrza&#324;skie 89 -> Tatrza&#324;skie 33N -> Tatrza&#324;skie#59 -> B&#322;onie 60 -> B&#322;onie 64 -> Barwna 67 -> Rycerska 69 -> B&#322;onie 89 -> B&#322;onie"
+    },
+    {
+        "nazwa": "Sk&#322;odowskiej-Curie \/ Gajowa",
+        "kierunki": "59 -> Kapu&#347;ciska 60 -> Morska 64 -> Przemys&#322;owa 67 -> Sk&#322;odowskiej-Curie / &#321;&#281;czycka 69 -> Tatrza&#324;skie 89 -> Tatrza&#324;skie#59 -> B&#322;onie 60 -> B&#322;onie 64 -> Barwna 67 -> Rycerska 69 -> B&#322;onie 89 -> B&#322;onie"
+    },
+    {
+        "nazwa": "Sk&#322;odowskiej-Curie \/ Jurasza",
+        "kierunki": "59 -> Kapu&#347;ciska 60 -> Morska 67 -> Sk&#322;odowskiej-Curie / &#321;&#281;czycka#59 -> B&#322;onie 60 -> B&#322;onie 67 -> Rycerska"
+    },
+    {
+        "nazwa": "Sk&#322;odowskiej-Curie \/ &#321;&#281;czycka",
+        "kierunki": "59 -> B&#322;onie 64 -> Barwna 67 -> Rycerska 69 -> B&#322;onie 89 -> B&#322;onie 33N -> Piaski#59 -> Kapu&#347;ciska 64 -> Przemys&#322;owa 67 -> Sk&#322;odowskiej-Curie / &#321;&#281;czycka 69 -> Tatrza&#324;skie 89 -> Tatrza&#324;skie 33N -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Skorupki",
+        "kierunki": "32N -> Tatrza&#324;skie#55 -> Morska 32N -> Dworzec B&#322;onie"
+    },
+    {
+        "nazwa": "Skorupki \/ Czackiego",
+        "kierunki": "55 -> Skorupki 32N -> Tatrza&#324;skie#55 -> Morska 32N -> Dworzec B&#322;onie"
+    },
+    {
+        "nazwa": "Skorupki \/ Jordanowska",
+        "kierunki": "61 -> Kapu&#347;ciska#61 -> Rekinowa"
+    },
+    {
+        "nazwa": "Skorupki \/ Orla",
+        "kierunki": "61 -> Kapu&#347;ciska#61 -> Rekinowa"
+    },
+    {
+        "nazwa": "Smole&#324;ska \/ Budowlana",
+        "kierunki": "76 -> &#321;&#281;gnowo#76 -> Rondo Toru&#324;skie"
+    },
+    {
+        "nazwa": "Smole&#324;ska \/ Kielecka",
+        "kierunki": "76 -> &#321;&#281;gnowo#76 -> Rondo Toru&#324;skie"
+    },
+    {
+        "nazwa": "Smole&#324;ska \/ Pi&#324;czowska",
+        "kierunki": "76 -> &#321;&#281;gnowo#76 -> Rondo Toru&#324;skie"
+    },
+    {
+        "nazwa": "Smukalska \/ Agrestowa",
+        "kierunki": "54 -> Smuka&#322;a#54 -> B&#322;onie"
+    },
+    {
+        "nazwa": "Smukalska \/ Baranowskiego",
+        "kierunki": "54 -> B&#322;onie#54 -> Smuka&#322;a"
+    },
+    {
+        "nazwa": "Smukalska \/ B&#322;&#261;dzimska",
+        "kierunki": "54 -> B&#322;onie 33N -> Tatrza&#324;skie#54 -> Piaski 33N -> Piaski"
+    },
+    {
+        "nazwa": "Smukalska \/ Sanktuarium",
+        "kierunki": "54 -> Smuka&#322;a#54 -> B&#322;onie"
+    },
+    {
+        "nazwa": "Smuka&#322;a",
+        "kierunki": "54 -> B&#322;onie 58 -> Plac Ko&#347;cieleckich 34N -> Plac Ko&#347;cieleckich"
+    },
+    {
+        "nazwa": "Solskiego \/ Bielicka",
+        "kierunki": "53 -> &#321;ukasiewicza 57 -> Dworzec G&#322;&oacute;wny 79 -> Glinki 36N -> &#321;&#281;gnowo#53 -> Dworzec B&#322;onie 57 -> B&#322;onie 79 -> Rycerska"
+    },
+    {
+        "nazwa": "Solskiego \/ Kossaka",
+        "kierunki": "53 -> &#321;ukasiewicza 55 -> Skorupki 57 -> Dworzec G&#322;&oacute;wny 79 -> Glinki 32N -> Tatrza&#324;skie#53 -> Dworzec B&#322;onie 55 -> Morska 57 -> B&#322;onie 79 -> Rycerska 32N -> Dworzec B&#322;onie"
+    },
+    {
+        "nazwa": "Solskiego \/ Ugory",
+        "kierunki": "53 -> &#321;ukasiewicza 57 -> Dworzec G&#322;&oacute;wny 61 -> Kapu&#347;ciska 79 -> Glinki 36N -> &#321;&#281;gnowo#53 -> Dworzec B&#322;onie 57 -> B&#322;onie 79 -> Rycerska 36N -> Lisia"
+    },
+    {
+        "nazwa": "Spi&#380;owa \/ O&#322;owiana",
+        "kierunki": "77 -> Niklowa 35N -> Rekinowa"
+    },
+    {
+        "nazwa": "Spokojna",
+        "kierunki": "ZaT4 -> Rondo Toru&#324;skie (Be&#322;zy) ZaT8 -> Rondo Toru&#324;skie (Be&#322;zy)"
+    },
+    {
+        "nazwa": "Sporna \/ Toru&#324;ska",
+        "kierunki": "73 -> Kapu&#347;ciska"
+    },
+    {
+        "nazwa": "Sp&oacute;&#322;dzielcza",
+        "kierunki": "73 -> Kapu&#347;ciska 36N -> &#321;&#281;gnowo"
+    },
+    {
+        "nazwa": "Srebrna \/ Spi&#380;owa",
+        "kierunki": "77 -> Morska#77 -> Niklowa 35N -> Rekinowa"
+    },
+    {
+        "nazwa": "Srebrna \/ Stalowa",
+        "kierunki": "77 -> Morska#77 -> Niklowa 35N -> Rekinowa"
+    },
+    {
+        "nazwa": "Stadion Zawisza",
+        "kierunki": "1 -> Las Gda&#324;ski 2 -> Las Gda&#324;ski 10 -> Las Gda&#324;ski#1 -> Wilczak 2 -> Babia Wie&#347; 10 -> Niepodleg&#322;o&#347;ci (p&#281;tla)"
+    },
+    {
+        "nazwa": "Stawowa \/ 16 Pu&#322;ku U&#322;.Wlkp.",
+        "kierunki": "57 -> B&#322;onie"
+    },
+    {
+        "nazwa": "Stawowa \/ W&#322;adys&#322;awa IV",
+        "kierunki": "57 -> Dworzec G&#322;&oacute;wny#57 -> B&#322;onie"
+    },
+    {
+        "nazwa": "Stomil",
+        "kierunki": "6 -> &#321;&#281;gnowo#6 -> Bielawy#73 -> Kapu&#347;ciska 73 -> Eskulapa 36N -> Lisia 36N -> &#321;&#281;gnowo"
+    },
+    {
+        "nazwa": "Stroma \/ Kossaka",
+        "kierunki": "61 -> Kapu&#347;ciska 36N -> &#321;&#281;gnowo#61 -> Rekinowa 36N -> Lisia"
+    },
+    {
+        "nazwa": "Stroma \/ Orla",
+        "kierunki": "61 -> Kapu&#347;ciska 36N -> &#321;&#281;gnowo#61 -> Rekinowa 36N -> Lisia"
+    },
+    {
+        "nazwa": "Strzelce Dolne II",
+        "kierunki": "95 -> Tatrza&#324;skie 97 -> Tatrza&#324;skie#97 -> Kozielec (p&#281;tla)"
+    },
+    {
+        "nazwa": "Strzelce Dolne III",
+        "kierunki": "95 -> Tatrza&#324;skie 97 -> Tatrza&#324;skie#97 -> Kozielec (p&#281;tla)"
+    },
+    {
+        "nazwa": "Strzelce G&oacute;rne \/ Diamentowa",
+        "kierunki": "95 -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Strzelce G&oacute;rne \/ G&#261;decka",
+        "kierunki": "97 -> Kozielec (p&#281;tla)#97 -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Strzelce G&oacute;rne \/ Go&#322;&#281;bia",
+        "kierunki": "95 -> Tatrza&#324;skie 97 -> Tatrza&#324;skie#97 -> Kozielec (p&#281;tla)"
+    },
+    {
+        "nazwa": "Strzelce G&oacute;rne \/ Jaworowa",
+        "kierunki": "93 -> Wilcze#93 -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Strzelce G&oacute;rne \/ Szkolna",
+        "kierunki": "95 -> Tatrza&#324;skie 97 -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Strzelce G&oacute;rne \/ Wilcza",
+        "kierunki": "95 -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Su&#322;kowskiego \/ Czerkaska",
+        "kierunki": "52 -> B&#322;onie 65 -> Nad Wis&#322;&#261; 68 -> Glinki BFM 31N -> &#321;osko&#324; / Zajezdnia#52 -> Dworzec Le&#347;ne 65 -> Dworzec Le&#347;ne 68 -> Dworzec Le&#347;ne 31N -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Su&#322;kowskiego \/ Kamienna",
+        "kierunki": "52 -> Dworzec Le&#347;ne 57 -> Dworzec G&#322;&oacute;wny 65 -> Dworzec Le&#347;ne 68 -> Dworzec Le&#347;ne 80 -> Dworzec G&#322;&oacute;wny #52 -> B&#322;onie 57 -> B&#322;onie 65 -> Nad Wis&#322;&#261; 68 -> Glinki BFM 80 -> Port Lotniczy (Airport)"
+    },
+    {
+        "nazwa": "Szarych Szereg&oacute;w",
+        "kierunki": "Przystanek nieczynny na czas przebudowy w&#281;z&#322;a Szarych Szereg&oacute;w#Przystanek nieczynny na czas przebudowy w&#281;z&#322;a Szarych Szereg&oacute;w#Przystanek nieczynny na czas przebudowy w&#281;z&#322;a Szarych Szereg&oacute;w#Przystanek nieczynny na czas przebudowy w&#281;z&#322;a Szarych Szereg&oacute;w"
+    },
+    {
+        "nazwa": "Szpitalna \/ &#321;om&#380;y&#324;ska",
+        "kierunki": "Przystanek nieczynny na czas przebudowy w&#281;z&#322;a Szarych Szereg&oacute;w#Przystanek nieczynny na czas przebudowy w&#281;z&#322;a Szarych Szereg&oacute;w#ZaT4 -> Rondo Toru&#324;skie (Be&#322;zy) 31N -> &#321;osko&#324; / Zajezdnia#ZaT4 -> Glinki 31N -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Szpitalna \/ Solna",
+        "kierunki": "Przystanek nieczynny na czas przebudowy w&#281;z&#322;a Szarych Szereg&oacute;w#Przystanek nieczynny na czas przebudowy w&#281;z&#322;a Szarych Szereg&oacute;w#ZaT4 -> Glinki#ZaT4 -> Rondo Toru&#324;skie (Be&#322;zy)"
+    },
+    {
+        "nazwa": "Szubi&#324;ska \/ Gnie&#378;nie&#324;ska",
+        "kierunki": "52 -> Dworzec Le&#347;ne 53 -> &#321;ukasiewicza 54 -> Piaski 59 -> Kapu&#347;ciska 60 -> Morska 32N -> Tatrza&#324;skie#52 -> B&#322;onie 53 -> Dworzec B&#322;onie 54 -> B&#322;onie 59 -> B&#322;onie 60 -> B&#322;onie 32N -> Dworzec B&#322;onie"
+    },
+    {
+        "nazwa": "Szubi&#324;ska \/ Pi&#281;kna",
+        "kierunki": "52 -> B&#322;onie 53 -> Dworzec B&#322;onie 54 -> B&#322;onie 59 -> B&#322;onie 60 -> B&#322;onie 32N -> Dworzec B&#322;onie#52 -> Dworzec Le&#347;ne 54 -> Piaski 55 -> Morska 59 -> Kapu&#347;ciska 60 -> Morska 79 -> Rycerska"
+    },
+    {
+        "nazwa": "Szubi&#324;ska \/ &#379;wirki i Wigury",
+        "kierunki": "52 -> Dworzec Le&#347;ne 53 -> &#321;ukasiewicza 54 -> Piaski 59 -> Kapu&#347;ciska 60 -> Morska 64 -> Przemys&#322;owa 69 -> Tatrza&#324;skie 89 -> Tatrza&#324;skie 32N -> Tatrza&#324;skie#52 -> B&#322;onie 53 -> Dworzec B&#322;onie 54 -> B&#322;onie 59 -> B&#322;onie 60 -> B&#322;onie 32N -> Dworzec B&#322;onie#64 -> Barwna 69 -> B&#322;onie 89 -> B&#322;onie"
+    },
+    {
+        "nazwa": "&#346;niadeckich \/ Gda&#324;ska",
+        "kierunki": "67 -> Sk&#322;odowskiej-Curie / &#321;&#281;czycka"
+    },
+    {
+        "nazwa": "&#346;niadeckich \/ Sienkiewicza",
+        "kierunki": "67 -> Sk&#322;odowskiej-Curie / &#321;&#281;czycka"
+    },
+    {
+        "nazwa": "&#346;wietlicowa",
+        "kierunki": "73 -> Eskulapa 36N -> Lisia"
+    },
+    {
+        "nazwa": "Tatrza&#324;skie",
+        "kierunki": "69 -> B&#322;onie 83 -> Czy&#380;k&oacute;wko 89 -> B&#322;onie 32N -> Dworzec B&#322;onie#74 -> Wy&#347;cigowa 33N -> Piaski#81 -> Skandynawska / Ikea 82 -> Zamczysko (p&#281;tla) 95 -> Tatrza&#324;skie 97 -> Kozielec (p&#281;tla)#69 -> Tatrza&#324;skie 74 -> Tatrza&#324;skie 83 -> Tatrza&#324;skie 32N -> Tatrza&#324;skie#81 -> Tatrza&#324;skie 82 -> Tatrza&#324;skie 97 -> Tatrza&#324;skie#33N -> &#321;osko&#324; / Zajezdnia#89 -> Tatrza&#324;skie 32N -> &#321;osko&#324; / Zajezdnia"
+    },
+    {
+        "nazwa": "Tor Regatowy",
+        "kierunki": "74 -> Tatrza&#324;skie 81 -> Przemys&#322;owa 33N -> Tatrza&#324;skie#74 -> Wy&#347;cigowa 81 -> Tatrza&#324;skie 33N -> Piaski"
+    },
+    {
+        "nazwa": "Toru&#324;ska \/ Filmowa",
+        "kierunki": "6 -> &#321;&#281;gnowo 7 -> Zajezdnia Tramwajowa 8 -> Zajezdnia Tramwajowa#6 -> Bielawy 7 -> Niepodleg&#322;o&#347;ci (p&#281;tla) 8 -> Rycerska"
+    },
+    {
+        "nazwa": "Toru&#324;ska \/ Hala",
+        "kierunki": "2 -> Las Gda&#324;ski 4 -> Bielawy#2 -> Babia Wie&#347; 4 -> Babia Wie&#347;"
+    },
+    {
+        "nazwa": "Toru&#324;ska \/ Kazimierza Wielkiego",
+        "kierunki": "6 -> &#321;&#281;gnowo 7 -> Zajezdnia Tramwajowa 8 -> Zajezdnia Tramwajowa#6 -> Bielawy 7 -> Niepodleg&#322;o&#347;ci (p&#281;tla) 8 -> Rycerska#36N -> &#321;&#281;gnowo"
+    },
+    {
+        "nazwa": "Toru&#324;ska \/ Kielecka",
+        "kierunki": "6 -> &#321;&#281;gnowo#6 -> Bielawy#36N -> &#321;&#281;gnowo#31N -> Dworzec Le&#347;ne 36N -> Lisia"
+    },
+    {
+        "nazwa": "Toru&#324;ska \/ &#321;uczniczki",
+        "kierunki": "76 -> &#321;&#281;gnowo 36N -> &#321;&#281;gnowo#76 -> Rondo Toru&#324;skie 36N -> Lisia"
+    },
+    {
+        "nazwa": "Toru&#324;ska \/ Per&#322;owa",
+        "kierunki": "6 -> &#321;&#281;gnowo 7 -> Zajezdnia Tramwajowa 8 -> Zajezdnia Tramwajowa#6 -> Bielawy 7 -> Niepodleg&#322;o&#347;ci (p&#281;tla) 8 -> Rycerska#76 -> Rondo Toru&#324;skie"
+    },
+    {
+        "nazwa": "Toru&#324;ska \/ Przy&#322;ubska",
+        "kierunki": "73 -> Kapu&#347;ciska 36N -> &#321;&#281;gnowo#73 -> Eskulapa 36N -> Lisia"
+    },
+    {
+        "nazwa": "Toru&#324;ska \/ R&oacute;wna",
+        "kierunki": "6 -> &#321;&#281;gnowo#6 -> Bielawy#31N -> Dworzec Le&#347;ne 36N -> &#321;&#281;gnowo#31N -> &#321;osko&#324; / Zajezdnia 36N -> Lisia"
+    },
+    {
+        "nazwa": "Toru&#324;ska \/ Spokojna",
+        "kierunki": "76 -> &#321;&#281;gnowo"
+    },
+    {
+        "nazwa": "Toru&#324;ska \/ Sporna",
+        "kierunki": "6 -> &#321;&#281;gnowo#6 -> Bielawy#73 -> Eskulapa 36N -> Lisia"
+    },
+    {
+        "nazwa": "Toru&#324;ska \/ Stomil (brama)",
+        "kierunki": "6 -> &#321;&#281;gnowo#6 -> Bielawy#73 -> Kapu&#347;ciska 36N -> &#321;&#281;gnowo#73 -> Eskulapa 36N -> Lisia"
+    },
+    {
+        "nazwa": "Toru&#324;ska \/ Tor awaryjny",
+        "kierunki": "6 -> &#321;&#281;gnowo#6 -> Bielawy"
+    },
+    {
+        "nazwa": "Toru&#324;ska \/ Wie&#380;a Ci&#347;nie&#324;",
+        "kierunki": "73 -> Kapu&#347;ciska 36N -> &#321;&#281;gnowo#73 -> Eskulapa 36N -> Lisia"
+    },
+    {
+        "nazwa": "Toru&#324;ska \/ Wypaleniska",
+        "kierunki": "73 -> Kapu&#347;ciska 36N -> &#321;&#281;gnowo#73 -> Eskulapa 36N -> Lisia"
+    },
+    {
+        "nazwa": "Toru&#324;ska \/ Zajezdnia Tramwajowa",
+        "kierunki": "6 -> &#321;&#281;gnowo #6 -> Bielawy #31N -> Dworzec Le&#347;ne 36N -> &#321;&#281;gnowo#31N -> &#321;osko&#324; / Zajezdnia 36N -> Lisia"
+    },
+    {
+        "nazwa": "Toru&#324;ska \/ &#379;upy",
+        "kierunki": "2 -> Las Gda&#324;ski 4 -> Bielawy#2 -> Babia Wie&#347; 4 -> Babia Wie&#347;#36N -> &#321;&#281;gnowo#36N -> Lisia"
+    },
+    {
+        "nazwa": "Trybowskiego \/ Jasiniecka",
+        "kierunki": "73 -> Kapu&#347;ciska 82 -> Tatrza&#324;skie 82 -> Zamczysko (p&#281;tla)"
+    },
+    {
+        "nazwa": "Trybowskiego \/ Majtkowskiego",
+        "kierunki": "73 -> Kapu&#347;ciska 82 -> Tatrza&#324;skie 82 -> Zamczysko (p&#281;tla)#73 -> Eskulapa 82 -> Zamczysko (p&#281;tla)"
+    },
+    {
+        "nazwa": "Trybowskiego \/ Matki Teresy z Kalkuty",
+        "kierunki": "73 -> Kapu&#347;ciska 82 -> Tatrza&#324;skie 82 -> Zamczysko (p&#281;tla)#73 -> Eskulapa"
+    },
+    {
+        "nazwa": "Trzciniec \/ Sarnia",
+        "kierunki": "96 -> Przy&#322;&#281;ki#96 -> B&#322;onie"
+    },
+    {
+        "nazwa": "Trz&#281;sacz I",
+        "kierunki": "97 -> Kozielec (p&#281;tla)#97 -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Trz&#281;sacz II",
+        "kierunki": "97 -> Kozielec (p&#281;tla)#97 -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Twardzickiego \/ Kleina",
+        "kierunki": "69 -> Tatrza&#324;skie 83 -> Tatrza&#324;skie 89 -> Tatrza&#324;skie 32N -> Tatrza&#324;skie#69 -> B&#322;onie 83 -> Czy&#380;k&oacute;wko 89 -> B&#322;onie 32N -> Dworzec B&#322;onie"
+    },
+    {
+        "nazwa": "Twardzickiego \/ &#321;ochowskiego",
+        "kierunki": "69 -> Tatrza&#324;skie 83 -> Tatrza&#324;skie 89 -> Tatrza&#324;skie 32N -> Tatrza&#324;skie#69 -> B&#322;onie 83 -> Czy&#380;k&oacute;wko 89 -> B&#322;onie 32N -> Dworzec B&#322;onie"
+    },
+    {
+        "nazwa": "Twardzickiego \/ Przybory",
+        "kierunki": "69 -> Tatrza&#324;skie 81 -> Tatrza&#324;skie 82 -> Tatrza&#324;skie 83 -> Tatrza&#324;skie 89 -> Tatrza&#324;skie 32N -> Tatrza&#324;skie#69 -> B&#322;onie 81 -> Skandynawska / Ikea 82 -> Zamczysko (p&#281;tla) 83 -> Czy&#380;k&oacute;wko 89 -> B&#322;onie 32N -> Dworzec B&#322;onie"
+    },
+    {
+        "nazwa": "Twardzickiego \/ Thommee",
+        "kierunki": "69 -> Tatrza&#324;skie 83 -> Tatrza&#324;skie 89 -> Tatrza&#324;skie 32N -> Tatrza&#324;skie#69 -> B&#322;onie 83 -> Czy&#380;k&oacute;wko 89 -> B&#322;onie 32N -> Dworzec B&#322;onie"
+    },
+    {
+        "nazwa": "Twardzickiego \/ Witosa",
+        "kierunki": "69 -> Tatrza&#324;skie 81 -> Tatrza&#324;skie 82 -> Tatrza&#324;skie 83 -> Tatrza&#324;skie 89 -> Tatrza&#324;skie 32N -> Tatrza&#324;skie#69 -> B&#322;onie 81 -> Skandynawska / Ikea 82 -> Zamczysko (p&#281;tla) 83 -> Czy&#380;k&oacute;wko 89 -> B&#322;onie 32N -> Dworzec B&#322;onie"
+    },
+    {
+        "nazwa": "Ugory \/ Nowodworska",
+        "kierunki": "61 -> Kapu&#347;ciska#61 -> Rekinowa"
+    },
+    {
+        "nazwa": "Ugory \/ Solskiego",
+        "kierunki": "61 -> Rekinowa"
+    },
+    {
+        "nazwa": "UKW",
+        "kierunki": "52 -> Dworzec Le&#347;ne 57 -> Dworzec G&#322;&oacute;wny 65 -> Dworzec Le&#347;ne 68 -> Dworzec Le&#347;ne 80 -> Dworzec G&#322;&oacute;wny #52 -> B&#322;onie 57 -> B&#322;onie 65 -> Nad Wis&#322;&#261; 68 -> Glinki BFM 80 -> Port Lotniczy (Airport)#4 -> Bielawy 6 -> Bielawy#4 -> Babia Wie&#347; 6 -> &#321;&#281;gnowo"
+    },
+    {
+        "nazwa": "Warszawska \/ Fredry",
+        "kierunki": "54 -> Piaski 79 -> Rycerska 31N -> Dworzec Le&#347;ne 33N -> Piaski"
+    },
+    {
+        "nazwa": "W&#261;brzeska",
+        "kierunki": "66 -> Rondo Jagiellon&oacute;w"
+    },
+    {
+        "nazwa": "Wiejska \/ Chojnicka",
+        "kierunki": "51 -> Czy&#380;k&oacute;wko 34N -> Smuka&#322;a#51 -> Plac Ko&#347;cieleckich 34N -> Plac Ko&#347;cieleckich"
+    },
+    {
+        "nazwa": "Wiejska \/ Deszczowa",
+        "kierunki": "51 -> Plac Ko&#347;cieleckich 34N -> Plac Ko&#347;cieleckich"
+    },
+    {
+        "nazwa": "Wiejska \/ Kraje&#324;ska",
+        "kierunki": "51 -> Czy&#380;k&oacute;wko 34N -> Smuka&#322;a"
+    },
+    {
+        "nazwa": "Wi&#281;cka \/ &#321;owicka",
+        "kierunki": "74 -> Tatrza&#324;skie 81 -> Tor Regatowy 33N -> Tatrza&#324;skie#74 -> Wy&#347;cigowa 81 -> Tatrza&#324;skie 33N -> Piaski"
+    },
+    {
+        "nazwa": "Wilczak",
+        "kierunki": "1 -> Las Gda&#324;ski 3 -> &#321;osko&#324;#1 -> Wilczak#56 -> Belma 62 -> Belma 36N -> Lisia#56 -> Glinki BFM 62 -> Garbary 36N -> &#321;&#281;gnowo"
+    },
+    {
+        "nazwa": "Wilcze \/ Gdy&#324;ska",
+        "kierunki": "93 -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Wilcze \/ Krakowska",
+        "kierunki": "93 -> Wilcze / Gdy&#324;ska#93 -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Witebska \/ Gazbud",
+        "kierunki": "81 -> Tatrza&#324;skie#81 -> Przemys&#322;owa"
+    },
+    {
+        "nazwa": "Witebska \/ Wschodnia",
+        "kierunki": "74 -> Tatrza&#324;skie 33N -> Tatrza&#324;skie#74 -> Wy&#347;cigowa 33N -> Piaski"
+    },
+    {
+        "nazwa": "W&#322;adys&#322;awa IV \/ Czerwonego Krzy&#380;a",
+        "kierunki": "64 -> Przemys&#322;owa#64 -> Barwna"
+    },
+    {
+        "nazwa": "W&#322;adys&#322;awa IV \/ Stawowa",
+        "kierunki": "64 -> Przemys&#322;owa#64 -> Barwna"
+    },
+    {
+        "nazwa": "W&#322;&oacute;ki",
+        "kierunki": "97 -> Kozielec (p&#281;tla)#97 -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Wojska Polskiego \/ Dziatkiewicza",
+        "kierunki": "59 -> B&#322;onie#59 -> &#321;&#281;gnowo"
+    },
+    {
+        "nazwa": "Wojska Polskiego \/ Hechli&#324;skiego",
+        "kierunki": "59 -> B&#322;onie#59 -> &#321;&#281;gnowo"
+    },
+    {
+        "nazwa": "Wojska Polskiego \/ Petersona",
+        "kierunki": "59 -> B&#322;onie#59 -> &#321;&#281;gnowo"
+    },
+    {
+        "nazwa": "Wojska Polskiego \/ Baczy&#324;skiego",
+        "kierunki": "59 -> &#321;&#281;gnowo 61 -> Rekinowa 31N -> &#321;osko&#324; / Zajezdnia#ZaT7 -> Most Kazimierza Wielkiego ZaT8 -> Rondo Toru&#324;skie (Be&#322;zy) 31N -> Dworzec Le&#347;ne#Przystanek nieczynny na czas przebudowy w&#281;z&#322;a Szarych Szereg&oacute;w#Przystanek nieczynny na czas przebudowy w&#281;z&#322;a Szarych Szereg&oacute;w"
+    },
+    {
+        "nazwa": "Wojska Polskiego \/ Ku Wiatrakom",
+        "kierunki": "Przystanek nieczynny na czas przebudowy w&#281;z&#322;a Szarych Szereg&oacute;w#Przystanek nieczynny na czas przebudowy w&#281;z&#322;a Szarych Szereg&oacute;w"
+    },
+    {
+        "nazwa": "Wojska Polskiego \/ Prezydenta Lecha Kaczy&#324;skiego",
+        "kierunki": "53 -> &#321;ukasiewicza 59 -> Kapu&#347;ciska 61 -> Kapu&#347;ciska ZaT7 -> Kapu&#347;ciska ZaT8 -> Kapu&#347;ciska 31N -> &#321;osko&#324; / Zajezdnia#53 -> Dworzec B&#322;onie 59 -> B&#322;onie 61 -> Rekinowa ZaT7 -> Most Kazimierza Wielkiego ZaT8 -> Rondo Toru&#324;skie (Be&#322;zy) 31N -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Wojska Polskiego \/ Szarych Szereg&oacute;w",
+        "kierunki": "53 -> &#321;ukasiewicza 61 -> Kapu&#347;ciska ZaT8 -> Kapu&#347;ciska 31N -> &#321;osko&#324; / Zajezdnia#53 -> Dworzec B&#322;onie 61 -> Rekinowa ZaT8 -> Rondo Toru&#324;skie (Be&#322;zy) 31N -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Wojska Polskiego \/ Ujejskiego",
+        "kierunki": "Przystanek nieczynny na czas przebudowy w&#281;z&#322;a Szarych Szereg&oacute;w#Przystanek nieczynny na czas przebudowy w&#281;z&#322;a Szarych Szereg&oacute;w#53 -> &#321;ukasiewicza 56 -> Glinki BFM 61 -> Kapu&#347;ciska 66 -> Rondo Jagiellon&oacute;w 68 -> Glinki BFM 69 -> Tatrza&#324;skie 79 -> Glinki  89 -> Tatrza&#324;skie 31N -> &#321;osko&#324; / Zajezdnia#53 -> Dworzec B&#322;onie 56 -> Belma 61 -> Rekinowa 66 -> Rondo Jagiellon&oacute;w 69 -> B&#322;onie 79 -> Rycerska 89 -> B&#322;onie  31N -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Wojska Polskiego \/ K&#322;adka",
+        "kierunki": "Przystanek nieczynny na czas przebudowy w&#281;z&#322;a Szarych Szereg&oacute;w#Przystanek nieczynny na czas przebudowy w&#281;z&#322;a Szarych Szereg&oacute;w#53 -> &#321;ukasiewicza 56 -> Glinki BFM 61 -> Kapu&#347;ciska 66 -> Rondo Jagiellon&oacute;w 68 -> Glinki BFM 79 -> Glinki  31N -> &#321;osko&#324; / Zajezdnia#53 -> Dworzec B&#322;onie 56 -> Belma 61 -> Rekinowa 66 -> Rondo Jagiellon&oacute;w 68 -> Dworzec Le&#347;ne 79 -> Rycerska 31N -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "Wulffa \/ Eberhardta",
+        "kierunki": "59 -> B&#322;onie#5"
+    },
+    {
+        "nazwa": "Wysoka \/ Koszarowa",
+        "kierunki": "57 -> Dworzec G&#322;&oacute;wny"
+    },
+    {
+        "nazwa": "Wyszogrodzka \/ Opalowa",
+        "kierunki": "74 -> Tatrza&#324;skie 33N -> Tatrza&#324;skie#74 -> Wy&#347;cigowa 33N -> Piaski"
+    },
+    {
+        "nazwa": "Wyszy&#324;skiego \/ Powsta&#324;c&oacute;w Wielkopolskich",
+        "kierunki": "64 -> Przemys&#322;owa 65 -> Nad Wis&#322;&#261; 68 -> Glinki"
+    },
+    {
+        "nazwa": "Wy&#347;cigowa",
+        "kierunki": "74 -> Tatrza&#324;skie#74 -> Wy&#347;cigowa"
+    },
+    {
+        "nazwa": "Wyzwolenia \/ Brzegowa",
+        "kierunki": "95 -> Tatrza&#324;skie 97 -> Tatrza&#324;skie#97 -> Kozielec (p&#281;tla)"
+    },
+    {
+        "nazwa": "Wyzwolenia \/ Derdowskiego",
+        "kierunki": "82 -> Tatrza&#324;skie 33N -> Tatrza&#324;skie#82 -> Zamczysko (p&#281;tla) 33N -> Piaski"
+    },
+    {
+        "nazwa": "Wyzwolenia \/ Geodet&oacute;w",
+        "kierunki": "81 -> Tatrza&#324;skie 95 -> Tatrza&#324;skie 97 -> Tatrza&#324;skie#95 -> Tatrza&#324;skie 97 -> Kozielec (p&#281;tla)"
+    },
+    {
+        "nazwa": "Wyzwolenia \/ Komisariat",
+        "kierunki": "81 -> Skandynawska / Ikea 95 -> Tatrza&#324;skie 97 -> Kozielec (p&#281;tla) 32N -> &#321;osko&#324; / Zajezdnia 33N -> &#321;osko&#324; / Zajezdnia#81 -> Tatrza&#324;skie 95 -> Tatrza&#324;skie 97 -> Tatrza&#324;skie 32N -> Dworzec B&#322;onie 33N -> Piaski"
+    },
+    {
+        "nazwa": "Wyzwolenia \/ Styki",
+        "kierunki": "65 -> Nad Wis&#322;&#261; 81 -> Tatrza&#324;skie 82 -> Tatrza&#324;skie 33N -> Tatrza&#324;skie#65 -> Dworzec Le&#347;ne 81 -> Skandynawska / Ikea 82 -> Zamczysko (p&#281;tla) 33N -> Piaski"
+    },
+    {
+        "nazwa": "Wyzwolenia \/ Swobodna",
+        "kierunki": "65 -> Dworzec Le&#347;ne 81 -> Skandynawska / Ikea 82 -> Zamczysko (p&#281;tla) 33N -> Piaski#65 -> Nad Wis&#322;&#261; 81 -> Tatrza&#324;skie 82 -> Tatrza&#324;skie 33N -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Wy&#380;yny",
+        "kierunki": "Przystanek nieczynny na czas przebudowy w&#281;z&#322;a Szarych Szereg&oacute;w#Przystanek nieczynny na czas przebudowy w&#281;z&#322;a Szarych Szereg&oacute;w#53 -> Dworzec B&#322;onie 61 -> Rekinowa#53 -> &#321;ukasiewicza 61 -> Kapu&#347;ciska"
+    },
+    {
+        "nazwa": "Wzg&oacute;rze Wolno&#347;ci",
+        "kierunki": "Przystanek nieczynny na czas przebudowy w&#281;z&#322;a Szarych Szereg&oacute;w#Przystanek nieczynny na czas przebudowy w&#281;z&#322;a Szarych Szereg&oacute;w#53 -> &#321;ukasiewicza 56 -> Glinki BFM 61 -> Kapu&#347;ciska 66 -> Rondo Jagiellon&oacute;w 69 -> Tatrza&#324;skie 79 -> Glinki  89 -> Tatrza&#324;skie 31N -> &#321;osko&#324; / Zajezdnia#53 -> Dworzec B&#322;onie 56 -> Belma 57 -> B&#322;onie 61 -> Rekinowa 66 -> Rondo Jagiellon&oacute;w 69 -> B&#322;onie 79 -> Rycerska 89 -> B&#322;onie 31N -> Dworzec Le&#347;ne#57 -> Dworzec G&#322;&oacute;wny"
+    },
+    {
+        "nazwa": "Zajezdnia Tramwajowa",
+        "kierunki": "7-> Niepodleg&#322;o&#347;ci (p&#281;tla) 8 -> Rycerska"
+    },
+    {
+        "nazwa": "Zamczysko (p&#281;tla)",
+        "kierunki": "82 -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "Zamczysko \/ Armii Krajowej",
+        "kierunki": "52 -> B&#322;onie"
+    },
+    {
+        "nazwa": "Zamczysko \/ Gda&#324;ska",
+        "kierunki": "52 -> B&#322;onie#52 -> Podkowa"
+    },
+    {
+        "nazwa": "Za&#347;wiat \/ Artyleryjska",
+        "kierunki": "54 -> Piaski 57 -> B&#322;onie 80 -> Port Lotniczy (Airport)#54 -> B&#322;onie 57 -> Dworzec G&#322;&oacute;wny 80 -> Dworzec G&#322;&oacute;wny"
+    },
+    {
+        "nazwa": "Za&#347;wiat \/ Cmentarz",
+        "kierunki": "57 -> B&#322;onie 80 -> Port Lotniczy (Airport)#57 -> Dworzec G&#322;&oacute;wny 80 -> Dworzec G&#322;&oacute;wny"
+    },
+    {
+        "nazwa": "Zbo&#380;owy Rynek",
+        "kierunki": "51 -> Plac Ko&#347;cieleckich 56 -> Glinki BFM#52 -> B&#322;onie 55 -> Skorupki 56 -> Belma 59 -> B&#322;onie 60 -> B&#322;onie#52 -> Dworzec Le&#347;ne 55 -> Morska 58 -> Plac Ko&#347;cieleckich 59 -> Kapu&#347;ciska 60 -> Morska 35N -> Plac Ko&#347;cieleckich#66 -> Rondo Jagiellon&oacute;w 80 -> Port Lotniczy (Airport) #36N -> &#321;&#281;gnowo#36N -> Lisia"
+    },
+    {
+        "nazwa": "Zielonka \/ Bocianowo",
+        "kierunki": "91 -> B&#322;onie 91 -> Przy&#322;&#281;ki 96 -> B&#322;onie 96 -> Przy&#322;&#281;ki"
+    },
+    {
+        "nazwa": "Zielonka \/ Orzechowa",
+        "kierunki": "91 -> Przy&#322;&#281;ki 96 -> Przy&#322;&#281;ki#91 -> B&#322;onie 96 -> B&#322;onie"
+    },
+    {
+        "nazwa": "&#379;eglarska \/ Ludwikowo",
+        "kierunki": "54 -> Piaski 33N -> Piaski#54 -> B&#322;onie 33N -> Tatrza&#324;skie"
+    },
+    {
+        "nazwa": "&#379;o&#322;&#281;dowo \/ Augustowska",
+        "kierunki": "94 -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "&#379;o&#322;&#281;dowo \/ Koronowska",
+        "kierunki": "94 -> &#379;o&#322;&#281;dowo / Augustowska 98 -> Przylesie#94 -> Dworzec Le&#347;ne#94 -> Dworzec Le&#347;ne (p. Maksymilianowo) 98 -> Przylesie"
+    },
+    {
+        "nazwa": "&#379;o&#322;&#281;dowo \/ Przyjazna",
+        "kierunki": "94 -> &#379;o&#322;&#281;dowo / Augustowska#94 -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "&#379;o&#322;&#281;dowo \/ Szko&#322;a",
+        "kierunki": "94 -> &#379;o&#322;&#281;dowo / Augustowska#94 -> Dworzec Le&#347;ne"
+    },
+    {
+        "nazwa": "&#379;o&#322;&#281;dowo \/ Tulipanowa",
+        "kierunki": "98 -> Przylesie#98 -> Przylesie"
+    },
+    {
+        "nazwa": "&#379;wirki i Wigury \/ Jask&oacute;&#322;cza",
+        "kierunki": "64 -> Przemys&#322;owa 69 -> Tatrza&#324;skie 89 -> Tatrza&#324;skie#64 -> Barwna 69 -> B&#322;onie 89 -> B&#322;onie"
+    }
+]

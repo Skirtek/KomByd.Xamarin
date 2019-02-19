@@ -1,0 +1,495 @@
+[{"nazwa":"3 Maja \/ Markwarta","lat":"53.126633", "lng":"18.009787","typ":"A"}
+,{"nazwa":"Akademicka \/ Igrzyskowa","lat":"53.149047#53.148740#53.148635#53.148734", "lng":"18.136447#18.138067#18.137972#18.137937","typ":"A#A#T#T"}
+,{"nazwa":"Akademicka \/ Kaliskiego (UTP)","lat":"53.147812#53.147683#53.147950#53.147556", "lng":"18.130423#18.128392#18.130416#18.128544","typ":"A#A#T#T"}
+,{"nazwa":"Akademicka \/ Rejewskiego","lat":"53.142115#53.142197", "lng":"18.109048#18.108961","typ":"T#T"}
+,{"nazwa":"Akademicka \/ Romanowskiej","lat":"53.144596#53.144479#53.144300#53.144399", "lng":"18.118587#18.116647#18.116940#18.116890","typ":"A#A#T#T"}
+,{"nazwa":"Aleja &#379;o&#322;nierzy Wykl&#281;tych \/ Ciele","lat":"53.073137", "lng":"17.921152","typ":"A"}
+,{"nazwa":"Andersa \/ Gieryna","lat":"53.165668#53.165563", "lng":"18.171392#18.171172","typ":"T#T"}
+,{"nazwa":"Andersa \/ Kasztela&#324;ska","lat":"53.153779#53.154548", "lng":"18.160391#18.161610","typ":"A#A"}
+,{"nazwa":"Andersa \/ Kleeberga","lat":"53.150318#53.150836#53.150978#53.150997", "lng":"18.144435#18.146058#18.145876#18.145629","typ":"A#A#T#T"}
+,{"nazwa":"Andersa \/ Wolna","lat":"53.157626#53.157645#53.158115#53.157730", "lng":"18.163653#18.163467#18.163575#18.163516","typ":"T#T#A#A"}
+,{"nazwa":"Armii Krajowej \/ Je&#378;dziecka","lat":"53.17218", "lng":"18.05295","typ":"A"}
+,{"nazwa":"Armii Krajowej \/ Zamczysko","lat":"53.163186", "lng":"18.055345","typ":"A"}
+,{"nazwa":"Artyleryjska \/ Za&#347;wiat","lat":"53.139246#53.139344", "lng":"18.004077#18.002170","typ":"A#A"}
+,{"nazwa":"Babia Wie&#347;","lat":"53.1197642#53.1203304#53.1192414#53.119363", "lng":"18.0149904#18.0150947#18.0153817#18.015157","typ":"T#T#A#A"}
+,{"nazwa":"Baczy&#324;skiego \/ Sandomierska","lat":"53.1065469", "lng":"18.0593645","typ":"A"}
+,{"nazwa":"Baczy&#324;skiego \/ Wojska Polskiego","lat":"53.1042955", "lng":"18.0576402","typ":"A"}
+,{"nazwa":"Bajka","lat":"53.151746#53.151637#53.152689#53.1517943#53.1518220#53.151344", "lng":"18.152787#18.153909#18.154195#18.1536337#18.1534529#18.154552","typ":"A#A#A#T#T#A"}
+,{"nazwa":"Ba&#322;tycka \/ G&#322;owackiego","lat":"53.130072#53.129976", "lng":"18.049476#18.049225","typ":"A#A"}
+,{"nazwa":"Ba&#322;tycka \/ Sk&#322;odowskiej-Curie","lat":"53.1272677", "lng":"18.0485009","typ":"A"}
+,{"nazwa":"Barwna","lat":"53.1247440#53.1246996", "lng":"17.9637109#17.9629611","typ":"A#A"}
+,{"nazwa":"Belma","lat":"53.1251252", "lng":"17.8987373","typ":"A"}
+,{"nazwa":"Be&#322;zy \/ Spokojna","lat":"53.113451", "lng":"18.041995","typ":"A"}
+,{"nazwa":"Be&#322;zy \/ Szarych Szereg&oacute;w","lat":"53.109776#53.109596", "lng":"18.044137#18.043989","typ":"A#A"}
+,{"nazwa":"Bia&#322;e B&#322;ota \/ Chlebowa","lat":"53.0976816#53.0980037", "lng":"17.9216168#17.9224161","typ":"A#A"}
+,{"nazwa":"Bia&#322;e B&#322;ota \/ Czekoladowa","lat":"53.0952850", "lng":"17.9175935","typ":"A"}
+,{"nazwa":"Bia&#322;e B&#322;ota \/ Czerska","lat":"53.0943398", "lng":"17.9154444","typ":"A"}
+,{"nazwa":"Bia&#322;e B&#322;ota \/ Kapliczna","lat":"53.0968417#53.0967322", "lng":"17.9033012#17.9048401","typ":"A#A"}
+,{"nazwa":"Bia&#322;e B&#322;ota \/ Kruszy&#324;ska","lat":"53.086927#53.087540", "lng":"17.903575#17.903265","typ":"A#A"}
+,{"nazwa":"Bia&#322;e B&#322;ota \/ Modra","lat":"53.0901404#53.0901048", "lng":"17.9053358#17.9062761","typ":"A#A"}
+,{"nazwa":"Bia&#322;e B&#322;ota \/ Sosnowa","lat":"53.095275", "lng":"17.893847","typ":"A"}
+,{"nazwa":"Bia&#322;e B&#322;ota \/ Urz&#261;d Gminy","lat":"53.099543#53.099734", "lng":"17.918867#17.920717","typ":"A#A"}
+,{"nazwa":"Bielawy","lat":"53.1323630", "lng":"18.0333516","typ":"T"}
+,{"nazwa":"Bielicka \/ Solskiego","lat":"53.112888", "lng":"17.991524","typ":"A"}
+,{"nazwa":"B&#322;onie","lat":"53.1149050#53.1148100#53.1149128#53.1146352#53.1146938#53.1150399#53.1147068", "lng":"17.9605417#17.9606714#17.9610714#17.9608531#17.9610854#17.9608953#17.9607859","typ":"A#A#A#A#A#A#A"}
+,{"nazwa":"Bora-Komorowskiego \/ Braci Ba&#380;a&#324;skich","lat":"53.1692493#53.170079", "lng":"18.1749722#18.175078","typ":"A#A"}
+,{"nazwa":"Bora-Komorowskiego \/ Gieryna","lat":"53.1666541#53.166646", "lng":"18.1748810#18.175083","typ":"A#A"}
+,{"nazwa":"Bora-Komorowskiego \/ Kiedrowskiego","lat":"53.1628045#53.163734", "lng":"18.1747522#18.175000","typ":"A#A"}
+,{"nazwa":"Bo&#380;enkowo \/ Bo&#380;enkowska","lat":"53.230236#53.230203", "lng":"17.971434#17.971206","typ":"A#A"}
+,{"nazwa":"Bo&#380;enkowo \/ Harcerska","lat":"53.234127", "lng":"17.970290","typ":"A"}
+,{"nazwa":"Bo&#380;enkowo \/ Osiedlowa","lat":"53.228987", "lng":"17.978853","typ":"A"}
+,{"nazwa":"Brdyuj&#347;cie","lat":"53.132336#53.132412", "lng":"18.137268#18.137154","typ":"A#A"}
+,{"nazwa":"Brzechwy \/ Szafirowa","lat":"53.1505121", "lng":"18.1545835","typ":"A"}
+,{"nazwa":"Brzechwy \/ Szelburg-Zarembiny","lat":"53.148264#53.148329", "lng":"18.155902#18.156203","typ":"A#A"}
+,{"nazwa":"Brzozowa \/ Bielicka","lat":"53.109201#53.109362", "lng":"17.992224#17.992158","typ":"A#A"}
+,{"nazwa":"Brzozowa \/ Jesionowa","lat":"53.109083#53.108986", "lng":"18.002313#18.004862","typ":"A#A"}
+,{"nazwa":"Centrum Onkologii","lat":"53.147627#53.147552", "lng":"18.113132#18.112356","typ":"A#A"}
+,{"nazwa":"Chemiczna \/ Dachtery","lat":"53.106347#53.106318", "lng":"18.079760#18.081441","typ":"A#A"}
+,{"nazwa":"Chemiczna \/ Energetyczna","lat":"53.1068873#53.1067424", "lng":"18.0894944#18.0898431","typ":"A#A"}
+,{"nazwa":"Chemiczna \/ Eurogaz","lat":"53.1058729#53.105772", "lng":"18.0755423#18.072867","typ":"A#A"}
+,{"nazwa":"Chemiczna \/ Ogrodnictwo","lat":"53.1088501#53.108621", "lng":"18.0736825#18.073907","typ":"A#A"}
+,{"nazwa":"Chemiczna \/ Szczerby","lat":"53.1058664#53.1055541", "lng":"18.0950091#18.0953524","typ":"A#A"}
+,{"nazwa":"Chodkiewicza \/ Gda&#324;ska","lat":"53.1343608", "lng":"18.0128348","typ":"T"}
+,{"nazwa":"Chodkiewicza \/ Lelewela","lat":"53.1317740#53.1318011", "lng":"18.0287870#18.0284680","typ":"T#T"}
+,{"nazwa":"Chodkiewicza \/ Paderewskiego","lat":"53.1328943#53.1329644", "lng":"18.0168340#18.0167056","typ":"T#T"}
+,{"nazwa":"Ciele \/ Ko&#347;cielna","lat":"53.072221#53.073297", "lng":"17.920773#17.918672","typ":"A#A"}
+,{"nazwa":"Ciele \/ Makowa","lat":"53.073167#53.073535", "lng":"17.899219#17.900041","typ":"A#A"}
+,{"nazwa":"Ciele \/ Ogrody","lat":"53.069108#53.06838", "lng":"17.895111#17.89633","typ":"A#A"}
+,{"nazwa":"Ciele \/ Pogodna","lat":"53.076530#53.076717", "lng":"17.904979#17.905417","typ":"A#A"}
+,{"nazwa":"Ciele \/ &#377;r&oacute;dlana","lat":"53.070200#53.069695", "lng":"17.926663#17.927997","typ":"A#A"}
+,{"nazwa":"Cmentarna \/ Dobrzy&#324;ska","lat":"53.09997#53.100548", "lng":"18.01717#18.017265","typ":"A#A"}
+,{"nazwa":"Cmentarna \/ Glinki","lat":"53.109089#53.109006", "lng":"18.017389#18.017479","typ":"A#A"}
+,{"nazwa":"Cmentarna \/ Gniewkowska","lat":"53.104435#53.104797", "lng":"18.017037#18.017183","typ":"A#A"}
+,{"nazwa":"Czarn&oacute;wczyn","lat":"53.166316#53.166328", "lng":"18.089302#18.089174","typ":"A#A"}
+,{"nazwa":"Czerkaska \/ Gda&#324;ska","lat":"53.142157", "lng":"18.020961","typ":"A"}
+,{"nazwa":"Czerkaska \/ Su&#322;kowskiego","lat":"53.140162#53.140156", "lng":"18.026548#18.026213","typ":"A#A"}
+,{"nazwa":"Czy&#380;k&oacute;wko","lat":"53.144422", "lng":"17.949215","typ":"A"}
+,{"nazwa":"Dachtery \/ Chemiczna","lat":"53.106681", "lng":"18.080641","typ":"A"}
+,{"nazwa":"Deszczowa \/ Wichrowa","lat":"53.148483#53.148527", "lng":"17.950409#17.950189","typ":"A#A"}
+,{"nazwa":"Deszczowa \/ Wiejska","lat":"53.1501579", "lng":"17.9571980","typ":"A"}
+,{"nazwa":"Drzewce","lat":"53.106711#53.106373", "lng":"17.855536#17.855089","typ":"A#A"}
+,{"nazwa":"Dworcowa \/ Matejki","lat":"53.130425#53.129763", "lng":"17.996208#17.995532","typ":"T#T"}
+,{"nazwa":"Dworzec Akademia","lat":"53.1390206#53.139265", "lng":"18.1360884#18.138123","typ":"A#A"}
+,{"nazwa":"Dworzec Autobusowy","lat":"53.123112#53.123252#53.122783#53.123421#53.123585#53.124430", "lng":"18.018310#18.018193#18.020231#18.018029#18.019769#18.019293","typ":"T#T#A#A#A#A"}
+,{"nazwa":"Dworzec Bielawy","lat":"53.131003#53.131660", "lng":"18.055902#18.052843","typ":"A#A"}
+,{"nazwa":"Dworzec B&#322;onie","lat":"53.119048", "lng":"17.953319","typ":"A"}
+,{"nazwa":"Dworzec Fordon","lat":"53.145475#53.145377#53.143976#53.144806", "lng":"18.159891#18.156684#18.155454#18.157424","typ":"A#A#A#A"}
+,{"nazwa":"Dworzec G&#322;&oacute;wny","lat":"53.134939#53.134817#53.134750#53.134873#53.134768#53.134802", "lng":"17.993204#17.992468#17.992677#17.994253#17.993049#17.993509","typ":"A#A#A#A#T#T"}
+,{"nazwa":"Dworzec Le&#347;ne","lat":"53.143247#53.142696#53.142699", "lng":"18.032063#18.032781#18.032942","typ":"A#A#A"}
+,{"nazwa":"Dworzec &#321;&#281;gnowo","lat":"53.111720#53.111770", "lng":"18.113999#18.114119","typ":"A#A"}
+,{"nazwa":"Dworzec Wsch&oacute;d","lat":"53.126574#53.126831#53.127362#53.126459#53.127274#53.127897#53.127961", "lng":"18.085477#18.083110#18.080698#18.086778#18.083543#18.082848#18.082690","typ":"A#A#A#A#A#T#T"}
+,{"nazwa":"Dworzec Zach&oacute;d","lat":"53.136083#53.135996", "lng":"17.946458#17.946468","typ":"A#A"}
+,{"nazwa":"Eskulapa","lat":"53.156011", "lng":"18.110320","typ":"A"}
+,{"nazwa":"Eurogaz","lat":"53.1046378", "lng":"18.0770514","typ":"A"}
+,{"nazwa":"Flisacka \/ Grunwaldzka","lat":"53.136712", "lng":"17.957278","typ":"A"}
+,{"nazwa":"Focha \/ Opera","lat":"53.125090#53.125219#53.125500", "lng":"17.997142#17.997183#17.996697","typ":"T#T#A"}
+,{"nazwa":"Fordon Rynek","lat":"53.149390#53.149832", "lng":"18.173297#18.173184","typ":"A#A"}
+,{"nazwa":"Fordo&#324;ska \/ Ba&#322;tycka","lat":"53.1206607#53.1207127#53.120547#53.120842", "lng":"18.0475576#18.0471860#18.047307#18.047855","typ":"T#T#A#A"}
+,{"nazwa":"Fordo&#324;ska \/ Fabryczna","lat":"53.122073#53.121771#53.122062#53.122756", "lng":"18.065994#18.064725#18.066388#18.067281","typ":"T#T#A#A"}
+,{"nazwa":"Fordo&#324;ska \/ Gajowa","lat":"53.121035", "lng":"18.040233","typ":"A"}
+,{"nazwa":"Fordo&#324;ska \/ Kapliczna","lat":"53.129174#53.129149", "lng":"18.097904#18.096559","typ":"A#A"}
+,{"nazwa":"Fordo&#324;ska \/ &#321;owicka","lat":"53.134908#53.135343", "lng":"18.122153#18.122570","typ":"A#A"}
+,{"nazwa":"Fordo&#324;ska \/ Sochaczewska","lat":"53.130267#53.130393", "lng":"18.101545#18.103473","typ":"A#A"}
+,{"nazwa":"Fordo&#324;ska \/ Szajnochy","lat":"53.121320", "lng":"18.060394","typ":"A"}
+,{"nazwa":"Fordo&#324;ska \/ Traktorzyst&oacute;w","lat":"53.136597#53.136290", "lng":"18.127142#18.127279","typ":"A#A"}
+,{"nazwa":"Fordo&#324;ska \/ Wiadukt","lat":"53.146864#53.146932", "lng":"18.164848#18.166005","typ":"A#A"}
+,{"nazwa":"Fordo&#324;ska \/ Wi&#347;lana","lat":"53.132486#53.132323", "lng":"18.111730#18.112412","typ":"A#A"}
+,{"nazwa":"Fordo&#324;ska \/ Wyszogrodzka","lat":"53.142045#53.142205", "lng":"18.148378#18.147875","typ":"A#A"}
+,{"nazwa":"Fordo&#324;ska \/ Wy&#347;cigowa","lat":"53.124651#53.124957#53.124781#53.124721", "lng":"18.076151#18.078016#18.075740#18.076051","typ":"T#A#A#T"}
+,{"nazwa":"Fredry \/ Warszawska","lat":"53.132855", "lng":"17.996741","typ":"A"}
+,{"nazwa":"Garbary","lat":"53.126047#53.126504#53.125781#53.125677#53.125457#53.126408#53.126326#53.126737", "lng":"17.990751#17.991509#17.992761#17.992732#17.993606#17.991907#17.991722#17.991402","typ":"A#A#T#T#A#T#T#A"}
+,{"nazwa":"G&#261;decz","lat":"53.222676#53.222026", "lng":"18.173194#18.172180","typ":"A#A"}
+,{"nazwa":"Gda&#324;ska \/ Artyleryjska","lat":"53.138494#53.138534#53.138114#53.138057", "lng":"18.016345#18.016571#18.015937#18.015685","typ":"A#A#T#T"}
+,{"nazwa":"Gda&#324;ska \/ Chodkiewicza","lat":"53.134810#53.134204", "lng":"18.012531#18.012208","typ":"T#T"}
+,{"nazwa":"Gda&#324;ska \/ Cieszkowskiego","lat":"53.130027#53.130597", "lng":"18.007970#18.008279","typ":"TA#T"}
+,{"nazwa":"Gda&#324;ska \/ Dworcowa","lat":"53.125216#53.125243", "lng":"18.003263#18.003140","typ":"T#T"}
+,{"nazwa":"Gda&#324;ska \/ Je&#378;dziecka","lat":"53.171666#53.171882", "lng":"18.051697#18.051293","typ":"A#A"}
+,{"nazwa":"Gda&#324;ska \/ Powst. Warszawy","lat":"53.141657#53.142048#53.142083", "lng":"18.019546#18.019760#18.019974","typ":"A#T#T"}
+,{"nazwa":"Geodet&oacute;w \/ Pieni&#324;ska","lat":"53.173735#53.173818", "lng":"18.169286#18.169487","typ":"A#A"}
+,{"nazwa":"Geodet&oacute;w \/ Wyzwolenia","lat":"53.174029", "lng":"18.165079","typ":"A"}
+,{"nazwa":"Glinki","lat":"53.097597#53.098326#53.098336", "lng":"18.041294#18.038856#18.039324","typ":"T#A#A"}
+,{"nazwa":"Glinki \/ Cmentarna","lat":"53.10930#53.109154", "lng":"18.01851#18.019233","typ":"A#A"}
+,{"nazwa":"Glinki \/ D&#261;browa","lat":"53.102489#53.103187", "lng":"18.029978#18.029061","typ":"A#A"}
+,{"nazwa":"Glinki \/ Eltra","lat":"53.091946#53.091624", "lng":"18.044362#18.044467","typ":"A#A"}
+,{"nazwa":"Glinki \/ Polon","lat":"53.094405#53.095154", "lng":"18.045009#18.044445","typ":"A#A"}
+,{"nazwa":"Glinki \/ Szpitalna","lat":"53.097514#53.097522", "lng":"18.040166#18.039659","typ":"A#A"}
+,{"nazwa":"Glinki \/ Zaj&#281;cza","lat":"53.0999293#53.099647", "lng":"18.0346397#18.035579","typ":"A#A"}
+,{"nazwa":"Glinki \/ Zelwerowicza","lat":"53.107340#53.106604", "lng":"18.023100#18.023449","typ":"A#A"}
+,{"nazwa":"Glinki BFM","lat":"53.0893891", "lng":"18.0440715","typ":"A"}
+,{"nazwa":"G&#322;owackiego \/ Ba&#322;tycka","lat":"53.131262#53.131097", "lng":"18.047089#18.047049","typ":"A#A"}
+,{"nazwa":"G&#322;owackiego \/ Gajowa","lat":"53.131761#53.131588", "lng":"18.043734#18.043921","typ":"A#A"}
+,{"nazwa":"Grunwaldzka \/ Chojnicka","lat":"53.138763", "lng":"17.951916","typ":"A"}
+,{"nazwa":"Grunwaldzka \/ Czarna Droga","lat":"53.131248#53.131856", "lng":"17.974466#17.973468","typ":"A#A"}
+,{"nazwa":"Grunwaldzka \/ Filtrowa","lat":"53.139885#53.139094", "lng":"17.948019#17.950034","typ":"A#A"}
+,{"nazwa":"Grunwaldzka \/ Flisacka","lat":"53.136899#53.136648", "lng":"17.95893#17.959363","typ":"A#A"}
+,{"nazwa":"Grunwaldzka \/ Kana&#322;owa","lat":"53.130114#53.129427", "lng":"17.977992#17.979052","typ":"A#A"}
+,{"nazwa":"Grunwaldzka \/ Kolbego","lat":"53.147943#53.147258", "lng":"17.919316#17.921158","typ":"A#A"}
+,{"nazwa":"Grunwaldzka \/ Kraszewskiego","lat":"53.133521#53.132994", "lng":"17.969210#17.969865","typ":"A#A"}
+,{"nazwa":"Grunwaldzka \/ Przej&#347;cie","lat":"53.145420#53.145015", "lng":"17.928312#17.929142","typ":"A#A"}
+,{"nazwa":"Hetma&#324;ska \/ Kaszubska","lat":"53.133443", "lng":"18.004034","typ":"A"}
+,{"nazwa":"Hutna Wie&#347;","lat":"53.23155#53.23137", "lng":"18.18701#18.18643","typ":"A#A"}
+,{"nazwa":"Hutnicza \/ Eberhardta","lat":"53.093557#53.093282", "lng":"18.102446#18.102547","typ":"A#A"}
+,{"nazwa":"Hutnicza \/ Nowotoru&#324;ska","lat":"53.107015#53.106975", "lng":"18.107782#18.107923","typ":"T#T"}
+,{"nazwa":"Inowroc&#322;awska \/ Skorupki","lat":"53.107721#53.107892", "lng":"17.979196#17.977631","typ":"A#A"}
+,{"nazwa":"Inowroc&#322;awska \/ Zajezdnia","lat":"53.107517#53.107643", "lng":"17.984583#17.983037","typ":"A#A"}
+,{"nazwa":"Jagiello&#324;ska \/ &#321;u&#380;ycka","lat":"53.121952#53.121912#53.121760#53.122166", "lng":"18.027238#18.027927#18.027872#18.026791","typ":"T#T#A#A"}
+,{"nazwa":"Jagiello&#324;ska \/ Piotrowskiego","lat":"53.123526", "lng":"18.014539","typ":"A"}
+,{"nazwa":"Jagodowo \/ Letnia","lat":"53.200954#53.200504", "lng":"18.043277#18.042877","typ":"A#A"}
+,{"nazwa":"Jagodowo \/ Polna","lat":"53.203953#53.204566", "lng":"18.045073#18.045327","typ":"A#A"}
+,{"nazwa":"Jana Paw&#322;a II \/ W&#261;brzeska","lat":"53.0972589#53.0978885", "lng":"18.0086107#18.0091272","typ":"A#A"}
+,{"nazwa":"Jana Paw&#322;a II \/ Ziemska","lat":"53.103647#53.104214", "lng":"18.007981#18.008374","typ":"A#A"}
+,{"nazwa":"Jaru&#380;yn \/ Bociania","lat":"53.201269#53.201229", "lng":"18.131471#18.131318","typ":"A#A"}
+,{"nazwa":"Jaru&#380;yn \/ Krakowska","lat":"53.191461", "lng":"18.154307","typ":"A"}
+,{"nazwa":"Jaru&#380;yn \/ Nowowiejska","lat":"53.204452#53.205197", "lng":"18.133047#18.132304","typ":"A#A"}
+,{"nazwa":"Jaru&#380;yn \/ Rajska","lat":"53.200223", "lng":"18.156147","typ":"A"}
+,{"nazwa":"Jasiniecka \/ Pod Skarp&#261;","lat":"53.15748#53.15763", "lng":"18.09838#18.09827","typ":"A#A"}
+,{"nazwa":"Jasiniecka \/ Trybowskiego","lat":"53.15573", "lng":"18.09791","typ":"A"}
+,{"nazwa":"Je&#378;dziecka \/ D&#380;okejowa","lat":"53.176271#53.176185", "lng":"18.018857#18.019169","typ":"A#A"}
+,{"nazwa":"Je&#378;dziecka \/ Gda&#324;ska","lat":"53.1727697", "lng":"18.0516496","typ":"A"}
+,{"nazwa":"Je&#378;dziecka \/ Hipiczna","lat":"53.175751#53.175596", "lng":"18.032750#18.032841","typ":"A#A"}
+,{"nazwa":"Je&#378;dziecka \/ Ogr&oacute;d Botaniczny","lat":"53.175971#53.175679", "lng":"18.044834#18.045231","typ":"A#A"}
+,{"nazwa":"Kaliskiego \/ Akademicka (UTP)","lat":"53.147118", "lng":"18.129733","typ":"A"}
+,{"nazwa":"Kaliskiego \/ UTP","lat":"53.142588#53.144428", "lng":"18.133873#18.131857","typ":"A#A"}
+,{"nazwa":"Kamienna \/ Fabryczna","lat":"53.129943#53.129401", "lng":"18.064826#18.066717","typ":"A#A"}
+,{"nazwa":"Kamienna \/ Gajowa","lat":"53.1330172#53.133445", "lng":"18.0440243#18.042367","typ":"A#A"}
+,{"nazwa":"Kamienna \/ Gda&#324;ska","lat":"53.137031#53.137289", "lng":"18.016464#18.016253","typ":"A#A"}
+,{"nazwa":"Kamienna \/ Su&#322;kowskiego","lat":"53.135952#53.135780", "lng":"18.025075#18.024913","typ":"A#A"}
+,{"nazwa":"Kamienna \/ Wyszy&#324;skiego","lat":"53.133865#53.134563", "lng":"18.037780#18.035050","typ":"A#A"}
+,{"nazwa":"Kapu&#347;ciska","lat":"53.102305#53.102783#53.102701", "lng":"18.059722#18.059095#18.060428","typ":"A#A#T"}
+,{"nazwa":"Kazimierza Wielkiego \/ Toru&#324;ska","lat":"53.115069#53.116337#53.116248", "lng":"18.058120#18.057735#18.058249","typ":"A#A#A"}
+,{"nazwa":"Kielecka \/ Smole&#324;ska","lat":"53.114179#53.113473", "lng":"18.083005#18.082884","typ":"A#A"}
+,{"nazwa":"Kielecka \/ Toru&#324;ska","lat":"53.117738", "lng":"18.084358","typ":"A"}
+,{"nazwa":"Kleeberga \/ Andersa","lat":"53.151053", "lng":"18.144992","typ":"A"}
+,{"nazwa":"Kolbego \/ Dzi&#281;cio&#322;owa","lat":"53.151395#53.151999", "lng":"17.918395#17.918272","typ":"A#A"}
+,{"nazwa":"Kolbego \/ Grunwaldzka","lat":"53.148215", "lng":"17.920050","typ":"A"}
+,{"nazwa":"Kolbego \/ Kogucia","lat":"53.154742#53.154961", "lng":"17.917051#17.916736","typ":"A#A"}
+,{"nazwa":"Kolbego \/ Wielorybia","lat":"53.158568#53.157850", "lng":"17.912372#17.913345","typ":"A#A"}
+,{"nazwa":"Korfantego \/ Prejsa","lat":"53.149272#53.148485", "lng":"18.122174#18.122232","typ":"A#A"}
+,{"nazwa":"Koronowska \/ Wodoci&#261;gi","lat":"53.159432#53.156973", "lng":"17.953948#17.954618","typ":"A#A"}
+,{"nazwa":"Kozielec I","lat":"53.253273#53.25321", "lng":"18.228129#18.22858","typ":"A#A"}
+,{"nazwa":"Kozielec (p&#281;tla)","lat":"53.24572", "lng":"18.25080","typ":"A"}
+,{"nazwa":"Kraje&#324;ska \/ Koronowska","lat":"53.141075", "lng":"17.959100","typ":"A"}
+,{"nazwa":"Kraje&#324;ska \/ Wiejska","lat":"53.141431", "lng":"17.955574","typ":"A"}
+,{"nazwa":"Kruszyn Kraje&#324;ski \/ Jasiniecka","lat":"53.090316", "lng":"17.891561","typ":"A"}
+,{"nazwa":"Kruszyn Kraje&#324;ski \/ &#321;&#261;kowa","lat":"53.085051", "lng":"17.874662","typ":"A"}
+,{"nazwa":"Kruszyn Kraje&#324;ski \/ Mro&#378;na","lat":"53.065948#53.066219", "lng":"17.873523#17.872557","typ":"A#A"}
+,{"nazwa":"Kruszyn Kraje&#324;ski \/ S&#322;oneczna","lat":"53.086500", "lng":"17.879680","typ":"A"}
+,{"nazwa":"Kruszy&#324;ska \/ Kra&#324;cowa","lat":"53.141710#53.141580", "lng":"17.924827#17.925361","typ":"A#A"}
+,{"nazwa":"Kruszy&#324;ska \/ Sowia","lat":"53.142916#53.142672", "lng":"17.919436#17.919760","typ":"A#A"}
+,{"nazwa":"Las Gda&#324;ski","lat":"53.149326#53.150070#53.149596#53.149664", "lng":"18.027205#18.028321#18.025694#18.025647","typ":"A#A#T#T"}
+,{"nazwa":"Le&#347;ne","lat":"53.141967#53.141941#53.142156#53.143492", "lng":"18.030473#18.030405#18.031104#18.031130","typ":"A#A#A#A"}
+,{"nazwa":"Lipniki \/ Akacjowa","lat":"53.088494", "lng":"17.884725","typ":"A"}
+,{"nazwa":"Lipniki \/ STW","lat":"53.085268#53.085103", "lng":"17.862141#17.863530","typ":"A#A"}
+,{"nazwa":"Lipniki \/ Wiadukt","lat":"53.084918#53.084567", "lng":"17.872311#17.869534","typ":"A#A"}
+,{"nazwa":"Lipniki \/ Wierzbowa","lat":"53.087250", "lng":"17.880182","typ":"A"}
+,{"nazwa":"Lisia","lat":"53.134706", "lng":"17.907193","typ":"A"}
+,{"nazwa":"&#321;&#281;gnowo","lat":"53.100771#53.099980", "lng":"18.105400#18.104896","typ":"T#A"}
+,{"nazwa":"&#321;ochowo","lat":"53.122068", "lng":"17.839058","typ":"A"}
+,{"nazwa":"&#321;ochowo \/ Sosnowa","lat":"53.115785#53.115847", "lng":"17.845201#17.845967","typ":"A#A"}
+,{"nazwa":"&#321;ochowska","lat":"53.130625#53.130367", "lng":"17.899041#17.899068","typ":"A#A"}
+,{"nazwa":"&#321;osko&#324;","lat":"53.1728548#53.173175#53.173292#53.173316#53.173551", "lng":"18.1746536#18.174683#18.173669#18.173512#18.171973","typ":"A#A#T#T#A"}
+,{"nazwa":"&#321;osko&#324; \/ Zajezdnia","lat":"53.175880", "lng":"18.172612","typ":"A"}
+,{"nazwa":"&#321;owicka \/ Szko&#322;a","lat":"53.130661#53.131050", "lng":"18.125214#18.125034","typ":"A#A"}
+,{"nazwa":"&#321;ukasiewicza","lat":"53.106345", "lng":"18.055381","typ":"A"}
+,{"nazwa":"Magnuszewska","lat":"53.105079#53.103914#53.10467", "lng":"18.025623#18.027492#18.02755","typ":"A#A#A"}
+,{"nazwa":"Magnuszewska \/ Modrakowa","lat":"53.106778#53.106818", "lng":"18.031696#18.032704","typ":"A#A"}
+,{"nazwa":"Maksymilianowo \/ G&#322;&oacute;wna","lat":"53.211205#53.212188", "lng":"18.031518#18.032110","typ":"A#A"}
+,{"nazwa":"Maksymilianowo \/ Ptasia","lat":"53.2075695#53.207328", "lng":"18.0345335#18.035061","typ":"A#A"}
+,{"nazwa":"Maksymilianowo \/ Szko&#322;a","lat":"53.215730#53.215733", "lng":"18.041065#18.040630","typ":"A#A"}
+,{"nazwa":"Maksymilianowo \/ &#346;wietlica","lat":"53.217543", "lng":"18.036579","typ":"A"}
+,{"nazwa":"Markwarta \/ 3 Maja","lat":"53.126762", "lng":"18.010557","typ":"A"}
+,{"nazwa":"Matki Teresy z Kalkuty \/ Akademicka","lat":"53.143097", "lng":"18.109844","typ":"A"}
+,{"nazwa":"Matki Teresy z Kalkuty \/ Romanowskiej","lat":"53.1462547#53.147168", "lng":"18.1090042#18.109237","typ":"A#A"}
+,{"nazwa":"Matki Teresy z Kalkuty \/ Rydygiera","lat":"53.1515#53.15255", "lng":"18.10959#18.11015","typ":"A#A"}
+,{"nazwa":"Mazowiecka \/ Pomorska","lat":"53.132724", "lng":"18.004490","typ":"A"}
+,{"nazwa":"Meysnera \/ Op&#322;awiec","lat":"53.185572", "lng":"17.958100","typ":"A"}
+,{"nazwa":"Mickiewicza \/ Teatr Polski","lat":"53.131080#53.130977", "lng":"18.013069#18.012624","typ":"A#A"}
+,{"nazwa":"Mi&#324;ska \/ Plonowa","lat":"53.1373515#53.1371758", "lng":"17.9329182#17.9336832","typ":"A#A"}
+,{"nazwa":"Mi&#324;ska \/ Studzienna","lat":"53.136376#53.1362845", "lng":"17.939494#17.9402215","typ":"A#A"}
+,{"nazwa":"Modrzewiowa \/ Gda&#324;ska","lat":"53.145461#53.145187", "lng":"18.025756#18.026121","typ":"A#A"}
+,{"nazwa":"Mokra","lat":"53.110351", "lng":"18.071061","typ":"A"}
+,{"nazwa":"Morska","lat":"53.129700#53.129750", "lng":"18.055282#18.053070","typ":"A#A"}
+,{"nazwa":"Most Kazimierza Wielkiego","lat":"53.120837#53.120728#53.120715#53.120099#53.121377", "lng":"18.057913#18.055810#18.058160#18.056689#18.056977","typ":"T#T#A#A#A"}
+,{"nazwa":"Murowaniec","lat":"53.093717#53.093802", "lng":"17.853803#17.854116","typ":"A#A"}
+,{"nazwa":"Murowaniec \/ Strusia","lat":"53.088925#53.088283", "lng":"17.853758#17.853507","typ":"A#A"}
+,{"nazwa":"My&#347;l&#281;cinek","lat":"53.161725", "lng":"18.039672","typ":"A"}
+,{"nazwa":"Nad Torem \/ Chmurna","lat":"53.151147#53.1501740", "lng":"17.959019#17.9597693","typ":"A#A"}
+,{"nazwa":"Nad Torem \/ Karolewska","lat":"53.147069#53.145856", "lng":"17.962473#17.962328","typ":"A#A"}
+,{"nazwa":"Nad Torem \/ Orlicza","lat":"53.1401967#53.142074", "lng":"17.9627448#17.963069","typ":"A#A"}
+,{"nazwa":"Nad Wis&#322;&#261;","lat":"53.1578503", "lng":"18.1788853","typ":"A"}
+,{"nazwa":"Nakielska \/ Iglasta","lat":"53.1332758", "lng":"17.9207063","typ":"A"}
+,{"nazwa":"Nakielska \/ Lisia","lat":"53.134136#53.134288", "lng":"17.906716#17.906729","typ":"A#A"}
+,{"nazwa":"Nakielska \/ Notecka","lat":"53.134374#53.134644", "lng":"17.912596#17.911186","typ":"A#A"}
+,{"nazwa":"Nakielska \/ Pijar&oacute;w","lat":"53.131945#53.132122", "lng":"17.941304#17.940499","typ":"A#A"}
+,{"nazwa":"Nakielska \/ S&#322;oneczna","lat":"53.128327#53.128429", "lng":"17.963479#17.963300","typ":"T#T"}
+,{"nazwa":"Nakielska \/ Stawowa","lat":"53.126260#53.126429", "lng":"17.976064#17.975932","typ":"TA#TA"}
+,{"nazwa":"Nakielska \/ Tarnowska","lat":"53.1338904#53.133865", "lng":"17.9158454#17.917256","typ":"A#A"}
+,{"nazwa":"Nakielska \/ Widok","lat":"53.130817#53.131240", "lng":"17.948597#17.947286","typ":"A#A"}
+,{"nazwa":"Nakielska \/ Wi&#347;niowa","lat":"53.132185#53.132365", "lng":"17.935228#17.934311","typ":"A#A"}
+,{"nazwa":"Nakielska \/ Wroc&#322;awska","lat":"53.126092#53.126183", "lng":"17.981488#17.981303","typ":"T#T"}
+,{"nazwa":"Nakielska \/ Wrzesi&#324;ska","lat":"53.127287#53.127419#53.127165#53.127081", "lng":"17.969426#17.969102#17.969388#17.970648","typ":"T#T#A#A"}
+,{"nazwa":"Nakielska \/ &#379;ywiecka","lat":"53.1326981#53.133000", "lng":"17.9264431#17.924690","typ":"A#A"}
+,{"nazwa":"Nekla \/ Akacjowa","lat":"53.25129", "lng":"18.08886","typ":"A"}
+,{"nazwa":"Nekla \/ Ciep&#322;a","lat":"53.246821#53.246577", "lng":"18.085166#18.084686","typ":"A#A"}
+,{"nazwa":"Nekla \/ Le&#347;na","lat":"53.238524#53.238562", "lng":"18.084943#18.085458","typ":"A#A"}
+,{"nazwa":"Nekla \/ Makowa","lat":"53.238650", "lng":"18.100494","typ":"A"}
+,{"nazwa":"Nekla \/ T&#281;czowa","lat":"53.238665#53.238166", "lng":"18.078465#18.077686","typ":"A#A"}
+,{"nazwa":"Niemcz \/ Kasprowicza","lat":"53.178712", "lng":"18.039673","typ":"A"}
+,{"nazwa":"Niemcz \/ Krzyszkowiaka","lat":"53.194253#53.193671", "lng":"18.040278#18.040016","typ":"A#A"}
+,{"nazwa":"Niemcz \/ Malczewskiego","lat":"53.189274", "lng":"18.039525","typ":"A"}
+,{"nazwa":"Niemcz \/ Mickiewicza ","lat":"53.181399#53.181078", "lng":"18.039122#18.038948","typ":"A#A"}
+,{"nazwa":"Niemcz \/ Pod Wierzbami","lat":"53.183125", "lng":"18.033707","typ":"A"}
+,{"nazwa":"Niemcz \/ Rutkiewicz","lat":"53.188536", "lng":"18.039362","typ":"A"}
+,{"nazwa":"Niemcz \/ S&#322;owackiego","lat":"53.177050", "lng":"18.039782","typ":"A"}
+,{"nazwa":"Niemcz \/ Urocza","lat":"53.182593", "lng":"18.033243","typ":"A"}
+,{"nazwa":"Niepodleg&#322;o&#347;ci","lat":"53.159144#53.160191#53.159448#53.160047#53.160127", "lng":"18.166397#18.166405#18.165017#18.166483#18.166389","typ":"A#A#A#T#T"}
+,{"nazwa":"Niepodleg&#322;o&#347;ci (p&#281;tla)","lat":"53.1608209", "lng":"18.1695593","typ":"T"}
+,{"nazwa":"Niklowa","lat":"53.1470178", "lng":"17.8998586","typ":"A"}
+,{"nazwa":"Niwy","lat":"53.19192", "lng":"18.09852","typ":"A"}
+,{"nazwa":"Niwy \/ Bieszczadzka","lat":"53.19709", "lng":"18.10049","typ":"A"}
+,{"nazwa":"Niwy \/ Karkonoska","lat":"53.198010", "lng":"18.101182","typ":"A"}
+,{"nazwa":"Niwy \/ Zakopia&#324;ska ","lat":"53.200326#53.200233", "lng":"18.105545#18.105690","typ":"A#A"}
+,{"nazwa":"Nowotoru&#324;ska \/ Hutnicza","lat":"53.103983#53.104927", "lng":"18.106749#18.106282","typ":"A#A"}
+,{"nazwa":"Nowotoru&#324;ska \/ Kielecka","lat":"53.111826", "lng":"18.081420","typ":"A"}
+,{"nazwa":"Nowotoru&#324;ska \/ Objazdowa","lat":"53.107663#53.108034", "lng":"18.098762#18.097907","typ":"A#A"}
+,{"nazwa":"Nowotoru&#324;ska \/ Pl&#261;tnowska","lat":"53.084513#53.083814", "lng":"18.118664#18.119125","typ":"A#A"}
+,{"nazwa":"Nowotoru&#324;ska \/ Prezydenta Lecha Kaczy&#324;skiego","lat":"53.113514#53.113898", "lng":"18.060771#18.057241","typ":"A#A"}
+,{"nazwa":"Nowotoru&#324;ska \/ Przepompownia","lat":"53.088158#53.087703", "lng":"18.116072#18.116078","typ":"A#A"}
+,{"nazwa":"Nowotoru&#324;ska \/ &#379;&oacute;&#322;wi&#324;ska","lat":"53.092877#53.092205", "lng":"18.113050#18.113297","typ":"A#A"}
+,{"nazwa":"Nowy Rynek","lat":"53.120391#53.120027#53.120470", "lng":"17.997472#17.997886#17.997130","typ":"A#A#A"}
+,{"nazwa":"Objazdowa \/ Nowotoru&#324;ska","lat":"53.109914#53.109933", "lng":"18.090884#18.091295","typ":"A#A"}
+,{"nazwa":"Ogi&#324;skiego \/ Moniuszki","lat":"53.126491", "lng":"18.020836","typ":"A"}
+,{"nazwa":"Op&#322;awiec \/ Biwakowa","lat":"53.195427#53.195683", "lng":"17.969131#17.969068","typ":"A#A"}
+,{"nazwa":"Op&#322;awiec \/ Elektrownia","lat":"53.190751#53.190988", "lng":"17.964249#17.964132","typ":"A#A"}
+,{"nazwa":"Op&#322;awiec \/ Internat","lat":"53.1948527", "lng":"17.9667204","typ":"A"}
+,{"nazwa":"Op&#322;awiec \/ Kolonijna","lat":"53.173557#53.173230", "lng":"17.955837#17.955513","typ":"A#A"}
+,{"nazwa":"Op&#322;awiec \/ Koronowska","lat":"53.168395#53.167440", "lng":"17.952598#17.951558","typ":"A#A"}
+,{"nazwa":"Op&#322;awiec \/ Meysnera","lat":"53.185576#53.185108", "lng":"17.959115#17.958519","typ":"A#A"}
+,{"nazwa":"Op&#322;awiec \/ Przedszkole","lat":"53.1869190#53.186464", "lng":"17.9605289#17.959880","typ":"A#A"}
+,{"nazwa":"Op&#322;awiec \/ Soboczy&#324;skiego","lat":"53.182325#53.181869", "lng":"17.957477#17.957293","typ":"A#A"}
+,{"nazwa":"Op&#322;awiec \/ Wypoczynkowa","lat":"53.1779909#53.177646", "lng":"17.9574632#17.957316","typ":"A#A"}
+,{"nazwa":"Osielsko \/ Centralna","lat":"53.188133#53.187734", "lng":"18.096921#18.096727","typ":"A#A"}
+,{"nazwa":"Osielsko \/ Cisowa","lat":"53.180191#53.179771", "lng":"18.084028#18.084227","typ":"A#A"}
+,{"nazwa":"Osielsko \/ Gmina","lat":"53.1875096", "lng":"18.0711892","typ":"A"}
+,{"nazwa":"Osielsko \/ Gryczana","lat":"53.175712#53.175605", "lng":"18.087773#18.087622","typ":"A#A"}
+,{"nazwa":"Osielsko \/ Gwia&#378;dzista","lat":"53.191616#53.191385", "lng":"18.068252#18.068243","typ":"A#A"}
+,{"nazwa":"Osielsko \/ Kwiatowa","lat":"53.186398#53.185950", "lng":"18.076176#18.079361","typ":"A#A"}
+,{"nazwa":"Osielsko \/ Le&#347;na","lat":"53.185713#53.185727", "lng":"18.086571#18.085391","typ":"A#A"}
+,{"nazwa":"Osielsko \/ Lipowa","lat":"53.185353#53.185054", "lng":"18.084024#18.083803","typ":"A#A"}
+,{"nazwa":"Osielsko \/ M&#322;yn","lat":"53.181530#53.181121", "lng":"18.064427#18.063522","typ":"A#A"}
+,{"nazwa":"Osielsko \/ My&#347;l&#281;cinek","lat":"53.175153#53.174682", "lng":"18.056217#18.054999","typ":"A#A"}
+,{"nazwa":"Osielsko \/ Wi&#261;zowa","lat":"53.185803#53.185872", "lng":"18.089541#18.089471","typ":"A#A"}
+,{"nazwa":"Paderewskiego","lat":"53.129823", "lng":"18.012689","typ":"A"}
+,{"nazwa":"Park Przemys&#322;owy \/ Paciorkiewicza","lat":"53.091613#53.090727#53.089960", "lng":"18.055836#18.054704#18.056113","typ":"A#A#A"}
+,{"nazwa":"Park Przemys&#322;owy \/ Raczkowskiego","lat":"53.095272#53.095405", "lng":"18.057754#18.057263","typ":"A#A"}
+,{"nazwa":"Park Przemys&#322;owy \/ Biurowiec","lat":"53.094627", "lng":"18.064802","typ":"A"}
+,{"nazwa":"Park Przemys&#322;owy \/ Exploseum","lat":"53.072936", "lng":"18.081862","typ":"A"}
+,{"nazwa":"Park Przemys&#322;owy \/ Falkowskiego","lat":"53.0864326#53.087227", "lng":"18.0626114#18.061736","typ":"A#A"}
+,{"nazwa":"Park Przemys&#322;owy \/ Gamma","lat":"53.078973#53.079956", "lng":"18.075290#18.075785","typ":"A#A"}
+,{"nazwa":"Park Przemys&#322;owy \/ Petersona","lat":"53.084314#53.084028", "lng":"18.071632#18.072950","typ":"A#A"}
+,{"nazwa":"Pelpli&#324;ska \/ Jaru&#380;y&#324;ska","lat":"53.1650308#53.166195", "lng":"18.1622022#18.161473","typ":"A#A"}
+,{"nazwa":"Pelpli&#324;ska \/ Targowisko","lat":"53.158794#53.159134", "lng":"18.155850#18.156300","typ":"A#A"}
+,{"nazwa":"Pelpli&#324;ska \/ Taternik&oacute;w","lat":"53.161016#53.160261", "lng":"18.161093#18.159780","typ":"A#A"}
+,{"nazwa":"Per&#322;owa \/ Toru&#324;ska","lat":"53.114876#53.115056", "lng":"18.045610#18.045880","typ":"T#T"}
+,{"nazwa":"Piaski","lat":"53.1711316#53.171553", "lng":"17.9695099#17.970195","typ":"A#A"}
+,{"nazwa":"Pi&#281;kna \/ Szubi&#324;ska","lat":"53.118739", "lng":"17.979139","typ":"A"}
+,{"nazwa":"Pileckiego \/ Cmentarz","lat":"53.139130#", "lng":"17.998267#","typ":"A"}
+,{"nazwa":"Pileckiego \/ Kmicica","lat":"53.138911#53.139181", "lng":"17.988127#17.985928","typ":"A#A"}
+,{"nazwa":"Pileckiego \/ Rynkowska","lat":"53.138658#53.138916", "lng":"17.993269#17.992041","typ":"A#A"}
+,{"nazwa":"Pileckiego \/ &#379;eglarska","lat":"53.138775#53.138362", "lng":"17.978393#17.976360","typ":"A#A"}
+,{"nazwa":"Pi&#322;sudskiego \/ Swobodna","lat":"53.1589217#53.1587423", "lng":"18.1726100#18.1725152","typ":"A#A"}
+,{"nazwa":"Plac Ko&#347;cieleckich","lat":"53.12079#53.120589#53.120795#53.120573", "lng":"18.00525#18.004258#18.004962#18.004716","typ":"A#A#A#A"}
+,{"nazwa":"Plac Piastowski","lat":"53.131995#53.132101", "lng":"17.996841#17.999203","typ":"A#A"}
+,{"nazwa":"Plac Pozna&#324;ski","lat":"53.122280#53.121517#53.122761#53.122845", "lng":"17.989542#17.988164#17.986867#17.986075","typ":"A#A#A#A"}
+,{"nazwa":"Plac Teatralny","lat":"53.124365#53.124320", "lng":"18.000751#18.001037","typ":"T#A"}
+,{"nazwa":"Plac Weyssenhoffa","lat":"53.1290277", "lng":"18.0154522","typ":"A"}
+,{"nazwa":"Plac Wolno&#347;ci","lat":"53.126537#53.126500", "lng":"18.004322#18.004018","typ":"T#T"}
+,{"nazwa":"Pl&#261;tnowska \/ Ko&#347;ci&oacute;&#322;","lat":"53.0913397#53.091417", "lng":"18.1322167#18.132567","typ":"A#A"}
+,{"nazwa":"Pl&#261;tnowska \/ Otorowska","lat":"53.0892432#53.0888921", "lng":"18.1305680#18.1302113","typ":"A#A"}
+,{"nazwa":"Pl&#261;tnowska \/ Przejazd","lat":"53.084557#53.0838199", "lng":"18.124868#18.1244651","typ":"A#A"}
+,{"nazwa":"Pod Skarp&#261; \/ Przemys&#322;a II","lat":"53.160418#53.160308", "lng":"18.091905#18.091960","typ":"A#A"}
+,{"nazwa":"Pod Skarp&#261; \/ Stamma","lat":"53.157490#53.157409", "lng":"18.103453#18.103448","typ":"A#A"}
+,{"nazwa":"Pod Skarp&#261; \/ &#379;emojtela","lat":"53.155360#53.155170", "lng":"18.113927#18.114372","typ":"A#A"}
+,{"nazwa":"Podkowa","lat":"53.17625#53.176167", "lng":"18.01459#18.014141","typ":"A#A"}
+,{"nazwa":"Podmiejska \/ Kruszy&#324;ska","lat":"53.1442196#53.1440291", "lng":"17.9145318#17.9142516","typ":"A#A"}
+,{"nazwa":"Po&#322;tyna \/ Szubi&#324;ska","lat":"53.120723", "lng":"17.977273","typ":"A"}
+,{"nazwa":"Port Lotniczy (Airport)","lat":"53.093971", "lng":"17.998180","typ":"A"}
+,{"nazwa":"Powst. Wielkopolskich \/ Wyszy&#324;skiego","lat":"53.130235#53.130126#53.130071", "lng":"18.038671#18.040112#18.036184","typ":"A#A#A"}
+,{"nazwa":"Powst.Warszawy \/ Gda&#324;ska","lat":"53.142763", "lng":"18.019243","typ":"A"}
+,{"nazwa":"Powst.Warszawy \/ Skromna","lat":"53.1436925#53.143784", "lng":"18.0084255#18.009150","typ":"A#A"}
+,{"nazwa":"Powst.Warszawy \/ Szpital Woj.","lat":"53.143029#53.143304", "lng":"18.015275#18.013795","typ":"A#A"}
+,{"nazwa":"Powst. Wielkopolskich \/ Lelewela","lat":"53.129407#53.129341", "lng":"18.027956#18.029767","typ":"A#A"}
+,{"nazwa":"Pr&#261;doci&#324;ska","lat":"53.064558", "lng":"18.133072","typ":"A"}
+,{"nazwa":"Prezydenta Lecha Kaczy&#324;skiego \/ Sandomierska","lat":"53.111083#53.111672", "lng":"18.055862#18.056997","typ":"A#A"}
+,{"nazwa":"Przemys&#322;owa","lat":"53.119900", "lng":"18.114109","typ":"A"}
+,{"nazwa":"Przemys&#322;owa \/ Os. Rzemie&#347;lnicze","lat":"53.125348#53.125700", "lng":"18.102193#18.100642","typ":"A#A"}
+,{"nazwa":"Przemys&#322;owa \/ Portowa","lat":"53.125348#53.125699", "lng":"18.102204#18.100620","typ":"A#A"}
+,{"nazwa":"Przemys&#322;owa \/ Przejazd","lat":"53.126199#53.126508", "lng":"18.096444#18.095000","typ":"A#A"}
+,{"nazwa":"Przemys&#322;owa \/ Tartak","lat":"53.123994#53.123365", "lng":"18.109038#18.110398","typ":"A#A"}
+,{"nazwa":"Przylesie","lat":"53.146278#53.145921#53.146157#53.146010#53.146918", "lng":"18.124281#18.122579#18.124617#18.122287#18.123163","typ":"T#T#A#A#A"}
+,{"nazwa":"Przy&#322;&#281;ki \/ Wodna","lat":"53.036522#53.036626", "lng":"17.989207#17.989168","typ":"A#A"}
+,{"nazwa":"Przy&#322;&#281;ki \/ Biznesowa","lat":"53.049147#53.047899", "lng":"17.972302#17.971965","typ":"A#A"}
+,{"nazwa":"Przy&#322;&#281;ki \/ Cicha","lat":"53.0380776#53.038297", "lng":"17.9831456#17.982598","typ":"A#A"}
+,{"nazwa":"Przy&#322;&#281;ki \/ Ko&#347;ci&oacute;&#322;","lat":"53.039703#53.039898", "lng":"17.971785#17.971173","typ":"A#A"}
+,{"nazwa":"Przy&#322;&#281;ki \/ M&#322;y&#324;ska","lat":"53.041175", "lng":"17.967705","typ":"A"}
+,{"nazwa":"Rejewskiego \/ Akademicka","lat":"53.141636", "lng":"18.110219","typ":"A"}
+,{"nazwa":"Rejewskiego \/ Auchan","lat":" 53.1391884#53.138533", "lng":"18.1148352#18.115263","typ":"A#A"}
+,{"nazwa":"Rekinowa","lat":"53.1599438", "lng":"17.9088405","typ":"A"}
+,{"nazwa":"Romanowskiej \/ Akademicka","lat":"53.1454427", "lng":"18.1169168","typ":"A"}
+,{"nazwa":"Rondo Fordo&#324;skie","lat":"53.120891#53.121010#53.120910#53.121015#53.120732#53.121743#53.122194#53.121110", "lng":"18.033814#18.034102#18.036295#18.036050#18.037237#18.035786#18.034860#18.033083","typ":"T#T#T#T#A#A#A#A"}
+,{"nazwa":"Rondo Grunwaldzkie","lat":"53.125727#53.125816#53.126761#53.125523#53.125963#53.124551", "lng":"17.987744#17.987500#17.986096#17.988194#17.984489#17.985816","typ":"T#T#A#A#A#A"}
+,{"nazwa":"Rondo Inowroc&#322;awskie","lat":"53.1089968#53.107257", "lng":"18.0087950#18.007838","typ":"A#A"}
+,{"nazwa":"Rondo Jagiellon&oacute;w","lat":"53.123542#53.123690#53.122716#53.123066#53.123899#53.124196#53.124380#53.122560", "lng":"18.007101#18.006980#18.007144#18.010221#18.006705#18.008765#18.008834#18.007131","typ":"T#T#A#A#A#A#A#A"}
+,{"nazwa":"Rondo Kujawskie","lat":"53.114928#53.114806#53.114502#53.115334#53.113405#53.113205#53.114704", "lng":"18.010480#18.011276#18.009902#18.007320#18.008646#18.007414#18.006019","typ":"T#T#A#A#A#A#A"}
+,{"nazwa":"Rondo Maczka","lat":"53.1377010#53.137911#53.136800#53.136326#53.136919", "lng":"17.9645606#17.963688#17.962286#17.964370#17.965965","typ":"A#A#A#A#A"}
+,{"nazwa":"Rondo Ossoli&#324;skich","lat":"53.125788#53.126126#53.126973", "lng":"18.017852#18.017646#18.016287","typ":"A#A#A"}
+,{"nazwa":"Rondo Skrzetuskie","lat":"53.126339#53.127753", "lng":"18.036651#18.038220","typ":"A#A"}
+,{"nazwa":"Rondo Toru&#324;skie","lat":"53.116948#53.117054#53.117624#53.117702#53.115839#53.116391#53.116800#53.117307", "lng":"18.034799#18.034798#18.032508#18.032601#18.033470#18.032956#18.035392#18.031923","typ":"T#T#T#T#A#A#A#A"}
+,{"nazwa":"Rondo Toru&#324;skie (Be&#322;zy)","lat":"53.116106", "lng":"18.035864","typ":"A"}
+,{"nazwa":"Rondo Wielkopolskie","lat":"53.129474#53.129083#53.128444", "lng":"18.020985#18.023073#18.021293","typ":"A#A#A"}
+,{"nazwa":"Rycerska","lat":"53.137409#53.137225#53.137532#53.137384#53.137256#53.137480#53.137281#53.137512", "lng":"17.999144#17.998842#17.999295#17.999292#17.998743#17.999018#17.999489#17.999628","typ":"A#T#A#A#T#T#A#A"}
+,{"nazwa":"Sanatorium","lat":"53.186469", "lng":"17.946222","typ":"A"}
+,{"nazwa":"Saper&oacute;w \/ Czo&#322;gist&oacute;w","lat":"53.144508#53.145116", "lng":"17.976806#17.975824","typ":"A#A"}
+,{"nazwa":"Saper&oacute;w \/ K&#261;pielisko","lat":"53.153511#53.154722", "lng":"17.970016#17.968859","typ":"A#A"}
+,{"nazwa":"Saper&oacute;w \/ Komandos&oacute;w","lat":"53.147625#53.147645", "lng":"17.973004#17.972719","typ":"A#A"}
+,{"nazwa":"Saper&oacute;w \/ Ludwikowo","lat":"53.139583#53.139847", "lng":"17.983853#17.983205","typ":"A#A"}
+,{"nazwa":"Saper&oacute;w \/ Zak&#261;tek","lat":"53.142783#53.143279", "lng":"17.979217#17.978245","typ":"A#A"}
+,{"nazwa":"Schulza \/ Stawowa","lat":"53.117009#53.117126", "lng":"17.956470#17.956118","typ":"A#A"}
+,{"nazwa":"Schulza \/ Szubi&#324;ska","lat":"53.115104#53.115137", "lng":"17.958836#17.958965","typ":"A#A"}
+,{"nazwa":"Skandynawska \/ Ikea","lat":"53.131331#53.132188", "lng":"18.118896#18.118727","typ":"A#A"}
+,{"nazwa":"Skar&#380;y&#324;skiego \/ Kwiatkowskiego","lat":"53.154756", "lng":"18.156073","typ":"A"}
+,{"nazwa":"Skar&#380;y&#324;skiego \/ Twardzickiego","lat":"53.156552#53.156756", "lng":"18.154793#18.154959","typ":"A#A"}
+,{"nazwa":"Sk&#322;odowskiej-Curie \/ Ba&#322;tycka","lat":"53.125956#53.126391", "lng":"18.048965#18.047025","typ":"A#A"}
+,{"nazwa":"Sk&#322;odowskiej-Curie \/ Gajowa","lat":"53.126477#53.126671", "lng":"18.042265#18.042217","typ":"A#A"}
+,{"nazwa":"Sk&#322;odowskiej-Curie \/ Jurasza","lat":"53.126148#53.126331", "lng":"18.030639#18.030658","typ":"A#A"}
+,{"nazwa":"Sk&#322;odowskiej-Curie \/ &#321;&#281;czycka","lat":"53.125647#53.125267", "lng":"18.052863#18.054348","typ":"A#A"}
+,{"nazwa":"Skorupki","lat":"53.108262#53.108338", "lng":"17.976787#17.977516","typ":"A#A"}
+,{"nazwa":"Skorupki \/ Czackiego","lat":"53.110950#53.110112", "lng":"17.981772#17.980607","typ":"A#A"}
+,{"nazwa":"Skorupki \/ Jordanowska","lat":"53.115601#53.116016", "lng":"17.988998#17.989265","typ":"A#A"}
+,{"nazwa":"Skorupki \/ Orla","lat":"53.117358#53.117348", "lng":"17.991083#17.990867","typ":"A#A"}
+,{"nazwa":"Smole&#324;ska \/ Budowlana","lat":"53.112297#53.1125670", "lng":"18.088615#18.0888216","typ":"A#A"}
+,{"nazwa":"Smole&#324;ska \/ Kielecka","lat":"53.113084#53.113198", "lng":"18.083516#18.083241","typ":"A#A"}
+,{"nazwa":"Smole&#324;ska \/ Pi&#324;czowska","lat":"53.111884#53.111972", "lng":"18.092117#18.091602","typ":"A#A"}
+,{"nazwa":"Smukalska \/ Agrestowa","lat":"53.1835461#53.184098", "lng":"17.9673557#17.967351","typ":"A#A"}
+,{"nazwa":"Smukalska \/ Baranowskiego","lat":"53.187655#53.187394", "lng":"17.968628#17.968528","typ":"A#A"}
+,{"nazwa":"Smukalska \/ B&#322;&#261;dzimska","lat":"53.167342#53.167646", "lng":"17.971831#17.971697","typ":"A#A"}
+,{"nazwa":"Smukalska \/ Sanktuarium","lat":"53.178401#53.1777021", "lng":"17.968253#17.9681457","typ":"A#A"}
+,{"nazwa":"Smuka&#322;a","lat":"53.191661", "lng":"17.970743","typ":"A"}
+,{"nazwa":"Solskiego \/ Bielicka","lat":"53.112113#53.112216", "lng":"17.992744#17.990284","typ":"A#A"}
+,{"nazwa":"Solskiego \/ Kossaka","lat":"53.113034#53.113147", "lng":"17.983820#17.984112","typ":"A#A"}
+,{"nazwa":"Solskiego \/ Ugory","lat":"53.114000#53.113496", "lng":"18.000463#17.997703","typ":"A#A"}
+,{"nazwa":"Spi&#380;owa \/ O&#322;owiana","lat":"53.147321", "lng":"17.905356","typ":"A"}
+,{"nazwa":"Spokojna","lat":"53.11428", "lng":"18.04287","typ":"A"}
+,{"nazwa":"Sporna \/ Toru&#324;ska","lat":"53.119454", "lng":"18.087332","typ":"A"}
+,{"nazwa":"Sp&oacute;&#322;dzielcza","lat":"53.095087", "lng":"18.107476","typ":"A"}
+,{"nazwa":"Srebrna \/ Spi&#380;owa","lat":"53.143278#53.143620", "lng":"17.902688#17.903157","typ":"A#A"}
+,{"nazwa":"Srebrna \/ Stalowa","lat":"53.1423064#53.142609", "lng":"17.9074351#17.906472","typ":"A#A"}
+,{"nazwa":"Stadion Zawisza","lat":"53.145680#53.145656#53.145102#53.146433", "lng":"18.023604#18.023377","typ":"T#T"}
+,{"nazwa":"Stawowa \/ 16 Pu&#322;ku U&#322;.Wlkp.","lat":"53.122201", "lng":"17.970866","typ":"A"}
+,{"nazwa":"Stawowa \/ W&#322;adys&#322;awa IV","lat":"53.120450#53.120259", "lng":"17.965733#17.964591","typ":"A#A"}
+,{"nazwa":"Stomil","lat":"53.115079#53.115152#53.115043", "lng":"18.105190#18.105408#18.106144","typ":"T#T#A"}
+,{"nazwa":"Stroma \/ Kossaka","lat":"53.114789#53.115636", "lng":"17.987149#17.986669","typ":"A#A"}
+,{"nazwa":"Stroma \/ Orla","lat":"53.116688#53.117432", "lng":"17.985723#17.985355","typ":"A#A"}
+,{"nazwa":"Strzelce Dolne II","lat":"53.206246#53.206420", "lng":"18.176543#18.176624","typ":"A#A"}
+,{"nazwa":"Strzelce Dolne III","lat":"53.19832#53.198272", "lng":"18.17586#18.176007","typ":"A#A"}
+,{"nazwa":"Strzelce G&oacute;rne \/ Diamentowa","lat":"53.204493", "lng":"18.156070","typ":"A"}
+,{"nazwa":"Strzelce G&oacute;rne \/ G&#261;decka","lat":"53.212049#53.212606", "lng":"18.156606#18.157152","typ":"A#A"}
+,{"nazwa":"Strzelce G&oacute;rne \/ Go&#322;&#281;bia","lat":"53.210554#53.210705", "lng":"18.166402#18.165707","typ":"A#A"}
+,{"nazwa":"Strzelce G&oacute;rne \/ Jaworowa","lat":"53.207565#53.207636", "lng":"18.129748#18.129001","typ":"A#A"}
+,{"nazwa":"Strzelce G&oacute;rne \/ Szkolna","lat":"53.21121", "lng":"18.1591","typ":"A"}
+,{"nazwa":"Strzelce G&oacute;rne \/ Wilcza","lat":"53.209149", "lng":"18.155297","typ":"A"}
+,{"nazwa":"Su&#322;kowskiego \/ Czerkaska","lat":"53.140118#53.139864", "lng":"18.028512#18.028677","typ":"A#A"}
+,{"nazwa":"Su&#322;kowskiego \/ Kamienna","lat":"53.136773#53.135472", "lng":"18.025032#18.023382","typ":"A#A"}
+,{"nazwa":"Szarych Szereg&oacute;w","lat":"53.108251#53.108271#53.108319#53.108288", "lng":"18.045031#18.045185#18.044809#18.045323","typ":"T#T#T#T"}
+,{"nazwa":"Szpitalna \/ &#321;om&#380;y&#324;ska","lat":"53.102392#53.102360#53.102591#53.102284", "lng":"18.044829#18.044682#18.045040#18.044782","typ":"T#T#A#A"}
+,{"nazwa":"Szpitalna \/ Solna","lat":"53.099040#53.099062#53.098960#53.098971", "lng":"18.043507#18.043408#18.043492#18.043620","typ":"T#T#A#A"}
+,{"nazwa":"Szubi&#324;ska \/ Gnie&#378;nie&#324;ska","lat":"53.117819#53.117638", "lng":"17.973857#17.971651","typ":"A#A"}
+,{"nazwa":"Szubi&#324;ska \/ Pi&#281;kna","lat":"53.119310#53.119469", "lng":"17.977759#17.979703","typ":"A#A"}
+,{"nazwa":"Szubi&#324;ska \/ &#379;wirki i Wigury","lat":"53.115670#53.116247#53.116175", "lng":"17.966352#17.966703#17.966420","typ":"A#A#A"}
+,{"nazwa":"&#346;niadeckich \/ Gda&#324;ska","lat":"53.128525", "lng":"18.005503","typ":"A"}
+,{"nazwa":"&#346;niadeckich \/ Sienkiewicza","lat":"53.130571", "lng":"18.000044","typ":"A"}
+,{"nazwa":"&#346;wietlicowa","lat":"53.0958883", "lng":"18.1086186","typ":"A"}
+,{"nazwa":"Tatrza&#324;skie","lat":"53.169492#53.169505#53.169511#53.169691#53.169627#53.169538#53.169858", "lng":"18.163240#18.163453#18.163615#18.162881#18.163730#18.162780#18.162973","typ":"A#A#A#A#A#A#A"}
+,{"nazwa":"Tor Regatowy","lat":"53.1279664#53.128080", "lng":"18.1292535#18.128256","typ":"A#A"}
+,{"nazwa":"Toru&#324;ska \/ Filmowa","lat":"53.114989#53.115081", "lng":"18.051250#18.051249","typ":"T#T"}
+,{"nazwa":"Toru&#324;ska \/ Hala","lat":"53.118206#53.118324", "lng":"18.028179#18.028288","typ":"T#T"}
+,{"nazwa":"Toru&#324;ska \/ Kazimierza Wielkiego","lat":"53.115632#53.115570#53.115396", "lng":"18.059408#18.057168#18.059273","typ":"T#T#A"}
+,{"nazwa":"Toru&#324;ska \/ Kielecka","lat":"53.118178#53.118282#53.118039#53.1182", "lng":"18.082746#18.082731#18.082360#18.08473","typ":"T#T#A#A"}
+,{"nazwa":"Toru&#324;ska \/ &#321;uczniczki","lat":"53.114919#53.115182", "lng":"18.047992#18.048718","typ":"A#A"}
+,{"nazwa":"Toru&#324;ska \/ Per&#322;owa","lat":"53.115483#53.115386#53.115656", "lng":"18.045325#18.046490#18.045366","typ":"T#T#A"}
+,{"nazwa":"Toru&#324;ska \/ Przy&#322;ubska","lat":"53.100390#53.100669", "lng":"18.124751#18.124705","typ":"A#A"}
+,{"nazwa":"Toru&#324;ska \/ R&oacute;wna","lat":"53.117926#53.118012#53.117828#53.117829", "lng":"18.076284#18.076090#18.076829#18.074675","typ":"T#T#A#A"}
+,{"nazwa":"Toru&#324;ska \/ Spokojna","lat":"53.115713", "lng":"18.043143","typ":"A"}
+,{"nazwa":"Toru&#324;ska \/ Sporna","lat":"53.118211#53.118304#53.118194", "lng":"18.087803#18.087771#18.087746","typ":"T#T#A"}
+,{"nazwa":"Toru&#324;ska \/ Stomil (brama)","lat":"53.117055#53.117131#53.116788#53.117068", "lng":"18.093772#18.093858#18.094460#18.093764","typ":"T#T#A#A"}
+,{"nazwa":"Toru&#324;ska \/ Tor awaryjny","lat":"53.117656#53.117723", "lng":"18.069636#18.069525","typ":"T#T"}
+,{"nazwa":"Toru&#324;ska \/ Wie&#380;a Ci&#347;nie&#324;","lat":"53.095359#53.095421", "lng":"18.125526#18.125636","typ":"A#A"}
+,{"nazwa":"Toru&#324;ska \/ Wypaleniska","lat":"53.1047232#53.104639", "lng":"18.1218955#18.122117","typ":"A#A"}
+,{"nazwa":"Toru&#324;ska \/ Zajezdnia Tramwajowa","lat":"53.116088#53.116125#53.116034#53.116002", "lng":"18.064066#18.063869#18.064295#18.063683","typ":"T#T#A#A"}
+,{"nazwa":"Toru&#324;ska \/ &#379;upy","lat":"53.119311#53.119016#53.118322#53.118413", "lng":"18.021854#18.022682#18.022610#18.022739","typ":"T#T#A#A"}
+,{"nazwa":"Trybowskiego \/ Jasiniecka","lat":"53.15526", "lng":"18.09816","typ":"A"}
+,{"nazwa":"Trybowskiego \/ Majtkowskiego","lat":"53.15466#53.15458", "lng":"18.10293#18.10410","typ":"A#A"}
+,{"nazwa":"Trybowskiego \/ Matki Teresy z Kalkuty","lat":"53.15383#53.154", "lng":"18.1091#18.10873","typ":"A#A"}
+,{"nazwa":"Trzciniec \/ Sarnia","lat":"53.086913#53.087113", "lng":"17.946953#17.946984","typ":"A#A"}
+,{"nazwa":"Trz&#281;sacz I","lat":"53.24170#53.241701", "lng":"18.21960#18.219413","typ":"A#A"}
+,{"nazwa":"Trz&#281;sacz II","lat":"53.248183#53.247875", "lng":"18.225488#18.225038","typ":"A#A"}
+,{"nazwa":"Twardzickiego \/ Kleina","lat":"53.152439#53.152755", "lng":"18.130655#18.128691","typ":"A#A"}
+,{"nazwa":"Twardzickiego \/ &#321;ochowskiego","lat":"53.152136#53.152705", "lng":"18.123283#18.124764","typ":"A#A"}
+,{"nazwa":"Twardzickiego \/ Przybory","lat":"53.157507#53.157667", "lng":"18.150995#18.150763","typ":"A#A"}
+,{"nazwa":"Twardzickiego \/ Thommee","lat":"53.152947#53.153151", "lng":"18.140862#18.140866","typ":"A#A"}
+,{"nazwa":"Twardzickiego \/ Witosa","lat":"53.154476#53.154542", "lng":"18.147826#18.147524","typ":"A#A"}
+,{"nazwa":"Ugory \/ Nowodworska","lat":"53.117180#53.117210", "lng":"17.994507#17.994652","typ":"A#A"}
+,{"nazwa":"Ugory \/ Solskiego","lat":" 53.1146124", "lng":"17.9987164","typ":"A"}
+,{"nazwa":"UKW","lat":"53.132029#53.130867#53.131711#53.131499", "lng":"18.021258#18.021236#18.020423#18.021972","typ":"A#A#T#T"}
+,{"nazwa":"Warszawska \/ Fredry","lat":"53.133124", "lng":"17.995959","typ":"A"}
+,{"nazwa":"W&#261;brzeska","lat":"53.0951026", "lng":"18.0181338","typ":"A"}
+,{"nazwa":"Wiejska \/ Chojnicka","lat":"53.146563#53.1476599", "lng":"17.956737#17.9568972","typ":"A#A"}
+,{"nazwa":"Wiejska \/ Deszczowa","lat":"53.149771", "lng":"17.957616","typ":"A"}
+,{"nazwa":"Wiejska \/ Kraje&#324;ska","lat":"53.141915", "lng":"17.955304","typ":"A"}
+,{"nazwa":"Wi&#281;cka \/ &#321;owicka","lat":"53.131720#53.131673", "lng":"18.123328#18.122362","typ":"A#A"}
+,{"nazwa":"Wilczak","lat":"53.129460#53.129806#53.129583#53.129390", "lng":"17.957095#17.956365#17.956408#17.956858","typ":"T#T#A#A"}
+,{"nazwa":"Wilcze \/ Gdy&#324;ska","lat":"53.209089", "lng":"18.126046","typ":"A"}
+,{"nazwa":"Wilcze \/ Krakowska ","lat":"53.201193#53.201111", "lng":"18.114097#18.115103","typ":"A#A"}
+,{"nazwa":"Witebska \/ Gazbud","lat":"53.1211254#53.121146", "lng":"18.1201826#18.120046","typ":"A#A"}
+,{"nazwa":"Witebska \/ Wschodnia","lat":"53.129274#53.1297626", "lng":"18.132118#18.1329801","typ":"A#A"}
+,{"nazwa":"W&#322;adys&#322;awa IV \/ Czerwonego Krzy&#380;a","lat":"53.123536#53.123645", "lng":"17.960806#17.960875","typ":"A#A"}
+,{"nazwa":"W&#322;adys&#322;awa IV \/ Stawowa","lat":"53.120328#53.120483", "lng":"17.963242#17.963476","typ":"A#A"}
+,{"nazwa":"W&#322;&oacute;ki","lat":"53.245600#53.245507", "lng":"18.205477#18.205088","typ":"A#A"}
+,{"nazwa":"Wojska Polskiego \/ Dziatkiewicza","lat":"53.099137#53.099068", "lng":"18.069169#18.069048","typ":"A#A"}
+,{"nazwa":"Wojska Polskiego \/ Hechli&#324;skiego","lat":"53.101203#53.101084", "lng":"18.064300#18.064229","typ":"A#A"}
+,{"nazwa":"Wojska Polskiego \/ Petersona","lat":"53.0953624#53.095136", "lng":"18.0787643#18.079126","typ":"A#A"}
+,{"nazwa":"Wojska Polskiego \/ Baczy&#324;skiego","lat":"53.102995#53.104037#53.103767#53.103917", "lng":"18.057252#18.055968#18.055884#18.055835","typ":"A#A#T#T"}
+,{"nazwa":"Wojska Polskiego \/ Ku Wiatrakom","lat":"53.107907#53.107836", "lng":"18.041762#18.040986","typ":"T#T"}																																																										 
+,{"nazwa":"Wojska Polskiego \/ Prezydenta Lecha Kaczy&#324;skiego","lat":"53.105694#53.105714", "lng":"18.050484#18.051604","typ":"A#A"}
+,{"nazwa":"Wojska Polskiego \/ Szarych Szereg&oacute;w","lat":"53.106956#53.107202", "lng":"18.047236#18.046412","typ":"A#A"}
+,{"nazwa":"Wojska Polskiego \/ Ujejskiego","lat":"53.113868#53.113749#53.112753#53.113979", "lng":"18.023110#18.023101#18.024666#18.023218","typ":"T#T#A#A"}
+,{"nazwa":"Wojska Polskiego \/ K&#322;adka","lat":"53.110139#53.110061#53.109452#53.110076", "lng":"18.030229#18.030136#18.030915#18.030707","typ":"T#T#A#A"}
+,{"nazwa":"Wulffa \/ Eberhardta","lat":"53.0935676", "lng":"18.1024308","typ":"A"}
+,{"nazwa":"Wysoka \/ Koszarowa","lat":"53.122291", "lng":"17.975191","typ":"A"}
+,{"nazwa":"Wyszogrodzka \/ Opalowa","lat":"53.135336#53.135107", "lng":"18.141576#18.141205","typ":"A#A"}
+,{"nazwa":"Wyszy&#324;skiego \/ Powsta&#324;c&oacute;w Wielkopolskich","lat":"53.129312", "lng":"18.037293","typ":"A"}
+,{"nazwa":"Wy&#347;cigowa","lat":"53.125215#53.125382", "lng":"18.076915#18.077048","typ":"A#A"}
+,{"nazwa":"Wyzwolenia \/ Brzegowa","lat":"53.1813472#53.18176", "lng":"18.1705478#18.17087","typ":"A#A"}
+,{"nazwa":"Wyzwolenia \/ Derdowskiego","lat":"53.1660078#53.166598", "lng":"18.1644755#18.163978","typ":"A#A"}
+,{"nazwa":"Wyzwolenia \/ Geodet&oacute;w","lat":"53.173862#53.174397", "lng":"18.164031#18.164323","typ":"A#A"}
+,{"nazwa":"Wyzwolenia \/ Komisariat","lat":"53.171714#53.171713", "lng":"18.163987#18.163852","typ":"A#A"}
+,{"nazwa":"Wyzwolenia \/ Styki","lat":"53.152601#53.152672", "lng":"18.170978#18.171202","typ":"A#A"}
+,{"nazwa":"Wyzwolenia \/ Swobodna","lat":"53.156223#53.157295", "lng":"18.167757#18.167426","typ":"A#A"}
+,{"nazwa":"Wy&#380;yny","lat":"53.108068#53.107956#53.108173#53.107789", "lng":"18.036322#18.037133#18.037474#18.038416","typ":"T#T#A#A"}
+,{"nazwa":"Wzg&oacute;rze Wolno&#347;ci","lat":"53.114731#53.114708#53.114282#53.115011#53.115324", "lng":"18.017571#18.015382#18.019640#18.015170#18.017112","typ":"T#T#A#A#A"}
+,{"nazwa":"Zajezdnia Tramwajowa","lat":"53.116018", "lng":"18.065764","typ":"T"}
+,{"nazwa":"Zamczysko (p&#281;tla)","lat":"53.160170", "lng":"18.079337","typ":"A"}
+,{"nazwa":"Zamczysko \/ Armii Krajowej","lat":"53.163219", "lng":"18.053484","typ":"A"}
+,{"nazwa":"Zamczysko \/ Gda&#324;ska","lat":"53.165013#53.164869", "lng":"18.046993#18.047247","typ":"A#A"}
+,{"nazwa":"Za&#347;wiat \/ Artyleryjska","lat":"53.139620#53.139687", "lng":"18.001540#18.001120","typ":"A#A"}
+,{"nazwa":"Za&#347;wiat \/ Cmentarz","lat":"53.142599#53.142182", "lng":"18.004499#18.003929","typ":"A#A"}
+,{"nazwa":"Zbo&#380;owy Rynek","lat":"53.119693#53.120007#53.119738#53.120099#53.119191#53.119345", "lng":"18.003214#18.002741#18.002909#18.005439#18.006925#18.006939","typ":"A#A#A#A#A#A"}
+,{"nazwa":"Zielonka \/ Bocianowo","lat":"53.0627618", "lng":"17.9425620","typ":"A"}
+,{"nazwa":"Zielonka \/ Orzechowa","lat":"53.058034#53.058518", "lng":"17.962437#17.961422","typ":"A#A"}
+,{"nazwa":"&#379;eglarska \/ Ludwikowo","lat":"53.138180#53.137783", "lng":"17.977536#17.977753","typ":"A#A"}
+,{"nazwa":"&#379;o&#322;&#281;dowo \/ Augustowska","lat":"53.2134273", "lng":"18.0914375","typ":"A"}
+,{"nazwa":"&#379;o&#322;&#281;dowo \/ Koronowska","lat":"53.213207#53.2126595#53.213825", "lng":"18.052956#18.0520466#18.050854","typ":"A#A#A"}
+,{"nazwa":"&#379;o&#322;&#281;dowo \/ Przyjazna","lat":"53.218194#53.218311", "lng":"18.078123#18.077487","typ":"A#A"}
+,{"nazwa":"&#379;o&#322;&#281;dowo \/ Szko&#322;a","lat":"53.220064#53.219268", "lng":"18.059402#18.058655","typ":"A#A"}
+,{"nazwa":"&#379;o&#322;&#281;dowo \/ Tulipanowa","lat":"53.208400#53.208158", "lng":"18.062009#18.062106","typ":"A#A"}
+,{"nazwa":"&#379;wirki i Wigury \/ Jask&oacute;&#322;cza","lat":"53.111302#53.111788", "lng":"17.970869#17.970642","typ":"A#A"}]

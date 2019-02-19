@@ -1,0 +1,212 @@
+[
+	{
+		"linia": "7",
+		"kierunek": "Zajezdnia Tramwajowa",
+		"warianty": "Loskon"
+	},
+	{
+		"linia": "10",
+		"kierunek": "Las Gda&#324;ski",
+		"warianty": "Loskon"
+	},
+	{
+		"linia": "52",
+		"kierunek": "B&#322;onie",
+		"warianty": "Podkowa"
+	},
+	{
+		"linia": "54",
+		"kierunek": "B&#322;onie",
+		"warianty": "Pileckiego#Smukala"
+	},
+	{
+		"linia": "54",
+		"kierunek": "Piaski",
+		"warianty": "Pileckiego"
+	},
+	{
+		"linia": "56",
+		"kierunek": "Belma",
+		"warianty": "Garbary#Park#Kladka#ParkGarbary"
+	},
+	{
+		"linia": "56",
+		"kierunek": "Park Przemys&#322;owy / Biurowiec",
+		"warianty": "Garbary"
+	},
+	{
+		"linia": "56",
+		"kierunek": "Glinki / Szpitalna",
+		"warianty": "Garbary#Kladka"
+	},
+	{
+		"linia": "58",
+		"kierunek": "Plac Ko&#347;cieleckich",
+		"warianty": "Sanatorium"
+	},
+	{
+		"linia": "58",
+		"kierunek": "Smuka&#322;a",
+		"warianty": "Sanatorium"
+	},
+	{
+		"linia": "59",
+		"kierunek": "B&#322;onie",
+		"warianty": "Legnowo"
+	},
+	{
+		"linia": "61",
+		"kierunek": "Rekinowa",
+		"warianty": "Mokra#Eurogaz"
+	},
+	{
+		"linia": "61",
+		"kierunek": "Wojska Polskiego / Baczy&#324;skiego",
+		"warianty": "Eurogaz"
+	},
+	{
+		"linia": "62",
+		"kierunek": "Garbary",
+		"warianty": "Lisia"
+	},
+	{
+		"linia": "65",
+		"kierunek": "Dworzec Le&#347;ne",
+		"warianty": "Loskon"
+	},
+	{
+		"linia": "65",
+		"kierunek": "Fordo&#324;ska / Gajowa",
+		"warianty": "Loskon"
+	},
+	{
+		"linia": "68",
+		"kierunek": "Dworzec Le&#347;ne",
+		"warianty": "Glinki#Park#Pr&#261;doci&#324;ska"
+	},
+	{
+		"linia": "73",
+		"kierunek": "Eskulapa",
+		"warianty": "Mokra"
+	},
+	{
+		"linia": "73",
+		"kierunek": "Kapu&#347;ciska",
+		"warianty": "Mokra"
+	},
+	{
+		"linia": "74",
+		"kierunek": "Tatrza&#324;skie",
+		"warianty": "Dworzec Fordon"
+	},
+	{
+		"linia": "76",
+		"kierunek": "Rondo Toru&#324;skie",
+		"warianty": "Legnowo"
+	},
+	{
+		"linia": "80",
+		"kierunek": "Port Lotniczy (Airport)",
+		"warianty": "Zbozowy Rynek"
+	},
+	{
+		"linia": "81",
+		"kierunek": "Tatrza&#324;skie",
+		"warianty": "Centrum Onkologii#Tor Regatowy#Przemyslowa"
+	},
+	{
+		"linia": "91",
+		"kierunek": "B&#322;onie",
+		"warianty": "Kruszyn#Ciele"
+	},
+	{
+		"linia": "91",
+		"kierunek": "Przy&#322;&#281;ki",
+		"warianty": "Kruszyn#Ciele"
+	},
+	{
+		"linia": "92",
+		"kierunek": "B&#322;onie",
+		"warianty": "Lochowo"
+	},
+	{
+		"linia": "93",
+		"kierunek": "Dworzec Le&#347;ne",
+		"warianty": "Wilcze"
+	},
+	{
+		"linia": "94",
+		"kierunek": "Nekla / Akacjowa",
+		"warianty": "Szkola#Maksymilianowo#MaksymilianowoSzkola"
+	},
+	{
+		"linia": "94",
+		"kierunek": "&#379;o&#322;&#281;dowo / Szko&#322;a",
+		"warianty": "Maksymilianowo"
+	},
+	{
+		"linia": "94",
+		"kierunek": "&#379;o&#322;&#281;dowo / Augustowska",
+		"warianty": "Maksymilianowo"
+	},
+	{
+		"linia": "94",
+		"kierunek": "Dworzec Le&#347;ne",
+		"warianty": "Nekla#NeklaAugustowskaMaksymilianowo#NeklaMaksymilianowo#NeklaSzkola#Maksymilianowo#Szkola"
+	},
+	{
+		"linia": "96",
+		"kierunek": "B&#322;onie",
+		"warianty": "Kruszyn"
+	},
+	{
+		"linia": "96",
+		"kierunek": "Przy&#322;&#281;ki",
+		"warianty": "Kruszyn"
+	},
+	{
+		"linia": "98",
+		"kierunek": "Przylesie",
+		"warianty": "Maksymilianowo"
+	},
+	{
+		"linia": "31N",
+		"kierunek": "Dworzec Le&#347;ne",
+		"warianty": "Mokra"
+	},
+	{
+		"linia": "31N",
+		"kierunek": "&#321;osko&#324; / Zajezdnia",
+		"warianty": "Mokra#Podkowa"
+	},
+	{
+		"linia": "32N",
+		"kierunek": "Dworzec B&#322;onie",
+		"warianty": "Loskon"
+	},
+	{
+		"linia": "33N",
+		"kierunek": "Piaski",
+		"warianty": "Loskon"
+	},
+	{
+		"linia": "33N",
+		"kierunek": "Plac Ko&#347;cieleckich",
+		"warianty": "Loskon"
+	},
+	{
+		"linia": "34N",
+		"kierunek": "Smuka&#322;a",
+		"warianty": "Sanatorium"
+	},
+	{
+		"linia": "35N",
+		"kierunek": "Rekinowa",
+		"warianty": "Niklowa"
+	},
+	{
+		"linia": "36N",
+		"kierunek": "Toru&#324;ska / Zajezdnia Tramwajowa",
+		"warianty": "Belma"
+	}
+]
